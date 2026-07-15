@@ -1,16 +1,21 @@
 # vscode_codicons example
 
+A tiny Flutter app that rebuilds the **VS Code** window chrome — activity bar,
+Explorer, editor tabs, and status bar — using only [`vscode_codicons`][pkg]
+glyphs. It is UI only (no interaction), meant to show the icons in a familiar
+layout.
+
+```bash
+cd example
+flutter run   # -d macos / -d chrome / a booted simulator
+```
+
+The whole UI lives in [`lib/main.dart`](lib/main.dart). Usage is just:
+
 ```dart
 import 'package:vscode_codicons/vscode_codicons.dart';
-import 'package:flutter/material.dart';
 
-void main() => runApp(
-  const MaterialApp(
-    home: Scaffold(
-      body: Center(
-        child: Icon(Codicons.add, size: 48),
-      ),
-    ),
-  ),
-);
+const Icon(Codicons.sourceControl, size: 24);
 ```
+
+[pkg]: https://pub.dev/packages/vscode_codicons
