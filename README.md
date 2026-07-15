@@ -1,4 +1,4 @@
-# codicons
+# vscode_codicons
 
 The [VS Code Codicons](https://github.com/microsoft/vscode-codicons) icon library as a Flutter icon font.
 Provides 500+ product icons from Visual Studio Code as a single icon font, generated from the [@vscode/codicons](https://www.npmjs.com/package/@vscode/codicons) npm package.
@@ -8,7 +8,7 @@ The package version tracks the upstream `@vscode/codicons` release it was genera
 ## Usage
 
 ```dart
-import 'package:codicons/codicons.dart';
+import 'package:vscode_codicons/vscode_codicons.dart';
 
 Icon(Codicons.add);
 Icon(Codicons.gitPullRequest, size: 32, color: Colors.teal);

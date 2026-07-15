@@ -1,7 +1,7 @@
-# codicons example
+# vscode_codicons example
 
 ```dart
-import 'package:codicons/codicons.dart';
+import 'package:vscode_codicons/vscode_codicons.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(

@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 // 🌎 Project imports:
-import 'package:codicons/codicons.dart';
+import 'package:vscode_codicons/vscode_codicons.dart';
 
 void main() {
   testWidgets('Can set opacity for an Icon', (WidgetTester tester) async {

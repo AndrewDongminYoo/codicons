@@ -1,8 +1,8 @@
-name: codicons
+name: vscode_codicons
 description: The VS Code Codicons icon library as a Flutter icon font. Generated from the @vscode/codicons npm package.
 version: 0.0.45
 homepage: https://github.com/microsoft/vscode-codicons
-repository: https://github.com/AndrewDongminYoo/codicons
+repository: https://github.com/AndrewDongminYoo/vscode_codicons
 
 environment:
   sdk: ">=3.8.0 <4.0.0"
@@ -21,7 +21,7 @@ dev_dependencies:
 
 scripts:
   update-icons:
-    (description): Upgrade @vscode/codicons, copy font assets, and regenerate lib/codicons.dart.
+    (description): Upgrade @vscode/codicons, copy font assets, and regenerate lib/vscode_codicons.dart.
     (scripts):
       - bash tool/update_icons.sh
 

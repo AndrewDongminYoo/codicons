@@ -23,7 +23,7 @@ pnpm add "@vscode/codicons@${version_spec}"
 cp 'node_modules/@vscode/codicons/dist/codicon.css' assets/codicon.css
 cp 'node_modules/@vscode/codicons/dist/codicon.ttf' assets/codicon.ttf
 
-# 3. Regenerate lib/codicons.dart with inline SVG dartdoc previews.
+# 3. Regenerate lib/vscode_codicons.dart with inline SVG dartdoc previews.
 #    Per-icon SVGs ship in src/icons; alias selectors (e.g. .codicon-plus for
 #    add) have no SVG file of their own, so their previews fall back to the
 #    GitHub raw URL and may fail — the constants still work (same codepoint).
@@ -31,15 +31,15 @@ dart run tool/generate_fonts.dart assets/codicon.css \
 	--inline-svg \
 	--npm-package=@vscode/codicons \
 	--font-family=Codicon \
-	--font-package=codicons \
+	--font-package=vscode_codicons \
 	--class-name=Codicons \
 	--css-prefix=codicon- \
 	--docs-url='https://github.com/microsoft/vscode-codicons/search?q=' \
-	--output=./lib/codicons.dart \
+	--output=./lib/vscode_codicons.dart \
 	--svg-dir=node_modules/@vscode/codicons/src/icons \
 	--svg-fallback-url=https://raw.githubusercontent.com/microsoft/vscode-codicons/main/src/icons
 
 # 4. Format so the committed file honours analysis_options.yaml page_width (80).
 #    The generator emits unwrapped lines; without this the diff is noisy and
 #    long-line lints trip. Keeps merry and CI regeneration byte-identical.
-dart format lib/codicons.dart
+dart format lib/vscode_codicons.dart
