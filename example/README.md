@@ -5,6 +5,8 @@ Explorer, editor tabs, and status bar — using only [`vscode_codicons`][pkg]
 glyphs. It is UI only (no interaction), meant to show the icons in a familiar
 layout.
 
+![The example app rebuilding the VS Code UI with codicons](screenshot.png)
+
 ```bash
 cd example
 flutter run   # -d macos / -d chrome / a booted simulator
