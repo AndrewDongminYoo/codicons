@@ -1,0 +1,71 @@
+# This file controls the behavior of Trunk: https://docs.trunk.io/cli
+# To learn more about the format of this file, see https://docs.trunk.io/reference/trunk-yaml
+version: 0.1
+cli:
+  version: 1.25.0
+# Trunk provides extensibility via plugins. (https://docs.trunk.io/plugins)
+plugins:
+  sources:
+    - id: trunk
+      ref: v1.10.2
+      uri: https://github.com/trunk-io/plugins
+# Many linters and tools depend on runtimes - configure them here. (https://docs.trunk.io/runtimes)
+runtimes:
+  enabled:
+    - go@1.21.0
+    - java@13.0.11
+    - node@22.16.0
+    - python@3.14.4
+# This is the section where you manage your linters. (https://docs.trunk.io/check/configuration)
+lint:
+  disabled:
+    - dart # trunk's built-in dart linter conflicts with the project SDK; use the dart-actions import sorter instead
+    - oxipng # only PNGs are Flutter-generated launcher/launch icons in example/; optimizing them is no-value + asset-corruption risk
+  enabled:
+    - osv-scanner@2.2.4
+    - swiftformat@0.55.5
+    - actionlint@1.7.12
+    - checkov@3.3.8
+    - git-diff-check
+    - ktlint@1.8.0
+    - markdownlint@0.49.1
+    - pinact@4.1.0
+    - prettier@3.9.5
+    - shellcheck@0.11.0
+    - shfmt@3.6.0
+    - trufflehog@3.95.9
+    - yamllint@1.38.0
+  ignore:
+    - linters: [shellcheck]
+      paths: ["example/android/gradlew"]
+    - linters: [markdownlint]
+      paths: [".github/**/*.md"]
+    - linters: [swiftformat]
+      paths: ["example/**"] # flutter-create scaffolding; this icon-font package has no hand-authored Swift
+    - linters: [prettier, markdownlint]
+      paths: ["**/Assets.xcassets/**"] # Xcode-managed asset catalogs and generated READMEs
+    - linters: [prettier]
+      paths: ["assets/codicon.css"] # vendored verbatim from @vscode/codicons by tool/update_icons.sh; reformatting drifts from source
+actions:
+  definitions:
+    - id: dart-actions
+      description: Run 'flutter pub run import_sorter:main' on pre-commit
+      display_name: Dart Import Sorter Pre-Commit Hook
+      run: |
+        #!/usr/bin/env bash
+        set -euo pipefail
+        # flutter pub run (not dart run): this package requires the Flutter SDK,
+        # so `dart pub` version solving fails on it.
+        if flutter pub run import_sorter:main -e | grep -qE 'Sorted [1-9]'; then
+          exit 1
+        else
+          exit 0
+        fi
+      triggers:
+        - git_hooks: [pre-commit]
+  enabled:
+    - dart-actions
+    - trunk-announce
+    - trunk-check-pre-push
+    - trunk-fmt-pre-commit
+    - trunk-upgrade-available

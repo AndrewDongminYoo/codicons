@@ -1,0 +1,8 @@
+rules:
+  # quoted-strings disabled: flags conventionally/defensively quoted values
+  # (glob patterns with '*', cron strings, flutter-create's `publish_to: 'none'`).
+  # yamllint's own upstream default leaves this rule off.
+  quoted-strings: disable
+  key-duplicates: {}
+  octal-values:
+    forbid-implicit-octal: true
