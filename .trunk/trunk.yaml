@@ -44,8 +44,6 @@ lint:
       paths: ["example/**"] # flutter-create scaffolding; this icon-font package has no hand-authored Swift
     - linters: [prettier, markdownlint]
       paths: ["**/Assets.xcassets/**"] # Xcode-managed asset catalogs and generated READMEs
-    - linters: [prettier]
-      paths: ["assets/codicon.css"] # vendored verbatim from @vscode/codicons by tool/update_icons.sh; reformatting drifts from source
 actions:
   definitions:
     - id: dart-actions
