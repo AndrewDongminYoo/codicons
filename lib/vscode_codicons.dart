@@ -12,7 +12,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/plus.svg)](https://github.com/microsoft/vscode-codicons/search?q=plus)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/plus.svg)](https://github.com/microsoft/vscode-codicons/search?q=plus)
   /// Codicon icon named "plus".
   static const IconData plus = IconData(
     0xEA60,
@@ -20,7 +20,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/gist-new.svg)](https://github.com/microsoft/vscode-codicons/search?q=gist-new)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/gist-new.svg)](https://github.com/microsoft/vscode-codicons/search?q=gist-new)
   /// Codicon icon named "gist new".
   static const IconData gistNew = IconData(
     0xEA60,
@@ -28,7 +28,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/repo-create.svg)](https://github.com/microsoft/vscode-codicons/search?q=repo-create)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/repo-create.svg)](https://github.com/microsoft/vscode-codicons/search?q=repo-create)
   /// Codicon icon named "repo create".
   static const IconData repoCreate = IconData(
     0xEA60,
@@ -36,7 +36,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTIuMTU2IDQuNzAxOThDMTEuOTMgNC4xNjg5OCAxMS41OTggMy42ODY5OCAxMS4xODIgMy4yODQ5OEMxMC4zMyAyLjQ1Nzk4IDkuMTg4IDEuOTk2OTggOCAxLjk5OTk4QzcuNDExIDEuOTk1OTggNi44MjggMi4xMDk5OCA2LjI4NCAyLjMzNDk4QzUuNzQgMi41NTk5OCA1LjI0NyAyLjg5MTk4IDQuODMzIDMuMzA5OThDMy45OTUgNC4xNzk5OCAzLjUxOCA1LjMzNTk4IDMuNSA2LjU0Mzk4VjYuNTgxOThDMy42MjUgNy45MTA5OCA0LjI0NSA5LjE0Mzk4IDUuMjM3IDEwLjAzN0w1LjQ2NiAxMUw1LjkzNyAxMi45NzhMNS45NDUgMTNDNi4wNDMgMTMuMjg5IDYuMjMgMTMuNTQgNi40NzkgMTMuNzE3QzYuNzM2IDEzLjkwMSA3LjA0NSAxNCA3LjM2MiAxNEg4Ljc2NkM5LjA3NSAxMy45NzQgOS4zNjggMTMuODU0IDkuNjA2IDEzLjY1NUM5Ljg0NSAxMy40NTYgMTAuMDE0IDEzLjE4NSAxMC4wODcgMTIuODgyTDEwLjU4MSAxMUwxMC44ODcgOS44MzE5OEMxMS4zOCA5LjQwMDk4IDExLjc3OCA4Ljg3MTk4IDEyLjA1NSA4LjI3ODk4QzEyLjMzMyA3LjY4NTk4IDEyLjQ4NCA3LjA0MTk4IDEyLjUgNi4zODY5OEMxMi41IDUuODA3OTggMTIuMzgzIDUuMjM0OTggMTIuMTU2IDQuNzAxOThaTTkuMTE4IDEyLjYyOFYxMi42NDFDOS4wOTYgMTIuNzM1IDkuMDQzIDEyLjgyIDguOTY4IDEyLjg4MUM4Ljg5MyAxMi45NDcgOC43OTkgMTIuOTg4IDguNyAxM0g3LjM2MUM3LjI1MyAxMi45OTkgNy4xNDggMTIuOTY0IDcuMDYxIDEyLjlDNi45ODkgMTIuODUgNi45MzMgMTIuNzgxIDYuOSAxMi43TDYuNzMzIDEySDkuMjgyTDkuMTE4IDEyLjYyOFpNMTEuMTA0IDcuOTQwOThDMTAuODYyIDguNDI0OTggMTAuNTIgOC44NTA5OCAxMC4xIDkuMTkxOThMOS45OTIgOS4yOTE5OEw5LjU0MyAxMUg2LjQ5NEw2LjE0NSA5LjUzNTk4TDYuMDQ1IDkuNDM1OThDNS4xODUgOC43MDU5OCA0LjYzMyA3LjY3Njk4IDQuNSA2LjU1NTk4QzQuNTE0IDUuNjA2OTggNC44ODcgNC42OTg5OCA1LjU0MyA0LjAxMjk4QzUuODY0IDMuNjg3OTggNi4yNDcgMy40MzE5OCA2LjY2OSAzLjI1Nzk4QzcuMDkxIDMuMDgzOTggNy41NDQgMi45OTU5OCA4IDIuOTk5OThDOC45MjcgMi45OTU5OCA5LjgyIDMuMzUzOTggMTAuNDg2IDMuOTk5OThDMTAuODA3IDQuMzA4OTggMTEuMDYyIDQuNjc5OTggMTEuMjM2IDUuMDg5OThDMTEuNDEgNS40OTk5OCAxMS41IDUuOTQwOTggMTEuNSA2LjM4Njk4QzExLjQ4IDYuOTI2OTggMTEuMzQ1IDcuNDU2OTggMTEuMTA0IDcuOTQwOThaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=lightbulb)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04IDFDNS40MTkgMSAyLjc1IDIuOTY0IDIuNzUgNi4yNUMyLjc1IDguMTY3IDMuNjM3IDkuMTg0IDQuMjI0IDkuODU2QzQuNDA4IDEwLjA2NyA0LjU5OCAxMC4yODUgNC42MjggMTAuMzk4TDUuNTY4IDEzLjg4OUM1Ljc0NCAxNC41NDMgNi4zNCAxNC45OTkgNy4wMTcgMTQuOTk5SDguOTg0QzkuNjYyIDE0Ljk5OSAxMC4yNTcgMTQuNTQyIDEwLjQzMiAxMy44ODlMMTEuMzcyIDEwLjM5N0MxMS40MDIgMTAuMjg1IDExLjU5MyAxMC4wNjcgMTEuNzc2IDkuODU2QzEyLjM2MyA5LjE4MyAxMy4yNSA4LjE2NyAxMy4yNSA2LjI1QzEzLjI1IDMuMzU1IDEwLjg5NSAxIDggMVpNOS40NjcgMTMuNjNDOS40MDggMTMuODQ4IDkuMjA5IDE0IDguOTg0IDE0SDcuMDE3QzYuNzkxIDE0IDYuNTkzIDEzLjg0OCA2LjUzNCAxMy42M0w2LjA5NSAxMkg5LjkwNkw5LjQ2NyAxMy42M1pNMTEuMDIyIDkuMTk5QzEwLjc0MSA5LjUyMiAxMC40OTcgOS44MDIgMTAuNDA3IDEwLjEzN0wxMC4xNzUgMTAuOTk5SDUuODI2TDUuNTk0IDEwLjEzOEM1LjUwMyA5LjgwMSA1LjI2IDkuNTIyIDQuOTc3IDkuMTk5QzQuNDMgOC41NzIgMy43NSA3Ljc5MiAzLjc1IDYuMjVDMy43NSAzLjU5IDUuOTExIDIgOCAyQzEwLjM0NCAyIDEyLjI1IDMuOTA3IDEyLjI1IDYuMjVDMTIuMjUgNy43OTIgMTEuNTY5IDguNTcyIDExLjAyMiA5LjE5OVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=lightbulb)
   /// Codicon icon named "lightbulb".
   static const IconData lightbulb = IconData(
     0xEA61,
@@ -44,7 +44,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/light-bulb.svg)](https://github.com/microsoft/vscode-codicons/search?q=light-bulb)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/light-bulb.svg)](https://github.com/microsoft/vscode-codicons/search?q=light-bulb)
   /// Codicon icon named "light bulb".
   static const IconData lightBulb = IconData(
     0xEA61,
@@ -60,7 +60,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/repo-delete.svg)](https://github.com/microsoft/vscode-codicons/search?q=repo-delete)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/repo-delete.svg)](https://github.com/microsoft/vscode-codicons/search?q=repo-delete)
   /// Codicon icon named "repo delete".
   static const IconData repoDelete = IconData(
     0xEA62,
@@ -68,7 +68,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/gist-fork.svg)](https://github.com/microsoft/vscode-codicons/search?q=gist-fork)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/gist-fork.svg)](https://github.com/microsoft/vscode-codicons/search?q=gist-fork)
   /// Codicon icon named "gist fork".
   static const IconData gistFork = IconData(
     0xEA63,
@@ -92,7 +92,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/git-pull-request-abandoned.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-abandoned)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/git-pull-request-abandoned.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-abandoned)
   /// Codicon icon named "git pull request abandoned".
   static const IconData gitPullRequestAbandoned = IconData(
     0xEA64,
@@ -108,7 +108,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/keyboard.svg)](https://github.com/microsoft/vscode-codicons/search?q=keyboard)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/keyboard.svg)](https://github.com/microsoft/vscode-codicons/search?q=keyboard)
   /// Codicon icon named "keyboard".
   static const IconData keyboard = IconData(
     0xEA65,
@@ -124,7 +124,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/git-pull-request-label.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-label)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/git-pull-request-label.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-label)
   /// Codicon icon named "git pull request label".
   static const IconData gitPullRequestLabel = IconData(
     0xEA66,
@@ -132,7 +132,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/tag-add.svg)](https://github.com/microsoft/vscode-codicons/search?q=tag-add)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/tag-add.svg)](https://github.com/microsoft/vscode-codicons/search?q=tag-add)
   /// Codicon icon named "tag add".
   static const IconData tagAdd = IconData(
     0xEA66,
@@ -140,7 +140,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/tag-remove.svg)](https://github.com/microsoft/vscode-codicons/search?q=tag-remove)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/tag-remove.svg)](https://github.com/microsoft/vscode-codicons/search?q=tag-remove)
   /// Codicon icon named "tag remove".
   static const IconData tagRemove = IconData(
     0xEA66,
@@ -156,7 +156,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/person-follow.svg)](https://github.com/microsoft/vscode-codicons/search?q=person-follow)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/person-follow.svg)](https://github.com/microsoft/vscode-codicons/search?q=person-follow)
   /// Codicon icon named "person follow".
   static const IconData personFollow = IconData(
     0xEA67,
@@ -164,7 +164,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/person-outline.svg)](https://github.com/microsoft/vscode-codicons/search?q=person-outline)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/person-outline.svg)](https://github.com/microsoft/vscode-codicons/search?q=person-outline)
   /// Codicon icon named "person outline".
   static const IconData personOutline = IconData(
     0xEA67,
@@ -172,7 +172,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/person-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=person-filled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/person-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=person-filled)
   /// Codicon icon named "person filled".
   static const IconData personFilled = IconData(
     0xEA67,
@@ -196,7 +196,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/mirror-public.svg)](https://github.com/microsoft/vscode-codicons/search?q=mirror-public)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/mirror-public.svg)](https://github.com/microsoft/vscode-codicons/search?q=mirror-public)
   /// Codicon icon named "mirror public".
   static const IconData mirrorPublic = IconData(
     0xEA69,
@@ -204,7 +204,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/star.svg)](https://github.com/microsoft/vscode-codicons/search?q=star)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/star.svg)](https://github.com/microsoft/vscode-codicons/search?q=star)
   /// Codicon icon named "star".
   static const IconData star = IconData(
     0xEA6A,
@@ -212,7 +212,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/star-add.svg)](https://github.com/microsoft/vscode-codicons/search?q=star-add)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/star-add.svg)](https://github.com/microsoft/vscode-codicons/search?q=star-add)
   /// Codicon icon named "star add".
   static const IconData starAdd = IconData(
     0xEA6A,
@@ -220,7 +220,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/star-delete.svg)](https://github.com/microsoft/vscode-codicons/search?q=star-delete)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/star-delete.svg)](https://github.com/microsoft/vscode-codicons/search?q=star-delete)
   /// Codicon icon named "star delete".
   static const IconData starDelete = IconData(
     0xEA6A,
@@ -244,7 +244,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/comment-add.svg)](https://github.com/microsoft/vscode-codicons/search?q=comment-add)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/comment-add.svg)](https://github.com/microsoft/vscode-codicons/search?q=comment-add)
   /// Codicon icon named "comment add".
   static const IconData commentAdd = IconData(
     0xEA6B,
@@ -252,7 +252,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/alert.svg)](https://github.com/microsoft/vscode-codicons/search?q=alert)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/alert.svg)](https://github.com/microsoft/vscode-codicons/search?q=alert)
   /// Codicon icon named "alert".
   static const IconData alert = IconData(
     0xEA6C,
@@ -276,7 +276,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/search-save.svg)](https://github.com/microsoft/vscode-codicons/search?q=search-save)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/search-save.svg)](https://github.com/microsoft/vscode-codicons/search?q=search-save)
   /// Codicon icon named "search save".
   static const IconData searchSave = IconData(
     0xEA6D,
@@ -284,7 +284,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/log-out.svg)](https://github.com/microsoft/vscode-codicons/search?q=log-out)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/log-out.svg)](https://github.com/microsoft/vscode-codicons/search?q=log-out)
   /// Codicon icon named "log out".
   static const IconData logOut = IconData(
     0xEA6E,
@@ -300,7 +300,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/log-in.svg)](https://github.com/microsoft/vscode-codicons/search?q=log-in)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/log-in.svg)](https://github.com/microsoft/vscode-codicons/search?q=log-in)
   /// Codicon icon named "log in".
   static const IconData logIn = IconData(
     0xEA6F,
@@ -324,7 +324,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/eye-unwatch.svg)](https://github.com/microsoft/vscode-codicons/search?q=eye-unwatch)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/eye-unwatch.svg)](https://github.com/microsoft/vscode-codicons/search?q=eye-unwatch)
   /// Codicon icon named "eye unwatch".
   static const IconData eyeUnwatch = IconData(
     0xEA70,
@@ -332,7 +332,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/eye-watch.svg)](https://github.com/microsoft/vscode-codicons/search?q=eye-watch)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/eye-watch.svg)](https://github.com/microsoft/vscode-codicons/search?q=eye-watch)
   /// Codicon icon named "eye watch".
   static const IconData eyeWatch = IconData(
     0xEA70,
@@ -348,7 +348,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/primitive-dot.svg)](https://github.com/microsoft/vscode-codicons/search?q=primitive-dot)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/primitive-dot.svg)](https://github.com/microsoft/vscode-codicons/search?q=primitive-dot)
   /// Codicon icon named "primitive dot".
   static const IconData primitiveDot = IconData(
     0xEA71,
@@ -356,7 +356,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/close-dirty.svg)](https://github.com/microsoft/vscode-codicons/search?q=close-dirty)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/close-dirty.svg)](https://github.com/microsoft/vscode-codicons/search?q=close-dirty)
   /// Codicon icon named "close dirty".
   static const IconData closeDirty = IconData(
     0xEA71,
@@ -364,7 +364,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-breakpoint.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-breakpoint.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint)
   /// Codicon icon named "debug breakpoint".
   static const IconData debugBreakpoint = IconData(
     0xEA71,
@@ -372,7 +372,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-breakpoint-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-disabled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-breakpoint-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-disabled)
   /// Codicon icon named "debug breakpoint disabled".
   static const IconData debugBreakpointDisabled = IconData(
     0xEA71,
@@ -380,7 +380,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-hint.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-hint)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-hint.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-hint)
   /// Codicon icon named "debug hint".
   static const IconData debugHint = IconData(
     0xEA71,
@@ -388,7 +388,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/terminal-decoration-success.svg)](https://github.com/microsoft/vscode-codicons/search?q=terminal-decoration-success)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/terminal-decoration-success.svg)](https://github.com/microsoft/vscode-codicons/search?q=terminal-decoration-success)
   /// Codicon icon named "terminal decoration success".
   static const IconData terminalDecorationSuccess = IconData(
     0xEA71,
@@ -412,7 +412,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/pencil.svg)](https://github.com/microsoft/vscode-codicons/search?q=pencil)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/pencil.svg)](https://github.com/microsoft/vscode-codicons/search?q=pencil)
   /// Codicon icon named "pencil".
   static const IconData pencil = IconData(
     0xEA73,
@@ -428,7 +428,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/issue-opened.svg)](https://github.com/microsoft/vscode-codicons/search?q=issue-opened)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/issue-opened.svg)](https://github.com/microsoft/vscode-codicons/search?q=issue-opened)
   /// Codicon icon named "issue opened".
   static const IconData issueOpened = IconData(
     0xEA74,
@@ -436,7 +436,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/gist-private.svg)](https://github.com/microsoft/vscode-codicons/search?q=gist-private)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/gist-private.svg)](https://github.com/microsoft/vscode-codicons/search?q=gist-private)
   /// Codicon icon named "gist private".
   static const IconData gistPrivate = IconData(
     0xEA75,
@@ -444,7 +444,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/git-fork-private.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-fork-private)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/git-fork-private.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-fork-private)
   /// Codicon icon named "git fork private".
   static const IconData gitForkPrivate = IconData(
     0xEA75,
@@ -460,7 +460,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/mirror-private.svg)](https://github.com/microsoft/vscode-codicons/search?q=mirror-private)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/mirror-private.svg)](https://github.com/microsoft/vscode-codicons/search?q=mirror-private)
   /// Codicon icon named "mirror private".
   static const IconData mirrorPrivate = IconData(
     0xEA75,
@@ -476,7 +476,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/remove-close.svg)](https://github.com/microsoft/vscode-codicons/search?q=remove-close)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/remove-close.svg)](https://github.com/microsoft/vscode-codicons/search?q=remove-close)
   /// Codicon icon named "remove close".
   static const IconData removeClose = IconData(
     0xEA76,
@@ -484,7 +484,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/x.svg)](https://github.com/microsoft/vscode-codicons/search?q=x)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/x.svg)](https://github.com/microsoft/vscode-codicons/search?q=x)
   /// Codicon icon named "x".
   static const IconData x = IconData(
     0xEA76,
@@ -492,7 +492,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/repo-sync.svg)](https://github.com/microsoft/vscode-codicons/search?q=repo-sync)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/repo-sync.svg)](https://github.com/microsoft/vscode-codicons/search?q=repo-sync)
   /// Codicon icon named "repo sync".
   static const IconData repoSync = IconData(
     0xEA77,
@@ -500,7 +500,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIHNoYXBlLXJlbmRlcmluZz0ib3B0aW1pemVRdWFsaXR5IiBkPSJNNy4xNDY0NSAwLjY0NjQ0N0M3LjM0MTcxIDAuNDUxMTg0IDcuNjU4MjkgMC40NTExODQgNy44NTM1NSAwLjY0NjQ0N0w5LjM1MzU1IDIuMTQ2NDVDOS41NDg4MiAyLjM0MTcxIDkuNTQ4ODIgMi42NTgyOSA5LjM1MzU1IDIuODUzNTVMNy44NTM1NSA0LjM1MzU1QzcuNjU4MjkgNC41NDg4MiA3LjM0MTcxIDQuNTQ4ODIgNy4xNDY0NSA0LjM1MzU1QzYuOTUxMTggNC4xNTgyOSA2Ljk1MTE4IDMuODQxNzEgNy4xNDY0NSAzLjY0NjQ1TDcuNzg4NSAzLjAwNDM5QzUuMTI1MTcgMy4xMTUyMiAzIDUuMzA5NDMgMyA4QzMgOS41Njc5OSAzLjcyMTE4IDEwLjk2NzIgNC44NTE4NSAxMS44ODQ3QzUuMDY2MjcgMTIuMDU4NyA1LjA5OTA0IDEyLjM3MzYgNC45MjUwMyAxMi41ODhDNC43NTEwMyAxMi44MDI0IDQuNDM2MTUgMTIuODM1MiA0LjIyMTcyIDEyLjY2MTJDMi44NjcxMiAxMS41NjE5IDIgOS44ODIwNSAyIDhDMiA0Ljc1NDQ3IDQuNTc2ODkgMi4xMTA4IDcuNzk2MjkgMi4wMDMzOUw3LjE0NjQ1IDEuMzUzNTVDNi45NTExOCAxLjE1ODI5IDYuOTUxMTggMC44NDE3MDkgNy4xNDY0NSAwLjY0NjQ0N1pNMTEuMDc1IDMuNDExOTlDMTEuMjQ5IDMuMTk3NTYgMTEuNTYzOSAzLjE2NDggMTEuNzc4MyAzLjMzODhDMTMuMTMyOSA0LjQzODA2IDE0IDYuMTE3OTUgMTQgOEMxNCAxMS4yNDU1IDExLjQyMzEgMTMuODg5MiA4LjIwMzcxIDEzLjk5NjZMOC44NTM1NSAxNC42NDY0QzkuMDQ4ODIgMTQuODQxNyA5LjA0ODgyIDE1LjE1ODMgOC44NTM1NSAxNS4zNTM2QzguNjU4MjkgMTUuNTQ4OCA4LjM0MTcxIDE1LjU0ODggOC4xNDY0NSAxNS4zNTM2TDYuNjQ2NDUgMTMuODUzNkM2LjU1MjY4IDEzLjc1OTggNi41IDEzLjYzMjYgNi41IDEzLjVDNi41IDEzLjM2NzQgNi41NTI2OCAxMy4yNDAyIDYuNjQ2NDUgMTMuMTQ2NEw4LjE0NjQ1IDExLjY0NjRDOC4zNDE3MSAxMS40NTEyIDguNjU4MjkgMTEuNDUxMiA4Ljg1MzU1IDExLjY0NjRDOS4wNDg4MiAxMS44NDE3IDkuMDQ4ODIgMTIuMTU4MyA4Ljg1MzU1IDEyLjM1MzZMOC4yMTE1IDEyLjk5NTZDMTAuODc0OCAxMi44ODQ4IDEzIDEwLjY5MDYgMTMgOEMxMyA2LjQzMjAxIDEyLjI3ODggNS4wMzI4MyAxMS4xNDgyIDQuMTE1M0MxMC45MzM3IDMuOTQxMjkgMTAuOTAxIDMuNjI2NDEgMTEuMDc1IDMuNDExOTlaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=sync)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNCAzLjVWNi41QzE0IDYuNzggMTMuNzggNyAxMy41IDdIMTAuNUMxMC4yMiA3IDkuOTk5OTkgNi43OCA5Ljk5OTk5IDYuNUM5Ljk5OTk5IDYuMjIgMTAuMjIgNiAxMC41IDZIMTIuNThDMTEuNzggNC4xNyAxMC4wMSAzIDcuOTk5OTkgM0M1Ljc3OTk5IDMgMy43OTk5OSA0LjUgMy4xODk5OSA2LjY0QzMuMTI5OTkgNi44NiAyLjkyOTk5IDcgMi43MDk5OSA3QzIuNjU5OTkgNyAyLjYxOTk5IDcgMi41Njk5OSA2Ljk4QzIuMjk5OTkgNi45IDIuMTQ5OTkgNi42MyAyLjIyOTk5IDYuMzZDMi45NTk5OSAzLjc5IDUuMzI5OTkgMiA3Ljk5OTk5IDJDMTAuMDUgMiAxMS45MSAzLjAyIDEzIDQuNjlWMy41QzEzIDMuMjIgMTMuMjIgMyAxMy41IDNDMTMuNzggMyAxNCAzLjIyIDE0IDMuNVpNMTMuNDIgOS4wMkMxMy4xNiA4Ljk1IDEyLjg4IDkuMSAxMi44IDkuMzdDMTIuMTkgMTEuNTEgMTAuMjIgMTMuMDEgNy45ODk5OSAxMy4wMUM1Ljk3OTk5IDEzLjAxIDQuMjA5OTkgMTEuODQgMy40MDk5OSAxMC4wMUg1LjQ4OTk5QzUuNzY5OTkgMTAuMDEgNS45ODk5OSA5Ljc5IDUuOTg5OTkgOS41MUM1Ljk4OTk5IDkuMjMgNS43Njk5OSA5LjAxIDUuNDg5OTkgOS4wMUgyLjQ4OTk5QzIuMjA5OTkgOS4wMSAxLjk4OTk5IDkuMjMgMS45ODk5OSA5LjUxVjEyLjUxQzEuOTg5OTkgMTIuNzkgMi4yMDk5OSAxMy4wMSAyLjQ4OTk5IDEzLjAxQzIuNzY5OTkgMTMuMDEgMi45ODk5OSAxMi43OSAyLjk4OTk5IDEyLjUxVjExLjMyQzQuMDc5OTkgMTIuOTggNS45Mzk5OSAxNC4wMSA3Ljk4OTk5IDE0LjAxQzEwLjY2IDE0LjAxIDEzLjAzIDEyLjIyIDEzLjc2IDkuNjVDMTMuODQgOS4zOCAxMy42OCA5LjExIDEzLjQxIDkuMDNMMTMuNDIgOS4wMloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=sync)
   /// Codicon icon named "sync".
   static const IconData sync = IconData(
     0xEA77,
@@ -508,7 +508,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/clone.svg)](https://github.com/microsoft/vscode-codicons/search?q=clone)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/clone.svg)](https://github.com/microsoft/vscode-codicons/search?q=clone)
   /// Codicon icon named "clone".
   static const IconData clone = IconData(
     0xEA78,
@@ -532,7 +532,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/microscope.svg)](https://github.com/microsoft/vscode-codicons/search?q=microscope)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/microscope.svg)](https://github.com/microsoft/vscode-codicons/search?q=microscope)
   /// Codicon icon named "microscope".
   static const IconData microscope = IconData(
     0xEA79,
@@ -548,7 +548,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/device-desktop.svg)](https://github.com/microsoft/vscode-codicons/search?q=device-desktop)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/device-desktop.svg)](https://github.com/microsoft/vscode-codicons/search?q=device-desktop)
   /// Codicon icon named "device desktop".
   static const IconData deviceDesktop = IconData(
     0xEA7A,
@@ -564,7 +564,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/more.svg)](https://github.com/microsoft/vscode-codicons/search?q=more)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/more.svg)](https://github.com/microsoft/vscode-codicons/search?q=more)
   /// Codicon icon named "more".
   static const IconData more = IconData(
     0xEA7C,
@@ -580,7 +580,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/kebab-horizontal.svg)](https://github.com/microsoft/vscode-codicons/search?q=kebab-horizontal)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/kebab-horizontal.svg)](https://github.com/microsoft/vscode-codicons/search?q=kebab-horizontal)
   /// Codicon icon named "kebab horizontal".
   static const IconData kebabHorizontal = IconData(
     0xEA7C,
@@ -588,7 +588,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/mail-reply.svg)](https://github.com/microsoft/vscode-codicons/search?q=mail-reply)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/mail-reply.svg)](https://github.com/microsoft/vscode-codicons/search?q=mail-reply)
   /// Codicon icon named "mail reply".
   static const IconData mailReply = IconData(
     0xEA7D,
@@ -612,7 +612,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/organization-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=organization-filled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/organization-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=organization-filled)
   /// Codicon icon named "organization filled".
   static const IconData organizationFilled = IconData(
     0xEA7E,
@@ -620,7 +620,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/organization-outline.svg)](https://github.com/microsoft/vscode-codicons/search?q=organization-outline)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/organization-outline.svg)](https://github.com/microsoft/vscode-codicons/search?q=organization-outline)
   /// Codicon icon named "organization outline".
   static const IconData organizationOutline = IconData(
     0xEA7E,
@@ -636,7 +636,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/file-add.svg)](https://github.com/microsoft/vscode-codicons/search?q=file-add)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/file-add.svg)](https://github.com/microsoft/vscode-codicons/search?q=file-add)
   /// Codicon icon named "file add".
   static const IconData fileAdd = IconData(
     0xEA7F,
@@ -652,7 +652,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/file-directory-create.svg)](https://github.com/microsoft/vscode-codicons/search?q=file-directory-create)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/file-directory-create.svg)](https://github.com/microsoft/vscode-codicons/search?q=file-directory-create)
   /// Codicon icon named "file directory create".
   static const IconData fileDirectoryCreate = IconData(
     0xEA80,
@@ -668,7 +668,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/trashcan.svg)](https://github.com/microsoft/vscode-codicons/search?q=trashcan)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/trashcan.svg)](https://github.com/microsoft/vscode-codicons/search?q=trashcan)
   /// Codicon icon named "trashcan".
   static const IconData trashcan = IconData(
     0xEA81,
@@ -684,7 +684,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/clock.svg)](https://github.com/microsoft/vscode-codicons/search?q=clock)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/clock.svg)](https://github.com/microsoft/vscode-codicons/search?q=clock)
   /// Codicon icon named "clock".
   static const IconData clock = IconData(
     0xEA82,
@@ -700,7 +700,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/file-directory.svg)](https://github.com/microsoft/vscode-codicons/search?q=file-directory)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/file-directory.svg)](https://github.com/microsoft/vscode-codicons/search?q=file-directory)
   /// Codicon icon named "file directory".
   static const IconData fileDirectory = IconData(
     0xEA83,
@@ -708,7 +708,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-folder.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-folder)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-folder.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-folder)
   /// Codicon icon named "symbol folder".
   static const IconData symbolFolder = IconData(
     0xEA83,
@@ -716,7 +716,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/logo-github.svg)](https://github.com/microsoft/vscode-codicons/search?q=logo-github)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/logo-github.svg)](https://github.com/microsoft/vscode-codicons/search?q=logo-github)
   /// Codicon icon named "logo github".
   static const IconData logoGithub = IconData(
     0xEA84,
@@ -724,7 +724,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/mark-github.svg)](https://github.com/microsoft/vscode-codicons/search?q=mark-github)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/mark-github.svg)](https://github.com/microsoft/vscode-codicons/search?q=mark-github)
   /// Codicon icon named "mark github".
   static const IconData markGithub = IconData(
     0xEA84,
@@ -748,7 +748,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/console.svg)](https://github.com/microsoft/vscode-codicons/search?q=console)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/console.svg)](https://github.com/microsoft/vscode-codicons/search?q=console)
   /// Codicon icon named "console".
   static const IconData console = IconData(
     0xEA85,
@@ -756,7 +756,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/repl.svg)](https://github.com/microsoft/vscode-codicons/search?q=repl)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/repl.svg)](https://github.com/microsoft/vscode-codicons/search?q=repl)
   /// Codicon icon named "repl".
   static const IconData repl = IconData(
     0xEA85,
@@ -764,7 +764,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/zap.svg)](https://github.com/microsoft/vscode-codicons/search?q=zap)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/zap.svg)](https://github.com/microsoft/vscode-codicons/search?q=zap)
   /// Codicon icon named "zap".
   static const IconData zap = IconData(
     0xEA86,
@@ -788,7 +788,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/stop.svg)](https://github.com/microsoft/vscode-codicons/search?q=stop)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/stop.svg)](https://github.com/microsoft/vscode-codicons/search?q=stop)
   /// Codicon icon named "stop".
   static const IconData stop = IconData(
     0xEA87,
@@ -796,7 +796,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/variable.svg)](https://github.com/microsoft/vscode-codicons/search?q=variable)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/variable.svg)](https://github.com/microsoft/vscode-codicons/search?q=variable)
   /// Codicon icon named "variable".
   static const IconData variable = IconData(
     0xEA88,
@@ -812,7 +812,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/array.svg)](https://github.com/microsoft/vscode-codicons/search?q=array)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/array.svg)](https://github.com/microsoft/vscode-codicons/search?q=array)
   /// Codicon icon named "array".
   static const IconData array = IconData(
     0xEA8A,
@@ -828,7 +828,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-module.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-module)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-module.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-module)
   /// Codicon icon named "symbol module".
   static const IconData symbolModule = IconData(
     0xEA8B,
@@ -836,7 +836,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-package.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-package)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-package.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-package)
   /// Codicon icon named "symbol package".
   static const IconData symbolPackage = IconData(
     0xEA8B,
@@ -852,7 +852,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-object.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-object)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-object.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-object)
   /// Codicon icon named "symbol object".
   static const IconData symbolObject = IconData(
     0xEA8B,
@@ -868,7 +868,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-function.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-function)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-function.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-function)
   /// Codicon icon named "symbol function".
   static const IconData symbolFunction = IconData(
     0xEA8C,
@@ -876,7 +876,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-constructor.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-constructor)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-constructor.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-constructor)
   /// Codicon icon named "symbol constructor".
   static const IconData symbolConstructor = IconData(
     0xEA8C,
@@ -892,7 +892,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-null.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-null)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-null.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-null)
   /// Codicon icon named "symbol null".
   static const IconData symbolNull = IconData(
     0xEA8F,
@@ -908,7 +908,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-number.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-number)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-number.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-number)
   /// Codicon icon named "symbol number".
   static const IconData symbolNumber = IconData(
     0xEA90,
@@ -924,7 +924,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-struct.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-struct)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-struct.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-struct)
   /// Codicon icon named "symbol struct".
   static const IconData symbolStruct = IconData(
     0xEA91,
@@ -940,7 +940,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-type-parameter.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-type-parameter)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-type-parameter.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-type-parameter)
   /// Codicon icon named "symbol type parameter".
   static const IconData symbolTypeParameter = IconData(
     0xEA92,
@@ -956,7 +956,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-text.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-text)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-text.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-text)
   /// Codicon icon named "symbol text".
   static const IconData symbolText = IconData(
     0xEA93,
@@ -964,7 +964,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-reference.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-reference)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-reference.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-reference)
   /// Codicon icon named "symbol reference".
   static const IconData symbolReference = IconData(
     0xEA94,
@@ -988,7 +988,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-value.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-value)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-value.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-value)
   /// Codicon icon named "symbol value".
   static const IconData symbolValue = IconData(
     0xEA95,
@@ -1004,7 +1004,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/symbol-unit.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-unit)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/symbol-unit.svg)](https://github.com/microsoft/vscode-codicons/search?q=symbol-unit)
   /// Codicon icon named "symbol unit".
   static const IconData symbolUnit = IconData(
     0xEA96,
@@ -1148,7 +1148,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-breakpoint-conditional-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-conditional-disabled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-breakpoint-conditional-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-conditional-disabled)
   /// Codicon icon named "debug breakpoint conditional disabled".
   static const IconData debugBreakpointConditionalDisabled = IconData(
     0xEAA7,
@@ -1172,7 +1172,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-breakpoint-data-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-data-disabled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-breakpoint-data-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-data-disabled)
   /// Codicon icon named "debug breakpoint data disabled".
   static const IconData debugBreakpointDataDisabled = IconData(
     0xEAA9,
@@ -1196,7 +1196,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-breakpoint-log-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-log-disabled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-breakpoint-log-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-log-disabled)
   /// Codicon icon named "debug breakpoint log disabled".
   static const IconData debugBreakpointLogDisabled = IconData(
     0xEAAB,
@@ -1332,7 +1332,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/circle-outline.svg)](https://github.com/microsoft/vscode-codicons/search?q=circle-outline)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/circle-outline.svg)](https://github.com/microsoft/vscode-codicons/search?q=circle-outline)
   /// Codicon icon named "circle outline".
   static const IconData circleOutline = IconData(
     0xEABC,
@@ -1348,7 +1348,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-breakpoint-unverified.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-unverified)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-breakpoint-unverified.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-unverified)
   /// Codicon icon named "debug breakpoint unverified".
   static const IconData debugBreakpointUnverified = IconData(
     0xEABC,
@@ -1356,7 +1356,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/terminal-decoration-incomplete.svg)](https://github.com/microsoft/vscode-codicons/search?q=terminal-decoration-incomplete)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/terminal-decoration-incomplete.svg)](https://github.com/microsoft/vscode-codicons/search?q=terminal-decoration-incomplete)
   /// Codicon icon named "terminal decoration incomplete".
   static const IconData terminalDecorationIncomplete = IconData(
     0xEABC,
@@ -1636,7 +1636,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/diff-sidebyside.svg)](https://github.com/microsoft/vscode-codicons/search?q=diff-sidebyside)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/diff-sidebyside.svg)](https://github.com/microsoft/vscode-codicons/search?q=diff-sidebyside)
   /// Codicon icon named "diff sidebyside".
   static const IconData diffSidebyside = IconData(
     0xEAE1,
@@ -1868,7 +1868,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/compare-changes.svg)](https://github.com/microsoft/vscode-codicons/search?q=compare-changes)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/compare-changes.svg)](https://github.com/microsoft/vscode-codicons/search?q=compare-changes)
   /// Codicon icon named "compare changes".
   static const IconData compareChanges = IconData(
     0xEAFD,
@@ -2012,7 +2012,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/bracket.svg)](https://github.com/microsoft/vscode-codicons/search?q=bracket)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/bracket.svg)](https://github.com/microsoft/vscode-codicons/search?q=bracket)
   /// Codicon icon named "bracket".
   static const IconData bracket = IconData(
     0xEB0F,
@@ -2044,7 +2044,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS41IDYuOTk5OThDOS4wMTUgNi45OTk5OCA3IDkuMDE0OTggNyAxMS41QzcgMTMuOTg1IDkuMDE1IDE2IDExLjUgMTZDMTMuOTg1IDE2IDE2IDEzLjk4NSAxNiAxMS41QzE2IDkuMDE0OTggMTMuOTg1IDYuOTk5OTggMTEuNSA2Ljk5OTk4Wk0xNC4yOTMgMTEuMzM2TDEzLjA0MyAxMi4yODNMMTMuNTIgMTMuODE1QzEzLjY3IDE0LjI5NiAxMy4xNDIgMTQuNjk1IDEyLjc1IDE0LjM5OEwxMS41IDEzLjQ1MUwxMC4yNSAxNC4zOThDOS44NTggMTQuNjk1IDkuMzMgMTQuMjk1IDkuNDggMTMuODE1TDkuOTU3IDEyLjI4M0w4LjcwNyAxMS4zMzZDOC4zMTUgMTEuMDM5IDguNTE2IDEwLjM5MiA5LjAwMSAxMC4zOTJIMTAuNTQ2TDExLjAyMyA4Ljg1OTk4QzExLjE3MyA4LjM3ODk4IDExLjgyNSA4LjM3ODk4IDExLjk3NSA4Ljg1OTk4TDEyLjQ1MiAxMC4zOTJIMTMuOTk3QzE0LjQ4MiAxMC4zOTIgMTQuNjg0IDExLjAzOSAxNC4yOTEgMTEuMzM2SDE0LjI5M1pNNS4zNjEgMTNDNS4yNTMgMTIuOTk5IDUuMTQ4IDEyLjk2NCA1LjA2MSAxMi45QzQuOTg5IDEyLjg1IDQuOTMzIDEyLjc4MSA0LjkgMTIuN0w0LjczMyAxMkg2LjAyMkM2LjAwNyAxMS44MzUgNiAxMS42NjkgNiAxMS41QzYgMTEuMzMxIDYuMDEyIDExLjE2NSA2LjAyNyAxMUg0LjQ5NEw0LjE0NSA5LjUzNTk4TDQuMDQ1IDkuNDM1OThDMy4xODUgOC43MDU5OCAyLjYzMyA3LjY3Njk4IDIuNSA2LjU1NTk4QzIuNTE0IDUuNjA2OTggMi44ODcgNC42OTg5OCAzLjU0MyA0LjAxMjk4QzMuODY0IDMuNjg3OTggNC4yNDcgMy40MzE5OCA0LjY2OSAzLjI1Nzk4QzUuMDkxIDMuMDgzOTggNS41NDQgMi45OTU5OCA2IDIuOTk5OThDNi45MjcgMi45OTU5OCA3LjgyIDMuMzUzOTggOC40ODYgMy45OTk5OEM4LjgwNyA0LjMwODk4IDkuMDYyIDQuNjc5OTggOS4yMzYgNS4wODk5OEM5LjQwOCA1LjQ5NTk4IDkuNDk4IDUuOTMyOTggOS41IDYuMzc0OThDOS44MTcgNi4yNTA5OCAxMC4xNDggNi4xNTU5OCAxMC40OSA2LjA5Mjk4QzEwLjQ1NyA1LjYxNDk4IDEwLjM0NCA1LjE0NDk4IDEwLjE1NiA0LjcwMTk4QzkuOTMgNC4xNjg5OCA5LjU5OCAzLjY4Njk4IDkuMTgyIDMuMjg0OThDOC4zMyAyLjQ1Nzk4IDcuMTg4IDEuOTk2OTggNiAxLjk5OTk4QzUuNDExIDEuOTk1OTggNC44MjggMi4xMDk5OCA0LjI4NCAyLjMzNDk4QzMuNzQgMi41NTk5OCAzLjI0NyAyLjg5MTk4IDIuODMzIDMuMzA5OThDMS45OTUgNC4xNzk5OCAxLjUxOCA1LjMzNTk4IDEuNSA2LjU0Mzk4VjYuNTgxOThDMS42MjUgNy45MTA5OCAyLjI0NSA5LjE0Mzk4IDMuMjM3IDEwLjAzN0wzLjkzNyAxMi45NzhMMy45NDUgMTNDNC4wNDMgMTMuMjg5IDQuMjMgMTMuNTQgNC40NzkgMTMuNzE3QzQuNzM2IDEzLjkwMSA1LjA0NSAxNCA1LjM2MiAxNEg2LjZDNi40MzggMTMuNjgzIDYuMzA2IDEzLjM0OSA2LjIwNyAxM0g1LjM2MVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=lightbulb-autofix)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02LjYwNyAxNEM2Ljc5IDE0LjM1NyA3LjAwNyAxNC42OTMgNy4yNjEgMTVINi4wMTdDNS4zNCAxNSA0Ljc0NSAxNC41NDQgNC41NjggMTMuODlMMy42MjggMTAuMzk5QzMuNTk4IDEwLjI4NiAzLjQwNyAxMC4wNjggMy4yMjQgOS44NTdDMi42MzcgOS4xODQgMS43NSA4LjE2OCAxLjc1IDYuMjUxQzEuNzUgMi45NjQgNC40MTkgMSA3IDFDOS44MjggMSAxMi4xMjUgMy4yNTIgMTIuMjMgNi4wNTRDMTEuOTkgNi4wMjIgMTEuNzQ4IDYgMTEuNSA2QzExLjQwOCA2IDExLjMxNyA2LjAwOSAxMS4yMjYgNi4wMTRDMTEuMTAxIDMuNzgyIDkuMjYzIDIgNyAyQzQuOTExIDIgMi43NSAzLjU5IDIuNzUgNi4yNUMyLjc1IDcuNzkyIDMuNDMgOC41NzIgMy45NzcgOS4xOTlDNC4yNTkgOS41MjIgNC41MDMgOS44MDIgNC41OTQgMTAuMTM4TDQuODI2IDEwLjk5OUg2LjAyNkM2LjAxMSAxMS4xNjQgNi4wMDEgMTEuMzMgNi4wMDEgMTEuNDk5QzYuMDAxIDExLjY2OCA2LjAxMSAxMS44MzQgNi4wMjYgMTEuOTk5SDUuMDk2TDUuNTM1IDEzLjYyOUM1LjU5NCAxMy44NDcgNS43OTIgMTMuOTk5IDYuMDE4IDEzLjk5OUg2LjYwOUw2LjYwNyAxNFpNMTYgMTEuNUMxNiAxMy45ODUgMTMuOTg1IDE2IDExLjUgMTZDOS4wMTUgMTYgNyAxMy45ODUgNyAxMS41QzcgOS4wMTUgOS4wMTUgNyAxMS41IDdDMTMuOTg1IDcgMTYgOS4wMTUgMTYgMTEuNVpNMTMuOTk3IDEwLjM5MkgxMi40NTJMMTEuOTc1IDguODZDMTEuODI1IDguMzc5IDExLjE3MyA4LjM3OSAxMS4wMjMgOC44NkwxMC41NDYgMTAuMzkySDkuMDAxQzguNTE2IDEwLjM5MiA4LjMxNSAxMS4wMzkgOC43MDcgMTEuMzM2TDkuOTU3IDEyLjI4M0w5LjQ4IDEzLjgxNUM5LjMzIDE0LjI5NSA5Ljg1OCAxNC42OTUgMTAuMjUgMTQuMzk4TDExLjUgMTMuNDUxTDEyLjc1IDE0LjM5OEMxMy4xNDIgMTQuNjk1IDEzLjY3IDE0LjI5NiAxMy41MiAxMy44MTVMMTMuMDQzIDEyLjI4M0wxNC4yOTMgMTEuMzM2SDE0LjI5MUMxNC42ODQgMTEuMDM5IDE0LjQ4MiAxMC4zOTIgMTMuOTk3IDEwLjM5MloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=lightbulb-autofix)
   /// Codicon icon named "lightbulb autofix".
   static const IconData lightbulbAutofix = IconData(
     0xEB13,
@@ -2156,7 +2156,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/git-pull-request-milestone.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-milestone)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/git-pull-request-milestone.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-milestone)
   /// Codicon icon named "git pull request milestone".
   static const IconData gitPullRequestMilestone = IconData(
     0xEB20,
@@ -2260,7 +2260,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/run.svg)](https://github.com/microsoft/vscode-codicons/search?q=run)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/run.svg)](https://github.com/microsoft/vscode-codicons/search?q=run)
   /// Codicon icon named "run".
   static const IconData run = IconData(
     0xEB2C,
@@ -2284,7 +2284,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjUgMkMyLjExOTI5IDIgMSAzLjExOTI5IDEgNC41VjExLjVDMSAxMi44ODA3IDIuMTE5MjkgMTQgMy41IDE0SDEyLjVDMTMuODgwNyAxNCAxNSAxMi44ODA3IDE1IDExLjVWNC41QzE1IDMuMTE5MjkgMTMuODgwNyAyIDEyLjUgMkgzLjVaTTIgNC41QzIgMy42NzE1NyAyLjY3MTU3IDMgMy41IDNIMTIuNUMxMy4zMjg0IDMgMTQgMy42NzE1NyAxNCA0LjVWMTEuNUMxNCAxMi4zMjg0IDEzLjMyODQgMTMgMTIuNSAxM0gzLjVDMi42NzE1NyAxMyAyIDEyLjMyODQgMiAxMS41VjQuNVpNMyA1QzMgNC40NDc3MiAzLjQ0NzcyIDQgNCA0SDEyQzEyLjU1MjMgNCAxMyA0LjQ0NzcyIDEzIDVWNkMxMyA2LjU1MjI4IDEyLjU1MjMgNyAxMiA3SDRDMy40NDc3MiA3IDMgNi41NTIyOSAzIDZWNVpNMTIgNUg0VjZIMTJWNVpNOCA5QzggOC40NDc3MiA4LjQ0NzcyIDggOSA4SDEyQzEyLjU1MjMgOCAxMyA4LjQ0NzcyIDEzIDlWMTFDMTMgMTEuNTUyMyAxMi41NTIzIDEyIDEyIDEySDlDOC40NDc3MiAxMiA4IDExLjU1MjMgOCAxMVY5Wk0xMiA5SDlWMTFIMTJWOVpNMy41IDhDMy4yMjM4NiA4IDMgOC4yMjM4NiAzIDguNUMzIDguNzc2MTQgMy4yMjM4NiA5IDMuNSA5SDYuNUM2Ljc3NjE0IDkgNyA4Ljc3NjE0IDcgOC41QzcgOC4yMjM4NiA2Ljc3NjE0IDggNi41IDhIMy41Wk0zIDEwLjVDMyAxMC4yMjM5IDMuMjIzODYgMTAgMy41IDEwSDYuNUM2Ljc3NjE0IDEwIDcgMTAuMjIzOSA3IDEwLjVDNyAxMC43NzYxIDYuNzc2MTQgMTEgNi41IDExSDMuNUMzLjIyMzg2IDExIDMgMTAuNzc2MSAzIDEwLjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=preview)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMi41IDFIMy41QzIuMTIyIDEgMSAyLjEyMiAxIDMuNVYxMi41QzEgMTMuODc4IDIuMTIyIDE1IDMuNSAxNUgxMi41QzEzLjg3OCAxNSAxNSAxMy44NzggMTUgMTIuNVYzLjVDMTUgMi4xMjIgMTMuODc4IDEgMTIuNSAxWk0xNCAxMi41QzE0IDEzLjMyNyAxMy4zMjcgMTQgMTIuNSAxNEgzLjVDMi42NzMgMTQgMiAxMy4zMjcgMiAxMi41VjMuNUMyIDIuNjczIDIuNjczIDIgMy41IDJIMTIuNUMxMy4zMjcgMiAxNCAyLjY3MyAxNCAzLjVWMTIuNVpNMTIgM0g0QzMuNDQ4IDMgMyAzLjQ0OCAzIDRWNkMzIDYuNTUyIDMuNDQ4IDcgNCA3SDEyQzEyLjU1MiA3IDEzIDYuNTUyIDEzIDZWNEMxMyAzLjQ0OCAxMi41NTIgMyAxMiAzWk0xMiA2SDRWNEgxMlY2Wk0xMiA4SDlDOC40NDggOCA4IDguNDQ4IDggOVYxMkM4IDEyLjU1MiA4LjQ0OCAxMyA5IDEzSDEyQzEyLjU1MiAxMyAxMyAxMi41NTIgMTMgMTJWOUMxMyA4LjQ0OCAxMi41NTIgOCAxMiA4Wk0xMiAxMkg5VjlIMTJWMTJaTTcgOC41QzcgOC43NzYgNi43NzYgOSA2LjUgOUgzLjVDMy4yMjQgOSAzIDguNzc2IDMgOC41QzMgOC4yMjQgMy4yMjQgOCAzLjUgOEg2LjVDNi43NzYgOCA3IDguMjI0IDcgOC41Wk03IDEwLjVDNyAxMC43NzYgNi43NzYgMTEgNi41IDExSDMuNUMzLjIyNCAxMSAzIDEwLjc3NiAzIDEwLjVDMyAxMC4yMjQgMy4yMjQgMTAgMy41IDEwSDYuNUM2Ljc3NiAxMCA3IDEwLjIyNCA3IDEwLjVaTTcgMTIuNUM3IDEyLjc3NiA2Ljc3NiAxMyA2LjUgMTNIMy41QzMuMjI0IDEzIDMgMTIuNzc2IDMgMTIuNUMzIDEyLjIyNCAzLjIyNCAxMiAzLjUgMTJINi41QzYuNzc2IDEyIDcgMTIuMjI0IDcgMTIuNVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=preview)
   /// Codicon icon named "preview".
   static const IconData preview = IconData(
     0xEB2F,
@@ -2452,7 +2452,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04LjM2Mzc5IDUuMzQ2MDZDOC45OTc1IDQuNzEyMzUgMTAuMDI0IDQuNzE3NDggMTAuNjU2NiA1LjM1MDA0QzExLjI4OTEgNS45ODI2IDExLjI5NDMgNy4wMDkxMiAxMC42NjA2IDcuNjQyODJDMTAuMDI2OCA4LjI3NjUzIDkuMDAwMzMgOC4yNzE0MSA4LjM2Nzc3IDcuNjM4ODVDNy43MzUyMSA3LjAwNjI5IDcuNzMwMDggNS45Nzk3NyA4LjM2Mzc5IDUuMzQ2MDZaTTkuOTQ5NDcgNi4wNTcxNEM5LjcwNDA4IDUuODExNzYgOS4zMTA3NCA1LjgxMzMyIDkuMDcwOSA2LjA1MzE3QzguODMxMDUgNi4yOTMwMSA4LjgyOTQ5IDYuNjg2MzUgOS4wNzQ4NyA2LjkzMTc0QzkuMzIwMjYgNy4xNzcxMiA5LjcxMzYgNy4xNzU1NiA5Ljk1MzQ1IDYuOTM1NzJDMTAuMTkzMyA2LjY5NTg4IDEwLjE5NDkgNi4zMDI1MyA5Ljk0OTQ3IDYuMDU3MTRaTTEzLjc3NzkgMy41MDA2OEMxMy41ODcgMi44OTQ0NCAxMy4xMTIxIDIuNDE5NiAxMi41MDU5IDIuMjI4NzFDMTAuNzg1MyAxLjY4Njk3IDguOTA2MjcgMi4xNDcxNiA3LjYzMDc3IDMuNDIyNjZMNy4wMDE5NiA0LjA1MTQ3QzYuMTM0NDEgMy42NzgxNCA1LjA4OTc3IDMuODQ1NzQgNC4zODEyMiA0LjU1NDI5TDMuNTk1NzQgNS4zMzk3N0MzLjQwMDQ4IDUuNTM1MDMgMy40MDA0OCA1Ljg1MTYxIDMuNTk1NzQgNi4wNDY4N0w0LjQ0NTY2IDYuODk2NzlDNC4zMTUxMyA3LjM5NTM3IDQuNDQ1MjMgNy45NDgwNCA0LjgzNTk3IDguMzM4NzhMNS4wMDI3OSA4LjUwNTZMNC4yMzAzNiA4Ljk2NzQ0QzQuMDk4MSA5LjA0NjUyIDQuMDA5NjkgOS4xODIxNyAzLjk5MDc0IDkuMzM1MTFDMy45NzE4IDkuNDg4MDQgNC4wMjQ0MyA5LjY0MTE3IDQuMTMzMzkgOS43NTAxM0w2LjI1NjQxIDExLjg3MzFDNi4zNjUzNSAxMS45ODIxIDYuNTE4NDMgMTIuMDM0NyA2LjY3MTMzIDEyLjAxNThDNi44MjQyMyAxMS45OTY5IDYuOTU5ODcgMTEuOTA4NiA3LjAzODk5IDExLjc3NjRMNy41MDEyNCAxMS4wMDRMNy42Njc3OCAxMS4xNzA2QzguMDU4NDggMTEuNTYxMyA4LjYxMTA4IDExLjY5MTQgOS4xMDk2MiAxMS41NjA5TDkuOTU5NjggMTIuNDExQzEwLjE1NDkgMTIuNjA2MyAxMC40NzE1IDEyLjYwNjMgMTAuNjY2OCAxMi40MTFMMTEuNDUyMyAxMS42MjU1QzEyLjE2MDggMTAuOTE3IDEyLjMyODQgOS44NzIyNSAxMS45NTUgOS4wMDQ2N0wxMi41ODM5IDguMzc1OEMxMy44NTk0IDcuMTAwMyAxNC4zMTk2IDUuMjIxMjQgMTMuNzc3OSAzLjUwMDY4Wk0xMi4yMDU2IDMuMTgyNTVDMTIuNTAwMyAzLjI3NTM2IDEyLjczMTIgMy41MDYyNCAxMi44MjQgMy44MDEwMUMxMy4yNTM4IDUuMTY2MDEgMTIuODg4NyA2LjY1Njc3IDExLjg3NjggNy42Njg3TDkuMDgyIDEwLjQ2MzVDOC44ODY3NCAxMC42NTg4IDguNTcwMTUgMTAuNjU4OCA4LjM3NDg5IDEwLjQ2MzVMNS41NDMwNyA3LjYzMTY4QzUuMzQ3ODEgNy40MzY0MSA1LjM0NzgxIDcuMTE5ODMgNS41NDMwNyA2LjkyNDU3TDguMzM3ODcgNC4xMjk3N0M5LjM0OTc5IDMuMTE3ODUgMTAuODQwNiAyLjc1Mjc1IDEyLjIwNTYgMy4xODI1NVpNMTEuMTQyNCA5LjgxNzI5QzExLjE3ODkgMTAuMjEwOCAxMS4wNDY1IDEwLjYxNzEgMTAuNzQ1MiAxMC45MTg0TDEwLjMxMzIgMTEuMzUwM0w5Ljk2MTMgMTAuOTk4NEwxMS4xNDI0IDkuODE3MjlaTTUuMDg4MzMgNS4yNjEzOUM1LjM4OTYxIDQuOTYwMTIgNS43OTU4IDQuODI3NjkgNi4xODkzMSA0Ljg2NDEyTDUuMDA4MjYgNi4wNDUxN0w0LjY1NjQgNS42OTMzMkw1LjA4ODMzIDUuMjYxMzlaTTYuNzcyMTcgMTAuMjc1TDYuNTEwMTggMTAuNzEyN0w1LjI5NDA0IDkuNDk2NTdMNS43MzE5NCA5LjIzNDc1TDYuNzcyMTcgMTAuMjc1Wk00Ljg0ODkzIDExLjg2NDhDNS4wNDQxOSAxMS42Njk2IDUuMDQ0MTkgMTEuMzUzIDQuODQ4OTMgMTEuMTU3N0M0LjY1MzY3IDEwLjk2MjUgNC4zMzcwOCAxMC45NjI1IDQuMTQxODIgMTEuMTU3N0wyLjgyMTU4IDEyLjQ3OEMyLjYyNjMyIDEyLjY3MzIgMi42MjYzMiAxMi45ODk4IDIuODIxNTggMTMuMTg1MUMzLjAxNjg0IDEzLjM4MDMgMy4zMzM0MiAxMy4zODAzIDMuNTI4NjkgMTMuMTg1MUw0Ljg0ODkzIDExLjg2NDhaTTMuNzg3MjggMTAuMDk2M0MzLjk4MjU1IDEwLjI5MTYgMy45ODI1NSAxMC42MDgyIDMuNzg3MjggMTAuODAzNEwzLjI1Nzg1IDExLjMzMjlDMy4wNjI1OSAxMS41MjgxIDIuNzQ2MDEgMTEuNTI4MSAyLjU1MDc0IDExLjMzMjlDMi4zNTU0OCAxMS4xMzc2IDIuMzU1NDggMTAuODIxIDIuNTUwNzQgMTAuNjI1N0wzLjA4MDE4IDEwLjA5NjNDMy4yNzU0NCA5LjkwMTA1IDMuNTkyMDIgOS45MDEwNSAzLjc4NzI4IDEwLjA5NjNaTTUuOTEwMzMgMTIuOTI2M0M2LjEwNTU5IDEyLjczMTEgNi4xMDU1OSAxMi40MTQ1IDUuOTEwMzMgMTIuMjE5MkM1LjcxNTA3IDEyLjAyNCA1LjM5ODQ5IDEyLjAyNCA1LjIwMzIyIDEyLjIxOTJMNC42NzM3OSAxMi43NDg3QzQuNDc4NTMgMTIuOTQzOSA0LjQ3ODUzIDEzLjI2MDUgNC42NzM3OSAxMy40NTU4QzQuODY5MDUgMTMuNjUxIDUuMTg1NjMgMTMuNjUxIDUuMzgwOSAxMy40NTU4TDUuOTEwMzMgMTIuOTI2M1oiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=rocket)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0yLjE0MDE4IDEzLjE0OThDMi4zNDAxNSAxMi45NTAxIDIuNjUwMjQgMTIuOTUgMi44NTAxNCAxMy4xNDk4QzMuMDUwMDMgMTMuMzQ5NyAzLjA0OTgxIDEzLjY1OTcgMi44NTAxNCAxMy44NTk3TDAuODUwMTM3IDE1Ljg1OTdDMC43NjAxMzcgMTUuOTU5NyAwLjYxOTU1MSAxNi4wMTAxIDAuNDk5NTUxIDE2LjAxMDFDMC4zNzk2NjMgMTYuMDEgMC4yNDk4MjkgMTUuOTU5NiAwLjE0OTk0MSAxNS44NTk3Qy0wLjA0OTgxOTEgMTUuNjU5NyAtMC4wNDk5Nzg5IDE1LjM0OTcgMC4xNDk5NDEgMTUuMTQ5OEwyLjE0MDE4IDEzLjE0OThaIi8+PHBhdGggZD0iTTMuNjQwMTggMTQuNjQ5OEMzLjg0MDE1IDE0LjQ1MDEgNC4xNTAyNCAxNC40NSA0LjM1MDE0IDE0LjY0OThDNC41NTAwMyAxNC44NDk3IDQuNTQ5ODEgMTUuMTU5NyA0LjM1MDE0IDE1LjM1OTdMMy44NTAxNCAxNS44NTk3QzMuNzYwMTQgMTUuOTU5NyAzLjYxOTU1IDE2LjAxMDEgMy40OTk1NSAxNi4wMTAxQzMuMzc5NjYgMTYuMDEgMy4yNDk4MyAxNS45NTk2IDMuMTQ5OTQgMTUuODU5N0MyLjk1MDE4IDE1LjY1OTcgMi45NTAwMiAxNS4zNDk3IDMuMTQ5OTQgMTUuMTQ5OEwzLjY0OTk0IDE0LjY0OThIMy42NDAxOFoiLz48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTguOTk5NTUgNS4wMDAzNUMxMC4wOTk2IDUuMDAwMzUgMTAuOTk5NiA1LjkwMDM1IDEwLjk5OTYgNy4wMDAzNUMxMC45OTk1IDguMTAwMjggMTAuMDk5NSA5LjAwMDM1IDguOTk5NTUgOS4wMDAzNUM3Ljg5OTc5IDkuMDAwMTMgNi45OTk2NCA4LjEwMDE0IDYuOTk5NTUgNy4wMDAzNUM2Ljk5OTU1IDUuOTAwNDggNy44OTk3MyA1LjAwMDU3IDguOTk5NTUgNS4wMDAzNVpNOC45OTk1NSA2LjAwMDM1QzguNDQ5NzMgNi4wMDA1NyA3Ljk5OTU1IDYuNDUwNDggNy45OTk1NSA3LjAwMDM1QzcuOTk5NjQgNy41NTAxNCA4LjQ0OTc5IDguMDAwMTMgOC45OTk1NSA4LjAwMDM1QzkuNTQ5NSA4LjAwMDM1IDkuOTk5NDYgNy41NTAyNyA5Ljk5OTU1IDcuMDAwMzVDOS45OTk1NSA2LjQ1MDM1IDkuNTQ5NTUgNi4wMDAzNSA4Ljk5OTU1IDYuMDAwMzVaIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05LjY0OTk0IDEuMTg5OEMxMC43Nzk4IDAuODk5ODM5IDExLjk5OTggMC45Mjk3NTEgMTMuMTE5NyAxLjI3OTY0QzEzLjg4OTcgMS41MTk2NCAxNC40OSAyLjE0MDI3IDE0LjczIDIuOTIwMjdIMTQuNzIwM0MxNS40MDAxIDUuMTUwMTcgMTQuNzk5OSA3LjU2MDQgMTMuMTQ5OSA5LjIxMDMxTDEyLjY4MDIgOS42ODAwM0MxMy4yMzAxIDEwLjc4OTkgMTMuMDQ5OSAxMi4xNTk3IDEyLjE0MDIgMTMuMDY5N0wxMC42MDk5IDE0LjZDMTAuNTIgMTQuNjk5OSAxMC4zODAyIDE0Ljc1MDMgMTAuMjYwMyAxNC43NTAzQzEwLjE0MDMgMTQuNzUwMyAxMC4wMDk3IDE0LjcgOS45MDk3MSAxNC42TDguODI5NjMgMTMuNTE5OUM4LjYxOTcxIDEzLjY2OTggOC4zNjAwMSAxMy43NTAzIDguMTAwMTQgMTMuNzUwM0M3Ljc3MDI2IDEzLjc1MDMgNy40NjAyMiAxMy42MjAxIDcuMjIwMjUgMTMuMzgwMkw2LjQ0OTc1IDEyLjYwOTdMNS45MDk3MSAxMy41ODA0QzUuNzc5NjggMTMuODIwMiA1LjU1OTQyIDEzLjk3MDEgNS4yODk1OSAxNC4wMTAxSDUuMTY5NDdDNC45Mzk2NyAxNC4wMSA0LjcyOTc1IDEzLjkyIDQuNTY5ODYgMTMuNzYwMUwyLjIzMDAyIDExLjQyMDNDMi4wNDAwMiAxMS4yMzAzIDEuOTQ5NzggMTAuOTU5NiAxLjk4OTc4IDEwLjY5OTZDMi4wMjk4NCAxMC40Mzk5IDIuMTc5OTEgMTAuMjEwNCAyLjQxOTQ3IDEwLjA4MDRMMy4zOTAxOCA5LjU0MDM5TDIuNjE5NjcgOC43Njk4OEMyLjE3OTkgOC4zMzk5MiAyLjE0MDIgNy42NjAxOCAyLjQ4MDAyIDcuMTcwMjdMMS4zOTk5NCA2LjA5MDE5QzEuMTk5OTkgNS44OTAyNCAxLjIwMDA4IDUuNTgwMjMgMS4zOTk5NCA1LjM4MDIzTDIuOTMwMjEgMy44NDk5NkMzLjg1MDIxIDIuOTMwMDggNS4yMTk5MiAyLjc1MDE4IDYuMzE5ODYgMy4zMDAxNUw2Ljc4OTU5IDIuODMwNDNDNy41ODk1OSAyLjA0MDQzIDguNTY5OTQgMS40Njk4IDkuNjQ5OTQgMS4xODk4Wk05LjUzOTU5IDEyLjgxOTdMMTAuMjYwMyAxMy41NDA0TDExLjQ0IDEyLjM1OTdDMTEuOTQ5OSAxMS44Mzk3IDEyLjExOTUgMTEuMDk5NyAxMS45MTk1IDEwLjQzOThMOS41Mzk1OSAxMi44MTk3Wk0zLjA2OTg2IDEwLjg2OTVMNS4xMzA0MSAxMi45M0w1LjcwOTUxIDExLjg5TDQuMTA5OSAxMC4yOTA0TDMuMDY5ODYgMTAuODY5NVpNMTEuMjM5OCAyLjAwMDM1QzEwLjc3OTggMi4wMDAzNiAxMC4zMjk5IDIuMDYwMjggOS44OTk5NCAyLjE3MDI3QzguOTk5OTcgMi40MDAyOCA4LjE2OTUzIDIuODgwMTcgNy40OTk1NSAzLjU1MDE1TDMuMzE5ODYgNy43Mjk4NEMzLjIxOTg2IDcuODE5ODQgMy4yMTk4NiA3Ljk4MDQzIDMuMzE5ODYgOC4wODA0M0w3LjkxOTQ3IDEyLjY4QzcuOTY5NDcgMTIuNzIgOC4wMzAxNCAxMi43NTAzIDguMTAwMTQgMTIuNzUwM0w4LjEwOTkgMTIuNzYwMUM4LjEyMDE0IDEyLjc3IDguMjE5OTEgMTIuNzQ5NyA4LjI3OTgyIDEyLjY4OThMMTIuNDQ5NyA4LjUxMDExQzEzLjgzOTcgNy4xMjAxNCAxNC4zNCA1LjA5MDA0IDEzLjc3MDEgMy4yMjAwN0MxMy42MzAxIDIuNzUwMDcgMTMuMjY5OSAyLjM3OTYgMTIuODE5OSAyLjIzOTZDMTIuMzA5OSAyLjA3OTY0IDExLjc3OTcgMi4wMDAzNSAxMS4yMzk4IDIuMDAwMzVaTTUuNTM5NTkgNC4wOTAxOUM0Ljg3OTc3IDMuODkwMzUgNC4xNTAwOSA0LjA1OTk1IDMuNjQwMTggNC41Njk2OEwyLjQ1OTUxIDUuNzUwMzVMMy4xNjk0NyA2LjQ2MDMxTDUuNTM5NTkgNC4wOTAxOVoiLz48cGF0aCBkPSJNMC42NDAxNzYgMTEuNjRDMC44NDAxNDcgMTEuNDQwNCAxLjE1MDI0IDExLjQ0MDIgMS4zNTAxNCAxMS42NEMxLjU1MDAzIDExLjgzOTkgMS41NDk4MSAxMi4xNDk5IDEuMzUwMTQgMTIuMzVMMC44NTAxMzcgMTIuODVDMC43NjAxMzcgMTIuOTUgMC42Mjk1NTEgMTMuMDAwMyAwLjQ5OTU1MSAxMy4wMDAzSDAuNDg5Nzg1QzAuMzY5ODI5IDEzLjAwMDMgMC4yNDAxMzIgMTIuOTQ5OSAwLjE0MDE3NiAxMi44NUMtMC4wNTk3MDY5IDEyLjY1IC0wLjA1OTc4NTIgMTIuMzQgMC4xNDAxNzYgMTIuMTRMMC42NDAxNzYgMTEuNjRaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=rocket)
   /// Codicon icon named "rocket".
   static const IconData rocket = IconData(
     0xEB44,
@@ -2716,7 +2716,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/wrench.svg)](https://github.com/microsoft/vscode-codicons/search?q=wrench)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/wrench.svg)](https://github.com/microsoft/vscode-codicons/search?q=wrench)
   /// Codicon icon named "wrench".
   static const IconData wrench = IconData(
     0xEB65,
@@ -2724,7 +2724,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/wrench-subaction.svg)](https://github.com/microsoft/vscode-codicons/search?q=wrench-subaction)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/wrench-subaction.svg)](https://github.com/microsoft/vscode-codicons/search?q=wrench-subaction)
   /// Codicon icon named "wrench subaction".
   static const IconData wrenchSubaction = IconData(
     0xEB65,
@@ -2988,7 +2988,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/selection.svg)](https://github.com/microsoft/vscode-codicons/search?q=selection)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/selection.svg)](https://github.com/microsoft/vscode-codicons/search?q=selection)
   /// Codicon icon named "selection".
   static const IconData selection = IconData(
     0xEB85,
@@ -3020,7 +3020,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-breakpoint-function-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-function-disabled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-breakpoint-function-disabled.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-breakpoint-function-disabled)
   /// Codicon icon named "debug breakpoint function disabled".
   static const IconData debugBreakpointFunctionDisabled = IconData(
     0xEB88,
@@ -3044,7 +3044,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-stackframe-dot.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-stackframe-dot)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-stackframe-dot.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-stackframe-dot)
   /// Codicon icon named "debug stackframe dot".
   static const IconData debugStackframeDot = IconData(
     0xEB8A,
@@ -3052,7 +3052,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/terminal-decoration-mark.svg)](https://github.com/microsoft/vscode-codicons/search?q=terminal-decoration-mark)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/terminal-decoration-mark.svg)](https://github.com/microsoft/vscode-codicons/search?q=terminal-decoration-mark)
   /// Codicon icon named "terminal decoration mark".
   static const IconData terminalDecorationMark = IconData(
     0xEB8A,
@@ -3068,7 +3068,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/debug-stackframe-focused.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-stackframe-focused)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/debug-stackframe-focused.svg)](https://github.com/microsoft/vscode-codicons/search?q=debug-stackframe-focused)
   /// Codicon icon named "debug stackframe focused".
   static const IconData debugStackframeFocused = IconData(
     0xEB8B,
@@ -3164,7 +3164,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/git-pull-request-reviewer.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-reviewer)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/git-pull-request-reviewer.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-reviewer)
   /// Codicon icon named "git pull request reviewer".
   static const IconData gitPullRequestReviewer = IconData(
     0xEB96,
@@ -3188,7 +3188,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04IDJDNC42ODYgMiAyIDQuNjg2IDIgOEMyIDExLjMxNCA0LjY4NiAxNCA4IDE0QzExLjMxNCAxNCAxNCAxMS4zMTQgMTQgOEMxNCA0LjY4NiAxMS4zMTQgMiA4IDJaTTEgOEMxIDQuMTM0IDQuMTM0IDEgOCAxQzExLjg2NiAxIDE1IDQuMTM0IDE1IDhDMTUgMTEuODY2IDExLjg2NiAxNSA4IDE1QzQuMTM0IDE1IDEgMTEuODY2IDEgOFpNOCAxMi4yNUM5LjkzMyAxMi4yNSAxMS41IDExLjAzNiAxMS41IDkuMjE0QzExLjUgOC41NDMgMTAuOTU2IDggMTAuMjg2IDhINS43MTVDNS4wNDQgOCA0LjUwMSA4LjU0NCA0LjUwMSA5LjIxNEM0LjUwMSAxMS4wMzUgNi4wNjggMTIuMjUgOC4wMDEgMTIuMjVIOFpNOCA3LjI1QzkuMDM2IDcuMjUgOS44NzUgNi40MTEgOS44NzUgNS4zNzVDOS44NzUgNC4zMzkgOS4wMzYgMy41IDggMy41QzYuOTY0IDMuNSA2LjEyNSA0LjMzOSA2LjEyNSA1LjM3NUM2LjEyNSA2LjQxMSA2Ljk2NCA3LjI1IDggNy4yNVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=account)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDVDNiAzLjg5NTQzIDYuODk1NDMgMyA4IDNDOS4xMDQ1NyAzIDEwIDMuODk1NDMgMTAgNUMxMCA2LjEwNDU3IDkuMTA0NTcgNyA4IDdDNi44OTU0MyA3IDYgNi4xMDQ1NyA2IDVaTTUuNDk5OTggOEwxMC41IDhDMTEuMzI4NCA4IDEyIDguNjcxNTcgMTIgOS41QzEyIDEwLjYxNjEgMTEuNTQxIDExLjUxMDMgMTAuNzg3OSAxMi4xMTQ4QzEwLjA0NjYgMTIuNzA5OCA5LjA1MzA4IDEzIDggMTNDNi45NDY5MiAxMyA1Ljk1MzQyIDEyLjcwOTggNS4yMTIxNSAxMi4xMTQ4QzQuNDU4OTcgMTEuNTEwMyA0IDEwLjYxNjEgNCA5LjVDNCA4LjY3MTYxIDQuNjcxNTYgOCA1LjQ5OTk4IDhaTTggMEMzLjU4MTcyIDAgMCAzLjU4MTcyIDAgOEMwIDEyLjQxODMgMy41ODE3MiAxNiA4IDE2QzEyLjQxODMgMTYgMTYgMTIuNDE4MyAxNiA4QzE2IDMuNTgxNzIgMTIuNDE4MyAwIDggMFpNMSA4QzEgNC4xMzQwMSA0LjEzNDAxIDEgOCAxQzExLjg2NiAxIDE1IDQuMTM0MDEgMTUgOEMxNSAxMS44NjYgMTEuODY2IDE1IDggMTVDNC4xMzQwMSAxNSAxIDExLjg2NiAxIDhaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=account)
   /// Codicon icon named "account".
   static const IconData account = IconData(
     0xEB99,
@@ -3196,7 +3196,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/git-pull-request-assignee.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-assignee)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/git-pull-request-assignee.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-assignee)
   /// Codicon icon named "git pull request assignee".
   static const IconData gitPullRequestAssignee = IconData(
     0xEB99,
@@ -3244,7 +3244,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjQxODQ3IDQuMTI1NThDMi41MzM1OCA1LjE3MDkyIDIgNi41MjMxNSAyIDhDMiA5Ljg4MjA1IDIuODY3MTIgMTEuNTYxOSA0LjIyMTcyIDEyLjY2MTJDNC40MzYxNSAxMi44MzUyIDQuNzUxMDMgMTIuODAyNCA0LjkyNTAzIDEyLjU4OEM1LjA5OTA0IDEyLjM3MzYgNS4wNjYyNyAxMi4wNTg3IDQuODUxODUgMTEuODg0N0MzLjcyMTE4IDEwLjk2NzIgMyA5LjU2Nzk5IDMgOEMzIDYuNzk5MzcgMy40MjMxOCA1LjY5NzU3IDQuMTI4NTMgNC44MzU2M0wxMS4xNjQ0IDExLjg3MTVDMTAuMzUzMyAxMi41MzUyIDkuMzI5ODQgMTIuOTQ5MSA4LjIxMTUgMTIuOTk1Nkw4Ljg1MzU1IDEyLjM1MzZDOS4wNDg4MiAxMi4xNTgzIDkuMDQ4ODIgMTEuODQxNyA4Ljg1MzU1IDExLjY0NjRDOC42NTgyOSAxMS40NTEyIDguMzQxNzEgMTEuNDUxMiA4LjE0NjQ1IDExLjY0NjRMNi42NDY0NSAxMy4xNDY0QzYuNTUyNjggMTMuMjQwMiA2LjUgMTMuMzY3NCA2LjUgMTMuNUM2LjUgMTMuNjMyNiA2LjU1MjY4IDEzLjc1OTggNi42NDY0NSAxMy44NTM2TDguMTQ2NDUgMTUuMzUzNkM4LjM0MTcxIDE1LjU0ODggOC42NTgyOSAxNS41NDg4IDguODUzNTUgMTUuMzUzNkM5LjA0ODgyIDE1LjE1ODMgOS4wNDg4MiAxNC44NDE3IDguODUzNTUgMTQuNjQ2NEw4LjIwMzcxIDEzLjk5NjZDOS42MDEwNCAxMy45NSAxMC44NzczIDEzLjQyNTYgMTEuODc0NCAxMi41ODE1TDE0LjE0NjQgMTQuODUzNkMxNC4zNDE3IDE1LjA0ODggMTQuNjU4MyAxNS4wNDg4IDE0Ljg1MzYgMTQuODUzNkMxNS4wNDg4IDE0LjY1ODMgMTUuMDQ4OCAxNC4zNDE3IDE0Ljg1MzYgMTQuMTQ2NEwxLjg1MzU1IDEuMTQ2NDVDMS42NTgyOSAwLjk1MTE4NSAxLjM0MTcxIDAuOTUxMTg1IDEuMTQ2NDUgMS4xNDY0NUMwLjk1MTE4NCAxLjM0MTcxIDAuOTUxMTg0IDEuNjU4MjkgMS4xNDY0NSAxLjg1MzU1TDMuNDE4NDcgNC4xMjU1OFpNMTIuNDM0MSAxMC4zMTI4TDEzLjE2OTMgMTEuMDQ3OUMxMy42OTcxIDEwLjE1NDcgMTQgOS4xMTI3MSAxNCA4QzE0IDYuMTE3OTUgMTMuMTMyOSA0LjQzODA2IDExLjc3ODMgMy4zMzg4QzExLjU2MzkgMy4xNjQ4IDExLjI0OSAzLjE5NzU2IDExLjA3NSAzLjQxMTk5QzEwLjkwMSAzLjYyNjQxIDEwLjkzMzcgMy45NDEyOSAxMS4xNDgyIDQuMTE1M0MxMi4yNzg4IDUuMDMyODMgMTMgNi40MzIwMSAxMyA4QzEzIDguODM0NDUgMTIuNzk1NiA5LjYyMTE1IDEyLjQzNDEgMTAuMzEyOFpNNC45NTIwNiAyLjgzMDcyTDUuNjg3MjMgMy41NjU4OUM2LjMyMDEyIDMuMjM1MSA3LjAzMjY0IDMuMDM1ODUgNy43ODg1IDMuMDA0MzlMNy4xNDY0NSAzLjY0NjQ1QzYuOTUxMTggMy44NDE3MSA2Ljk1MTE4IDQuMTU4MjkgNy4xNDY0NSA0LjM1MzU1QzcuMzQxNzEgNC41NDg4MiA3LjY1ODI5IDQuNTQ4ODIgNy44NTM1NSA0LjM1MzU1TDkuMzUzNTUgMi44NTM1NUM5LjU0ODgyIDIuNjU4MjkgOS41NDg4MiAyLjM0MTcxIDkuMzUzNTUgMi4xNDY0NUw3Ljg1MzU1IDAuNjQ2NDQ3QzcuNjU4MjkgMC40NTExODQgNy4zNDE3MSAwLjQ1MTE4NCA3LjE0NjQ1IDAuNjQ2NDQ3QzYuOTUxMTggMC44NDE3MDkgNi45NTExOCAxLjE1ODI5IDcuMTQ2NDUgMS4zNTM1NUw3Ljc5NjI5IDIuMDAzMzlDNi43NjAxNyAyLjAzNzk2IDUuNzkwNiAyLjMzNTIzIDQuOTUyMDYgMi44MzA3MloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=sync-ignored)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0yLjE0MDM4IDIuMTUwMzlDMi4zNDAzOCAxLjk1MDM5IDIuNjUwMzQgMS45NTAzOSAyLjg1MDM0IDIuMTUwMzlMMTMuODI5OCAxMy4xNjAyQzE0LjAyOTggMTMuMzYwMiAxNC4wMjk4IDEzLjY3MDEgMTMuODI5OCAxMy44NzAxQzEzLjczOTkgMTMuOTcgMTMuNjAwMSAxNC4wMTk1IDEzLjQ4MDIgMTQuMDE5NUMxMy4zNjAyIDE0LjAxOTUgMTMuMjI5NiAxMy45NzAxIDEzLjEyOTYgMTMuODcwMUwxMS44NTAzIDEyLjU4OThDMTAuODAwMyAxMy40ODk4IDkuNDM5OTkgMTQuMDE5NSA3Ljk4OTk5IDE0LjAxOTVDNS45NDAwMSAxNC4wMTk1IDQuMDggMTIuOTkgMi45ODk5OSAxMS4zMzAxVjEyLjUxOTVDMi45ODk5OSAxMi43OTk1IDIuNzY5OTkgMTMuMDE5NSAyLjQ4OTk5IDEzLjAxOTVDMi4yMDk5OSAxMy4wMTk1IDEuOTg5OTkgMTIuNzk5NSAxLjk4OTk5IDEyLjUxOTVWOS41MTk1M0MxLjk5MDI0IDkuMjM5NzUgMi4yMTAxNSA5LjAxOTUzIDIuNDg5OTkgOS4wMTk1M0g1LjQ4OTk5QzUuNzY5ODMgOS4wMTk1MyA1Ljk4OTc0IDkuMjM5NzUgNS45ODk5OSA5LjUxOTUzQzUuOTg5OTkgOS43OTk1MyA1Ljc2OTk5IDEwLjAxOTUgNS40ODk5OSAxMC4wMTk1SDMuNDA5OTFDNC4yMDk5MSAxMS44NDk1IDUuOTc5OTkgMTMuMDE5NSA3Ljk4OTk5IDEzLjAxOTVDOS4xNTk5OSAxMy4wMTk1IDEwLjI3MDQgMTIuNTg5OSAxMS4xNDA0IDExLjg3OTlMNC4xMTk4NyA0Ljg2MDM1QzMuNjk5OTggNS4zNzAzIDMuMzcwMzkgNS45ODA1MSAzLjE4MDQyIDYuNjUwMzlDMy4xMjAzNCA2Ljg3MDI0IDIuOTE5ODcgNy4wMDk3NyAyLjY5OTk1IDcuMDA5NzdDMi42NTAwOCA3LjAwOTc2IDIuNjEwMTMgNy4wMDAyMSAyLjU2MDMgNi45OTAyM0MyLjMwMDMgNi45MTAyMyAyLjE0MDQ2IDYuNjQwMTIgMi4yMjA0NiA2LjM3MDEyQzIuNDYwNDYgNS41MzAxMiAyLjg3OTY4IDQuNzc5NjQgMy40MTk2OCA0LjEzOTY1TDIuMTQwMzggMi44NjAzNUMxLjk0MDM4IDIuNjYwMzUgMS45NDAzOCAyLjM1MDM5IDIuMTQwMzggMi4xNTAzOVoiLz48cGF0aCBkPSJNMTMuNDE5NyA5LjAyMDUxVjkuMDMwMjdDMTMuNjg5NyA5LjExMDI3IDEzLjg1MDMgOS4zODAzOSAxMy43NzAzIDkuNjUwMzlDMTMuNjMwMyAxMC4xNTAzIDEzLjQxMDEgMTAuNjEwMSAxMy4xNTAxIDExLjA0TDEyLjQxOTcgMTAuMzEwNUMxMi41Njk3IDEwLjAxMDYgMTIuNzA5NiA5LjcwMDA2IDEyLjc5OTYgOS4zNzAxMkMxMi44Nzk1IDkuMTAwMTYgMTMuMTU5NyA4Ljk1MDU4IDEzLjQxOTcgOS4wMjA1MVoiLz48cGF0aCBkPSJNNy45OTk3NiAyQzEwLjA0OTggMiAxMS45MDk4IDMuMDMwNDMgMTIuOTk5OCA0LjY5MDQzVjMuNUMxMi45OTk4IDMuMjIwMDcgMTMuMjE5OSAzLjAwMDExIDEzLjQ5OTggM0MxMy43Nzk4IDMgMTMuOTk5OCAzLjIyIDEzLjk5OTggMy41VjYuNUMxMy45OTk4IDYuNzggMTMuNzc5OCA3IDEzLjQ5OTggN0gxMC40OTk4QzEwLjIxOTkgNi45OTk4OSA5Ljk5OTc2IDYuNzc5OTMgOS45OTk3NiA2LjVDOS45OTk3NiA2LjIyMDA3IDEwLjIxOTkgNi4wMDAxMSAxMC40OTk4IDZIMTIuNTc5OEMxMS43Nzk4IDQuMTcwMDMgMTAuMDA5NyAzIDcuOTk5NzYgM0M3LjE2OTg1IDMuMDAwMDMgNi4zOTAxMiAzLjIwMDM2IDUuNjkwMTkgMy41NzAzMUw0Ljk3MDQ2IDIuODQ5NjFDNS44NzAyOCAyLjMwOTg0IDYuOTEwMDUgMi4wMDAwNCA3Ljk5OTc2IDJaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=sync-ignored)
   /// Codicon icon named "sync ignored".
   static const IconData syncIgnored = IconData(
     0xEB9F,
@@ -3292,7 +3292,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/issue-closed.svg)](https://github.com/microsoft/vscode-codicons/search?q=issue-closed)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/issue-closed.svg)](https://github.com/microsoft/vscode-codicons/search?q=issue-closed)
   /// Codicon icon named "issue closed".
   static const IconData issueClosed = IconData(
     0xEBA4,
@@ -3436,7 +3436,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/circle-large-outline.svg)](https://github.com/microsoft/vscode-codicons/search?q=circle-large-outline)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/circle-large-outline.svg)](https://github.com/microsoft/vscode-codicons/search?q=circle-large-outline)
   /// Codicon icon named "circle large outline".
   static const IconData circleLargeOutline = IconData(
     0xEBB5,
@@ -3452,7 +3452,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/gather.svg)](https://github.com/microsoft/vscode-codicons/search?q=gather)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/gather.svg)](https://github.com/microsoft/vscode-codicons/search?q=gather)
   /// Codicon icon named "gather".
   static const IconData gather = IconData(
     0xEBB6,
@@ -4012,7 +4012,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/terminal-decoration-error.svg)](https://github.com/microsoft/vscode-codicons/search?q=terminal-decoration-error)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/terminal-decoration-error.svg)](https://github.com/microsoft/vscode-codicons/search?q=terminal-decoration-error)
   /// Codicon icon named "terminal decoration error".
   static const IconData terminalDecorationError = IconData(
     0xEBFB,
@@ -4100,7 +4100,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/map-horizontal.svg)](https://github.com/microsoft/vscode-codicons/search?q=map-horizontal)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/map-horizontal.svg)](https://github.com/microsoft/vscode-codicons/search?q=map-horizontal)
   /// Codicon icon named "map horizontal".
   static const IconData mapHorizontal = IconData(
     0xEC05,
@@ -4108,7 +4108,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/fold-horizontal.svg)](https://github.com/microsoft/vscode-codicons/search?q=fold-horizontal)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/fold-horizontal.svg)](https://github.com/microsoft/vscode-codicons/search?q=fold-horizontal)
   /// Codicon icon named "fold horizontal".
   static const IconData foldHorizontal = IconData(
     0xEC05,
@@ -4124,7 +4124,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/map-horizontal-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=map-horizontal-filled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/map-horizontal-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=map-horizontal-filled)
   /// Codicon icon named "map horizontal filled".
   static const IconData mapHorizontalFilled = IconData(
     0xEC06,
@@ -4132,7 +4132,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/fold-horizontal-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=fold-horizontal-filled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/fold-horizontal-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=fold-horizontal-filled)
   /// Codicon icon named "fold horizontal filled".
   static const IconData foldHorizontalFilled = IconData(
     0xEC06,
@@ -4324,7 +4324,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02LjI1IDkuMDM2OTlDNi42NjQgOS4wMzY5OSA2Ljk5OTk5IDkuMzczIDcgOS43ODY5OVYxMS4yODhDNyAxMS43MDIgNi42NjQgMTIuMDM4IDYuMjUgMTIuMDM4QzUuODM2IDEyLjAzOCA1LjUgMTEuNzAyIDUuNSAxMS4yODhWOS43ODY5OUM1LjUwMDAxIDkuMzczIDUuODM2IDkuMDM2OTkgNi4yNSA5LjAzNjk5WiIvPjxwYXRoIGQ9Ik05Ljc1IDkuMDM2OTlDMTAuMTY0IDkuMDM2OTkgMTAuNSA5LjM3MyAxMC41IDkuNzg2OTlWMTEuMjg4QzEwLjUgMTEuNzAyIDEwLjE2NCAxMi4wMzggOS43NSAxMi4wMzhDOS4zMzYgMTIuMDM4IDkgMTEuNzAyIDkgMTEuMjg4VjkuNzg2OTlDOS4wMDAwMSA5LjM3MyA5LjMzNiA5LjAzNjk5IDkuNzUgOS4wMzY5OVoiLz48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTguMTM4NjcgMS44MDY1MkM4LjgyMDY3IDEuMDc1NTkgOS44NzcwNSAwLjkwNzg3OSAxMS4wODMgMS4wNDE4N0MxMi4zMTI4IDEuMTc4ODUgMTMuMjI3NiAxLjU2OTg3IDEzLjgwNjYgMi4zMDI2MUMxNC4zNzI2IDMuMDE3NjEgMTQuNSAzLjkxNjk5IDE0LjUgNC43ODY5OUMxNC41IDUuMzU4OTkgMTQuNDQ3MSA1LjkzNTI0IDE0LjI0NjEgNi40NDMyNEMxNC4zMTIgNi42NzA5NyAxNC4zNDQxIDYuODcxNzQgMTQuMzcyMSA3LjA1NDU3QzE0LjM4NDEgNy4xMzA1NyAxNC4zOTYyIDcuMjAzMzIgMTQuNDA5MiA3LjI3MzMyQzE1LjMzMyA3LjY1ODQyIDE1LjkzMSA4Ljc0NDExIDE2IDkuMzY4MDRWMTEuMjQwMUMxNS45OTk2IDEyLjAwNjMgMTIuNjQ4NyAxNS4wMzUgNy45OTgwNSAxNS4wMzVDMy40MzYxMSAxNS4wMzUgMC4xMjUwODMgMTIuMTIxMSAwIDExLjI4NlY5LjMzNzc3QzAuMDg1MDk0MSA4LjcwOTggMC42NzcxMSA3LjY1MjM1IDEuNTg3ODkgNy4yNzMzMkMxLjYwMDg5IDcuMjAzMzIgMS42MTIwMiA3LjEyOTU3IDEuNjI0MDIgNy4wNTQ1N0MxLjY1Mjk5IDYuODcxNzQgMS42ODQxIDYuNjcwOTcgMS43NSA2LjQ0MzI0QzEuNTQ5IDUuOTM1MjQgMS40OTYwOSA1LjM1ODk5IDEuNDk2MDkgNC43ODY5OUMxLjQ5NjA5IDMuOTE2OTkgMS42MjQ0NSAzLjAxNzYxIDIuMTg5NDUgMi4zMDI2MUMyLjc2ODQ3IDEuNTY5OSAzLjY4MzMzIDEuMTc4ODQgNC45MTMwOSAxLjA0MTg3QzYuMTE5MDMgMC45MDc4OTQgNy4xNzU0NCAxLjA3NTU3IDcuODU3NDIgMS44MDY1MkM3LjkwNzM2IDEuODU5NDUgNy45NTMxNCAxLjkxNDY0IDcuOTk2MDkgMS45NzE1NkM4LjA0MDA0IDEuOTE0NjcgOC4wODk3NiAxLjg1OTQzIDguMTM4NjcgMS44MDY1MlpNOCA2LjMwMjYxQzcuODU1MDMgNi41NzQ1NiA3LjY3MiA2LjgyNDgxIDcuNDU2MDUgNy4wNDU3OEM2LjgwNjA3IDcuNzA5NzYgNS44OTMwNSA4LjAzNjk3IDQuNzQ2MDkgOC4wMzY5OUM0LjA5NDA5IDguMDM2OTkgMy41MDk1NSA3Ljk1NTk3IDMuMDE4NTUgNy43NDU5N0wyLjk5NjA5IDcuODYyMTlWMTIuMTE3MUMzLjQxNTM3IDEyLjQ0MDIgNS43MTgyMyAxMy41NDk3IDcuOTk4MDUgMTMuNTQ5N0MxMC4yNzggMTMuNTQ5NyAxMi41ODE5IDEyLjQ0MDEgMTMgMTIuMTE3MVY3Ljg2MjE5TDEyLjk3NjYgNy43NDU5N0MxMi40ODY2IDcuOTU1ODYgMTEuOTAxOCA4LjAzNjk5IDExLjI1IDguMDM2OTlDMTAuMTA0IDguMDM2OTkgOS4xOTEwNCA3LjcwOTc4IDguNTQwMDQgNy4wNDU3OEM4LjMyNTA4IDYuODI0OCA4LjE0Mzk4IDYuNTc0NTggOCA2LjMwMjYxWk02Ljc2MTcyIDIuODI5OTZDNi41Njg2NSAyLjYyNDAxIDYuMTI0NzcgMi40MTcxMyA1LjA4MDA4IDIuNTMzMDhDNC4wNjEwOCAyLjY0NjA4IDMuNjAxMTkgMi45MzcyOCAzLjM2NzE5IDMuMjMzMjhDMy4xMjAyNCAzLjU0NTI4IDIuOTk4MDUgNC4wMjIwNyAyLjk5ODA1IDQuNzg2OTlDMi45OTgwNSA1LjU3OTg0IDMuMTI2NzIgNS45NTgwNiAzLjMwNTY2IDYuMTU4MDhDMy40Njc2NiA2LjMzOTA4IDMuODI1MDUgNi41MzY5OSA0Ljc0ODA1IDYuNTM2OTlDNS42MDA5MSA2LjUzNjk4IDYuMDg2NzQgNi4zMDE4OSA2LjM4NTc0IDUuOTk2OTVDNi43MDA3MSA1LjY3NDk5IDYuOTEyOTEgNS4xNzAwOSA3LjAwMjkzIDQuNDQ0MjJDNy4xMTk5MyAzLjUwOTIyIDYuOTY1NzIgMy4wNDg5NiA2Ljc2MTcyIDIuODI5OTZaTTEwLjkxNyAyLjUzMzA4QzkuODczMjkgMi40MTcxMiA5LjQyOTQyIDIuNjI0MDIgOS4yMzYzMyAyLjgyOTk2QzkuMDMyMzMgMy4wNDg5NiA4Ljg3NzE0IDMuNTA5MjIgOC45OTQxNCA0LjQ0NDIyQzkuMDg1MTYgNS4xNzAwOCA5LjI5NzM0IDUuNjc0OTkgOS42MTIzIDUuOTk2OTVDOS45MTEzMiA2LjMwMTg4IDEwLjM5NjEgNi41MzY5OSAxMS4yNSA2LjUzNjk5QzEyLjE3MiA2LjUzNjk5IDEyLjUzMDQgNi4zMzkwOCAxMi42OTI0IDYuMTU4MDhDMTIuODcxMyA1Ljk1ODA1IDEzIDUuNTc5ODEgMTMgNC43ODY5OUMxMyA0LjAyMjA5IDEyLjg3NjggMy41NDUyOCAxMi42Mjk5IDMuMjMzMjhDMTIuMzk2OSAyLjkzNzI4IDExLjkzNyAyLjY0NjA4IDEwLjkxNyAyLjUzMzA4WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=copilot)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNy4wNiA5LjY2MDAxVjExLjA3QzcuMDYgMTEuNDYgNi43NSAxMS43NyA2LjM2IDExLjc3QzUuOTcgMTEuNzcgNS42NiAxMS40NiA1LjY2IDExLjA3VjkuNjYwMDFDNS42NiA5LjI3MDAxIDUuOTcgOC45NjAwMSA2LjM2IDguOTYwMDFDNi43NSA4Ljk2MDAxIDcuMDYgOS4yNzAwMSA3LjA2IDkuNjYwMDFaTTkuNjQgOC45NjAwMUM5LjI1IDguOTYwMDEgOC45NCA5LjI3MDAxIDguOTQgOS42NjAwMVYxMS4wN0M4Ljk0IDExLjQ2IDkuMjUgMTEuNzcgOS42NCAxMS43N0MxMC4wMyAxMS43NyAxMC4zNCAxMS40NiAxMC4zNCAxMS4wN1Y5LjY2MDAxQzEwLjM0IDkuMjcwMDEgMTAuMDMgOC45NjAwMSA5LjY0IDguOTYwMDFaTTE1LjUgOS4yNzAwMVYxMS4wM0MxNS41IDExLjc1IDEyLjM2IDE0LjU5IDggMTQuNTlDMy42NCAxNC41OSAwLjYyIDExLjg1IDAuNSAxMS4wNlY5LjIzMDAxQzAuNTggOC42NDAwMSAxLjEzIDcuNjUwMDEgMS45OSA3LjI5MDAxQzIgNy4yMjAwMSAyLjAxIDcuMTYwMDEgMi4wMiA3LjA4MDAxQzIuMDUgNi45MTAwMSAyLjA4IDYuNzIwMDEgMi4xNCA2LjUxMDAxQzEuOTUgNi4wMzAwMSAxLjkgNS40OTAwMSAxLjkgNC45NjAwMUMxLjkgNC4xNDAwMSAyLjAyIDMuMzAwMDEgMi41NSAyLjYzMDAxQzMuMDkgMS45NDAwMSAzLjk1IDEuNTgwMDEgNS4xIDEuNDUwMDFDNi4yMyAxLjMyMDAxIDcuMjIgMS40ODAwMSA3Ljg2IDIuMTcwMDFDNy45MSAyLjIyMDAxIDcuOTUgMi4yNzAwMSA3Ljk5IDIuMzIwMDFDOC4wMyAyLjI3MDAxIDguMDggMi4yMTAwMSA4LjEyIDIuMTcwMDFDOC43NiAxLjQ4MDAxIDkuNzUgMS4zMzAwMSAxMC44OCAxLjQ1MDAxQzEyLjAzIDEuNTgwMDEgMTIuODkgMS45NTAwMSAxMy40MyAyLjYzMDAxQzEzLjk2IDMuMzAwMDEgMTQuMDggNC4xNDAwMSAxNC4wOCA0Ljk2MDAxQzE0LjA4IDUuNTAwMDEgMTQuMDMgNi4wNDAwMSAxMy44NCA2LjUxMDAxQzEzLjkgNi43MjAwMSAxMy45MyA2LjkxMDAxIDEzLjk2IDcuMDgwMDFDMTMuOTcgNy4xNTAwMSAxMy45OCA3LjIyMDAxIDEzLjk5IDcuMjkwMDFDMTQuODYgNy42NTAwMSAxNS40MiA4LjY3MDAxIDE1LjQ4IDkuMjUwMDFMMTUuNSA5LjI3MDAxWk0zLjMxIDQuOTcwMDFDMy4zMSA1LjcxMDAxIDMuNDMgNi4wNzAwMSAzLjYgNi4yNjAwMUMzLjc1IDYuNDMwMDEgNC4wOSA2LjYyMDAxIDQuOTUgNi42MjAwMUM1Ljc1IDYuNjIwMDEgNi4yMSA2LjQwMDAxIDYuNDkgNi4xMTAwMUM2Ljc5IDUuODEwMDEgNi45OCA1LjMzMDAxIDcuMDcgNC42NTAwMUM3LjE4IDMuNzcwMDEgNy4wNCAzLjM0MDAxIDYuODQgMy4xNDAwMUM2LjY2IDIuOTUwMDEgNi4yNCAyLjc1MDAxIDUuMjYgMi44NjAwMUM0LjMgMi45NzAwMSAzLjg3IDMuMjQwMDEgMy42NSAzLjUyMDAxQzMuNDIgMy44MTAwMSAzLjMgNC4yNjAwMSAzLjMgNC45ODAwMUwzLjMxIDQuOTcwMDFaTTEyLjY5IDcuODUwMDFMMTIuNjcgNy43NDAwMUMxMi4yMSA3Ljk0MDAxIDExLjY2IDguMDEwMDEgMTEuMDUgOC4wMTAwMUM5Ljk4IDguMDEwMDEgOS4xMiA3LjcwMDAxIDguNTEgNy4wODAwMUM4LjMxIDYuODcwMDEgOC4xNCA2LjY0MDAxIDggNi4zODAwMUM3Ljg2IDYuNjMwMDEgNy42OSA2Ljg3MDAxIDcuNDkgNy4wODAwMUM2Ljg4IDcuNzAwMDEgNi4wMiA4LjAxMDAxIDQuOTUgOC4wMTAwMUM0LjM0IDguMDEwMDEgMy43OSA3LjkzMDAxIDMuMzMgNy43NDAwMUwzLjMxIDcuODUwMDFWMTEuODRDMy43IDEyLjE0IDUuODYgMTMuMTggOCAxMy4xOEMxMC4xNCAxMy4xOCAxMi4zIDEyLjE0IDEyLjY5IDExLjg0VjcuODUwMDFaTTEyLjY5IDQuOTcwMDFDMTIuNjkgNC4yNTAwMSAxMi41NyAzLjgxMDAxIDEyLjM0IDMuNTEwMDFDMTIuMTIgMy4yMzAwMSAxMS42OSAyLjk2MDAxIDEwLjczIDIuODUwMDFDOS43NSAyLjc0MDAxIDkuMzQgMi45NDAwMSA5LjE1IDMuMTMwMDFDOC45NiAzLjM0MDAxIDguODEgMy43NzAwMSA4LjkyIDQuNjQwMDFDOS4wMSA1LjMyMDAxIDkuMiA1Ljc5MDAxIDkuNSA2LjEwMDAxQzkuNzggNi4zOTAwMSAxMC4yMyA2LjYxMDAxIDExLjA0IDYuNjEwMDFDMTEuOSA2LjYxMDAxIDEyLjI0IDYuNDIwMDEgMTIuMzkgNi4yNTAwMUMxMi41NiA2LjA2MDAxIDEyLjY4IDUuNzEwMDEgMTIuNjggNC45NjAwMUwxMi42OSA0Ljk3MDAxWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=copilot)
   /// Codicon icon named "copilot".
   static const IconData copilot = IconData(
     0xEC1E,
@@ -4332,7 +4332,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04LjE5OTA1IDIuNzgyTDguOTY2MDUgMy4wMzFMOS4wNDkwNSAzLjA2MUM5LjA0OTA1IDMuMDYxIDkuMDU0MDUgMy4wNjMgOS4wNTYwNSAzLjA2NEM5LjExOTA1IDMuMDg5IDkuMTgxMDUgMy4xMTkgOS4yNDAwNSAzLjE1MkM5LjM2NjA1IDMuMjIzIDkuNDgxMDUgMy4zMTEgOS41ODQwNSAzLjQxM0M5LjczODA1IDMuNTY2IDkuODU4MDUgMy43NSA5LjkzNjA1IDMuOTUyQzkuOTQ2MDUgMy45NzkgOS45NTYwNSA0LjAwNiA5Ljk2NTA1IDQuMDMzTDEwLjIxNCA0Ljc5OEMxMC4yMzUgNC44NTcgMTAuMjczIDQuOTA4IDEwLjMyNSA0Ljk0NEMxMC4zNzYgNC45OCAxMC40MzcgNSAxMC41IDVIMTAuNTA0QzEwLjU2NSA1IDEwLjYyNSA0Ljk4IDEwLjY3NSA0Ljk0NEMxMC43MDkgNC45MiAxMC43MzcgNC44ODkgMTAuNzU5IDQuODU0QzEwLjc3IDQuODM2IDEwLjc3OSA0LjgxNyAxMC43ODYgNC43OThMMTEuMDM1IDQuMDMzQzExLjExMiAzLjggMTEuMjQzIDMuNTg5IDExLjQxNiAzLjQxNkMxMS41ODkgMy4yNDMgMTEuODAxIDMuMTEyIDEyLjAzNCAzLjAzNUwxMi43OTkgMi43ODZDMTIuODU4IDIuNzY1IDEyLjkwOSAyLjcyNyAxMi45NDUgMi42NzZDMTIuOTgxIDIuNjI1IDEzLjAwMSAyLjU2NCAxMy4wMDEgMi41MDFDMTMuMDAxIDIuNDM4IDEyLjk4MiAyLjM3OCAxMi45NDUgMi4zMjZDMTIuOTA5IDIuMjc1IDEyLjg1OCAyLjIzNyAxMi43OTkgMi4yMTdMMTIuNzg0IDIuMjEzTDEyLjAxOSAxLjk2NEMxMS44NiAxLjkxMSAxMS43MTEgMS44MzQgMTEuNTc3IDEuNzM1QzExLjUxNSAxLjY4OSAxMS40NTYgMS42MzggMTEuNDAxIDEuNTgzQzExLjIyOCAxLjQxIDExLjA5NyAxLjE5OCAxMS4wMiAwLjk2NkwxMC43NzEgMC4yMDFDMTAuNzUgMC4xNDIgMTAuNzEyIDAuMDkxIDEwLjY2IDAuMDU1QzEwLjYxMyAwLjAyMiAxMC41NTggMC4wMDMgMTAuNTAxIDBIMTAuNDg2QzEwLjQyMyAwIDEwLjM2MiAwLjAxOSAxMC4zMTEgMC4wNTVDMTAuMjYgMC4wOTEgMTAuMjIxIDAuMTQyIDEwLjIwMSAwLjIwMUw5Ljk1MjA1IDAuOTY2QzkuODc2MDUgMS4xOTcgOS43NDgwNSAxLjQwNyA5LjU3NzA1IDEuNThDOS41NTIwNSAxLjYwNSA5LjUyNzA1IDEuNjI5IDkuNTAxMDUgMS42NTJDOS4zNDYwNSAxLjc5IDkuMTY1MDUgMS44OTYgOC45NjgwNSAxLjk2NEw4LjM3MzA1IDIuMTU3SDguMzcxMDVMOC4xOTkwNSAyLjIxMkM4LjE0MDA1IDIuMjMzIDguMDg5MDUgMi4yNzIgOC4wNTMwNSAyLjMyM0M4LjAxNzA1IDIuMzc0IDcuOTk3MDUgMi40MzUgNy45OTcwNSAyLjQ5OEM3Ljk5NzA1IDIuNTYxIDguMDE3MDUgMi42MjIgOC4wNTMwNSAyLjY3MkM4LjA4OTA1IDIuNzIzIDguMTQwMDUgMi43NjEgOC4xOTkwNSAyLjc4MlpNMTEuNjIgNy41MzhDMTEuNjA5IDcuNTAzIDExLjU4OCA3LjQ2OCAxMS41NTggNy40MzlDMTEuNTI4IDcuNDEgMTEuNDkzIDcuMzg4IDExLjQ1NSA3LjM3NUwxMS4zNDEgNy4zMzdDMTEuMjc5IDcuNTQ0IDExLjE5OSA3Ljc0NiAxMS4xMDIgNy45NDFDMTAuODYgOC40MjUgMTAuNTE4IDguODUxIDEwLjA5OCA5LjE5Mkw5Ljk5MDA1IDkuMjkyTDkuNTQxMDUgMTFINi40OTIwNUw2LjE0MzA1IDkuNTM2TDYuMDQzMDUgOS40MzZDNS4xODMwNSA4LjcwNiA0LjYzMTA1IDcuNjc3IDQuNDk4MDUgNi41NTZDNC41MTIwNSA1LjYwNyA0Ljg4NTA1IDQuNjk5IDUuNTQxMDUgNC4wMTNDNS44NjIwNSAzLjY4OCA2LjI0NTA1IDMuNDMyIDYuNjY3MDUgMy4yNThDNi44MjMwNSAzLjE5NCA2Ljk4MzA1IDMuMTQxIDcuMTQ1MDUgMy4xMDFDNy4wNTAwNSAyLjkyMSA2Ljk5ODA1IDIuNzEzIDYuOTk4MDUgMi40OTdDNi45OTgwNSAyLjM1OCA3LjAyMDA1IDIuMjIzIDcuMDYyMDUgMi4wOTRDNi43OTYwNSAyLjE1IDYuNTM1MDUgMi4yMyA2LjI4MjA1IDIuMzM1QzUuNzM4MDUgMi41NiA1LjI0NTA1IDIuODkyIDQuODMxMDUgMy4zMUMzLjk5MzA1IDQuMTggMy41MTYwNSA1LjMzNiAzLjQ5ODA1IDYuNTQ0VjYuNTgyQzMuNjIzMDUgNy45MTEgNC4yNDMwNSA5LjE0NCA1LjIzNTA1IDEwLjAzN0w1LjkzNTA1IDEyLjk3OEw1Ljk0MzA1IDEzQzYuMDQxMDUgMTMuMjg5IDYuMjI4MDUgMTMuNTQgNi40NzcwNSAxMy43MTdDNi43MzQwNSAxMy45MDEgNy4wNDMwNSAxNCA3LjM2MDA1IDE0SDguNzY0MDVDOS4wNzMwNSAxMy45NzQgOS4zNjYwNSAxMy44NTQgOS42MDQwNSAxMy42NTVDOS44NDMwNSAxMy40NTYgMTAuMDEyIDEzLjE4NSAxMC4wODUgMTIuODgyTDEwLjg4NSA5LjgzMkMxMS4zMyA5LjQ0MyAxMS42OTcgOC45NzUgMTEuOTY4IDguNDUyQzExLjkxIDguMzY1IDExLjg2MiA4LjI3IDExLjgyNyA4LjE2OUwxMS42MiA3LjUzOFpNOS4xMTYwNSAxMi42MjhWMTIuNjQxQzkuMDk0MDUgMTIuNzM1IDkuMDQxMDUgMTIuODIgOC45NjYwNSAxMi44ODFDOC44OTEwNSAxMi45NDcgOC43OTcwNSAxMi45ODggOC42OTgwNSAxM0g3LjM1OTA1QzcuMjUxMDUgMTIuOTk5IDcuMTQ2MDUgMTIuOTY0IDcuMDU5MDUgMTIuOUM2Ljk4NzA1IDEyLjg1IDYuOTMxMDUgMTIuNzgxIDYuODk4MDUgMTIuN0w2LjczMTA1IDEySDkuMjgwMDVMOS4xMTYwNSAxMi42MjhaTTE0Ljk1NiA1Ljg2MkMxNC45MjcgNS44MjIgMTQuODg2IDUuNzkxIDE0LjgzOSA1Ljc3NEwxNC44MjcgNS43NzFMMTQuMjE1IDUuNTcyVjUuNTc0QzE0LjAyOSA1LjUxMiAxMy44NiA1LjQwOCAxMy43MjEgNS4yNjlDMTMuNTgyIDUuMTMgMTMuNDc4IDQuOTYxIDEzLjQxNiA0Ljc3NUwxMy4yMTcgNC4xNjNDMTMuMjAxIDQuMTE2IDEzLjE3IDQuMDc1IDEzLjEyOSA0LjA0NkMxMy4wODggNC4wMTggMTMuMDM5IDQuMDAyIDEyLjk4OSA0LjAwMkMxMi45MzkgNC4wMDIgMTIuODkgNC4wMTcgMTIuODQ5IDQuMDQ2QzEyLjgwOSA0LjA3NSAxMi43NzggNC4xMTYgMTIuNzYxIDQuMTYzTDEyLjU2MiA0Ljc3NUMxMi41MDEgNC45NTkgMTIuMzk5IDUuMTI3IDEyLjI2MiA1LjI2NkMxMi4xMjYgNS40MDQgMTEuOTU5IDUuNTEgMTEuNzc1IDUuNTczTDExLjE2MyA1Ljc3MkMxMS4xMTYgNS43ODggMTEuMDc0IDUuODE5IDExLjA0NiA1Ljg2QzExLjAxOCA1LjkwMSAxMS4wMDIgNS45NSAxMS4wMDIgNkMxMS4wMDIgNi4wNSAxMS4wMTcgNi4wOTkgMTEuMDQ2IDYuMTRDMTEuMDc1IDYuMTggMTEuMTE2IDYuMjExIDExLjE2MyA2LjIyOEwxMS43NDYgNi40MTdWNi40MkwxMS43NyA2LjQyOEMxMS45NTcgNi40OSAxMi4xMjYgNi41OTQgMTIuMjY1IDYuNzMzQzEyLjQwMyA2Ljg3MiAxMi41MDggNy4wNDIgMTIuNTcgNy4yMjhMMTIuNzcgNy44NEMxMi43ODYgNy44ODcgMTIuODE3IDcuOTI4IDEyLjg1OCA3Ljk1N0MxMi44OTggNy45ODUgMTIuOTQ1IDguMDAxIDEyLjk5NCA4LjAwMUgxMy4wMDFDMTMuMDUxIDguMDAxIDEzLjEgNy45ODYgMTMuMTQxIDcuOTU3QzEzLjE4MiA3LjkyOCAxMy4yMTIgNy44ODcgMTMuMjI5IDcuODRMMTMuNDI4IDcuMjI4QzEzLjQ5IDcuMDQyIDEzLjU5NCA2Ljg3MyAxMy43MzMgNi43MzRDMTMuODcyIDYuNTk1IDE0LjA0MSA2LjQ5MSAxNC4yMjcgNi40MjlMMTQuODM5IDYuMjNDMTQuODg2IDYuMjE0IDE0LjkyOCA2LjE4MyAxNC45NTYgNi4xNDJDMTQuOTg0IDYuMTAxIDE1IDYuMDUyIDE1IDYuMDAyQzE1IDUuOTUyIDE0Ljk4NSA1LjkwMyAxNC45NTYgNS44NjJaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=lightbulb-sparkle)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS44MjcgOC4xNzRMMTEuODEgOC4xMjJDMTEuNTc2IDguNTYgMTEuMjg1IDguODk5IDExLjAyMiA5LjE5OUMxMC43NDEgOS41MjIgMTAuNDk3IDkuODAyIDEwLjQwNyAxMC4xMzdMMTAuMTc1IDEwLjk5OUg1LjgyNTk4TDUuNTkzOTggMTAuMTM4QzUuNTAyOTggOS44MDEgNS4yNTk5OCA5LjUyMiA0Ljk3Njk4IDkuMTk5QzQuNDI5OTggOC41NzIgMy43NDk5OCA3Ljc5MiAzLjc0OTk4IDYuMjVDMy43NDk5OCAzLjk5MyA1LjMwNzk4IDIuNTE4IDcuMDU1OTggMi4xMTlDNy4wOTU5OCAxLjk4NiA3LjE1NTk4IDEuODU5IDcuMjM4OTggMS43NDNDNy4zOTI5OCAxLjUyNCA3LjYxMDk4IDEuMzU4IDcuODY3OTggMS4yNjhMOC41MzI5OCAxLjA1M0M4LjM1NTk4IDEuMDM1IDguMTgyOTggMC45OTkgOC4wMDA5OCAwLjk5OUM1LjQxOTk4IDAuOTk5IDIuNzUwOTggMi45NjMgMi43NTA5OCA2LjI0OUMyLjc1MDk4IDguMTY2IDMuNjM3OTggOS4xODMgNC4yMjQ5OCA5Ljg1NUM0LjQwODk4IDEwLjA2NiA0LjU5ODk4IDEwLjI4NCA0LjYyODk4IDEwLjM5N0w1LjU2ODk4IDEzLjg4OEM1Ljc0NDk4IDE0LjU0MiA2LjM0MDk4IDE0Ljk5OCA3LjAxNzk4IDE0Ljk5OEg4Ljk4NDk4QzkuNjYyOTggMTQuOTk4IDEwLjI1OCAxNC41NDEgMTAuNDMzIDEzLjg4OEwxMS4zNzMgMTAuMzk2QzExLjQwMyAxMC4yODQgMTEuNTk0IDEwLjA2NiAxMS43NzcgOS44NTVDMTIuMDAzIDkuNTk2IDEyLjI3MyA5LjI4NCAxMi41MiA4Ljg5MUMxMi40NDEgOC44NTcgMTIuMzYgOC44MjcgMTIuMjg4IDguNzc2QzEyLjA2OSA4LjYyIDExLjkxMyA4LjQxMyAxMS44MjggOC4xNzJMMTEuODI3IDguMTc0Wk05LjQ2Njk4IDEzLjYzQzkuNDA3OTggMTMuODQ4IDkuMjA4OTggMTQgOC45ODM5OCAxNEg3LjAxNjk4QzYuNzkwOTggMTQgNi41OTI5OCAxMy44NDggNi41MzM5OCAxMy42M0w2LjA5NDk4IDEySDkuOTA1OThMOS40NjY5OCAxMy42M1pNOC4zNzI5OCAyLjE1N0w4Ljk2Nzk4IDEuOTY0QzkuMTY0OTggMS44OTYgOS4zNDU5OCAxLjc5IDkuNTAwOTggMS42NTJDOS41MjY5OCAxLjYyOSA5LjU1MTk4IDEuNjA1IDkuNTc2OTggMS41OEM5Ljc0Nzk4IDEuNDA3IDkuODc1OTggMS4xOTcgOS45NTE5OCAwLjk2NkwxMC4yMDEgMC4yMDFDMTAuMjIxIDAuMTQyIDEwLjI2IDAuMDkxIDEwLjMxMSAwLjA1NUMxMC4zNjIgMC4wMTkgMTAuNDIzIDAgMTAuNDg2IDBIMTAuNTAxQzEwLjU1OCAwLjAwMyAxMC42MTMgMC4wMjIgMTAuNjYgMC4wNTVDMTAuNzEyIDAuMDkxIDEwLjc1IDAuMTQyIDEwLjc3MSAwLjIwMUwxMS4wMiAwLjk2NkMxMS4wOTcgMS4xOTggMTEuMjI4IDEuNDEgMTEuNDAxIDEuNTgzQzExLjQ1NiAxLjYzOCAxMS41MTUgMS42ODkgMTEuNTc3IDEuNzM1QzExLjcxMSAxLjgzNCAxMS44NiAxLjkxMSAxMi4wMTkgMS45NjRMMTIuNzg0IDIuMjEzTDEyLjc5OSAyLjIxN0MxMi44NTggMi4yMzcgMTIuOTA5IDIuMjc1IDEyLjk0NSAyLjMyNkMxMi45ODIgMi4zNzggMTMuMDAxIDIuNDM4IDEzLjAwMSAyLjUwMUMxMy4wMDEgMi41NjQgMTIuOTgxIDIuNjI1IDEyLjk0NSAyLjY3NkMxMi45MDkgMi43MjcgMTIuODU4IDIuNzY1IDEyLjc5OSAyLjc4NkwxMi4wMzQgMy4wMzVDMTEuODAxIDMuMTEyIDExLjU4OSAzLjI0MyAxMS40MTYgMy40MTZDMTEuMjQzIDMuNTg5IDExLjExMiAzLjggMTEuMDM1IDQuMDMzTDEwLjc4NiA0Ljc5OEMxMC43NzkgNC44MTcgMTAuNzcgNC44MzYgMTAuNzU5IDQuODU0QzEwLjczNyA0Ljg4OSAxMC43MDkgNC45MiAxMC42NzUgNC45NDRDMTAuNjI1IDQuOTggMTAuNTY1IDUgMTAuNTA0IDVIMTAuNUMxMC40MzcgNSAxMC4zNzYgNC45OCAxMC4zMjUgNC45NDRDMTAuMjczIDQuOTA4IDEwLjIzNSA0Ljg1NyAxMC4yMTQgNC43OThMOS45NjQ5OCA0LjAzM0M5Ljk1NTk4IDQuMDA2IDkuOTQ1OTggMy45NzkgOS45MzU5OCAzLjk1MkM5Ljg1Nzk4IDMuNzUgOS43Mzc5OCAzLjU2NiA5LjU4Mzk4IDMuNDEzQzkuNDgwOTggMy4zMTEgOS4zNjU5OCAzLjIyMyA5LjIzOTk4IDMuMTUyQzkuMTgwOTggMy4xMTkgOS4xMTg5OCAzLjA4OSA5LjA1NTk4IDMuMDY0QzkuMDUzOTggMy4wNjQgOS4wNDg5OCAzLjA2MSA5LjA0ODk4IDMuMDYxTDguOTY1OTggMy4wMzFMOC4xOTg5OCAyLjc4MkM4LjEzOTk4IDIuNzYxIDguMDg4OTggMi43MjMgOC4wNTI5OCAyLjY3MkM4LjAxNjk4IDIuNjIyIDcuOTk2OTggMi41NjEgNy45OTY5OCAyLjQ5OEM3Ljk5Njk4IDIuNDM1IDguMDE2OTggMi4zNzQgOC4wNTI5OCAyLjMyM0M4LjA4ODk4IDIuMjcyIDguMTM5OTggMi4yMzMgOC4xOTg5OCAyLjIxMkw4LjM3MDk4IDIuMTU3SDguMzcyOThaTTE1IDYuMDAyQzE1IDYuMDUyIDE0Ljk4NCA2LjEwMSAxNC45NTYgNi4xNDJDMTQuOTI4IDYuMTgzIDE0Ljg4NiA2LjIxNCAxNC44MzkgNi4yM0wxNC4yMjcgNi40MjlDMTQuMDQxIDYuNDkxIDEzLjg3MiA2LjU5NSAxMy43MzMgNi43MzRDMTMuNTk0IDYuODczIDEzLjQ5IDcuMDQyIDEzLjQyOCA3LjIyOEwxMy4yMjkgNy44NEMxMy4yMTIgNy44ODcgMTMuMTgyIDcuOTI4IDEzLjE0MSA3Ljk1N0MxMy4xIDcuOTg2IDEzLjA1MSA4LjAwMSAxMy4wMDEgOC4wMDFIMTIuOTk0QzEyLjk0NSA4LjAwMSAxMi44OTggNy45ODUgMTIuODU4IDcuOTU3QzEyLjgxNyA3LjkyOCAxMi43ODYgNy44ODcgMTIuNzcgNy44NEwxMi41NyA3LjIyOEMxMi41MDggNy4wNDIgMTIuNDAzIDYuODcyIDEyLjI2NSA2LjczM0MxMi4xMjYgNi41OTQgMTEuOTU3IDYuNDkgMTEuNzcgNi40MjhMMTEuNzQ2IDYuNDJWNi40MTdMMTEuMTYzIDYuMjI4QzExLjExNiA2LjIxMSAxMS4wNzUgNi4xOCAxMS4wNDYgNi4xNEMxMS4wMTcgNi4wOTkgMTEuMDAyIDYuMDUgMTEuMDAyIDZDMTEuMDAyIDUuOTUgMTEuMDE4IDUuOTAxIDExLjA0NiA1Ljg2QzExLjA3NCA1LjgxOSAxMS4xMTYgNS43ODggMTEuMTYzIDUuNzcyTDExLjc3NSA1LjU3M0MxMS45NTkgNS41MSAxMi4xMjYgNS40MDQgMTIuMjYyIDUuMjY2QzEyLjM5OSA1LjEyNyAxMi41MDEgNC45NTkgMTIuNTYyIDQuNzc1TDEyLjc2MSA0LjE2M0MxMi43NzggNC4xMTYgMTIuODA5IDQuMDc1IDEyLjg0OSA0LjA0NkMxMi44OSA0LjAxNyAxMi45MzkgNC4wMDIgMTIuOTg5IDQuMDAyQzEzLjAzOSA0LjAwMiAxMy4wODggNC4wMTggMTMuMTI5IDQuMDQ2QzEzLjE3IDQuMDc1IDEzLjIwMSA0LjExNiAxMy4yMTcgNC4xNjNMMTMuNDE2IDQuNzc1QzEzLjQ3OCA0Ljk2MSAxMy41ODIgNS4xMyAxMy43MjEgNS4yNjlDMTMuODYgNS40MDggMTQuMDI5IDUuNTEyIDE0LjIxNSA1LjU3NFY1LjU3MkwxNC44MjcgNS43NzFMMTQuODM5IDUuNzc0QzE0Ljg4NiA1Ljc5MSAxNC45MjcgNS44MjIgMTQuOTU2IDUuODYyQzE0Ljk4NSA1LjkwMyAxNSA1Ljk1MiAxNSA2LjAwMloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=lightbulb-sparkle)
   /// Codicon icon named "lightbulb sparkle".
   static const IconData lightbulbSparkle = IconData(
     0xEC1F,
@@ -4476,7 +4476,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/fold-vertical.svg)](https://github.com/microsoft/vscode-codicons/search?q=fold-vertical)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/fold-vertical.svg)](https://github.com/microsoft/vscode-codicons/search?q=fold-vertical)
   /// Codicon icon named "fold vertical".
   static const IconData foldVertical = IconData(
     0xEC30,
@@ -4492,7 +4492,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/fold-vertical-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=fold-vertical-filled)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/fold-vertical-filled.svg)](https://github.com/microsoft/vscode-codicons/search?q=fold-vertical-filled)
   /// Codicon icon named "fold vertical filled".
   static const IconData foldVerticalFilled = IconData(
     0xEC31,
@@ -4516,7 +4516,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/sort-percentage.svg)](https://github.com/microsoft/vscode-codicons/search?q=sort-percentage)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/sort-percentage.svg)](https://github.com/microsoft/vscode-codicons/search?q=sort-percentage)
   /// Codicon icon named "sort percentage".
   static const IconData sortPercentage = IconData(
     0xEC33,
@@ -4556,7 +4556,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS41IDdDOS4wMTUgNyA3IDkuMDE1IDcgMTEuNUM3IDEzLjk4NSA5LjAxNSAxNiAxMS41IDE2QzEzLjk4NSAxNiAxNiAxMy45ODUgMTYgMTEuNUMxNiA5LjAxNSAxMy45ODUgNyAxMS41IDdaTTExIDlDMTEgOC43MjQgMTEuMjI0IDguNSAxMS41IDguNUMxMS43NzYgOC41IDEyIDguNzI0IDEyIDlWMTEuNUMxMiAxMS43NzYgMTEuNzc2IDEyIDExLjUgMTJDMTEuMjI0IDEyIDExIDExLjc3NiAxMSAxMS41VjlaTTExLjUgMTQuMjVDMTEuMDg2IDE0LjI1IDEwLjc1IDEzLjkxNCAxMC43NSAxMy41QzEwLjc1IDEzLjA4NiAxMS4wODYgMTIuNzUgMTEuNSAxMi43NUMxMS45MTQgMTIuNzUgMTIuMjUgMTMuMDg2IDEyLjI1IDEzLjVDMTIuMjUgMTMuOTE0IDExLjkxNCAxNC4yNSAxMS41IDE0LjI1Wk0yLjk5NiAxMi4xMThWNy44NjJMMy4wMTkgNy43NDZDMy41MSA3Ljk1NiA0LjA5NCA4LjAzNyA0Ljc0NiA4LjAzN0M1Ljg5MyA4LjAzNyA2LjgwNiA3LjcxIDcuNDU2IDcuMDQ2QzcuNjcyIDYuODI2IDcuODU1IDYuNTc1IDggNi4zMDNDOC4wNDIgNi4zODIgOC4xMDUgNi40NDcgOC4xNTQgNi41MjJDOC41NjcgNi4yNDMgOS4wMiA2LjAyMSA5LjQ5NyA1Ljg1MUM5LjI0NyA1LjUyOSA5LjA3MyA1LjA3NCA4Ljk5NCA0LjQ0NEM4Ljg3NyAzLjUwOSA5LjAzMiAzLjA0OSA5LjIzNiAyLjgzQzkuNDI5IDIuNjI0IDkuODczIDIuNDE3IDEwLjkxNyAyLjUzM0MxMS45MzcgMi42NDYgMTIuMzk3IDIuOTM3IDEyLjYzIDMuMjMzQzEyLjg3NyAzLjU0NSAxMyA0LjAyMiAxMyA0Ljc4N0MxMyA1LjE3MyAxMi45NjkgNS40NiAxMi45MTcgNS42NzZDMTMuNDA2IDUuNzk1IDEzLjg3MyA1Ljk3IDE0LjMwNyA2LjIwMUMxNC40NDIgNS43NTMgMTQuNSA1LjI3MyAxNC41IDQuNzg3QzE0LjUgMy45MTcgMTQuMzczIDMuMDE4IDEzLjgwNyAyLjMwM0MxMy4yMjggMS41NyAxMi4zMTMgMS4xNzkgMTEuMDgzIDEuMDQyQzkuODc3IDAuOTA3OTk3IDguODIxIDEuMDc2IDguMTM5IDEuODA3QzguMDkgMS44NiA4LjA0IDEuOTE1IDcuOTk2IDEuOTcyQzcuOTUzIDEuOTE1IDcuOTA3IDEuODYgNy44NTcgMS44MDdDNy4xNzUgMS4wNzYgNi4xMTkgMC45MDc5OTcgNC45MTMgMS4wNDJDMy42ODMgMS4xNzkgMi43NjggMS41NyAyLjE4OSAyLjMwM0MxLjYyNCAzLjAxOCAxLjQ5NiAzLjkxNyAxLjQ5NiA0Ljc4N0MxLjQ5NiA1LjM1OSAxLjU0OSA1LjkzNSAxLjc1IDYuNDQzQzEuNjg0IDYuNjcxIDEuNjUzIDYuODcyIDEuNjI0IDcuMDU1QzEuNjEyIDcuMTMgMS42MDEgNy4yMDMgMS41ODggNy4yNzNDMC42NzcgNy42NTIgMC4wODUgOC43MSAwIDkuMzM4VjExLjI4NkMwLjExMiAxMi4wMzIgMi43NyAxNC40MzIgNi41ODggMTQuOTM2QzYuMjI5IDE0LjQyNCA1Ljk0NiAxMy44NTUgNS43NiAxMy4yNDRDNC4zODEgMTIuODkxIDMuMjc0IDEyLjMzMiAyLjk5NiAxMi4xMThaTTMuMzY3IDMuMjMzQzMuNjAxIDIuOTM3IDQuMDYxIDIuNjQ2IDUuMDggMi41MzNDNi4xMjUgMi40MTcgNi41NjkgMi42MjQgNi43NjIgMi44M0M2Ljk2NiAzLjA0OSA3LjEyIDMuNTA5IDcuMDAzIDQuNDQ0QzYuOTEzIDUuMTcgNi43MDEgNS42NzUgNi4zODYgNS45OTdDNi4wODcgNi4zMDIgNS42MDEgNi41MzcgNC43NDggNi41MzdDMy44MjUgNi41MzcgMy40NjggNi4zMzkgMy4zMDYgNi4xNThDMy4xMjcgNS45NTggMi45OTggNS41OCAyLjk5OCA0Ljc4N0MyLjk5OCA0LjAyMiAzLjEyIDMuNTQ1IDMuMzY3IDMuMjMzWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=copilot-warning)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEuNSA3LjAwMDAxQzkuMDIwMDMgNy4wMDAwMSA3LjAwMDAzIDkuMDIwMDEgNy4wMDAwMyAxMS41QzcuMDAwMDMgMTMuOTggOS4wMjAwMyAxNiAxMS41IDE2QzEzLjk4IDE2IDE2IDEzLjk5IDE2IDExLjVDMTYgOS4wMTAwMSAxMy45OCA3LjAwMDAxIDExLjUgNy4wMDAwMVpNMTEgOS4wMDAwMUMxMSA4LjcyMDAxIDExLjIyIDguNTAwMDEgMTEuNSA4LjUwMDAxQzExLjc4IDguNTAwMDEgMTIgOC43MjAwMSAxMiA5LjAwMDAxVjExLjVDMTIgMTEuNzggMTEuNzggMTIgMTEuNSAxMkMxMS4yMiAxMiAxMSAxMS43OCAxMSAxMS41VjkuMDAwMDFaTTExLjUgMTQuMjVDMTEuMDkgMTQuMjUgMTAuNzUgMTMuOTEgMTAuNzUgMTMuNUMxMC43NSAxMy4wOSAxMS4wOSAxMi43NSAxMS41IDEyLjc1QzExLjkxIDEyLjc1IDEyLjI1IDEzLjA5IDEyLjI1IDEzLjVDMTIuMjUgMTMuOTEgMTEuOTEgMTQuMjUgMTEuNSAxNC4yNVpNMy4zMTAwMyAxMS44NFY3Ljg1MDAxTDMuMzMwMDMgNy43NDAwMUMzLjc5MDAzIDcuOTQwMDEgNC4zNDAwMyA4LjAxMDAxIDQuOTUwMDMgOC4wMTAwMUM2LjAzMDAzIDguMDEwMDEgNi44ODAwMyA3LjcwMDAxIDcuNDkwMDMgNy4wODAwMUM3LjY5MDAzIDYuODcwMDEgNy44NjAwMyA2LjY0MDAxIDguMDAwMDMgNi4zODAwMUM4LjExMDAzIDYuNTkwMDEgOC4yNjAwMyA2Ljc3MDAxIDguNDEwMDMgNi45NDAwMUM4LjgyMDAzIDYuNjYwMDEgOS4yNzAwMyA2LjQ0MDAxIDkuNzQwMDMgNi4yODAwMUM5LjY1MDAzIDYuMjIwMDEgOS41ODAwMyA2LjE2MDAxIDkuNTEwMDMgNi4wOTAwMUM5LjIxMDAzIDUuNzkwMDEgOS4wMjAwMyA1LjMxMDAxIDguOTMwMDMgNC42MzAwMUM4LjgyMDAzIDMuNzUwMDEgOC45NzAwMyAzLjMyMDAxIDkuMTYwMDMgMy4xMjAwMUM5LjM0MDAzIDIuOTMwMDEgOS43NjAwMyAyLjczMDAxIDEwLjc0IDIuODQwMDFDMTEuNyAyLjk1MDAxIDEyLjEzIDMuMjIwMDEgMTIuMzUgMy41MDAwMUMxMi41OCAzLjc5MDAxIDEyLjcgNC4yNDAwMSAxMi43IDQuOTYwMDFDMTIuNyA1LjUzMDAxIDEyLjYzIDUuODcwMDEgMTIuNTIgNi4wODAwMUMxMyA2LjE3MDAxIDEzLjQ1IDYuMzIwMDEgMTMuODcgNi41MjAwMUMxMy44NyA2LjUyMDAxIDEzLjg3IDYuNTIwMDEgMTMuODcgNi41MTAwMUMxNC4wNiA2LjAzMDAxIDE0LjExIDUuNDkwMDEgMTQuMTEgNC45NjAwMUMxNC4xMSA0LjE0MDAxIDEzLjk5IDMuMzAwMDEgMTMuNDYgMi42MzAwMUMxMi45MiAxLjk0MDAxIDEyLjA2IDEuNTgwMDEgMTAuOTEgMS40NTAwMUM5Ljc4MDAzIDEuMzIwMDEgOC43OTAwMyAxLjQ4MDAxIDguMTUwMDMgMi4xNzAwMUM4LjEwMDAzIDIuMjIwMDEgOC4wNjAwMyAyLjI3MDAxIDguMDIwMDMgMi4zMjAwMUM3Ljk4MDAzIDIuMjcwMDEgNy45NDAwMyAyLjIxMDAxIDcuODkwMDMgMi4xNzAwMUM3LjI1MDAzIDEuNDgwMDEgNi4yNjAwMyAxLjMzMDAxIDUuMTMwMDMgMS40NTAwMUMzLjk4MDAzIDEuNTgwMDEgMy4xMjAwMyAxLjk0MDAxIDIuNTgwMDMgMi42MzAwMUMyLjA1MDAzIDMuMzAwMDEgMS45MzAwMyA0LjE0MDAxIDEuOTMwMDMgNC45NjAwMUMxLjkzMDAzIDUuNTAwMDEgMS45ODAwMyA2LjA0MDAxIDIuMTcwMDMgNi41MTAwMUMyLjExMDAzIDYuNzIwMDEgMi4wODAwMyA2LjkxMDAxIDIuMDUwMDMgNy4wODAwMUMyLjA0MDAzIDcuMTUwMDEgMi4wMzAwMyA3LjIyMDAxIDIuMDIwMDMgNy4yOTAwMUMxLjE3MDAzIDcuNjUwMDEgMC42MTAwMjkgOC42NDAwMSAwLjUzMDAyOSA5LjIzMDAxVjExLjA2QzAuNjQwMDI5IDExLjc3IDMuMjMwMDMgMTQuMSA2LjkzMDAzIDE0LjUxQzYuNjIwMDMgMTQuMDQgNi4zOTAwMyAxMy41MiA2LjIzMDAzIDEyLjk3QzQuODAwMDMgMTIuNjUgMy42MTAwMyAxMi4wNiAzLjMzMDAzIDExLjg1TDMuMzEwMDMgMTEuODRaTTMuNjYwMDMgMy41MTAwMUMzLjg4MDAzIDMuMjMwMDEgNC4zMTAwMyAyLjk2MDAxIDUuMjcwMDMgMi44NTAwMUM2LjI1MDAzIDIuNzQwMDEgNi42NzAwMyAyLjk0MDAxIDYuODUwMDMgMy4xMzAwMUM3LjA0MDAzIDMuMzQwMDEgNy4xOTAwMyAzLjc3MDAxIDcuMDgwMDMgNC42NDAwMUM3LjAwMDAzIDUuMzIwMDEgNi44MDAwMyA1Ljc5MDAxIDYuNTAwMDMgNi4xMDAwMUM2LjIyMDAzIDYuMzkwMDEgNS43NjAwMyA2LjYxMDAxIDQuOTYwMDMgNi42MTAwMUM0LjA5MDAzIDYuNjEwMDEgMy43NjAwMyA2LjQyMDAxIDMuNjEwMDMgNi4yNTAwMUMzLjQ0MDAzIDYuMDYwMDEgMy4zMjAwMyA1LjcxMDAxIDMuMzIwMDMgNC45NjAwMUMzLjMyMDAzIDQuMjEwMDEgMy40MzAwMyAzLjgwMDAxIDMuNjcwMDMgMy41MDAwMUwzLjY2MDAzIDMuNTEwMDFaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-warning)
   /// Codicon icon named "copilot warning".
   static const IconData copilotWarning = IconData(
     0xEC38,
@@ -4596,7 +4596,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNC4yMDEgMTIuNjg0SDQuMTk5QzMuNzE1IDEyLjQ3OSAzLjMyOSAxMi4yNzQgMy4wNjUgMTIuMTIzTDMgMTIuMDg1VjcuODI0TDMuMDIzIDcuNzA5QzMuNTEzIDcuOTE5IDQuMDk4IDggNC43NSA4QzUuODk2IDggNi44MSA3LjY3MiA3LjQ2IDcuMDA5QzcuNjc5IDYuNzg1IDcuODU3IDYuNTM1IDggNi4yNjZDOC4wNDcgNi4zNTQgOC4xMDQgNi40MzYgOC4xNTggNi41MkM4LjU3NyA2LjIzOCA5LjAzNiA2LjAxMyA5LjUyIDUuODQzQzkuMjU4IDUuNTIgOS4wNzUgNS4wNTcgOC45OTQgNC40MDdDOC44NzcgMy40NzEgOS4wMzIgMy4wMTEgOS4yMzYgMi43OTNDOS40MjkgMi41ODYgOS44NzMgMi4zNzkgMTAuOTE3IDIuNDk1QzExLjkzNyAyLjYwOCAxMi4zOTYgMi44OTkgMTIuNjMgMy4xOTVDMTIuODc3IDMuNTA4IDEzIDMuOTg0IDEzIDQuNzVDMTMgNS4xNTggMTIuOTY1IDUuNDUzIDEyLjkwNyA1LjY3NEMxMy4zOTYgNS43OTIgMTMuODYzIDUuOTY3IDE0LjI5OCA2LjE5N0MxNC40NDEgNS43NDEgMTQuNSA1LjI0OCAxNC41IDQuNzVDMTQuNSAzLjg3OSAxNC4zNzIgMi45ODEgMTMuODA3IDIuMjY1QzEzLjIyOCAxLjUzMiAxMi4zMTMgMS4xNDEgMTEuMDgzIDEuMDA0QzkuODc3IDAuODcwMDAyIDguODIxIDEuMDM4IDguMTM5IDEuNzY5QzguMDkgMS44MjIgOC4wNDMgMS44NzcgOCAxLjkzM0M3Ljk1NyAxLjg3NyA3LjkxIDEuODIyIDcuODYxIDEuNzY5QzcuMTc5IDEuMDM4IDYuMTIzIDAuODcwMDAyIDQuOTE3IDEuMDA0QzMuNjg3IDEuMTQxIDIuNzcyIDEuNTMyIDIuMTkzIDIuMjY1QzEuNjI4IDIuOTgxIDEuNSAzLjg3OSAxLjUgNC43NUMxLjUgNS4zMjIgMS41NTMgNS44OTcgMS43NTQgNi40MDVMMS41ODYgNy4yNDNMMS41MiA3LjI3NkMwLjU4OCA3Ljc0MiAwIDguNjk0IDAgOS43MzZWMTFDMCAxMS4yNCAwLjA4NiAxMS40MzggMC4xNTYgMTEuNTY3QzAuMjMxIDExLjcwNCAwLjMyNSAxMS44MjggMC40MTUgMTEuOTMzQzAuNTk1IDEyLjE0MyAwLjgxOSAxMi4zNDYgMS4wMiAxMi41MTNDMS4yMjUgMTIuNjg0IDEuNDI3IDEyLjgzNiAxLjU3NyAxMi45NDNDMS44MTYgMTMuMTE2IDIuMDYyIDEzLjI3NSAyLjMxOCAxMy40MjNDMi42MjUgMTMuNiAzLjA2NiAxMy44MzIgMy42MTQgMTQuMDY1QzQuMzkxIDE0LjM5NSA1LjQwNCAxNC43MjIgNi41NTMgMTQuODg3QzYuMjAzIDE0LjM3NyA1LjkzMSAxMy44MDkgNS43NTEgMTMuMjAyQzUuMTczIDEzLjA1NSA0LjY0NSAxMi44NzMgNC4yMDEgMTIuNjg0Wk0zLjM3IDMuMTk1QzMuNjA0IDIuODk5IDQuMDYzIDIuNjA5IDUuMDgzIDIuNDk1QzYuMTI3IDIuMzc5IDYuNTcxIDIuNTg2IDYuNzY0IDIuNzkzQzYuOTY4IDMuMDExIDcuMTIzIDMuNDcxIDcuMDA2IDQuNDA3QzYuOTE1IDUuMTMzIDYuNzA0IDUuNjM3IDYuMzg4IDUuOTU5QzYuMDg5IDYuMjY0IDUuNjA0IDYuNSA0Ljc1IDYuNUMzLjgyOCA2LjUgMy40NyA2LjMwMSAzLjMwOCA2LjEyQzMuMTI5IDUuOTIgMyA1LjU0MiAzIDQuNzVDMyAzLjk4NCAzLjEyMyAzLjUwOCAzLjM3IDMuMTk1WiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEuNSA3QzkuMDE1IDcgNyA5LjAxNSA3IDExLjVDNyAxMy45ODUgOS4wMTUgMTYgMTEuNSAxNkMxMy45ODUgMTYgMTYgMTMuOTg1IDE2IDExLjVDMTYgOS4wMTUgMTMuOTg1IDcgMTEuNSA3Wk0xNCAxMkw5LjI0OTk2IDEyLjA2N0M4Ljk3Mzk2IDEyLjA2NyA4Ljc0OTk2IDExLjg0MyA4Ljc0OTk2IDExLjU2N0M4Ljc0OTk2IDExLjI5MSA4Ljk3Mzk2IDExLjA2NyA5LjI0OTk2IDExLjA2N0wxNCAxMUMxNC4yNzYgMTEgMTQuNSAxMS4yMjQgMTQuNSAxMS41QzE0LjUgMTEuNzc2IDE0LjI3NiAxMiAxNCAxMloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=copilot-blocked)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEuNSA3LjAwMDAxQzkuMDIwMDMgNy4wMDAwMSA3LjAwMDAzIDkuMDIwMDEgNy4wMDAwMyAxMS41QzcuMDAwMDMgMTMuOTggOS4wMjAwMyAxNiAxMS41IDE2QzEzLjk4IDE2IDE2IDEzLjk4IDE2IDExLjVDMTYgOS4wMjAwMSAxMy45OCA3LjAwMDAxIDExLjUgNy4wMDAwMVpNMTQgMTJMOS4yNTAwMyAxMi4wN0M4Ljk3MDAzIDEyLjA3IDguNzUwMDMgMTEuODUgOC43NTAwMyAxMS41N0M4Ljc1MDAzIDExLjI5IDguOTcwMDMgMTEuMDcgOS4yNTAwMyAxMS4wN0wxNCAxMUMxNC4yOCAxMSAxNC41IDExLjIyIDE0LjUgMTEuNUMxNC41IDExLjc4IDE0LjI4IDEyIDE0IDEyWk0zLjMxMDAzIDExLjg0VjcuODUwMDFMMy4zMzAwMyA3Ljc0MDAxQzMuNzkwMDMgNy45NDAwMSA0LjM0MDAzIDguMDEwMDEgNC45NTAwMyA4LjAxMDAxQzYuMDMwMDMgOC4wMTAwMSA2Ljg4MDAzIDcuNzAwMDEgNy40OTAwMyA3LjA4MDAxQzcuNjkwMDMgNi44NzAwMSA3Ljg2MDAzIDYuNjQwMDEgOC4wMDAwMyA2LjM4MDAxQzguMTEwMDMgNi41OTAwMSA4LjI2MDAzIDYuNzcwMDEgOC40MTAwMyA2Ljk0MDAxQzguODIwMDMgNi42NjAwMSA5LjI3MDAzIDYuNDQwMDEgOS43NDAwMyA2LjI4MDAxQzkuNjUwMDMgNi4yMjAwMSA5LjU4MDAzIDYuMTYwMDEgOS41MTAwMyA2LjA5MDAxQzkuMjEwMDMgNS43OTAwMSA5LjAyMDAzIDUuMzEwMDEgOC45MzAwMyA0LjYzMDAxQzguODIwMDMgMy43NTAwMSA4Ljk3MDAzIDMuMzIwMDEgOS4xNjAwMyAzLjEyMDAxQzkuMzQwMDMgMi45MzAwMSA5Ljc2MDAzIDIuNzMwMDEgMTAuNzQgMi44NDAwMUMxMS43IDIuOTUwMDEgMTIuMTMgMy4yMjAwMSAxMi4zNSAzLjUwMDAxQzEyLjU4IDMuNzkwMDEgMTIuNyA0LjI0MDAxIDEyLjcgNC45NjAwMUMxMi43IDUuNTMwMDEgMTIuNjMgNS44NzAwMSAxMi41MiA2LjA4MDAxQzEzIDYuMTcwMDEgMTMuNDUgNi4zMjAwMSAxMy44NyA2LjUyMDAxQzEzLjg3IDYuNTIwMDEgMTMuODcgNi41MjAwMSAxMy44NyA2LjUxMDAxQzE0LjA2IDYuMDMwMDEgMTQuMTEgNS40OTAwMSAxNC4xMSA0Ljk2MDAxQzE0LjExIDQuMTQwMDEgMTMuOTkgMy4zMDAwMSAxMy40NiAyLjYzMDAxQzEyLjkyIDEuOTQwMDEgMTIuMDYgMS41ODAwMSAxMC45MSAxLjQ1MDAxQzkuNzgwMDMgMS4zMjAwMSA4Ljc5MDAzIDEuNDgwMDEgOC4xNTAwMyAyLjE3MDAxQzguMTAwMDMgMi4yMjAwMSA4LjA2MDAzIDIuMjcwMDEgOC4wMjAwMyAyLjMyMDAxQzcuOTgwMDMgMi4yNzAwMSA3Ljk0MDAzIDIuMjEwMDEgNy44OTAwMyAyLjE3MDAxQzcuMjUwMDMgMS40ODAwMSA2LjI2MDAzIDEuMzMwMDEgNS4xMzAwMyAxLjQ1MDAxQzMuOTgwMDMgMS41ODAwMSAzLjEyMDAzIDEuOTQwMDEgMi41ODAwMyAyLjYzMDAxQzIuMDUwMDMgMy4zMDAwMSAxLjkzMDAzIDQuMTQwMDEgMS45MzAwMyA0Ljk2MDAxQzEuOTMwMDMgNS41MDAwMSAxLjk4MDAzIDYuMDQwMDEgMi4xNzAwMyA2LjUxMDAxQzIuMTEwMDMgNi43MjAwMSAyLjA4MDAzIDYuOTEwMDEgMi4wNTAwMyA3LjA4MDAxQzIuMDQwMDMgNy4xNTAwMSAyLjAzMDAzIDcuMjIwMDEgMi4wMjAwMyA3LjI5MDAxQzEuMTcwMDMgNy42NTAwMSAwLjYxMDAyOSA4LjY0MDAxIDAuNTMwMDI5IDkuMjMwMDFWMTEuMDZDMC42NDAwMjkgMTEuNzcgMy4yMzAwMyAxNC4xIDYuOTMwMDMgMTQuNTFDNi42MjAwMyAxNC4wNCA2LjM5MDAzIDEzLjUyIDYuMjMwMDMgMTIuOTdDNC44MDAwMyAxMi42NSAzLjYxMDAzIDEyLjA2IDMuMzMwMDMgMTEuODVMMy4zMTAwMyAxMS44NFpNMy42NjAwMyAzLjUxMDAxQzMuODgwMDMgMy4yMzAwMSA0LjMxMDAzIDIuOTYwMDEgNS4yNzAwMyAyLjg1MDAxQzYuMjUwMDMgMi43NDAwMSA2LjY3MDAzIDIuOTQwMDEgNi44NTAwMyAzLjEzMDAxQzcuMDQwMDMgMy4zNDAwMSA3LjE5MDAzIDMuNzcwMDEgNy4wODAwMyA0LjY0MDAxQzcuMDAwMDMgNS4zMjAwMSA2LjgwMDAzIDUuNzkwMDEgNi41MDAwMyA2LjEwMDAxQzYuMjIwMDMgNi4zOTAwMSA1Ljc2MDAzIDYuNjEwMDEgNC45NjAwMyA2LjYxMDAxQzQuMDkwMDMgNi42MTAwMSAzLjc2MDAzIDYuNDIwMDEgMy42MTAwMyA2LjI1MDAxQzMuNDQwMDMgNi4wNjAwMSAzLjMyMDAzIDUuNzEwMDEgMy4zMjAwMyA0Ljk2MDAxQzMuMzIwMDMgNC4yMTAwMSAzLjQzMDAzIDMuODAwMDEgMy42NzAwMyAzLjUwMDAxTDMuNjYwMDMgMy41MTAwMVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=copilot-blocked)
   /// Codicon icon named "copilot blocked".
   static const IconData copilotBlocked = IconData(
     0xEC3D,
@@ -4604,7 +4604,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTQuMzU3IDYuMTE0NTVDMTQuMzQxIDYuMTA0NTUgMTQuMzI0IDYuMDk0NTUgMTQuMzA4IDYuMDg0NTVDMTMuODg4IDUuODM1NTUgMTMuNDM0IDUuNjM2NTUgMTIuOTU3IDUuNDk1NTVDMTIuOTg3IDUuMzA2NTUgMTMuMDA0IDUuMDczNTUgMTMuMDA0IDQuNzg3NTVDMTMuMDA0IDQuMDIxNTUgMTIuODgxIDMuNTQ1NTUgMTIuNjM0IDMuMjMyNTVDMTIuNCAyLjkzNjU1IDExLjk0MSAyLjY0NjU1IDEwLjkyMSAyLjUzMjU1QzkuODc2OTUgMi40MTY1NSA5LjQzMjk1IDIuNjIzNTUgOS4yMzk5NSAyLjgzMDU1QzkuMDM1OTUgMy4wNDg1NSA4Ljg4MDk1IDMuNTA4NTUgOC45OTc5NSA0LjQ0NDU1QzkuMDU1OTUgNC45MDY1NSA5LjE2MTk1IDUuMjc4NTUgOS4zMTM5NSA1LjU3MTU1QzguOTI2OTUgNS43MDM1NSA4LjU1Njk1IDUuODc0NTUgOC4yMDk5NSA2LjA3OTU1QzcuNDg2OTUgNi41MDU1NSA2Ljg2MDk1IDcuMDc5NTUgNi4zNzM5NSA3Ljc2MDU1QzUuOTAxOTUgNy45NDY1NSA1LjM1ODk1IDguMDM4NTUgNC43NTA5NSA4LjAzODU1QzQuMDk4OTUgOC4wMzg1NSAzLjUxMzk1IDcuOTU2NTUgMy4wMjM5NSA3Ljc0NzU1TDMuMDAwOTUgNy44NjM1NVYxMi4xMTg2QzMuMjY1OTUgMTIuMzIzNiA0LjI4NTk1IDEyLjg0MzYgNS41Nzc5NSAxMy4xOTY2QzUuNjk5OTUgMTMuNTUyNiA1Ljg1NDk1IDEzLjg5NDYgNi4wMzg5NSAxNC4yMTc2QzYuMTgxOTUgMTQuNDY3NiA2LjM0MTk1IDE0LjcwNzYgNi41MTc5NSAxNC45MzM2QzIuNjU1OTUgMTQuMzk3NiAwLjAwMTk1MzEyIDExLjkyMzYgMC4wMDE5NTMxMiAxMS4yNDE2VjkuMzY4NTVDMC4wNzA5NTMxIDguNzQ0NTUgMC42Njg5NTMgNy42NTk1NSAxLjU5Mjk1IDcuMjc0NTVDMS42MDU5NSA3LjIwNDU1IDEuNjE3OTUgNy4xMzE1NSAxLjYyODk1IDcuMDU2NTVDMS42NTc5NSA2Ljg3MzU1IDEuNjg4OTUgNi42NzI1NSAxLjc1NTk1IDYuNDQ0NTVDMS41NTQ5NSA1LjkzNjU1IDEuNTAxOTUgNS4zNjE1NSAxLjUwMTk1IDQuNzg5NTVDMS41MDE5NSAzLjkxODU1IDEuNjI4OTUgMy4wMjA1NSAyLjE5NDk1IDIuMzA0NTVDMi43NzM5NSAxLjU3MTU1IDMuNjg4OTUgMS4xODA1NSA0LjkxODk1IDEuMDQzNTVDNi4xMjQ5NSAwLjkwOTU1MyA3LjE4MDk1IDEuMDc3NTUgNy44NjI5NSAxLjgwODU1QzcuOTExOTUgMS44NjE1NSA3Ljk1ODk1IDEuOTE2NTUgOC4wMDE5NSAxLjk3MzU1QzguMDQ0OTUgMS45MTc1NSA4LjA5NDk1IDEuODYxNTUgOC4xNDQ5NSAxLjgwODU1QzguODI2OTUgMS4wNzc1NSA5Ljg4Mjk1IDAuOTA5NTUzIDExLjA4OSAxLjA0MzU1QzEyLjMxOSAxLjE4MDU1IDEzLjIzNCAxLjU3MTU1IDEzLjgxMyAyLjMwNDU1QzE0LjM3OCAzLjAyMDU1IDE0LjUwNiAzLjkxODU1IDE0LjUwNiA0Ljc4OTU1QzE0LjUwNiA1LjI0MTU1IDE0LjQ3MyA1LjY5NTU1IDE0LjM2IDYuMTE2NTVMMTQuMzU3IDYuMTE0NTVaTTYuNzY1OTUgMi44MzA1NUM2LjU3Mjk1IDIuNjIzNTUgNi4xMjg5NSAyLjQxNjU1IDUuMDg0OTUgMi41MzI1NUM0LjA2NDk1IDIuNjQ1NTUgMy42MDQ5NSAyLjkzNjU1IDMuMzcxOTUgMy4yMzI1NUMzLjEyNDk1IDMuNTQ1NTUgMy4wMDE5NSA0LjAyMTU1IDMuMDAxOTUgNC43ODc1NUMzLjAwMTk1IDUuNTc5NTUgMy4xMzA5NSA1Ljk1ODU1IDMuMzA5OTUgNi4xNTc1NUMzLjQ3MTk1IDYuMzM4NTUgMy44Mjg5NSA2LjUzNzU1IDQuNzUxOTUgNi41Mzc1NUM1LjYwNTk1IDYuNTM3NTUgNi4wOTA5NSA2LjMwMTU1IDYuMzg5OTUgNS45OTY1NUM2LjcwNDk1IDUuNjc0NTUgNi45MTY5NSA1LjE3MDU1IDcuMDA3OTUgNC40NDQ1NUM3LjEyNDk1IDMuNTA4NTUgNi45Njk5NSAzLjA0ODU1IDYuNzY1OTUgMi44MzA1NVoiLz48cGF0aCBkPSJNMTEuMjU0IDcuNzUwNTVDMTIuMTg5IDcuNzUwNTUgMTMuMDY4IDguMTE0NTUgMTMuNzI5IDguNzc1NTVDMTUuMDk0IDEwLjE0MDYgMTUuMDk0IDEyLjM2MDYgMTMuNzI5IDEzLjcyNTZDMTMuMDY4IDE0LjM4NjYgMTIuMTg5IDE0Ljc1MDYgMTEuMjU0IDE0Ljc1MDZDMTAuMzE5IDE0Ljc1MDYgOS40Mzk5NSAxNC4zODY2IDguNzc4OTUgMTMuNzI1NkM3LjQxMzk1IDEyLjM2MDYgNy40MTM5NSAxMC4xNDA2IDguNzc4OTUgOC43NzU1NUM5LjQzOTk1IDguMTE0NTUgMTAuMzE5IDcuNzUwNTUgMTEuMjU0IDcuNzUwNTVaTTExLjI1NCA2Ljc1MDU1QzEwLjEwMiA2Ljc1MDU1IDguOTUwOTUgNy4xODk1NSA4LjA3MTk1IDguMDY4NTVDNi4zMTQ5NSA5LjgyNTU1IDYuMzE0OTUgMTIuNjc1NiA4LjA3MTk1IDE0LjQzMjZDOC45NTA5NSAxNS4zMTE2IDEwLjEwMiAxNS43NTA2IDExLjI1NCAxNS43NTA2QzEyLjQwNiAxNS43NTA2IDEzLjU1NyAxNS4zMTE2IDE0LjQzNiAxNC40MzI2QzE2LjE5MyAxMi42NzU2IDE2LjE5MyA5LjgyNTU1IDE0LjQzNiA4LjA2ODU1QzEzLjU1NyA3LjE4OTU1IDEyLjQwNiA2Ljc1MDU1IDExLjI1NCA2Ljc1MDU1WiIvPjxwYXRoIGQ9Ik0xMi42NjggOS4wODY1NUMxMi40NzYgOS4wODY1NSAxMi4yODQgOS4xNTk1NSAxMi4xMzggOS4zMDY1NUwxMS4yNTQgMTAuMTkwNkwxMC4zNyA5LjMwNjU1QzEwLjIyNCA5LjE2MDU1IDEwLjAzMiA5LjA4NjU1IDkuODM5OTUgOS4wODY1NUM5LjY0Nzk1IDkuMDg2NTUgOS40NTU5NSA5LjE1OTU1IDkuMzA5OTUgOS4zMDY1NUM5LjAxNjk1IDkuNTk5NTUgOS4wMTY5NSAxMC4wNzQ2IDkuMzA5OTUgMTAuMzY3NkwxMC4xOTQgMTEuMjUxNkw5LjMwOTk1IDEyLjEzNTZDOS4wMTY5NSAxMi40Mjg2IDkuMDE2OTUgMTIuOTAzNiA5LjMwOTk1IDEzLjE5NjZDOS40NTU5NSAxMy4zNDI2IDkuNjQ3OTUgMTMuNDE2NiA5LjgzOTk1IDEzLjQxNjZDMTAuMDMyIDEzLjQxNjYgMTAuMjI0IDEzLjM0MzYgMTAuMzcgMTMuMTk2NkwxMS4yNTQgMTIuMzEyNkwxMi4xMzggMTMuMTk2NkMxMi4yODQgMTMuMzQyNiAxMi40NzYgMTMuNDE2NiAxMi42NjggMTMuNDE2NkMxMi44NiAxMy40MTY2IDEzLjA1MiAxMy4zNDM2IDEzLjE5OCAxMy4xOTY2QzEzLjQ5MSAxMi45MDM2IDEzLjQ5MSAxMi40Mjg2IDEzLjE5OCAxMi4xMzU2TDEyLjMxNCAxMS4yNTE2TDEzLjE5OCAxMC4zNjc2QzEzLjQ5MSAxMC4wNzQ2IDEzLjQ5MSA5LjU5OTU1IDEzLjE5OCA5LjMwNjU1QzEzLjA1MiA5LjE2MDU1IDEyLjg2IDkuMDg2NTUgMTIuNjY4IDkuMDg2NTVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-not-connected)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMi45MTAyIDkuMzI5ODhDMTMuMTAwMSA5LjMyOTkxIDEzLjI5MDUgOS40MDA2MiAxMy40NDA0IDkuNTUwNTlDMTMuNzMgOS44NDA1NSAxMy43MzAxIDEwLjMyMDMgMTMuNDQwNCAxMC42MTAyTDEyLjU1OTYgMTEuNDlMMTMuNDQwNCAxMi4zNjk5QzEzLjczMDMgMTIuNjU5OSAxMy43MzAzIDEzLjE0MDUgMTMuNDQwNCAxMy40MzA1QzEzLjI5MDUgMTMuNTgwNCAxMy4xMDAxIDEzLjY1MDIgMTIuOTEwMiAxMy42NTAyQzEyLjcyMDIgMTMuNjUwMiAxMi41Mjk5IDEzLjU4MDQgMTIuMzc5OSAxMy40MzA1TDExLjUgMTIuNTUwNkwxMC42MjAxIDEzLjQzMDVDMTAuNDcwMSAxMy41ODA0IDEwLjI3OTggMTMuNjUwMiAxMC4wODk4IDEzLjY1MDJDOS44OTk5MSAxMy42NTAyIDkuNzA5NTIgMTMuNTgwNCA5LjU1OTU3IDEzLjQzMDVDOS4yNjk2OSAxMy4xNDA1IDkuMjY5NjkgMTIuNjU5OSA5LjU1OTU3IDEyLjM2OTlMMTAuNDQwNCAxMS40OUw5LjU1OTU3IDEwLjYxMDJDOS4yNjk5NiAxMC4zMjAzIDkuMjcwMDggOS44NDA1NSA5LjU1OTU3IDkuNTUwNTlDOS43MDk1MiA5LjQwMDY0IDkuODk5OTEgOS4zMjk5MyAxMC4wODk4IDkuMzI5ODhDMTAuMjc5OCA5LjMyOTg4IDEwLjQ3MDEgOS40MDA1OSAxMC42MjAxIDkuNTUwNTlMMTEuNSAxMC40MzA1TDEyLjM3OTkgOS41NTA1OUMxMi41Mjk5IDkuNDAwNTkgMTIuNzIwMiA5LjMyOTg4IDEyLjkxMDIgOS4zMjk4OFoiLz48cGF0aCBkPSJNMTQgMTEuNTMwMUwxMy45NzQ2IDExLjUwNDdMMTQgMTEuNDgwM1YxMS41MzAxWiIvPjxwYXRoIGQ9Ik0xMy45NzQ2IDExLjUwNDdMMTMuOTY5NyAxMS41MTA1VjExLjQ5OThMMTMuOTc0NiAxMS41MDQ3WiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEuNSA2Ljk5OTgxQzEzLjk3OTkgNi45OTk4MSAxNS45OTk4IDkuMDE5OTUgMTYgMTEuNDk5OEMxNiAxMy45Nzk4IDEzLjk4IDE1Ljk5OTggMTEuNSAxNS45OTk4QzkuMDIgMTUuOTk5OCA3IDEzLjk3OTggNyAxMS40OTk4QzcuMDAwMTcgOS4wMTk5NSA5LjAyMDEgNi45OTk4MSAxMS41IDYuOTk5ODFaTTExLjUgNy45OTk4MUM5LjU3MDEgNy45OTk4MSA4LjAwMDE3IDkuNTY5OTUgOCAxMS40OTk4QzggMTMuNDI5OCA5LjU3IDE0Ljk5OTggMTEuNSAxNC45OTk4QzEzLjQzIDE0Ljk5OTggMTUgMTMuNDI5OCAxNSAxMS40OTk4QzE0Ljk5OTggOS41Njk5NSAxMy40Mjk5IDcuOTk5ODEgMTEuNSA3Ljk5OTgxWiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOC4xNTAzOSAyLjE2OTczQzguNzkwNCAxLjQ4MDA2IDkuNzgwMzcgMS4zMjAwMyAxMC45MTAyIDEuNDVDMTIuMDU5OSAxLjU3OTk5IDEyLjkyIDEuOTM5OTEgMTMuNDYgMi42Mjk2OUMxMy45ODk5IDMuMjk5NTkgMTQuMTEwMyA0LjEzOTg4IDE0LjExMDQgNC45NTk3N0MxNC4xMTA0IDUuNDg5NzcgMTQuMDYwMSA2LjAzMDU1IDEzLjg3MDEgNi41MTA1NVY2LjUyMDMxQzEzLjQ1MDIgNi4zMjAzNyAxMy4wMDA0IDYuMTY5ODkgMTIuNTIwNSA2LjA3OTg4QzEyLjYzMDQgNS44Njk4NSAxMi43MDAyIDUuNTI5NDEgMTIuNzAwMiA0Ljk1OTc3QzEyLjcwMDIgNC4yMzk5OCAxMi41Nzk2IDMuNzg5NzYgMTIuMzQ5NiAzLjQ5OTgxQzEyLjEyOTUgMy4yMTk5NiAxMS42OTk3IDIuOTQ5NjEgMTAuNzQwMiAyLjgzOTY1QzkuNzYwNTMgMi43Mjk2OCA5LjM0MDI1IDIuOTI5OTcgOS4xNjAxNiAzLjExOTkyQzguOTcwMTkgMy4zMTk4OSA4LjgxOTggMy43NTAwMSA4LjkyOTY5IDQuNjI5NjlDOS4wMTk2NSA1LjMwOTQxIDkuMjA5OTggNS43ODk2MiA5LjUwOTc3IDYuMDg5NjVDOS41Nzk3NyA2LjE1OTY1IDkuNjUwMjMgNi4yMjAwOCA5Ljc0MDIzIDYuMjgwMDhDOS4yNzAyNSA2LjQ0MDA3IDguODIwMTUgNi42NjAyNSA4LjQxMDE2IDYuOTQwMjRDOC4yNjAxNiA2Ljc3MDI0IDguMTEgNi41ODk2OSA4IDYuMzc5NjlDNy44NjAwNSA2LjYzOTU5IDcuNjkwMTQgNi44Njk5NSA3LjQ5MDIzIDcuMDc5ODhDNi44ODAyNyA3LjY5OTg1IDYuMDMwMTIgOC4wMTA1MiA0Ljk1MDIgOC4wMTA1NUM0LjM0MDIgOC4wMTA1NSAzLjc5MDA4IDcuOTQwMDQgMy4zMzAwOCA3Ljc0MDA0TDMuMzA5NTcgNy44NTAzOVYxMS44Mzk2TDMuMzMwMDggMTEuODUwNEMzLjYxMDM2IDEyLjA2MDUgNC44MDA3MyAxMi42NTA2IDYuMjMwNDcgMTIuOTcwNUM2LjM5MDQ2IDEzLjUyMDMgNi42MTk3NyAxNC4wNDA3IDYuOTI5NjkgMTQuNTEwNUMzLjIzMDI4IDE0LjEwMDUgMC42NDA4NDQgMTEuNzcwNiAwLjUzMDI3MyAxMS4wNjA0VjkuMjMwMjdDMC42MTAyNzMgOC42NDAyNyAxLjE3MDUxIDcuNjQ5ODQgMi4wMjA1MSA3LjI4OTg0QzIuMDMwNDkgNy4yMTk5NiAyLjAzOTgyIDcuMTQ5NzcgMi4wNDk4IDcuMDc5ODhDMi4wNzk3NyA2LjkxMDA1IDIuMTEwMDIgNi43MjAzIDIuMTY5OTIgNi41MTA1NUMxLjk3OTkyIDYuMDQwNTUgMS45Mjk2OSA1LjQ5OTc3IDEuOTI5NjkgNC45NTk3N0MxLjkyOTcyIDQuMTM5ODggMi4wNTAxNiAzLjI5OTU5IDIuNTgwMDggMi42Mjk2OUMzLjEyMDA3IDEuOTM5OTEgMy45ODAxMSAxLjU3OTk5IDUuMTI5ODggMS40NUM2LjI1OTY2IDEuMzMwMDIgNy4yNDk2NCAxLjQ4MDA3IDcuODg5NjUgMi4xNjk3M0M3LjkzOTY1IDIuMjA5NzMgNy45ODA1MSAyLjI3MDEyIDguMDIwNTEgMi4zMjAxMkM4LjA2MDQ0IDIuMjcwMiA4LjEwMDQ3IDIuMjE5NjUgOC4xNTAzOSAyLjE2OTczWk02Ljg0OTYxIDMuMTI5NjlDNi42Njk0IDIuOTM5ODUgNi4yNDk0MyAyLjc0MDU5IDUuMjcwNTEgMi44NTAzOUM0LjMxMDUxIDIuOTYwMzkgMy44ODAxNiAzLjIzMDU1IDMuNjYwMTYgMy41MTA1NUwzLjY2OTkyIDMuNDk5ODFDMy40Mjk5NiAzLjc5OTc2IDMuMzIwMzUgNC4yMSAzLjMyMDMxIDQuOTU5NzdDMy4zMjAzMSA1LjcwOTc0IDMuNDQwMzYgNi4wNTk4IDMuNjEwMzUgNi4yNDk4MUMzLjc2MDM1IDYuNDE5OCA0LjA5MDAxIDYuNjEwMTUgNC45NTk5NiA2LjYxMDE2QzUuNzU5ODIgNi42MTAxNiA2LjIxOTk5IDYuMzkwMzIgNi41IDYuMTAwMzlDNi43OTk5NiA1Ljc5MDQ0IDcuMDAwMDYgNS4zMjAyNyA3LjA4MDA4IDQuNjQwNDNDNy4xOTAwOCAzLjc3MDQzIDcuMDM5NjEgMy4zMzk2OSA2Ljg0OTYxIDMuMTI5NjlaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-not-connected)
   /// Codicon icon named "copilot not connected".
   static const IconData copilotNotConnected = IconData(
     0xEC3E,
@@ -4620,7 +4620,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik00LjUgNi41QzQuNSA0LjU2NyA2LjA2NyAzIDggM0M5LjkzMyAzIDExLjUgNC41NjcgMTEuNSA2LjVDMTEuNSA3LjQ3NzA5IDExLjEwMDMgOC4zNTk5MSAxMC40NTQyIDguOTk1NDFDMTAuMjYxMiA5LjE4NTI0IDEwLjA5MTIgOS40MzE4OSAxMC4wMDk1IDkuNzMxMzlMOS42NjM1NiAxMUg2LjMzNjQ0TDUuOTkwNDYgOS43MzEzOUM1LjkwODc4IDkuNDMxODkgNS43Mzg4MyA5LjE4NTI0IDUuNTQ1ODQgOC45OTU0MUM0Ljg5OTczIDguMzU5OTEgNC41IDcuNDc3MDkgNC41IDYuNVpNNi42MDkxNyAxMkg5LjM5MDgzTDkuMjE4NTkgMTIuNjMxNkM5LjE1OTI2IDEyLjg0OTEgOC45NjE2OCAxMyA4LjczNjIgMTNINy4yNjM4QzcuMDM4MzIgMTMgNi44NDA3NCAxMi44NDkxIDYuNzgxNDEgMTIuNjMxNkw2LjYwOTE3IDEyWk04IDJDNS41MTQ3MiAyIDMuNSA0LjAxNDcyIDMuNSA2LjVDMy41IDcuNzU2MDEgNC4wMTUyMyA4Ljg5MjU4IDQuODQ0NiA5LjcwODM0QzQuOTQxMzYgOS44MDM1MiA1LjAwMDQ0IDkuOTAxOSA1LjAyNTY5IDkuOTk0NUw1LjgxNjY1IDEyLjg5NDdDNS45OTQ2MyAxMy41NDczIDYuNTg3MzcgMTQgNy4yNjM4IDE0SDguNzM2MkM5LjQxMjYzIDE0IDEwLjAwNTQgMTMuNTQ3MyAxMC4xODM0IDEyLjg5NDdMMTAuOTc0MyA5Ljk5NDVDMTAuOTk5NiA5LjkwMTkgMTEuMDU4NiA5LjgwMzUyIDExLjE1NTQgOS43MDgzNEMxMS45ODQ4IDguODkyNTggMTIuNSA3Ljc1NjAxIDEyLjUgNi41QzEyLjUgNC4wMTQ3MiAxMC40ODUzIDIgOCAyWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=lightbulb-empty)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04IDFDNS40MTkgMSAyLjc1IDIuOTY0IDIuNzUgNi4yNUMyLjc1IDguMTY3IDMuNjM3IDkuMTg0IDQuMjI0IDkuODU2QzQuNDA4IDEwLjA2NyA0LjU5OCAxMC4yODUgNC42MjggMTAuMzk4TDUuNTY4IDEzLjg4OUM1Ljc0NCAxNC41NDMgNi4zNCAxNC45OTkgNy4wMTcgMTQuOTk5SDguOTg0QzkuNjYyIDE0Ljk5OSAxMC4yNTcgMTQuNTQyIDEwLjQzMiAxMy44ODlMMTEuMzcyIDEwLjM5N0MxMS40MDIgMTAuMjg1IDExLjU5MyAxMC4wNjcgMTEuNzc2IDkuODU2QzEyLjM2MyA5LjE4MyAxMy4yNSA4LjE2NyAxMy4yNSA2LjI1QzEzLjI1IDMuMzU1IDEwLjg5NSAxIDggMVpNOS40NjcgMTMuNjNDOS40MDggMTMuODQ4IDkuMjA5IDE0IDguOTg0IDE0SDcuMDE3QzYuNzkxIDE0IDYuNTkzIDEzLjg0OCA2LjUzNCAxMy42M0w2LjA5NSAxMkg5LjkwNkw5LjQ2NyAxMy42M1pNMTEuMDIyIDkuMTk5QzEwLjc0MSA5LjUyMiAxMC40OTcgOS44MDIgMTAuNDA3IDEwLjEzN0wxMC4xNzUgMTAuOTk5SDUuODI2TDUuNTk0IDEwLjEzOEM1LjUwMyA5LjgwMSA1LjI2IDkuNTIyIDQuOTc3IDkuMTk5QzQuNDMgOC41NzIgMy43NSA3Ljc5MiAzLjc1IDYuMjVDMy43NSAzLjU5IDUuOTExIDIgOCAyQzEwLjM0NCAyIDEyLjI1IDMuOTA3IDEyLjI1IDYuMjVDMTIuMjUgNy43OTIgMTEuNTY5IDguNTcyIDExLjAyMiA5LjE5OVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=lightbulb-empty)
   /// Codicon icon named "lightbulb empty".
   static const IconData lightbulbEmpty = IconData(
     0xEC40,
@@ -4636,7 +4636,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03LjAwMDA1IDkuNzY4NThWMTEuMjY4NkM3LjAwMDA1IDExLjY4MjYgNi42NjQwNSAxMi4wMTg2IDYuMjUwMDUgMTIuMDE4NkM1LjgzNjA1IDEyLjAxODYgNS41MDAwNSAxMS42ODI2IDUuNTAwMDUgMTEuMjY4NlY5Ljc2ODU4QzUuNTAwMDUgOS4zNTQ1OCA1LjgzNjA1IDkuMDE4NTggNi4yNTAwNSA5LjAxODU4QzYuNjY0MDUgOS4wMTg1OCA3LjAwMDA1IDkuMzU0NTggNy4wMDAwNSA5Ljc2ODU4Wk0xNiA5Ljc1NDU4VjExLjAxODZDMTYgMTEuMjU4NiAxNS45MTQgMTEuNDU2NiAxNS44NDQgMTEuNTg1NkMxNS43NjkgMTEuNzIyNiAxNS42NzUgMTEuODQ2NiAxNS41ODUgMTEuOTUxNkMxNS40MDUgMTIuMTYxNiAxNS4xODEgMTIuMzY0NiAxNC45OCAxMi41MzE2QzE0LjkxOCAxMi41ODM2IDE0Ljg1OSAxMi42Mjg2IDE0Ljc5OCAxMi42NzY2TDEzIDEwLjg3ODZWNy44NDI1OEwxMi45NzcgNy43MjY1OEMxMi40ODcgNy45MzY1OCAxMS45MDIgOC4wMTc1OCAxMS4yNSA4LjAxNzU4QzEwLjc3NCA4LjAxNzU4IDEwLjM0OSA3Ljk0NzU4IDkuOTU2MDUgNy44MzM1OEw2LjkzNjA1IDQuODEzNThDNi45NjIwNSA0LjY4OTU4IDYuOTg4MDUgNC41NjQ1OCA3LjAwNjA1IDQuNDI0NThDNy4xMjMwNSAzLjQ4ODU4IDYuOTY4MDUgMy4wMjg1OCA2Ljc2NDA1IDIuODEwNThDNi41NzEwNSAyLjYwMzU4IDYuMTI3MDUgMi4zOTY1OCA1LjA4MzA1IDIuNTEyNThDNC45MzcwNSAyLjUyODU4IDQuODI2MDUgMi41NTU1OCA0LjcwMjA1IDIuNTc4NThMMy40OTAwNSAxLjM2NjU4QzMuOTA3MDUgMS4yMDA1OCA0LjM3NjA1IDEuMDgxNTggNC45MTcwNSAxLjAyMTU4QzYuMTIzMDUgMC44ODc1OCA3LjE3OTA1IDEuMDU1NTggNy44NjEwNSAxLjc4NjU4QzcuOTEwMDUgMS44Mzk1OCA3Ljk1NzA1IDEuODk0NTggOC4wMDAwNSAxLjk1MDU4QzguMDQzMDUgMS44OTQ1OCA4LjA5MDA1IDEuODM5NTggOC4xMzkwNSAxLjc4NjU4QzguODIxMDUgMS4wNTU1OCA5Ljg3NzA1IDAuODg3NTggMTEuMDgzIDEuMDIxNThDMTIuMzEzIDEuMTU4NTggMTMuMjI5IDEuNTQ5NTggMTMuODA3IDIuMjgyNThDMTQuMzcyIDIuOTk4NTggMTQuNSAzLjg5NjU4IDE0LjUgNC43Njc1OEMxNC41IDUuMzM5NTggMTQuNDQ3IDUuOTE0NTggMTQuMjQ2IDYuNDIyNThMMTQuNDE0IDcuMjYwNThMMTQuNDggNy4yOTM1OEMxNS40MTIgNy43NTk1OCAxNiA4LjcxMTU4IDE2IDkuNzUzNThWOS43NTQ1OFpNMTMgNC43Njg1OEMxMyA0LjAwMjU4IDEyLjg3OCAzLjUyNjU4IDEyLjYzIDMuMjEzNThDMTIuMzk2IDIuOTE3NTggMTEuOTM3IDIuNjI3NTggMTAuOTE3IDIuNTEzNThDOS44NzMwNSAyLjM5NzU4IDkuNDI5MDUgMi42MDQ1OCA5LjIzNjA1IDIuODExNThDOS4wMzIwNSAzLjAyOTU4IDguODc3MDUgMy40ODk1OCA4Ljk5NDA1IDQuNDI1NThDOS4wODUwNSA1LjE1MTU4IDkuMjk2MDUgNS42NTU1OCA5LjYxMjA1IDUuOTc3NThDOS45MTEwNSA2LjI4MjU4IDEwLjM5NiA2LjUxODU4IDExLjI1IDYuNTE4NThDMTIuMTcyIDYuNTE4NTggMTIuNTI5IDYuMzE5NTggMTIuNjkyIDYuMTM4NThDMTIuODcxIDUuOTM4NTggMTMgNS41NjA1OCAxMyA0Ljc2ODU4Wk0xNC44NTQgMTQuMTQ1NkMxNS4wNDkgMTQuMzQwNiAxNS4wNDkgMTQuNjU3NiAxNC44NTQgMTQuODUyNkMxNC43NTYgMTQuOTUwNiAxNC42MjggMTQuOTk4NiAxNC41IDE0Ljk5ODZDMTQuMzcyIDE0Ljk5ODYgMTQuMjQ0IDE0Ljk0OTYgMTQuMTQ2IDE0Ljg1MjZMMTMuMDYzIDEzLjc2OTZDMTIuODYxIDEzLjg3MDYgMTIuNjM5IDEzLjk3NTYgMTIuMzg2IDE0LjA4MjZDMTEuMjk1IDE0LjU0NTYgOS43NTUwNSAxNS4wMTc2IDcuOTk5MDUgMTUuMDE3NkM2LjI0MzA1IDE1LjAxNzYgNC43MDMwNSAxNC41NDU2IDMuNjEyMDUgMTQuMDgyNkMzLjA2NDA1IDEzLjg1MDYgMi42MjMwNSAxMy42MTc2IDIuMzE2MDUgMTMuNDQwNkMyLjA2MDA1IDEzLjI5MzYgMS44MTQwNSAxMy4xMzM2IDEuNTc1MDUgMTIuOTYwNkMxLjQyNjA1IDEyLjg1MjYgMS4yMjMwNSAxMi43MDE2IDEuMDE4MDUgMTIuNTMwNkMwLjgxNzA0NyAxMi4zNjM2IDAuNTkzMDQ3IDEyLjE2MDYgMC40MTMwNDcgMTEuOTUwNkMwLjMyMzA0NyAxMS44NDU2IDAuMjI5MDQ3IDExLjcyMTYgMC4xNTQwNDcgMTEuNTg0NkMwLjA4NDA0NjkgMTEuNDU1NiAtMC4wMDE5NTMxMiAxMS4yNTY2IC0wLjAwMTk1MzEyIDExLjAxNzZWOS43NTM1OEMtMC4wMDE5NTMxMiA4LjcxMTU4IDAuNTg3MDQ3IDcuNzU5NTggMS41MTgwNSA3LjI5MzU4TDEuNTg0MDUgNy4yNjA1OEwxLjc1MjA1IDYuNDIyNThDMS41NTEwNSA1LjkxNDU4IDEuNDk4MDUgNS4zMzk1OCAxLjQ5ODA1IDQuNzY3NThDMS40OTgwNSA0LjA0MzU4IDEuNjAyMDUgMy4zMDc1OCAxLjk1OTA1IDIuNjY2NThMMS4xNDUwNSAxLjg1MjU4QzAuOTUwMDQ3IDEuNjU3NTggMC45NTAwNDcgMS4zNDA1OCAxLjE0NTA1IDEuMTQ1NThDMS4zNDAwNSAwLjk1MDU4IDEuNjU3MDUgMC45NTA1OCAxLjg1MjA1IDEuMTQ1NThMMTQuODUyIDE0LjE0NTZIMTQuODU0Wk0zLjEwMzA1IDMuODA5NThDMy4wMzcwNSA0LjA2NDU4IDMuMDAwMDUgNC4zNzU1OCAzLjAwMDA1IDQuNzY4NThDMy4wMDAwNSA1LjU2MDU4IDMuMTI5MDUgNS45Mzk1OCAzLjMwODA1IDYuMTM4NThDMy40NzAwNSA2LjMxOTU4IDMuODI4MDUgNi41MTg1OCA0Ljc1MDA1IDYuNTE4NThDNS4xMzEwNSA2LjUxODU4IDUuNDM0MDUgNi40Njk1OCA1LjY4MjA1IDYuMzg5NThMMy4xMDMwNSAzLjgwOTU4Wk0xMS45MzUgMTIuNjQxNkwxMC41IDExLjIwNjZWMTEuMjY4NkMxMC41IDExLjY4MjYgMTAuMTY0IDEyLjAxODYgOS43NTAwNSAxMi4wMTg2QzkuMzM2MDUgMTIuMDE4NiA5LjAwMDA1IDExLjY4MjYgOS4wMDAwNSAxMS4yNjg2VjkuNzY4NThDOS4wMDAwNSA5Ljc0ODU4IDkuMDAxMDUgOS43Mjk1OCA5LjAwNDA1IDkuNzEwNThMNi44MTcwNSA3LjUyMzU4QzYuMjUxMDUgNy44NTM1OCA1LjU2MDA1IDguMDE4NTggNC43NTEwNSA4LjAxODU4QzQuMDk5MDUgOC4wMTg1OCAzLjUxNDA1IDcuOTM2NTggMy4wMjQwNSA3LjcyNzU4TDMuMDAxMDUgNy44NDM1OFYxMi4xMDQ2TDMuMDY2MDUgMTIuMTQyNkMzLjMyOTA1IDEyLjI5MzYgMy43MTYwNSAxMi40OTg2IDQuMjAwMDUgMTIuNzAzNkM1LjE3MTA1IDEzLjExNTYgNi41MDcwNSAxMy41MTg2IDguMDAxMDUgMTMuNTE4NkM5LjQ5NTA1IDEzLjUxODYgMTAuODMgMTMuMTE1NiAxMS44MDIgMTIuNzAzNkMxMS44NTEgMTIuNjgyNiAxMS44OTQgMTIuNjYyNiAxMS45MzcgMTIuNjQyNkwxMS45MzUgMTIuNjQxNloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=copilot-unavailable)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03LjA2MDAxIDkuNjZWMTEuMDdDNy4wNjAwMSAxMS40NiA2Ljc0MDAxIDExLjc3IDYuMzYwMDEgMTEuNzdDNS45ODAwMSAxMS43NyA1LjY2MDAxIDExLjQ1IDUuNjYwMDEgMTEuMDdWOS42NkM1LjY2MDAxIDkuMjcgNS45ODAwMSA4Ljk2IDYuMzYwMDEgOC45NkM2Ljc0MDAxIDguOTYgNy4wNjAwMSA5LjI4IDcuMDYwMDEgOS42NlpNMTUuNSA5LjI3VjExLjAzQzE1LjUgMTEuMjggMTUuMTIgMTEuNzggMTQuNDQgMTIuMzNMMTIuNjggMTAuNTdWNy44NkwxMi42NiA3Ljc1QzEyLjIgNy45NSAxMS42NSA4LjAyIDExLjA0IDguMDJDMTAuNjYgOC4wMiAxMC4zMyA3Ljk3IDEwLjAxIDcuODlMNy4wMjAwMSA0LjlDNy4wNDAwMSA0LjgyIDcuMDUwMDEgNC43NCA3LjA2MDAxIDQuNjVDNy4xNzAwMSAzLjc3IDcuMDMwMDEgMy4zNCA2LjgzMDAxIDMuMTRDNi42NTAwMSAyLjk1IDYuMjMwMDEgMi43NSA1LjI1MDAxIDIuODZDNS4xNjAwMSAyLjg3IDUuMDkwMDEgMi44OSA1LjAxMDAxIDIuOUwzLjg2MDAxIDEuNzVDNC4yMzAwMSAxLjYyIDQuNjMwMDEgMS41MSA1LjEwMDAxIDEuNDZDNi4yMzAwMSAxLjMzIDcuMjIwMDEgMS40OSA3Ljg2MDAxIDIuMThDNy45MTAwMSAyLjIzIDcuOTUwMDEgMi4yOCA3Ljk5MDAxIDIuMzNDOC4wMzAwMSAyLjI4IDguMDgwMDEgMi4yMiA4LjEyMDAxIDIuMThDOC43NjAwMSAxLjQ5IDkuNzUwMDEgMS4zNCAxMC44OCAxLjQ2QzEyLjAzIDEuNTkgMTIuODkgMS45NSAxMy40MyAyLjY0QzEzLjk2IDMuMzEgMTQuMDggNC4xNSAxNC4wOCA0Ljk3QzE0LjA4IDUuNTEgMTQuMDMgNi4wNSAxMy44NCA2LjUyQzEzLjkgNi43MyAxMy45MyA2LjkyIDEzLjk2IDcuMDlDMTMuOTcgNy4xNiAxMy45OCA3LjIzIDEzLjk5IDcuM0MxNC44NiA3LjY2IDE1LjQyIDguNjggMTUuNDggOS4yNkwxNS41IDkuMjdaTTEyLjY5IDQuOTdDMTIuNjkgNC4yNSAxMi41NyAzLjgxIDEyLjM0IDMuNTFDMTIuMTIgMy4yMyAxMS42OSAyLjk2IDEwLjczIDIuODVDOS43NTAwMSAyLjc0IDkuMzQwMDEgMi45NCA5LjE1MDAxIDMuMTNDOC45NjAwMSAzLjM0IDguODEwMDEgMy43NyA4LjkyMDAxIDQuNjRDOS4wMTAwMSA1LjMyIDkuMjAwMDEgNS43OSA5LjUwMDAxIDYuMUM5Ljc4MDAxIDYuMzkgMTAuMjMgNi42MSAxMS4wNCA2LjYxQzExLjkgNi42MSAxMi4yNCA2LjQyIDEyLjM5IDYuMjVDMTIuNTYgNi4wNiAxMi42OCA1LjcxIDEyLjY4IDQuOTZMMTIuNjkgNC45N1pNMTQuODUgMTQuMTVDMTUuMDUgMTQuMzUgMTUuMDUgMTQuNjYgMTQuODUgMTQuODZDMTQuNzUgMTQuOTYgMTQuNjIgMTUuMDEgMTQuNSAxNS4wMUMxNC4zOCAxNS4wMSAxNC4yNCAxNC45NiAxNC4xNSAxNC44NkwxMi43MyAxMy40NEMxMS40NyAxNC4wOCA5Ljg1MDAxIDE0LjU5IDguMDEwMDEgMTQuNTlDMy43MzAwMSAxNC41OSAwLjYzMDAxIDExLjg2IDAuNTEwMDEgMTEuMDhWOS4yNUMwLjU5MDAxIDguNjYgMS4xNDAwMSA3LjY3IDIuMDAwMDEgNy4zMUMyLjAxMDAxIDcuMjQgMi4wMjAwMSA3LjE4IDIuMDMwMDEgNy4xQzIuMDYwMDEgNi45MyAyLjA5MDAxIDYuNzQgMi4xNTAwMSA2LjUzQzEuOTYwMDEgNi4wNSAxLjkxMDAxIDUuNTEgMS45MTAwMSA0Ljk4QzEuOTEwMDEgNC4zMSAyLjAwMDAxIDMuNjMgMi4zMzAwMSAzLjAzTDEuMTYwMDEgMS44NkMwLjk2MDAxMSAxLjY2IDAuOTYwMDExIDEuMzUgMS4xNjAwMSAxLjE1QzEuMzYwMDEgMC45NSAxLjY3MDAxIDAuOTUgMS44NzAwMSAxLjE1TDE0Ljg3IDE0LjE1SDE0Ljg1Wk0zLjQwMDAxIDQuMTFDMy4zNDAwMSA0LjM0IDMuMzEwMDEgNC42MiAzLjMxMDAxIDQuOThDMy4zMTAwMSA1LjcyIDMuNDMwMDEgNi4wOCAzLjYwMDAxIDYuMjdDMy43NTAwMSA2LjQ0IDQuMDkwMDEgNi42MyA0Ljk1MDAxIDYuNjNDNS4yOTAwMSA2LjYzIDUuNTYwMDEgNi41OSA1Ljc5MDAxIDYuNTJMMy40MDAwMSA0LjEzVjQuMTFaTTExLjY2IDEyLjM3TDEwLjM0IDExLjA1VjExLjA3QzEwLjM0IDExLjQ2IDEwLjAyIDExLjc3IDkuNjQwMDEgMTEuNzdDOS4yNjAwMSAxMS43NyA4Ljk0MDAxIDExLjQ1IDguOTQwMDEgMTEuMDdWOS42NkM4Ljk0MDAxIDkuNjYgOC45NDAwMSA5LjY2IDguOTQwMDEgOS42NUw2Ljg1MDAxIDcuNTZDNi4zMzAwMSA3Ljg2IDUuNzAwMDEgOC4wMiA0Ljk1MDAxIDguMDJDNC4zNDAwMSA4LjAyIDMuNzkwMDEgNy45NCAzLjMzMDAxIDcuNzVMMy4zMTAwMSA3Ljg2VjExLjg1QzMuNzAwMDEgMTIuMTUgNS44NjAwMSAxMy4xOSA4LjAwMDAxIDEzLjE5QzkuMzgwMDEgMTMuMTkgMTAuNzUgMTIuNzYgMTEuNjYgMTIuMzdaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-unavailable)
   /// Codicon icon named "copilot unavailable".
   static const IconData copilotUnavailable = IconData(
     0xEC42,
@@ -4716,7 +4716,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik00LjE5OSAxMi42ODRDMy43MTUgMTIuNDc5IDMuMzI5IDEyLjI3NCAzLjA2NSAxMi4xMjNMMyAxMi4wODVWNy44MjRMMy4wMjMgNy43MDlDMy41MTMgNy45MTkgNC4wOTggOCA0Ljc1IDhDNS44OTYgOCA2LjgxIDcuNjcyIDcuNDYgNy4wMDlDNy42NzkgNi43ODUgNy44NTcgNi41MzUgOCA2LjI2NkM4LjA0NyA2LjM1NCA4LjEwNCA2LjQzNiA4LjE1OCA2LjUyQzguNTc3IDYuMjM4IDkuMDM2IDYuMDEzIDkuNTIgNS44NDNDOS4yNTggNS41MiA5LjA3NSA1LjA1NyA4Ljk5NCA0LjQwN0M4Ljg3NyAzLjQ3MSA5LjAzMiAzLjAxMSA5LjIzNiAyLjc5M0M5LjQyOSAyLjU4NiA5Ljg3MyAyLjM3OSAxMC45MTcgMi40OTVDMTEuOTM3IDIuNjA4IDEyLjM5NiAyLjg5OSAxMi42MyAzLjE5NUMxMi44NzcgMy41MDggMTMgMy45ODQgMTMgNC43NUMxMyA1LjE1OCAxMi45NjUgNS40NTMgMTIuOTA3IDUuNjc0QzEzLjM5NiA1Ljc5MiAxMy44NjMgNS45NjcgMTQuMjk4IDYuMTk3QzE0LjQ0MSA1Ljc0MSAxNC41IDUuMjQ4IDE0LjUgNC43NUMxNC41IDMuODc5IDE0LjM3MiAyLjk4MSAxMy44MDcgMi4yNjVDMTMuMjI4IDEuNTMyIDEyLjMxMyAxLjE0MSAxMS4wODMgMS4wMDRDOS44NzcgMC44NzAwMDIgOC44MjEgMS4wMzggOC4xMzkgMS43NjlDOC4wOSAxLjgyMiA4LjA0MyAxLjg3NyA4IDEuOTMzQzcuOTU3IDEuODc3IDcuOTEgMS44MjIgNy44NjEgMS43NjlDNy4xNzkgMS4wMzggNi4xMjMgMC44NzAwMDIgNC45MTcgMS4wMDRDMy42ODcgMS4xNDEgMi43NzIgMS41MzIgMi4xOTMgMi4yNjVDMS42MjggMi45ODEgMS41IDMuODc5IDEuNSA0Ljc1QzEuNSA1LjMyMiAxLjU1MyA1Ljg5NyAxLjc1NCA2LjQwNUwxLjU4NiA3LjI0M0wxLjUyIDcuMjc2QzAuNTg4IDcuNzQyIDAgOC42OTQgMCA5LjczNlYxMUMwIDExLjI0IDAuMDg1OTk4MiAxMS40MzggMC4xNTU5OTggMTEuNTY3QzAuMjMwOTk4IDExLjcwNCAwLjMyNTAwMSAxMS44MjggMC40MTUwMDEgMTEuOTMzQzAuNTk1MDAxIDEyLjE0MyAwLjgxOSAxMi4zNDYgMS4wMiAxMi41MTNDMS4yMjUgMTIuNjg0IDEuNDI3IDEyLjgzNiAxLjU3NyAxMi45NDNDMS44MTYgMTMuMTE2IDIuMDYyIDEzLjI3NSAyLjMxOCAxMy40MjNDMi42MjUgMTMuNiAzLjA2NiAxMy44MzIgMy42MTQgMTQuMDY1QzQuMzkxIDE0LjM5NSA1LjQwNCAxNC43MjIgNi41NTMgMTQuODg3QzYuMjAzIDE0LjM3NyA1LjkzMSAxMy44MDkgNS43NTEgMTMuMjAyQzUuMTczIDEzLjA1NSA0LjY0NSAxMi44NzMgNC4yMDEgMTIuNjg0SDQuMTk5Wk0zLjM3IDMuMTk1QzMuNjA0IDIuODk5IDQuMDYzIDIuNjA5IDUuMDgzIDIuNDk1QzYuMTI3IDIuMzc5IDYuNTcxIDIuNTg2IDYuNzY0IDIuNzkzQzYuOTY4IDMuMDExIDcuMTIzIDMuNDcxIDcuMDA2IDQuNDA3QzYuOTE1IDUuMTMzIDYuNzA0IDUuNjM3IDYuMzg4IDUuOTU5QzYuMDg5IDYuMjY0IDUuNjA0IDYuNSA0Ljc1IDYuNUMzLjgyOCA2LjUgMy40NyA2LjMwMSAzLjMwOCA2LjEyQzMuMTI5IDUuOTIgMyA1LjU0MiAzIDQuNzVDMyAzLjk4NCAzLjEyMyAzLjUwOCAzLjM3IDMuMTk1Wk0xMS41IDdDOS4wMTUgNyA3IDkuMDE1IDcgMTEuNUM3IDEzLjk4NSA5LjAxNSAxNiAxMS41IDE2QzEzLjk4NSAxNiAxNiAxMy45ODUgMTYgMTEuNUMxNiA5LjAxNSAxMy45ODUgNyAxMS41IDdaTTEzLjYyMSAxMy4zNzFDMTMuMzM2IDEzLjY1NiAxMi45OTcgMTMuODggMTIuNjIzIDE0LjAzMUMxMi4yNSAxNC4xODIgMTEuODUgMTQuMjU2IDExLjQ0NyAxNC4yNDlDMTEuMDQ0IDE0LjI0MiAxMC42NDcgMTQuMTU0IDEwLjI3OSAxMy45OUMxMC4xODMgMTMuOTQ3IDEwLjA5IDEzLjkgOS45OTkgMTMuODQ3VjEzLjk5OUM5Ljk5OSAxNC4yNzUgOS43NzUgMTQuNDk5IDkuNDk5IDE0LjQ5OUM5LjIyMyAxNC40OTkgOC45OTkgMTQuMjc1IDguOTk5IDEzLjk5OVYxMi40OTlDOC45OTkgMTIuMjIzIDkuMjIzIDExLjk5OSA5LjQ5OSAxMS45OTlIMTAuOTk5QzExLjI3NSAxMS45OTkgMTEuNDk5IDEyLjIyMyAxMS40OTkgMTIuNDk5QzExLjQ5OSAxMi43NzUgMTEuMjc1IDEyLjk5OSAxMC45OTkgMTIuOTk5SDEwLjUzMUMxMC41ODEgMTMuMDI3IDEwLjYzMyAxMy4wNTMgMTAuNjg2IDEzLjA3NkMxMC45MzEgMTMuMTg1IDExLjE5NiAxMy4yNDQgMTEuNDY1IDEzLjI0OUMxMS43MzMgMTMuMjU0IDEyIDEzLjIwNCAxMi4yNDkgMTMuMTA0QzEyLjQ5OCAxMy4wMDQgMTIuNzI0IDEyLjg1NCAxMi45MTQgMTIuNjY0QzEzLjEwOSAxMi40NjkgMTMuNDI2IDEyLjQ2OSAxMy42MjEgMTIuNjY0QzEzLjgxNiAxMi44NTkgMTMuODE2IDEzLjE3NiAxMy42MjEgMTMuMzcxWk0xNCAxMC41QzE0IDEwLjc3NiAxMy43NzYgMTEgMTMuNSAxMUgxMkMxMS43MjQgMTEgMTEuNSAxMC43NzYgMTEuNSAxMC41QzExLjUgMTAuMjI0IDExLjcyNCAxMCAxMiAxMEgxMi40NjhDMTIuNDE4IDkuOTcyIDEyLjM2NiA5Ljk0NiAxMi4zMTMgOS45MjNDMTIuMDY4IDkuODE0IDExLjgwMyA5Ljc1NSAxMS41MzQgOS43NUMxMS4yNjYgOS43NDUgMTAuOTk5IDkuNzk1IDEwLjc1IDkuODk1QzEwLjUwMSA5Ljk5NSAxMC4yNzUgMTAuMTQ1IDEwLjA4NSAxMC4zMzVDOS44OSAxMC41MyA5LjU3MyAxMC41MyA5LjM3OCAxMC4zMzVDOS4xODMgMTAuMTQgOS4xODMgOS44MjMgOS4zNzggOS42MjhDOS42NjMgOS4zNDMgMTAuMDAyIDkuMTE5IDEwLjM3NiA4Ljk2OEMxMC43NDkgOC44MTcgMTEuMTQ5IDguNzQzIDExLjU1MiA4Ljc1QzExLjk1NSA4Ljc1NyAxMi4zNTIgOC44NDUgMTIuNzIgOS4wMDlDMTIuODE2IDkuMDUyIDEyLjkwOSA5LjA5OSAxMyA5LjE1MlY5QzEzIDguNzI0IDEzLjIyNCA4LjUgMTMuNSA4LjVDMTMuNzc2IDguNSAxNCA4LjcyNCAxNCA5VjEwLjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-in-progress)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEuNSA3LjAwMDAxQzkuMDIwMDMgNy4wMDAwMSA3LjAwMDAzIDkuMDIwMDEgNy4wMDAwMyAxMS41QzcuMDAwMDMgMTMuOTggOS4wMjAwMyAxNiAxMS41IDE2QzEzLjk4IDE2IDE2IDEzLjk4IDE2IDExLjVDMTYgOS4wMjAwMSAxMy45OCA3LjAwMDAxIDExLjUgNy4wMDAwMVpNMTMuNjIgMTMuMzdDMTMuMzQgMTMuNjYgMTMgMTMuODggMTIuNjIgMTQuMDNDMTIuMjUgMTQuMTggMTEuODUgMTQuMjUgMTEuNDQgMTQuMjVDMTEuMDQgMTQuMjUgMTAuNjQgMTQuMTYgMTAuMjcgMTMuOTlDMTAuMTcgMTMuOTUgMTAuMDggMTMuOSA5Ljk5MDAzIDEzLjg1VjE0QzkuOTkwMDMgMTQuMjggOS43NzAwMyAxNC41IDkuNDkwMDMgMTQuNUM5LjIxMDAzIDE0LjUgOC45OTAwMyAxNC4yOCA4Ljk5MDAzIDE0VjEyLjVDOC45OTAwMyAxMi4yMiA5LjIxMDAzIDEyIDkuNDkwMDMgMTJIMTAuOTlDMTEuMjcgMTIgMTEuNDkgMTIuMjIgMTEuNDkgMTIuNUMxMS40OSAxMi43OCAxMS4yNyAxMyAxMC45OSAxM0gxMC41MkMxMC41MiAxMyAxMC42MiAxMy4wNSAxMC42NyAxMy4wOEMxMC45MiAxMy4xOSAxMS4xOCAxMy4yNSAxMS40NSAxMy4yNUMxMS43MiAxMy4yNSAxMS45OCAxMy4yMSAxMi4yMyAxMy4xMUMxMi40OCAxMy4wMSAxMi43IDEyLjg2IDEyLjg5IDEyLjY3QzEzLjA4IDEyLjQ4IDEzLjQgMTIuNDcgMTMuNiAxMi42N0MxMy44IDEyLjg3IDEzLjggMTMuMTggMTMuNiAxMy4zOEwxMy42MiAxMy4zN1pNMTQgMTAuNUMxNCAxMC43OCAxMy43OCAxMSAxMy41IDExSDEyQzExLjcyIDExIDExLjUgMTAuNzggMTEuNSAxMC41QzExLjUgMTAuMjIgMTEuNzIgMTAgMTIgMTBIMTIuNDdDMTIuNDcgMTAgMTIuMzcgOS45NTAwMSAxMi4zMSA5LjkyMDAxQzEyLjA3IDkuODEwMDEgMTEuOCA5Ljc1MDAxIDExLjUzIDkuNzUwMDFDMTEuMjYgOS43NTAwMSAxMSA5Ljc5MDAxIDEwLjc1IDkuODkwMDFDMTAuNSA5Ljk5MDAxIDEwLjI4IDEwLjE0IDEwLjA5IDEwLjMzQzkuOTAwMDMgMTAuNTIgOS41ODAwMyAxMC41MyA5LjM4MDAzIDEwLjMzQzkuMTgwMDMgMTAuMTQgOS4xODAwMyA5LjgyMDAxIDkuMzgwMDMgOS42MjAwMUM5LjY3MDAzIDkuMzMwMDEgMTAgOS4xMTAwMSAxMC4zOCA4Ljk2MDAxQzEwLjc1IDguODEwMDEgMTEuMTUgOC43NDAwMSAxMS41NiA4Ljc0MDAxQzExLjk2IDguNzQwMDEgMTIuMzYgOC44MzAwMSAxMi43MyA5LjAwMDAxQzEyLjgzIDkuMDQwMDEgMTIuOTIgOS4wOTAwMSAxMy4wMSA5LjE0MDAxVjguOTkwMDFDMTMuMDEgOC43MTAwMSAxMy4yMyA4LjQ5MDAxIDEzLjUxIDguNDkwMDFDMTMuNzkgOC40OTAwMSAxNC4wMSA4LjcxMDAxIDE0LjAxIDguOTkwMDFWMTAuNDlMMTQgMTAuNVpNMy4zMTAwMyAxMS44NFY3Ljg1MDAxTDMuMzMwMDMgNy43NDAwMUMzLjc5MDAzIDcuOTQwMDEgNC4zNDAwMyA4LjAxMDAxIDQuOTUwMDMgOC4wMTAwMUM2LjAzMDAzIDguMDEwMDEgNi44ODAwMyA3LjcwMDAxIDcuNDkwMDMgNy4wODAwMUM3LjY5MDAzIDYuODcwMDEgNy44NjAwMyA2LjY0MDAxIDguMDAwMDMgNi4zODAwMUM4LjExMDAzIDYuNTkwMDEgOC4yNjAwMyA2Ljc3MDAxIDguNDEwMDMgNi45NDAwMUM4LjgyMDAzIDYuNjYwMDEgOS4yNzAwMyA2LjQ0MDAxIDkuNzQwMDMgNi4yODAwMUM5LjY1MDAzIDYuMjIwMDEgOS41ODAwMyA2LjE2MDAxIDkuNTEwMDMgNi4wOTAwMUM5LjIxMDAzIDUuNzkwMDEgOS4wMjAwMyA1LjMxMDAxIDguOTMwMDMgNC42MzAwMUM4LjgyMDAzIDMuNzUwMDEgOC45NzAwMyAzLjMyMDAxIDkuMTYwMDMgMy4xMjAwMUM5LjM0MDAzIDIuOTMwMDEgOS43NjAwMyAyLjczMDAxIDEwLjc0IDIuODQwMDFDMTEuNyAyLjk1MDAxIDEyLjEzIDMuMjIwMDEgMTIuMzUgMy41MDAwMUMxMi41OCAzLjc5MDAxIDEyLjcgNC4yNDAwMSAxMi43IDQuOTYwMDFDMTIuNyA1LjUzMDAxIDEyLjYzIDUuODcwMDEgMTIuNTIgNi4wODAwMUMxMyA2LjE3MDAxIDEzLjQ1IDYuMzIwMDEgMTMuODcgNi41MjAwMUMxMy44NyA2LjUyMDAxIDEzLjg3IDYuNTIwMDEgMTMuODcgNi41MTAwMUMxNC4wNiA2LjAzMDAxIDE0LjExIDUuNDkwMDEgMTQuMTEgNC45NjAwMUMxNC4xMSA0LjE0MDAxIDEzLjk5IDMuMzAwMDEgMTMuNDYgMi42MzAwMUMxMi45MiAxLjk0MDAxIDEyLjA2IDEuNTgwMDEgMTAuOTEgMS40NTAwMUM5Ljc4MDAzIDEuMzIwMDEgOC43OTAwMyAxLjQ4MDAxIDguMTUwMDMgMi4xNzAwMUM4LjEwMDAzIDIuMjIwMDEgOC4wNjAwMyAyLjI3MDAxIDguMDIwMDMgMi4zMjAwMUM3Ljk4MDAzIDIuMjcwMDEgNy45NDAwMyAyLjIxMDAxIDcuODkwMDMgMi4xNzAwMUM3LjI1MDAzIDEuNDgwMDEgNi4yNjAwMyAxLjMzMDAxIDUuMTMwMDMgMS40NTAwMUMzLjk4MDAzIDEuNTgwMDEgMy4xMjAwMyAxLjk0MDAxIDIuNTgwMDMgMi42MzAwMUMyLjA1MDAzIDMuMzAwMDEgMS45MzAwMyA0LjE0MDAxIDEuOTMwMDMgNC45NjAwMUMxLjkzMDAzIDUuNTAwMDEgMS45ODAwMyA2LjA0MDAxIDIuMTcwMDMgNi41MTAwMUMyLjExMDAzIDYuNzIwMDEgMi4wODAwMyA2LjkxMDAxIDIuMDUwMDMgNy4wODAwMUMyLjA0MDAzIDcuMTUwMDEgMi4wMzAwMyA3LjIyMDAxIDIuMDIwMDMgNy4yOTAwMUMxLjE3MDAzIDcuNjUwMDEgMC42MTAwMjkgOC42NDAwMSAwLjUzMDAyOSA5LjIzMDAxVjExLjA2QzAuNjQwMDI5IDExLjc3IDMuMjMwMDMgMTQuMSA2LjkzMDAzIDE0LjUxQzYuNjIwMDMgMTQuMDQgNi4zOTAwMyAxMy41MiA2LjIzMDAzIDEyLjk3QzQuODAwMDMgMTIuNjUgMy42MTAwMyAxMi4wNiAzLjMzMDAzIDExLjg1TDMuMzEwMDMgMTEuODRaTTMuNjYwMDMgMy41MTAwMUMzLjg4MDAzIDMuMjMwMDEgNC4zMTAwMyAyLjk2MDAxIDUuMjcwMDMgMi44NTAwMUM2LjI1MDAzIDIuNzQwMDEgNi42NzAwMyAyLjk0MDAxIDYuODUwMDMgMy4xMzAwMUM3LjA0MDAzIDMuMzQwMDEgNy4xOTAwMyAzLjc3MDAxIDcuMDgwMDMgNC42NDAwMUM3LjAwMDAzIDUuMzIwMDEgNi44MDAwMyA1Ljc5MDAxIDYuNTAwMDMgNi4xMDAwMUM2LjIyMDAzIDYuMzkwMDEgNS43NjAwMyA2LjYxMDAxIDQuOTYwMDMgNi42MTAwMUM0LjA5MDAzIDYuNjEwMDEgMy43NjAwMyA2LjQyMDAxIDMuNjEwMDMgNi4yNTAwMUMzLjQ0MDAzIDYuMDYwMDEgMy4zMjAwMyA1LjcxMDAxIDMuMzIwMDMgNC45NjAwMUMzLjMyMDAzIDQuMjEwMDEgMy40MzAwMyAzLjgwMDAxIDMuNjcwMDMgMy41MDAwMUwzLjY2MDAzIDMuNTEwMDFaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-in-progress)
   /// Codicon icon named "copilot in progress".
   static const IconData copilotInProgress = IconData(
     0xEC4C,
@@ -4724,7 +4724,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNC4xOTkgMTIuNjg0QzMuNzE1IDEyLjQ3OSAzLjMyOSAxMi4yNzQgMy4wNjUgMTIuMTIzTDMgMTIuMDg1VjcuODI0TDMuMDIzIDcuNzA5QzMuNTEzIDcuOTE5IDQuMDk4IDggNC43NSA4QzUuODk2IDggNi44MSA3LjY3MiA3LjQ2IDcuMDA5QzcuNjc5IDYuNzg1IDcuODU3IDYuNTM1IDggNi4yNjZDOC4wNDcgNi4zNTQgOC4xMDQgNi40MzYgOC4xNTggNi41MkM4LjU3NyA2LjIzOCA5LjAzNiA2LjAxMyA5LjUyIDUuODQzQzkuMjU4IDUuNTIgOS4wNzUgNS4wNTcgOC45OTQgNC40MDdDOC44NzcgMy40NzEgOS4wMzIgMy4wMTEgOS4yMzYgMi43OTNDOS40MjkgMi41ODYgOS44NzMgMi4zNzkgMTAuOTE3IDIuNDk1QzExLjkzNyAyLjYwOCAxMi4zOTYgMi44OTkgMTIuNjMgMy4xOTVDMTIuODc3IDMuNTA4IDEzIDMuOTg0IDEzIDQuNzVDMTMgNS4xNTggMTIuOTY1IDUuNDUzIDEyLjkwNyA1LjY3NEMxMy4zOTYgNS43OTIgMTMuODYzIDUuOTY3IDE0LjI5OCA2LjE5N0MxNC40NDEgNS43NDEgMTQuNSA1LjI0OCAxNC41IDQuNzVDMTQuNSAzLjg3OSAxNC4zNzIgMi45ODEgMTMuODA3IDIuMjY1QzEzLjIyOCAxLjUzMiAxMi4zMTMgMS4xNDEgMTEuMDgzIDEuMDA0QzkuODc3IDAuODcwMDAyIDguODIxIDEuMDM4IDguMTM5IDEuNzY5QzguMDkgMS44MjIgOC4wNDMgMS44NzcgOCAxLjkzM0M3Ljk1NyAxLjg3NyA3LjkxIDEuODIyIDcuODYxIDEuNzY5QzcuMTc5IDEuMDM4IDYuMTIzIDAuODcwMDAyIDQuOTE3IDEuMDA0QzMuNjg3IDEuMTQxIDIuNzcyIDEuNTMyIDIuMTkzIDIuMjY1QzEuNjI4IDIuOTgxIDEuNSAzLjg3OSAxLjUgNC43NUMxLjUgNS4zMjIgMS41NTMgNS44OTcgMS43NTQgNi40MDVMMS41ODYgNy4yNDNMMS41MiA3LjI3NkMwLjU4OCA3Ljc0MiAwIDguNjk0IDAgOS43MzZWMTFDMCAxMS4yNCAwLjA4NiAxMS40MzggMC4xNTYgMTEuNTY3QzAuMjMxIDExLjcwNCAwLjMyNSAxMS44MjggMC40MTUgMTEuOTMzQzAuNTk1IDEyLjE0MyAwLjgxOSAxMi4zNDYgMS4wMiAxMi41MTNDMS4yMjUgMTIuNjg0IDEuNDI3IDEyLjgzNiAxLjU3NyAxMi45NDNDMS44MTYgMTMuMTE2IDIuMDYyIDEzLjI3NSAyLjMxOCAxMy40MjNDMi42MjUgMTMuNiAzLjA2NiAxMy44MzIgMy42MTQgMTQuMDY1QzQuMzkxIDE0LjM5NSA1LjQwNCAxNC43MjIgNi41NTMgMTQuODg3QzYuMjAzIDE0LjM3NyA1LjkzMSAxMy44MDkgNS43NTEgMTMuMjAyQzUuMTczIDEzLjA1NSA0LjY0NSAxMi44NzMgNC4yMDEgMTIuNjg0SDQuMTk5Wk0zLjM3IDMuMTk1QzMuNjA0IDIuODk5IDQuMDYzIDIuNjA5IDUuMDgzIDIuNDk1QzYuMTI3IDIuMzc5IDYuNTcxIDIuNTg2IDYuNzY0IDIuNzkzQzYuOTY4IDMuMDExIDcuMTIzIDMuNDcxIDcuMDA2IDQuNDA3QzYuOTE1IDUuMTMzIDYuNzA0IDUuNjM3IDYuMzg4IDUuOTU5QzYuMDg5IDYuMjY0IDUuNjA0IDYuNSA0Ljc1IDYuNUMzLjgyOCA2LjUgMy40NyA2LjMwMSAzLjMwOCA2LjEyQzMuMTI5IDUuOTIgMyA1LjU0MiAzIDQuNzVDMyAzLjk4NCAzLjEyMyAzLjUwOCAzLjM3IDMuMTk1Wk0xMS41IDdDOS4wMTUgNyA3IDkuMDE1IDcgMTEuNUM3IDEzLjk4NSA5LjAxNSAxNiAxMS41IDE2QzEzLjk4NSAxNiAxNiAxMy45ODUgMTYgMTEuNUMxNiA5LjAxNSAxMy45ODUgNyAxMS41IDdaTTEzLjUwMiAxMi43OTRDMTMuNjk3IDEyLjk4OSAxMy42OTcgMTMuMzA2IDEzLjUwMiAxMy41MDFDMTMuMzA3IDEzLjY5NiAxMi45OSAxMy42OTYgMTIuNzk1IDEzLjUwMUwxMS41MDEgMTIuMjA3TDEwLjIwNyAxMy41MDFDMTAuMDEyIDEzLjY5NiA5LjY5NSAxMy42OTYgOS41IDEzLjUwMUM5LjMwNSAxMy4zMDYgOS4zMDUgMTIuOTg5IDkuNSAxMi43OTRMMTAuNzk0IDExLjVMOS41IDEwLjIwNkM5LjMwNSAxMC4wMTEgOS4zMDUgOS42OTQgOS41IDkuNDk5QzkuNjk1IDkuMzA0IDEwLjAxMiA5LjMwNCAxMC4yMDcgOS40OTlMMTEuNTAxIDEwLjc5M0wxMi43OTUgOS40OTlDMTIuOTkgOS4zMDQgMTMuMzA3IDkuMzA0IDEzLjUwMiA5LjQ5OUMxMy42OTcgOS42OTQgMTMuNjk3IDEwLjAxMSAxMy41MDIgMTAuMjA2TDEyLjIwOCAxMS41TDEzLjUwMiAxMi43OTRaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-error)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEuNSA3LjAwMDAxQzkuMDIwMDMgNy4wMDAwMSA3LjAwMDAzIDkuMDIwMDEgNy4wMDAwMyAxMS41QzcuMDAwMDMgMTMuOTggOS4wMjAwMyAxNiAxMS41IDE2QzEzLjk4IDE2IDE2IDEzLjk4IDE2IDExLjVDMTYgOS4wMjAwMSAxMy45OCA3LjAwMDAxIDExLjUgNy4wMDAwMVpNMTMuNSAxMi43OUMxMy43IDEyLjk5IDEzLjcgMTMuMyAxMy41IDEzLjVDMTMuMyAxMy43IDEyLjk5IDEzLjcgMTIuNzkgMTMuNUwxMS41IDEyLjIxTDEwLjIxIDEzLjVDMTAuMDIgMTMuNyA5LjcwMDAzIDEzLjcgOS41MDAwMyAxMy41QzkuMzAwMDMgMTMuMyA5LjMwMDAzIDEyLjk5IDkuNTAwMDMgMTIuNzlMMTAuNzkgMTEuNUw5LjUwMDAzIDEwLjIxQzkuMzAwMDMgMTAuMDEgOS4zMDAwMyA5LjcwMDAxIDkuNTAwMDMgOS41MDAwMUM5LjcwMDAzIDkuMzAwMDEgMTAuMDEgOS4zMDAwMSAxMC4yMSA5LjUwMDAxTDExLjUgMTAuNzlMMTIuNzkgOS41MDAwMUMxMi45OSA5LjMwMDAxIDEzLjMgOS4zMDAwMSAxMy41IDkuNTAwMDFDMTMuNyA5LjcwMDAxIDEzLjcgMTAuMDEgMTMuNSAxMC4yMUwxMi4yMSAxMS41TDEzLjUgMTIuNzlaTTMuMzEwMDMgMTEuODRWNy44NTAwMUwzLjMzMDAzIDcuNzQwMDFDMy43OTAwMyA3Ljk0MDAxIDQuMzQwMDMgOC4wMTAwMSA0Ljk1MDAzIDguMDEwMDFDNi4wMzAwMyA4LjAxMDAxIDYuODgwMDMgNy43MDAwMSA3LjQ5MDAzIDcuMDgwMDFDNy42OTAwMyA2Ljg3MDAxIDcuODYwMDMgNi42NDAwMSA4LjAwMDAzIDYuMzgwMDFDOC4xMTAwMyA2LjU5MDAxIDguMjYwMDMgNi43NzAwMSA4LjQxMDAzIDYuOTQwMDFDOC44MjAwMyA2LjY2MDAxIDkuMjcwMDMgNi40NDAwMSA5Ljc0MDAzIDYuMjgwMDFDOS42NTAwMyA2LjIyMDAxIDkuNTgwMDMgNi4xNjAwMSA5LjUxMDAzIDYuMDkwMDFDOS4yMTAwMyA1Ljc5MDAxIDkuMDIwMDMgNS4zMTAwMSA4LjkzMDAzIDQuNjMwMDFDOC44MjAwMyAzLjc1MDAxIDguOTcwMDMgMy4zMjAwMSA5LjE2MDAzIDMuMTIwMDFDOS4zNDAwMyAyLjkzMDAxIDkuNzYwMDMgMi43MzAwMSAxMC43NCAyLjg0MDAxQzExLjcgMi45NTAwMSAxMi4xMyAzLjIyMDAxIDEyLjM1IDMuNTAwMDFDMTIuNTggMy43OTAwMSAxMi43IDQuMjQwMDEgMTIuNyA0Ljk2MDAxQzEyLjcgNS41MzAwMSAxMi42MyA1Ljg3MDAxIDEyLjUyIDYuMDgwMDFDMTMgNi4xNzAwMSAxMy40NSA2LjMyMDAxIDEzLjg3IDYuNTIwMDFDMTMuODcgNi41MjAwMSAxMy44NyA2LjUyMDAxIDEzLjg3IDYuNTEwMDFDMTQuMDYgNi4wMzAwMSAxNC4xMSA1LjQ5MDAxIDE0LjExIDQuOTYwMDFDMTQuMTEgNC4xNDAwMSAxMy45OSAzLjMwMDAxIDEzLjQ2IDIuNjMwMDFDMTIuOTIgMS45NDAwMSAxMi4wNiAxLjU4MDAxIDEwLjkxIDEuNDUwMDFDOS43ODAwMyAxLjMyMDAxIDguNzkwMDMgMS40ODAwMSA4LjE1MDAzIDIuMTcwMDFDOC4xMDAwMyAyLjIyMDAxIDguMDYwMDMgMi4yNzAwMSA4LjAyMDAzIDIuMzIwMDFDNy45ODAwMyAyLjI3MDAxIDcuOTQwMDMgMi4yMTAwMSA3Ljg5MDAzIDIuMTcwMDFDNy4yNTAwMyAxLjQ4MDAxIDYuMjYwMDMgMS4zMzAwMSA1LjEzMDAzIDEuNDUwMDFDMy45ODAwMyAxLjU4MDAxIDMuMTIwMDMgMS45NDAwMSAyLjU4MDAzIDIuNjMwMDFDMi4wNTAwMyAzLjMwMDAxIDEuOTMwMDMgNC4xNDAwMSAxLjkzMDAzIDQuOTYwMDFDMS45MzAwMyA1LjUwMDAxIDEuOTgwMDMgNi4wNDAwMSAyLjE3MDAzIDYuNTEwMDFDMi4xMTAwMyA2LjcyMDAxIDIuMDgwMDMgNi45MTAwMSAyLjA1MDAzIDcuMDgwMDFDMi4wNDAwMyA3LjE1MDAxIDIuMDMwMDMgNy4yMjAwMSAyLjAyMDAzIDcuMjkwMDFDMS4xNzAwMyA3LjY1MDAxIDAuNjEwMDI5IDguNjQwMDEgMC41MzAwMjkgOS4yMzAwMVYxMS4wNkMwLjY0MDAyOSAxMS43NyAzLjIzMDAzIDE0LjEgNi45MzAwMyAxNC41MUM2LjYyMDAzIDE0LjA0IDYuMzkwMDMgMTMuNTIgNi4yMzAwMyAxMi45N0M0LjgwMDAzIDEyLjY1IDMuNjEwMDMgMTIuMDYgMy4zMzAwMyAxMS44NUwzLjMxMDAzIDExLjg0Wk0zLjY2MDAzIDMuNTEwMDFDMy44ODAwMyAzLjIzMDAxIDQuMzEwMDMgMi45NjAwMSA1LjI3MDAzIDIuODUwMDFDNi4yNTAwMyAyLjc0MDAxIDYuNjcwMDMgMi45NDAwMSA2Ljg1MDAzIDMuMTMwMDFDNy4wNDAwMyAzLjM0MDAxIDcuMTkwMDMgMy43NzAwMSA3LjA4MDAzIDQuNjQwMDFDNy4wMDAwMyA1LjMyMDAxIDYuODAwMDMgNS43OTAwMSA2LjUwMDAzIDYuMTAwMDFDNi4yMjAwMyA2LjM5MDAxIDUuNzYwMDMgNi42MTAwMSA0Ljk2MDAzIDYuNjEwMDFDNC4wOTAwMyA2LjYxMDAxIDMuNzYwMDMgNi40MjAwMSAzLjYxMDAzIDYuMjUwMDFDMy40NDAwMyA2LjA2MDAxIDMuMzIwMDMgNS43MTAwMSAzLjMyMDAzIDQuOTYwMDFDMy4zMjAwMyA0LjIxMDAxIDMuNDMwMDMgMy44MDAwMSAzLjY3MDAzIDMuNTAwMDFMMy42NjAwMyAzLjUxMDAxWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=copilot-error)
   /// Codicon icon named "copilot error".
   static const IconData copilotError = IconData(
     0xEC4D,
@@ -4732,7 +4732,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEuNSA2Ljk5OTg3QzEzLjk4NSA2Ljk5OTg3IDE1Ljk5OTkgOS4wMTQ5MyAxNiAxMS40OTk5QzE2IDEzLjk4NDkgMTMuOTg1IDE1Ljk5OTkgMTEuNSAxNS45OTk5QzkuMDE1IDE1Ljk5OTkgNyAxMy45ODQ5IDcgMTEuNDk5OUM3LjAwMDA3IDkuMDE0OTMgOS4wMTUwNCA2Ljk5OTg3IDExLjUgNi45OTk4N1pNMTMuODUzNSAxMC4xNDY0QzEzLjY1ODMgOS45NTExNyAxMy4zNDE3IDkuOTUxMTkgMTMuMTQ2NSAxMC4xNDY0TDExIDEyLjI5MjhMOS44NTM1MiAxMS4xNDY0QzkuNjU4MjggMTAuOTUxMiA5LjM0MTc0IDEwLjk1MTIgOS4xNDY0OCAxMS4xNDY0QzguOTUxMjQgMTEuMzQxNiA4Ljk1MTI3IDExLjY1ODEgOS4xNDY0OCAxMS44NTM0TDEwLjY0NjUgMTMuMzUzNEMxMC44NDE3IDEzLjU0ODcgMTEuMTU4MyAxMy41NDg3IDExLjM1MzUgMTMuMzUzNEwxMy44NTM1IDEwLjg1MzRDMTQuMDQ4NyAxMC42NTgxIDE0LjA0ODggMTAuMzQxNiAxMy44NTM1IDEwLjE0NjRaIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjEzODY3IDEuNzY5NDFDOC44MjA2NyAxLjAzODQxIDkuODc3MDIgMC44Njk3ODQgMTEuMDgzIDEuMDAzNzhDMTIuMzEyNyAxLjE0MDc1IDEzLjIyNzYgMS41MzE4MyAxMy44MDY2IDIuMjY0NTJDMTQuMzcxNiAyLjk4MDQ5IDE0LjUgMy44Nzg5MSAxNC41IDQuNzQ5ODdDMTQuNSA1LjI0Nzg3IDE0LjQ0MDkgNS43NDExNCAxNC4yOTc5IDYuMTk3MTRDMTMuODYyOSA1Ljk2NzE4IDEzLjM5NjIgNS43OTE3IDEyLjkwNzIgNS42NzM3QzEyLjk2NTIgNS40NTI3NCAxMyA1LjE1NzY3IDEzIDQuNzQ5ODdDMTMgMy45ODQgMTIuODc2OCAzLjUwODE3IDEyLjYyOTkgMy4xOTUxOUMxMi4zOTU5IDIuODk5MTkgMTEuOTM3IDIuNjA3OTkgMTAuOTE3IDIuNDk0OTlDOS44NzM0MiAyLjM3OTA0IDkuNDI5NDUgMi41ODU5MyA5LjIzNjMzIDIuNzkyODRDOS4wMzIzMyAzLjAxMDg0IDguODc3MTQgMy40NzExIDguOTk0MTQgNC40MDcxQzkuMDc1MTEgNS4wNTY3NCA5LjI1Nzc0IDUuNTE5NjkgOS41MTk1MyA1Ljg0MjY1QzkuMDM1NjQgNi4wMTI2NCA4LjU3NzExIDYuMjM4NDQgOC4xNTgyIDYuNTIwMzhDOC4xMDQyOCA2LjQzNjUgOC4wNDY5NiA2LjM1NDM0IDggNi4yNjY0OEM3Ljg1NzA3IDYuNTM1MjcgNy42Nzg3OSA2Ljc4NDgxIDcuNDU5OTYgNy4wMDg2NkM2LjgwOTk2IDcuNjcxNjYgNS44OTYgNy45OTk4NyA0Ljc1IDcuOTk5ODdDNC4wOTgxNCA3Ljk5OTg3IDMuNTEzMzcgNy45MTg3NiAzLjAyMzQ0IDcuNzA4ODZMMyA3LjgyNDA5VjEyLjA4NDhMMy4wNjU0MyAxMi4xMjI5QzMuMzI5NDIgMTIuMjczOSAzLjcxNTQgMTIuNDc5NSA0LjE5OTIyIDEyLjY4NDRINC4yMDExN0M0LjY0NTEgMTIuODczNCA1LjE3MzEyIDEzLjA1NTEgNS43NTA5OCAxMy4yMDJDNS45MzA5MyAxMy44MDg5IDYuMjAyODcgMTQuMzc2NyA2LjU1MjczIDE0Ljg4NjZDNS40MDQwMyAxNC43MjE2IDQuMzkxMTQgMTQuMzk1MiAzLjYxNDI2IDE0LjA2NTNDMy4wNjYzNSAxMy44MzIzIDIuNjI1MzUgMTMuNTk5NyAyLjMxODM2IDEzLjQyMjdDMi4wNjI0MyAxMy4yNzQ4IDEuODE2MDggMTMuMTE2MiAxLjU3NzE1IDEyLjk0MzJDMS40MjcxNSAxMi44MzYyIDEuMjI0NTMgMTIuNjgzNiAxLjAxOTUzIDEyLjUxMjZDMC44MTg3NDkgMTIuMzQ1NyAwLjU5NDg1MSAxMi4xNDMyIDAuNDE1MDM5IDExLjkzMzVDMC4zMjUxMDUgMTEuODI4NSAwLjIzMTIyMyAxMS43MDQxIDAuMTU2MjUgMTEuNTY3M0MwLjA4NjI1IDExLjQzODMgMCAxMS4yMzk5IDAgMTAuOTk5OVY5LjczNjJDMCA4LjY5NDM4IDAuNTg3ODA0IDcuNzQyMzMgMS41MTk1MyA3LjI3NjI0TDEuNTg1OTQgNy4yNDMwNEwxLjc1MzkxIDYuNDA1MTVDMS41NTI5MSA1Ljg5NzE1IDEuNSA1LjMyMTg3IDEuNSA0Ljc0OTg3QzEuNTAwMDEgMy44Nzg5MSAxLjYyODM5IDIuOTgwNDkgMi4xOTMzNiAyLjI2NDUyQzIuNzcyMzggMS41MzE4MyAzLjY4NzI1IDEuMTQwNzUgNC45MTY5OSAxLjAwMzc4QzYuMTIyOTkgMC44Njk3ODQgNy4xNzkzMyAxLjAzODQxIDcuODYxMzMgMS43Njk0MUM3LjkxMDIgMS44MjIyOSA3Ljk1NzEgMS44Nzc2IDggMS45MzM0N0M4LjA0MjkgMS44Nzc2IDguMDg5OCAxLjgyMjI5IDguMTM4NjcgMS43Njk0MVpNNi43NjM2NyAyLjc5Mjg0QzYuNTcwNTUgMi41ODU5MyA2LjEyNjU4IDIuMzc5MDQgNS4wODMwMSAyLjQ5NDk5QzQuMDYzMDEgMi42MDg5OSAzLjYwNDEyIDIuODk5MTkgMy4zNzAxMiAzLjE5NTE5QzMuMTIzMTYgMy41MDgxNyAzLjAwMDAxIDMuOTg0IDMgNC43NDk4N0MzIDUuNTQxNjIgMy4xMjg3MSA1LjkxOTk0IDMuMzA3NjIgNi4xMTk5OUMzLjQ2OTYyIDYuMzAwOTkgMy44MjggNi40OTk4NyA0Ljc1IDYuNDk5ODdDNS42MDM5MyA2LjQ5OTg3IDYuMDg4NjkgNi4yNjM4MiA2LjM4NzcgNS45NTg4NkM2LjcwMzY4IDUuNjM2ODggNi45MTQ4NSA1LjEzMzA0IDcuMDA1ODYgNC40MDcxQzcuMTIyODYgMy40NzExIDYuOTY3NjcgMy4wMTA4NCA2Ljc2MzY3IDIuNzkyODRaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-success)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEuNSA3LjAwMDAxQzkuMDIwMDMgNy4wMDAwMSA3LjAwMDAzIDkuMDIwMDEgNy4wMDAwMyAxMS41QzcuMDAwMDMgMTMuOTggOS4wMjAwMyAxNiAxMS41IDE2QzEzLjk4IDE2IDE2IDEzLjk4IDE2IDExLjVDMTYgOS4wMjAwMSAxMy45OCA3LjAwMDAxIDExLjUgNy4wMDAwMVpNMTMuODUgMTAuODVMMTEuMzUgMTMuMzVDMTEuMTUgMTMuNTUgMTAuODQgMTMuNTUgMTAuNjQgMTMuMzVMOS4xNDAwMyAxMS44NUM4Ljk0MDAzIDExLjY1IDguOTQwMDMgMTEuMzQgOS4xNDAwMyAxMS4xNEM5LjM0MDAzIDEwLjk0IDkuNjUwMDMgMTAuOTQgOS44NTAwMyAxMS4xNEwxMSAxMi4yOUwxMy4xNSAxMC4xNEMxMy4zNSA5Ljk0MDAxIDEzLjY2IDkuOTQwMDEgMTMuODYgMTAuMTRDMTQuMDYgMTAuMzQgMTQuMDYgMTAuNjUgMTMuODYgMTAuODVIMTMuODVaTTMuMzEwMDMgMTEuODRWNy44NTAwMUwzLjMzMDAzIDcuNzQwMDFDMy43OTAwMyA3Ljk0MDAxIDQuMzQwMDMgOC4wMTAwMSA0Ljk1MDAzIDguMDEwMDFDNi4wMzAwMyA4LjAxMDAxIDYuODgwMDMgNy43MDAwMSA3LjQ5MDAzIDcuMDgwMDFDNy42OTAwMyA2Ljg3MDAxIDcuODYwMDMgNi42NDAwMSA4LjAwMDAzIDYuMzgwMDFDOC4xMTAwMyA2LjU5MDAxIDguMjYwMDMgNi43NzAwMSA4LjQxMDAzIDYuOTQwMDFDOC44MjAwMyA2LjY2MDAxIDkuMjcwMDMgNi40NDAwMSA5Ljc0MDAzIDYuMjgwMDFDOS42NTAwMyA2LjIyMDAxIDkuNTgwMDMgNi4xNjAwMSA5LjUxMDAzIDYuMDkwMDFDOS4yMTAwMyA1Ljc5MDAxIDkuMDIwMDMgNS4zMTAwMSA4LjkzMDAzIDQuNjMwMDFDOC44MjAwMyAzLjc1MDAxIDguOTcwMDMgMy4zMjAwMSA5LjE2MDAzIDMuMTIwMDFDOS4zNDAwMyAyLjkzMDAxIDkuNzYwMDMgMi43MzAwMSAxMC43NCAyLjg0MDAxQzExLjcgMi45NTAwMSAxMi4xMyAzLjIyMDAxIDEyLjM1IDMuNTAwMDFDMTIuNTggMy43OTAwMSAxMi43IDQuMjQwMDEgMTIuNyA0Ljk2MDAxQzEyLjcgNS41MzAwMSAxMi42MyA1Ljg3MDAxIDEyLjUyIDYuMDgwMDFDMTMgNi4xNzAwMSAxMy40NSA2LjMyMDAxIDEzLjg3IDYuNTIwMDFDMTMuODcgNi41MjAwMSAxMy44NyA2LjUyMDAxIDEzLjg3IDYuNTEwMDFDMTQuMDYgNi4wMzAwMSAxNC4xMSA1LjQ5MDAxIDE0LjExIDQuOTYwMDFDMTQuMTEgNC4xNDAwMSAxMy45OSAzLjMwMDAxIDEzLjQ2IDIuNjMwMDFDMTIuOTIgMS45NDAwMSAxMi4wNiAxLjU4MDAxIDEwLjkxIDEuNDUwMDFDOS43ODAwMyAxLjMyMDAxIDguNzkwMDMgMS40ODAwMSA4LjE1MDAzIDIuMTcwMDFDOC4xMDAwMyAyLjIyMDAxIDguMDYwMDMgMi4yNzAwMSA4LjAyMDAzIDIuMzIwMDFDNy45ODAwMyAyLjI3MDAxIDcuOTQwMDMgMi4yMTAwMSA3Ljg5MDAzIDIuMTcwMDFDNy4yNTAwMyAxLjQ4MDAxIDYuMjYwMDMgMS4zMzAwMSA1LjEzMDAzIDEuNDUwMDFDMy45ODAwMyAxLjU4MDAxIDMuMTIwMDMgMS45NDAwMSAyLjU4MDAzIDIuNjMwMDFDMi4wNTAwMyAzLjMwMDAxIDEuOTMwMDMgNC4xNDAwMSAxLjkzMDAzIDQuOTYwMDFDMS45MzAwMyA1LjUwMDAxIDEuOTgwMDMgNi4wNDAwMSAyLjE3MDAzIDYuNTEwMDFDMi4xMTAwMyA2LjcyMDAxIDIuMDgwMDMgNi45MTAwMSAyLjA1MDAzIDcuMDgwMDFDMi4wNDAwMyA3LjE1MDAxIDIuMDMwMDMgNy4yMjAwMSAyLjAyMDAzIDcuMjkwMDFDMS4xNzAwMyA3LjY1MDAxIDAuNjEwMDI5IDguNjQwMDEgMC41MzAwMjkgOS4yMzAwMVYxMS4wNkMwLjY0MDAyOSAxMS43NyAzLjIzMDAzIDE0LjEgNi45MzAwMyAxNC41MUM2LjYyMDAzIDE0LjA0IDYuMzkwMDMgMTMuNTIgNi4yMzAwMyAxMi45N0M0LjgwMDAzIDEyLjY1IDMuNjEwMDMgMTIuMDYgMy4zMzAwMyAxMS44NUwzLjMxMDAzIDExLjg0Wk0zLjY2MDAzIDMuNTEwMDFDMy44ODAwMyAzLjIzMDAxIDQuMzEwMDMgMi45NjAwMSA1LjI3MDAzIDIuODUwMDFDNi4yNTAwMyAyLjc0MDAxIDYuNjcwMDMgMi45NDAwMSA2Ljg1MDAzIDMuMTMwMDFDNy4wNDAwMyAzLjM0MDAxIDcuMTkwMDMgMy43NzAwMSA3LjA4MDAzIDQuNjQwMDFDNy4wMDAwMyA1LjMyMDAxIDYuODAwMDMgNS43OTAwMSA2LjUwMDAzIDYuMTAwMDFDNi4yMjAwMyA2LjM5MDAxIDUuNzYwMDMgNi42MTAwMSA0Ljk2MDAzIDYuNjEwMDFDNC4wOTAwMyA2LjYxMDAxIDMuNzYwMDMgNi40MjAwMSAzLjYxMDAzIDYuMjUwMDFDMy40NDAwMyA2LjA2MDAxIDMuMzIwMDMgNS43MTAwMSAzLjMyMDAzIDQuOTYwMDFDMy4zMjAwMyA0LjIxMDAxIDMuNDMwMDMgMy44MDAwMSAzLjY3MDAzIDMuNTAwMDFMMy42NjAwMyAzLjUxMDAxWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=copilot-success)
   /// Codicon icon named "copilot success".
   static const IconData copilotSuccess = IconData(
     0xEC4E,
@@ -4764,7 +4764,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS41IDAuNTAwNDg4QzExLjUgMC4yMjQ0ODggMTEuNzI0IDAuMDAwNDg4MjgxIDEyIDAuMDAwNDg4MjgxSDE1LjVDMTUuNjg2IDAuMDAwNDg4MjgxIDE1Ljg1NyAwLjEwNDQ4OCAxNS45NDMgMC4yNjk0ODhDMTYuMDI5IDAuNDM0NDg4IDE2LjAxNiAwLjYzNDQ4OCAxNS45MDkgMC43ODc0ODhMMTIuOTYgNS4wMDA0OUgxNS41QzE1Ljc3NiA1LjAwMDQ5IDE2IDUuMjI0NDkgMTYgNS41MDA0OUMxNiA1Ljc3NjQ5IDE1Ljc3NiA2LjAwMDQ5IDE1LjUgNi4wMDA0OUgxMkMxMS44MTQgNi4wMDA0OSAxMS42NDMgNS44OTY0OSAxMS41NTcgNS43MzE0OUMxMS40NzEgNS41NjY0OSAxMS40ODQgNS4zNjY0OSAxMS41OTEgNS4yMTM0OUwxNC41NCAxLjAwMDQ5SDEyQzExLjcyNCAxLjAwMDQ5IDExLjUgMC43NzY0ODggMTEuNSAwLjUwMDQ4OFpNMTAgNy4wMDA0OUg4LjU2ODAyTDEwLjM4NSA0LjgyMDQ5QzEwLjUwOSA0LjY3MTQ5IDEwLjUzNiA0LjQ2NDQ5IDEwLjQ1NCA0LjI4ODQ5QzEwLjM3MiA0LjExMjQ5IDEwLjE5NSA0LjAwMDQ5IDEwLjAwMSA0LjAwMDQ5SDcuNTAxMDJDNy4yMjUwMiA0LjAwMDQ5IDcuMDAxMDIgNC4yMjQ0OSA3LjAwMTAyIDQuNTAwNDlDNy4wMDEwMiA0Ljc3NjQ5IDcuMjI1MDIgNS4wMDA0OSA3LjUwMTAyIDUuMDAwNDlIOC45MzMwMkw3LjExNjAyIDcuMTgwNDlDNi45OTIwMiA3LjMyOTQ5IDYuOTY1MDIgNy41Mzc0OSA3LjA0NzAyIDcuNzEyNDlDNy4xMjkwMiA3Ljg4ODQ5IDcuMzA2MDIgOC4wMDA0OSA3LjUwMDAyIDguMDAwNDlIMTBDMTAuMjc2IDguMDAwNDkgMTAuNSA3Ljc3NjQ5IDEwLjUgNy41MDA0OUMxMC41IDcuMjI0NDkgMTAuMjc2IDcuMDAwNDkgMTAgNy4wMDA0OVpNMTQuNDggNy4yNzY0OUwxNC40MTQgNy4yNDM0OUwxNC4zNjUgNy4wMDA0OUgxM1YxMi4wODU1TDEyLjkzNSAxMi4xMjM1QzEyLjY3MiAxMi4yNzQ1IDEyLjI4NSAxMi40Nzk1IDExLjgwMSAxMi42ODQ1QzEwLjgzIDEzLjA5NjUgOS40OTQwMiAxMy40OTk1IDguMDAwMDIgMTMuNDk5NUM2LjUwNjAyIDEzLjQ5OTUgNS4xNzEwMiAxMy4wOTY1IDQuMTk5MDIgMTIuNjg0NUMzLjcxNTAyIDEyLjQ3OTUgMy4zMjkwMiAxMi4yNzQ1IDMuMDY1MDIgMTIuMTIzNUwzLjAwMDAyIDEyLjA4NTVWNy44MjQ0OUwzLjAyMzAyIDcuNzA5NDlDMy41MTMwMiA3LjkxOTQ5IDQuMDk4MDIgOC4wMDA0OSA0Ljc1MDAyIDguMDAwNDlDNS4yMDkwMiA4LjAwMDQ5IDUuNjE5MDIgNy45MzI0OSA2LjAwMDAyIDcuODI2NDlWNi4yMzU0OUM1LjcwNTAyIDYuMzkyNDkgNS4zMTMwMiA2LjUwMTQ5IDQuNzUwMDIgNi41MDE0OUMzLjgyODAyIDYuNTAxNDkgMy40NzAwMiA2LjMwMjQ5IDMuMzA4MDIgNi4xMjE0OUMzLjEyOTAyIDUuOTIxNDkgMy4wMDAwMiA1LjU0MzQ5IDMuMDAwMDIgNC43NTE0OUMzLjAwMDAyIDMuOTg1NDkgMy4xMjMwMiAzLjUwOTQ5IDMuMzcwMDIgMy4xOTY0OUMzLjYwNDAyIDIuOTAwNDkgNC4wNjMwMiAyLjYxMDQ5IDUuMDgzMDIgMi40OTY0OUM2LjEyNzAyIDIuMzgwNDkgNi41NzEwMiAyLjU4NzQ5IDYuNzY0MDIgMi43OTQ0OUM2LjgzMjAyIDIuODY2NDkgNi44ODgwMiAyLjk3OTQ5IDYuOTM3MDIgMy4xMTM0OUM3LjExMTAyIDMuMDQyNDkgNy4zMDAwMiAzLjAwMTQ5IDcuNTAwMDIgMy4wMDE0OUg5LjA5OTAyQzkuMTQwMDIgMi45MTY0OSA5LjE4NjAyIDIuODQ3NDkgOS4yMzUwMiAyLjc5NDQ5QzkuMzk4MDIgMi42MTk0OSA5Ljc2NjAyIDIuNDU3NDkgMTAuNDk5IDIuNDc3NDlWMC45ODQ0ODhDOS41NDMwMiAwLjk2MjQ4OCA4LjcwNjAyIDEuMTYxNDkgOC4xMzgwMiAxLjc2OTQ5QzguMDg5MDIgMS44MjI0OSA4LjA0MjAyIDEuODc3NDkgNy45OTkwMiAxLjkzMzQ5QzcuOTU2MDIgMS44Nzc0OSA3LjkwOTAyIDEuODIyNDkgNy44NjAwMiAxLjc2OTQ5QzcuMTc4MDIgMS4wMzg0OSA2LjEyMjAyIDAuODcwNDg4IDQuOTE2MDIgMS4wMDQ0OUMzLjY4NjAyIDEuMTQxNDkgMi43NzEwMiAxLjUzMjQ5IDIuMTkyMDIgMi4yNjU0OUMxLjYyNzAyIDIuOTgxNDkgMS40OTkwMiAzLjg3OTQ5IDEuNDk5MDIgNC43NTA0OUMxLjQ5OTAyIDUuMzIyNDkgMS41NTIwMiA1Ljg5NzQ5IDEuNzUzMDIgNi40MDU0OUwxLjU4NTAyIDcuMjQzNDlMMS41MTkwMiA3LjI3NjQ5QzAuNTg3MDI0IDcuNzQyNDkgLTAuMDAwOTc2NTYyIDguNjk0NDkgLTAuMDAwOTc2NTYyIDkuNzM2NDlWMTEuMDAwNUMtMC4wMDA5NzY1NjIgMTEuMjQwNSAwLjA4NTAyMzQgMTEuNDM4NSAwLjE1NTAyMyAxMS41Njc1QzAuMjMwMDIzIDExLjcwNDUgMC4zMjQwMjMgMTEuODI4NSAwLjQxNDAyMyAxMS45MzM1QzAuNTk0MDIzIDEyLjE0MzUgMC44MTgwMjQgMTIuMzQ2NSAxLjAxOTAyIDEyLjUxMzVDMS4yMjQwMiAxMi42ODQ1IDEuNDI2MDIgMTIuODM2NSAxLjU3NjAyIDEyLjk0MzVDMS44MTUwMiAxMy4xMTY1IDIuMDYxMDIgMTMuMjc1NSAyLjMxNzAyIDEzLjQyMzVDMi42MjQwMiAxMy42MDA1IDMuMDY1MDIgMTMuODMyNSAzLjYxMzAyIDE0LjA2NTVDNC43MDQwMiAxNC41Mjg1IDYuMjQ0MDIgMTUuMDAwNSA4LjAwMDAyIDE1LjAwMDVDOS43NTYwMiAxNS4wMDA1IDExLjI5NiAxNC41Mjg1IDEyLjM4NyAxNC4wNjU1QzEyLjkzNSAxMy44MzM1IDEzLjM3NiAxMy42MDA1IDEzLjY4MyAxMy40MjM1QzEzLjkzOSAxMy4yNzY1IDE0LjE4NSAxMy4xMTY1IDE0LjQyNCAxMi45NDM1QzE0LjU3MyAxMi44MzU1IDE0Ljc3NiAxMi42ODQ1IDE0Ljk4MSAxMi41MTM1QzE1LjE4MiAxMi4zNDY1IDE1LjQwNiAxMi4xNDM1IDE1LjU4NiAxMS45MzM1QzE1LjY3NiAxMS44Mjg1IDE1Ljc3IDExLjcwNDUgMTUuODQ1IDExLjU2NzVDMTUuOTE1IDExLjQzODUgMTYuMDAxIDExLjIzOTUgMTYuMDAxIDExLjAwMDVWOS43MzY0OUMxNi4wMDEgOC42OTQ0OSAxNS40MTIgNy43NDI0OSAxNC40ODEgNy4yNzY0OUgxNC40OFpNOS43NTEwMiA5LjAwMDQ5SDkuNzUwMDJDOS4zMzYwMiA5LjAwMDQ5IDkuMDAxMDIgOS4zMzY0OSA5LjAwMTAyIDkuNzUwNDlWMTEuMjUwNUM5LjAwMTAyIDExLjY2NDUgOS4zMzcwMiAxMi4wMDA1IDkuNzUxMDIgMTIuMDAwNUMxMC4xNjUgMTIuMDAwNSAxMC41MDEgMTEuNjY0NSAxMC41MDEgMTEuMjUwNVY5Ljc1MDQ5QzEwLjUwMSA5LjMzNjQ5IDEwLjE2NCA5LjAwMDQ5IDkuNzUxMDIgOS4wMDA0OVpNNi4yNTAwMiA5LjAwMDQ5QzUuODM2MDIgOS4wMDA0OSA1LjUwMDAyIDkuMzM2NDkgNS41MDAwMiA5Ljc1MDQ5VjExLjI1MDVDNS41MDAwMiAxMS42NjQ1IDUuODM2MDIgMTIuMDAwNSA2LjI1MDAyIDEyLjAwMDVDNi42NjQwMiAxMi4wMDA1IDcuMDAwMDIgMTEuNjY0NSA3LjAwMDAyIDExLjI1MDVWOS43NTA0OUM3LjAwMDAyIDkuMzM2NDkgNi42NjQwMiA5LjAwMDQ5IDYuMjUwMDIgOS4wMDA0OVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=copilot-snooze)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNiA1LjVDMTYgNS43OCAxNS43OCA2IDE1LjUgNkgxMkMxMS44MSA2IDExLjY0IDUuOSAxMS41NiA1LjczQzExLjQ3IDUuNTcgMTEuNDkgNS4zNyAxMS41OSA1LjIxTDE0LjU0IDFIMTJDMTEuNzIgMSAxMS41IDAuNzggMTEuNSAwLjVDMTEuNSAwLjIyIDExLjcyIDAgMTIgMEgxNS41QzE1LjY5IDAgMTUuODYgMC4xIDE1Ljk0IDAuMjdDMTYuMDIgMC40NCAxNi4wMSAwLjYzIDE1LjkxIDAuNzlMMTIuOTYgNUgxNS41QzE1Ljc4IDUgMTYgNS4yMiAxNiA1LjVaTTEwLjUgNy41QzEwLjUgNy4yMiAxMC4yOCA3IDEwIDdIOC41NzAwM0wxMC4zOSA0LjgyQzEwLjUxIDQuNjcgMTAuNTQgNC40NiAxMC40NiA0LjI5QzEwLjM4IDQuMTEgMTAuMiA0IDEwLjAxIDRINy41MTAwM0M3LjIzMDAzIDQgNy4wMTAwMyA0LjIyIDcuMDEwMDMgNC41QzcuMDEwMDMgNC43OCA3LjIzMDAzIDUgNy41MTAwMyA1SDguOTQwMDNMNy4xMjAwMyA3LjE4QzcuMDAwMDMgNy4zMyA2Ljk3MDAzIDcuNTQgNy4wNTAwMyA3LjcxQzcuMTMwMDMgNy44OSA3LjMxMDAzIDggNy41MDAwMyA4SDEwQzEwLjI4IDggMTAuNSA3Ljc4IDEwLjUgNy41Wk0xNC4wMSA3LjNDMTQgNy4yMyAxMy45OSA3LjE3IDEzLjk4IDcuMDlDMTMuOTggNy4wNiAxMy45NiA3LjAyIDEzLjk2IDYuOTlIMTEuNDFDMTEuNDcgNy4xNSAxMS41IDcuMzEgMTEuNSA3LjQ5QzExLjUgNy42NyAxMS40NiA3LjgzIDExLjQxIDcuOThDMTEuODcgNy45NSAxMi4zIDcuODkgMTIuNjcgNy43M0wxMi42OSA3Ljg0VjExLjgzQzEyLjMgMTIuMTMgMTAuMTQgMTMuMTcgOC4wMDAwMyAxMy4xN0M1Ljg2MDAzIDEzLjE3IDMuNzAwMDMgMTIuMTMgMy4zMTAwMyAxMS44M1Y3Ljg0TDMuMzMwMDMgNy43M0MzLjc5MDAzIDcuOTMgNC4zNDAwMyA4IDQuOTUwMDMgOEM1LjM1MDAzIDggNS43MjAwMyA3Ljk0IDYuMDYwMDMgNy44NUM2LjAzMDAzIDcuNzMgNi4wMjAwMyA3LjYgNi4wMjAwMyA3LjQ4SDYuMDEwMDNWNi40QzUuNzUwMDMgNi41MSA1LjQxMDAzIDYuNTkgNC45NjAwMyA2LjU5QzQuMDkwMDMgNi41OSAzLjc2MDAzIDYuNCAzLjYxMDAzIDYuMjNDMy40NDAwMyA2LjA0IDMuMzIwMDMgNS42OSAzLjMyMDAzIDQuOTRDMy4zMjAwMyA0LjE5IDMuNDMwMDMgMy43OCAzLjY3MDAzIDMuNDhDMy44OTAwMyAzLjIgNC4zMjAwMyAyLjkzIDUuMjgwMDMgMi44MkM2LjI2MDAzIDIuNzEgNi42ODAwMyAyLjkxIDYuODYwMDMgMy4xQzYuODYwMDMgMy4xIDYuODYwMDMgMy4xMSA2Ljg3MDAzIDMuMTJDNy4wNzAwMyAzLjAyIDcuMjkwMDMgMi45NyA3LjUyMDAzIDIuOTdIOS4zNzAwM0M5LjU5MDAzIDIuODYgOS45NDAwMyAyLjc4IDEwLjUyIDIuODJWMS40MkM5LjU2MDAzIDEuMzcgOC43MTAwMyAxLjU1IDguMTUwMDMgMi4xNUM4LjEwMDAzIDIuMiA4LjA2MDAzIDIuMjUgOC4wMjAwMyAyLjNDNy45ODAwMyAyLjI1IDcuOTQwMDMgMi4xOSA3Ljg5MDAzIDIuMTVDNy4yNTAwMyAxLjQ2IDYuMjYwMDMgMS4zMSA1LjEzMDAzIDEuNDNDMy45ODAwMyAxLjU2IDMuMTIwMDMgMS45MiAyLjU4MDAzIDIuNjFDMi4wNTAwMyAzLjI4IDEuOTMwMDMgNC4xMiAxLjkzMDAzIDQuOTRDMS45MzAwMyA1LjQ4IDEuOTgwMDMgNi4wMiAyLjE3MDAzIDYuNDlDMi4xMTAwMyA2LjcgMi4wODAwMyA2Ljg5IDIuMDUwMDMgNy4wNkMyLjA0MDAzIDcuMTMgMi4wMzAwMyA3LjIgMi4wMjAwMyA3LjI3QzEuMTcwMDMgNy42MyAwLjYxMDAyOSA4LjYyIDAuNTMwMDI5IDkuMjFWMTEuMDRDMC42NTAwMjkgMTEuODIgMy43NTAwMyAxNC41NSA4LjAzMDAzIDE0LjU1QzEyLjMxIDE0LjU1IDE1LjUzIDExLjcxIDE1LjUzIDEwLjk5VjkuMjNDMTUuNDcgOC42NSAxNC45IDcuNjMgMTQuMDQgNy4yN0wxNC4wMSA3LjNaTTkuNDIwMDMgOUM5LjE0MDAzIDkuMDkgOC45NDAwMyA5LjM1IDguOTQwMDMgOS42NlYxMS4wN0M4Ljk0MDAzIDExLjQ2IDkuMjYwMDMgMTEuNzcgOS42NDAwMyAxMS43N0MxMC4wMiAxMS43NyAxMC4zNCAxMS40NSAxMC4zNCAxMS4wN1Y5LjY2QzEwLjM0IDkuMzUgMTAuMTMgOS4wOSA5Ljg2MDAzIDlIOS40MjAwM1pNNi4zNjAwMyA4Ljk2QzUuOTcwMDMgOC45NiA1LjY2MDAzIDkuMjggNS42NjAwMyA5LjY2VjExLjA3QzUuNjYwMDMgMTEuNDYgNS45ODAwMyAxMS43NyA2LjM2MDAzIDExLjc3QzYuNzQwMDMgMTEuNzcgNy4wNjAwMyAxMS40NSA3LjA2MDAzIDExLjA3VjkuNjZDNy4wNjAwMyA5LjI3IDYuNzQwMDMgOC45NiA2LjM2MDAzIDguOTZaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-snooze)
   /// Codicon icon named "copilot snooze".
   static const IconData copilotSnooze = IconData(
     0xEC52,
@@ -4924,7 +4924,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMC44ODcgMTVIOC40OTk5OEM4LjIyMzk4IDE1IDcuOTk5OTggMTQuNzc2IDcuOTk5OTggMTQuNUM3Ljk5OTk4IDE0LjIyNCA4LjIyMzk4IDE0IDguNDk5OTggMTRIMTAuODg3QzExLjI0MyAxNCAxMS41NzUgMTMuODA5IDExLjc1MiAxMy41TDE0LjY0IDguNUMxNC44MTkgOC4xOTEgMTQuODE5IDcuODA5IDE0LjY0IDcuNUwxMS43MDUgMi40MTZDMTEuNTU3IDIuMTYgMTEuMjggMiAxMC45ODMgMkMxMC42MTYgMiAxMC4yOTYgMi4yMzYgMTAuMTg4IDIuNTg3TDYuNzY1OTggMTMuNzA3QzYuNTI4OTggMTQuNDggNS44MjQ5OCAxNSA1LjAxNTk4IDE1QzQuMzYzOTggMTUgMy43NTQ5OCAxNC42NDkgMy40Mjg5OCAxNC4wODRMMC40OTQ5ODQgOUMwLjEzNzk4NCA4LjM4MyAwLjEzNzk4NCA3LjYxNyAwLjQ5NDk4NCA3TDMuMzgxOTggMkMzLjczNjk4IDEuMzgzIDQuNDAwOTggMSA1LjExMjk4IDFINy40OTk5OEM3Ljc3NTk4IDEgNy45OTk5OCAxLjIyNCA3Ljk5OTk4IDEuNUM3Ljk5OTk4IDEuNzc2IDcuNzc1OTggMiA3LjQ5OTk4IDJINS4xMTI5OEM0Ljc1Njk4IDIgNC40MjQ5OCAyLjE5MSA0LjI0Nzk4IDIuNUwxLjM1OTk4IDcuNUMxLjE4MDk4IDcuODA5IDEuMTgwOTggOC4xOTEgMS4zNTk5OCA4LjVMNC4yOTQ5OCAxMy41ODRDNC40NDI5OCAxMy44NDEgNC43MTk5OCAxNCA1LjAxNjk4IDE0QzUuMzgzOTggMTQgNS43MDM5OCAxMy43NjQgNS44MTE5OCAxMy40MTJMOS4yMzM5OCAyLjI5M0M5LjQ3MDk4IDEuNTIgMTAuMTc0IDEgMTAuOTg0IDFDMTEuNjM2IDEgMTIuMjQ1IDEuMzUxIDEyLjU3MSAxLjkxNkwxNS41MDYgN0MxNS44NjMgNy42MTcgMTUuODYzIDguMzgzIDE1LjUwNiA5LjAwMUwxMi42MTkgMTRDMTIuMjY0IDE0LjYxNyAxMS41OTkgMTUgMTAuODg3IDE1WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=agent)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik01LjEwMTk4IDNDNC45MjMzNSAzIDQuNzU4MjkgMy4wOTUzIDQuNjY4OTcgMy4yNUwyLjA3MDg5IDcuNzVDMS45ODE1OCA3LjkwNDcgMS45ODE1OCA4LjA5NTMgMi4wNzA4OSA4LjI1TDQuNTc0NiAxMi41ODY2QzQuNzIyMzEgMTIuODQyNCA0Ljk5NTI5IDEzIDUuMjkwNzEgMTNDNS42NTE0NCAxMyA1Ljk3MDU1IDEyLjc2NjIgNi4wNzkyIDEyLjQyMjJMOC45NjgyMyAzLjI3NjIyQzkuMjA4MjEgMi41MTY0OSA5LjkxMyAyIDEwLjcwOTcgMkMxMS4zNjIyIDIgMTEuOTY1MSAyLjM0ODA5IDEyLjI5MTQgMi45MTMxNkwxNC43OTUzIDcuMjVDMTUuMDYzMiA3LjcxNDEgMTUuMDYzMiA4LjI4NTkgMTQuNzk1MyA4Ljc1TDEyLjE5NzIgMTMuMjVDMTEuOTI5MiAxMy43MTQxIDExLjQzNCAxNCAxMC44OTgxIDE0SDguNTAxNTVDOC4yMjU0MSAxNCA4LjAwMTU1IDEzLjc3NjEgOC4wMDE1NSAxMy41QzguMDAxNTUgMTMuMjIzOSA4LjIyNTQxIDEzIDguNTAxNTUgMTNIMTAuODk4MUMxMS4wNzY4IDEzIDExLjI0MTggMTIuOTA0NyAxMS4zMzExIDEyLjc1TDEzLjkyOTIgOC4yNUMxNC4wMTg1IDguMDk1MyAxNC4wMTg1IDcuOTA0NyAxMy45MjkyIDcuNzVMMTEuNDI1NCAzLjQxMzE2QzExLjI3NzcgMy4xNTc1IDExLjAwNSAzIDEwLjcwOTcgM0MxMC4zNDkzIDMgMTAuMDMwNCAzLjIzMzY5IDkuOTIxNzkgMy41Nzc0M0w3LjAzMjc2IDEyLjcyMzRDNi43OTI3IDEzLjQ4MzQgNi4wODc2OSAxNCA1LjI5MDcxIDE0QzQuNjM4MDMgMTQgNC4wMzQ5MiAxMy42NTE4IDMuNzA4NTggMTMuMDg2NkwxLjIwNDg3IDguNzVDMC45MzY5MTggOC4yODU5IDAuOTM2OTE5IDcuNzE0MSAxLjIwNDg3IDcuMjVMMy44MDI5NSAyLjc1QzQuMDcwODkgMi4yODU5IDQuNTY2MDkgMiA1LjEwMTk4IDJINy41MDE1NUM3Ljc3NzY5IDIgOC4wMDE1NSAyLjIyMzg2IDguMDAxNTUgMi41QzguMDAxNTUgMi43NzYxNCA3Ljc3NzY5IDMgNy41MDE1NSAzSDUuMTAxOThaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=agent)
   /// Codicon icon named "agent".
   static const IconData agent = IconData(
     0xEC67,
@@ -4996,7 +4996,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/git-branch-create.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-branch-create)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/git-branch-create.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-branch-create)
   /// Codicon icon named "git branch create".
   static const IconData gitBranchCreate = IconData(
     0xEC6F,
@@ -5004,7 +5004,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](https://unpkg.com/@vscode/codicons@0.0.45/icons/git-branch-delete.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-branch-delete)
+  /// [![](https://unpkg.com/@vscode/codicons@0.0.46-24/icons/git-branch-delete.svg)](https://github.com/microsoft/vscode-codicons/search?q=git-branch-delete)
   /// Codicon icon named "git branch delete".
   static const IconData gitBranchDelete = IconData(
     0xEC6F,
@@ -5100,7 +5100,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTEiIGhlaWdodD0iMTEiIHZpZXdCb3g9IjAgMCAxMSAxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMSA1LjVDMTEgNS43NzYgMTAuNzc2IDYgMTAuNSA2SDZWMTAuNUM2IDEwLjc3NiA1Ljc3NiAxMSA1LjUgMTFDNS4yMjQgMTEgNSAxMC43NzYgNSAxMC41VjZIMC41QzAuMjI0IDYgMCA1Ljc3NiAwIDUuNUMwIDUuMjI0IDAuMjI0IDUgMC41IDVINVYwLjVDNSAwLjIyNCA1LjIyNCAwIDUuNSAwQzUuNzc2IDAgNiAwLjIyNCA2IDAuNVY1SDEwLjVDMTAuNzc2IDUgMTEgNS4yMjQgMTEgNS41WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=add-small)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDAuNUM2IDAuMjI0IDUuNzc2IDAgNS41IDBDNS4yMjQgMCA1IDAuMjI0IDUgMC41VjVIMC41QzAuMjI0IDUgMCA1LjIyNCAwIDUuNUMwIDUuNzc2IDAuMjI0IDYgMC41IDZINVYxMC41QzUgMTAuNzc2IDUuMjI0IDExIDUuNSAxMUM1Ljc3NiAxMSA2IDEwLjc3NiA2IDEwLjVWNkgxMC41QzEwLjc3NiA2IDExIDUuNzc2IDExIDUuNUMxMSA1LjIyNCAxMC43NzYgNSAxMC41IDVINlYwLjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=add-small)
   /// Codicon icon named "add small".
   static const IconData addSmall = IconData(
     0xEC7B,
@@ -5148,7 +5148,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02LjEzNjcxIDUuODIzOTlWNC4zMDM5OEM2LjEzNjcxIDQuMTc1OTYgNi4xODQzMSA0LjA3OTkxIDYuMjk1MjcgNC4wMTU5OEw5LjMyNDA2IDIuMjU2QzkuNzM2MzcgMi4wMTYwMiAxMC4yMjggMS45MDQwNiAxMC43MzUzIDEuOTA0MDZDMTIuNjM4MiAxLjkwNDA2IDEzLjg0MzQgMy4zOTIxIDEzLjg0MzQgNC45NzYwNEMxMy44NDM0IDUuMDg4IDEzLjg0MzQgNS4yMTYwMiAxMy44Mjc0IDUuMzQ0MDRMMTAuNjg3NyAzLjQ4OEMxMC40OTc1IDMuMzc2MDUgMTAuMzA3MSAzLjM3NjA1IDEwLjExNjggMy40ODhMNi4xMzY3MSA1LjgyMzk5Wk0xMy4yMDkgMTEuNzQ0MVY4LjExMTk1QzEzLjIwOSA3Ljg4Nzg5IDEzLjExMzggNy43Mjc5MSAxMi45MjM2IDcuNjE1OTRMOC45NDM0NCA1LjI3OTk1TDEwLjI0MzcgNC41Mjc5QzEwLjM1NDcgNC40NjM5NyAxMC40NDk5IDQuNDYzOTcgMTAuNTYwOSA0LjUyNzlMMTMuNTg5NiA2LjI4Nzg5QzE0LjQ2MTkgNi43OTk5NiAxNS4wNDg0IDcuODg3ODkgMTUuMDQ4NCA4Ljk0Mzg1QzE1LjA0ODQgMTAuMTU5OCAxNC4zMzUgMTEuMjggMTMuMjA5IDExLjc0NDFaTTUuMjAxMTQgOC41NDQwNEwzLjkwMDg2IDcuNzc2MDhDMy43ODk4OSA3LjcxMjE1IDMuNzQyMyA3LjYxNjEgMy43NDIzIDcuNDg4MDhWMy45NjgxMUMzLjc0MjMgMi4yNTYxNSA1LjA0MjU5IDAuOTYwMDYxIDYuODAyNzggMC45NjAwNjFDNy40Njg4MyAwLjk2MDA2MSA4LjA4NzE0IDEuMTg0MTMgOC42MTA1NiAxLjU4NDA5TDUuNDg2NzIgMy40MDgxNkM1LjI5NjQ5IDMuNTIwMTIgNS4yMDEyOSAzLjY4MDExIDUuMjAxMjkgMy45MDQxOEw1LjIwMTE0IDguNTQ0MDRaTTcuOTk5OTkgMTAuMTc2TDYuMTM2NzEgOS4xMjAwNVY2Ljg4MDFMNy45OTk5OSA1LjgyNDE0TDkuODYzMSA2Ljg4MDFWOS4xMjAwNUw3Ljk5OTk5IDEwLjE3NlpNOS4xOTcxOSAxNS4wNDAxQzguNTMxMTMgMTUuMDQwMSA3LjkxMjgyIDE0LjgxNiA3LjM4OTQgMTQuNDE2MUwxMC41MTMyIDEyLjU5MTlDMTAuNzAzNCAxMi40OCAxMC43OTg3IDEyLjMyMDEgMTAuNzk4NyAxMi4wOTZWNy40NTU5NkwxMi4xMTQ5IDguMjIzOTJDMTIuMjI1OCA4LjI4Nzg1IDEyLjI3MzQgOC4zODM5IDEyLjI3MzQgOC41MTE5MlYxMi4wMzE5QzEyLjI3MzQgMTMuNzQzOCAxMC45NTcyIDE1LjA0MDEgOS4xOTcxOSAxNS4wNDAxWk01LjQzODk4IDExLjQ3MjFMMi40MTAxOCA5LjcxMjExQzEuNTM3OTYgOS4yMDAwMyAwLjk1MTM0IDguMTEyMTEgMC45NTEzNCA3LjA1NjE1QzAuOTUxMzQgNS44MjQxNCAxLjY4MDc3IDQuNzIwMTYgMi44MDY1NyA0LjI1NjExVjcuOTA0MUMyLjgwNjU3IDguMTI4MTcgMi45MDE3NyA4LjI4ODE1IDMuMDkyIDguNDAwMTJMNy4wNTYzNyAxMC43Mkw1Ljc1NjA5IDExLjQ3MjFDNS42NDUxMyAxMS41MzYxIDUuNTQ5OTMgMTEuNTM2MSA1LjQzODk4IDExLjQ3MjFaTTUuMjY0NjUgMTQuMDk2MUMzLjQ3Mjc4IDE0LjA5NjEgMi4xNTY1OCAxMi43MzYgMi4xNTY1OCAxMS4wNTZDMi4xNTY1OCAxMC45MjggMi4xNzI0OSAxMC44IDIuMTg4MjYgMTAuNjcyTDUuMzEyMSAxMi40OTYxQzUuNTAyMzQgMTIuNjA4IDUuNjkyNzMgMTIuNjA4IDUuODgyOTcgMTIuNDk2MUw5Ljg2MzEgMTAuMTc2MlYxMS42OTYyQzkuODYzMSAxMS44MjQyIDkuODE1NSAxMS45MjAyIDkuNzA0NTQgMTEuOTg0MUw2LjY3NTc0IDEzLjc0NDFDNi4yNjM0NCAxMy45ODQxIDUuNzcxOTkgMTQuMDk2MSA1LjI2NDY1IDE0LjA5NjFaTTkuMTk3MTkgMTZDMTEuMTE1OSAxNiAxMi43MTc0IDE0LjYyNCAxMy4wODIzIDEyLjhDMTQuODU4MiAxMi4zMzU5IDE2IDEwLjY1NTkgMTYgOC45NDRDMTYgNy44MjM5NiAxNS41MjQzIDYuNzM2MDMgMTQuNjY4IDUuOTUyMDFDMTQuNzQ3MyA1LjYxNTk4IDE0Ljc5NDkgNS4yNzk5NSAxNC43OTQ5IDQuOTQ0MDdDMTQuNzk0OSAyLjY1NjEyIDEyLjk1NTQgMC45NDQwMDIgMTAuODMwNSAwLjk0NDAwMkMxMC40MDI1IDAuOTQ0MDAyIDkuOTkwMTMgMS4wMDc5NCA5LjU3NzgyIDEuMTUyMDFDOC44NjQxNiAwLjQ0Nzk4OCA3Ljg4MDk5IDAgNi44MDI3OCAwQzQuODg0MDMgMCAzLjI4MjU0IDEuMzc1OTMgMi45MTc2OCAzLjE5OTk5QzEuMTQxNzMgMy42NjQwNCAwIDUuMzQ0MDQgMCA3LjA1NkMwIDguMTc2MDQgMC40NzU2NjkgOS4yNjM5NyAxLjMzMTk3IDEwLjA0OEMxLjI1MjY5IDEwLjM4NCAxLjIwNTA5IDEwLjcyIDEuMjA1MDkgMTEuMDU1OUMxLjIwNTA5IDEzLjM0MzggMy4wNDQ1NiAxNS4wNTU5IDUuMTY5NDYgMTUuMDU1OUM1LjU5NzUzIDE1LjA1NTkgNi4wMDk4NCAxNC45OTIxIDYuNDIyMTUgMTQuODQ4QzcuMTM1NjUgMTUuNTUyIDguMTE4ODIgMTYgOS4xOTcxOSAxNloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=openai)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMy42NyA2LjFDMTMuOTggNS4yMSAxMy45MSA0LjIzIDEzLjQ0IDMuNDJDMTIuNTggMS45MyAxMC43MiAxLjQgOS4xOTk5NiAyLjE0QzguNTg5OTYgMS40MyA3LjcwOTk2IDEgNi43NTk5NiAxQzUuMDM5OTYgMSAzLjYzOTk2IDIuMzUgMy41Mjk5NiA0LjA0QzIuNjA5OTYgNC4yMiAxLjc5OTk2IDQuNzcgMS4zMTk5NiA1LjU5QzAuNDU5OTU3IDcuMDggMC45Mjk5NTcgOC45NiAyLjMzOTk2IDkuOUMyLjAyOTk2IDEwLjc5IDIuMDk5OTYgMTEuNzcgMi41Njk5NiAxMi41OEMzLjE2OTk2IDEzLjYyIDQuMjY5OTYgMTQuMiA1LjM4OTk2IDE0LjJDNS44Njk5NiAxNC4yIDYuMzU5OTYgMTQuMDggNi44MTk5NiAxMy44NkM3LjQyOTk2IDE0LjU3IDguMzA5OTYgMTQuOTkgOS4yNTk5NiAxNC45OUMxMC45OCAxNC45OSAxMi4zOCAxMy42NCAxMi40OSAxMS45NUMxMy40MSAxMS43NyAxNC4yMiAxMS4yMiAxNC43IDEwLjRDMTUuNTYgOC45MSAxNS4wOSA3LjAzIDEzLjY4IDYuMDlMMTMuNjcgNi4xWk0xMi41NyAzLjkyQzEyLjg2IDQuNDMgMTIuOTMgNS4wMiAxMi44IDUuNThMMTAuMjUgNC4xMUMxMC4xIDQuMDIgOS44OTk5NiA0LjAyIDkuNzQ5OTYgNC4xMUw2LjQ5OTk2IDUuOTlWNC44NEw5LjQ5OTk2IDMuMTFDMTAuNTcgMi40OSAxMS45NSAyLjg2IDEyLjU3IDMuOTNWMy45MlpNOS40OTk5NiA4Ljg3TDcuOTk5OTYgOS43NEw2LjQ5OTk2IDguODdWNy4xNEw3Ljk5OTk2IDYuMjdMOS40OTk5NiA3LjE0VjguODdaTTQuNDk5OTYgNC4yNUM0LjQ5OTk2IDMuMDEgNS41MDk5NiAyIDYuNzQ5OTYgMkM3LjMyOTk2IDIgNy44Nzk5NiAyLjIzIDguMjk5OTYgMi42M0w1Ljc0OTk2IDQuMUM1LjU5OTk2IDQuMTkgNS40OTk5NiA0LjM1IDUuNDk5OTYgNC41M1Y4LjI4TDQuNDk5OTYgNy43VjQuMjRWNC4yNVpNMi4xNzk5NiA2LjA4QzIuNDY5OTYgNS41NyAyLjk0OTk2IDUuMjIgMy40OTk5NiA1LjA1VjcuOTlDMy40OTk5NiA4LjE3IDMuNTk5OTYgOC4zMyAzLjc0OTk2IDguNDJMNi45OTk5NiAxMC4zTDUuOTk5OTYgMTAuODhMMi45OTk5NiA5LjE1QzEuOTI5OTYgOC41MyAxLjU1OTk2IDcuMTUgMi4xNzk5NiA2LjA4Wk0zLjQyOTk2IDEyLjA4QzMuMTM5OTYgMTEuNTcgMy4wNjk5NiAxMC45OCAzLjE5OTk2IDEwLjQyTDUuNzQ5OTYgMTEuODlDNS44Mjk5NiAxMS45MyA1LjkwOTk2IDExLjk2IDUuOTk5OTYgMTEuOTZDNi4wODk5NiAxMS45NiA2LjE2OTk2IDExLjk0IDYuMjQ5OTYgMTEuODlMOS40OTk5NiAxMC4wMVYxMS4xNkw2LjQ5OTk2IDEyLjg5QzUuNDI5OTYgMTMuNTEgNC4wNDk5NiAxMy4xNCAzLjQyOTk2IDEyLjA3VjEyLjA4Wk0xMS41IDExLjc1QzExLjUgMTIuOTkgMTAuNDkgMTQgOS4yNDk5NiAxNEM4LjY2OTk2IDE0IDguMTE5OTYgMTMuNzcgNy42OTk5NiAxMy4zN0wxMC4yNSAxMS45QzEwLjQgMTEuODEgMTAuNSAxMS42NSAxMC41IDExLjQ3VjcuNzJMMTEuNSA4LjNWMTEuNzZWMTEuNzVaTTEzLjgyIDkuOTJDMTMuNTMgMTAuNDMgMTMuMDUgMTAuNzggMTIuNSAxMC45NVY4LjAxQzEyLjUgNy44MyAxMi40IDcuNjcgMTIuMjUgNy41OEw4Ljk5OTk2IDUuN0w5Ljk5OTk2IDUuMTJMMTMgNi44NUMxNC4wNyA3LjQ3IDE0LjQ0IDguODUgMTMuODIgOS45MloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=openai)
   /// Codicon icon named "openai".
   static const IconData openai = IconData(
     0xEC81,
@@ -5156,7 +5156,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02Ljk2IDE1LjJMNy4xODQgMTQuMjA4TDcuNDQgMTIuOTI4TDcuNjQ4IDExLjkwNEw3Ljg0IDEwLjY0TDcuOTUyIDEwLjIyNEw3LjkzNiAxMC4xOTJMNy44NTYgMTAuMjA4TDYuODk2IDExLjUyTDUuNDQgMTMuNDg4TDQuMjg4IDE0LjcwNEw0LjAxNiAxNC44MTZMMy41MzYgMTQuNTc2TDMuNTg0IDE0LjEyOEwzLjg1NiAxMy43NDRMNS40NCAxMS43MTJMNi40IDEwLjQ0OEw3LjAyNCA5LjcyOEw3LjAwOCA5LjYzMkg2Ljk3NkwyLjc1MiAxMi4zODRMMiAxMi40OEwxLjY2NCAxMi4xNzZMMS43MTIgMTEuNjhMMS44NzIgMTEuNTJMMy4xMzYgMTAuNjRMNi4yODggOC44OEw2LjMzNiA4LjcyTDYuMjg4IDguNjRINi4xMjhMNS42IDguNjA4TDMuODA4IDguNTZMMi4yNTYgOC40OTZMMC43MzYgOC40MTZMMC4zNTIgOC4zMzZMMCA3Ljg1NkwwLjAzMiA3LjYxNkwwLjM1MiA3LjQwOEwwLjgxNiA3LjQ0TDEuODI0IDcuNTJMMy4zNDQgNy42MTZMNC40NDggNy42OEw2LjA4IDcuODU2SDYuMzM2TDYuMzY4IDcuNzQ0TDYuMjg4IDcuNjhMNi4yMjQgNy42MTZMNC42NCA2LjU2TDIuOTQ0IDUuNDRMMi4wNDggNC43ODRMMS41NjggNC40NDhMMS4zMjggNC4xNDRMMS4yMzIgMy40NzJMMS42NjQgMi45OTJMMi4yNTYgMy4wNEwyLjQgMy4wNzJMMi45OTIgMy41MzZMNC4yNTYgNC41MTJMNS45MiA1Ljc0NEw2LjE2IDUuOTM2TDYuMjcyIDUuODcyVjUuODI0TDYuMTYgNS42NDhMNS4yNjQgNC4wMTZMNC4zMDQgMi4zNTJMMy44NzIgMS42NjRMMy43NiAxLjI0OEMzLjcxNzYgMS4xMDQgMy42OTYgMC45NDQgMy42OTYgMC43NjhMNC4xOTIgMC4wOTZMNC40NjQgMEw1LjEzNiAwLjA5Nkw1LjQwOCAwLjMzNkw1LjgyNCAxLjI4TDYuNDggMi43NjhMNy41MiA0Ljc4NEw3LjgyNCA1LjM5Mkw3Ljk4NCA1LjkzNkw4LjA0OCA2LjExMkg4LjE2VjYuMDE2TDguMjQgNC44NjRMOC40IDMuNDcyTDguNTYgMS42OEw4LjYwOCAxLjE2OEw4Ljg2NCAwLjU2TDkuMzYgMC4yNEw5Ljc0NCAwLjQxNkwxMC4wNjQgMC44OEwxMC4wMTYgMS4xNjhMOS44NCAyLjRMOS40NTYgNC4zMzZMOS4yMTYgNS42NDhIOS4zNkw5LjUyIDUuNDcyTDEwLjE3NiA0LjYwOEwxMS4yOCAzLjIzMkwxMS43NiAyLjY4OEwxMi4zMzYgMi4wOEwxMi43MDQgMS43OTJIMTMuMzkyTDEzLjg4OCAyLjU0NEwxMy42NjQgMy4zMjhMMTIuOTYgNC4yMjRMMTIuMzY4IDQuOTc2TDExLjUyIDYuMTEyTDExLjAwOCA3LjAyNEwxMS4wNTYgNy4wODhIMTEuMTY4TDEzLjA3MiA2LjY3MkwxNC4xMTIgNi40OTZMMTUuMzI4IDYuMjg4TDE1Ljg4OCA2LjU0NEwxNS45NTIgNi44TDE1LjcyOCA3LjM0NEwxNC40MTYgNy42NjRMMTIuODggNy45NjhMMTAuNTkyIDguNTEyTDEwLjU2IDguNTI4TDEwLjU5MiA4LjU3NkwxMS42MTYgOC42NzJMMTIuMDY0IDguNzA0SDEzLjE1MkwxNS4xNjggOC44NDhMMTUuNjk2IDkuMkwxNiA5LjYxNkwxNS45NTIgOS45NTJMMTUuMTM2IDEwLjM1MkwxNC4wNDggMTAuMDk2TDExLjQ4OCA5LjQ4OEwxMC42MjQgOS4yOEgxMC40OTZWOS4zNDRMMTEuMjMyIDEwLjA2NEwxMi41NiAxMS4yNjRMMTQuMjQgMTIuODE2TDE0LjMyIDEzLjJMMTQuMTEyIDEzLjUyTDEzLjg4OCAxMy40ODhMMTIuNDE2IDEyLjM2OEwxMS44NCAxMS44NzJMMTAuNTYgMTAuOEgxMC40OFYxMC45MTJMMTAuNzY4IDExLjM0NEwxMi4zMzYgMTMuNjk2TDEyLjQxNiAxNC40MTZMMTIuMzA0IDE0LjY0TDExLjg4OCAxNC43ODRMMTEuNDU2IDE0LjcwNEwxMC41MjggMTMuNDI0TDkuNTg0IDExLjk2OEw4LjgxNiAxMC42NzJMOC43MzYgMTAuNzM2TDguMjcyIDE1LjU2OEw4LjA2NCAxNS44MDhMNy41ODQgMTZMNy4xODQgMTUuNjk2TDYuOTYgMTUuMloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=claude)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03LjA5MDAxIDE0LjNMNy4yOTAwMSAxMy40M0w3LjUxMDAxIDEyLjMxTDcuNjkwMDEgMTEuNDFMNy44NjAwMSAxMC4zTDcuOTYwMDEgOS45Mzk5OFY5LjkwOTk4TDcuODgwMDEgOS45MTk5OEw3LjA0MDAxIDExLjA3TDUuNzcwMDEgMTIuNzlMNC43NjAwMSAxMy44NUw0LjUyMDAxIDEzLjk1TDQuMTAwMDEgMTMuNzRMNC4xNDAwMSAxMy4zNUw0LjM4MDAxIDEzLjAxTDUuNzcwMDEgMTEuMjNMNi42MTAwMSAxMC4xMkw3LjE2MDAxIDkuNDg5OThWOS40MDk5OEg3LjEyMDAxTDMuNDIwMDEgMTEuODJMMi43NjAwMSAxMS45TDIuNDcwMDEgMTEuNjNMMi41MTAwMSAxMS4yTDIuNjUwMDEgMTEuMDZMMy43NjAwMSAxMC4yOUw2LjUyMDAxIDguNzQ5OThMNi41NjAwMSA4LjYwOTk4TDYuNTIwMDEgOC41Mzk5OEg2LjM4MDAxTDUuOTIwMDEgOC41MDk5OEw0LjM1MDAxIDguNDY5OThMMi45OTAwMSA4LjQwOTk4TDEuNjYwMDEgOC4zMzk5OEwxLjMyMDAxIDguMjY5OThMMS4wMTAwMSA3Ljg0OTk4TDEuMDQwMDEgNy42Mzk5OEwxLjMyMDAxIDcuNDU5OThMMS43MzAwMSA3LjQ4OTk4TDIuNjEwMDEgNy41NTk5OEwzLjk0MDAxIDcuNjM5OThMNC45MTAwMSA3LjY5OTk4TDYuMzQwMDEgNy44NDk5OEg2LjU2MDAxTDYuNTkwMDEgNy43NDk5OEw2LjUyMDAxIDcuNjg5OThMNi40NjAwMSA3LjYyOTk4TDUuMDcwMDEgNi43MDk5OEwzLjU5MDAxIDUuNzI5OThMMi44MTAwMSA1LjE1OTk4TDIuMzkwMDEgNC44Njk5OEwyLjE4MDAxIDQuNTk5OThMMi4xMDAwMSA0LjAwOTk4TDIuNDgwMDEgMy41ODk5OEwzLjAwMDAxIDMuNjI5OThMMy4xMzAwMSAzLjY1OTk4TDMuNjUwMDEgNC4wNjk5OEw0Ljc2MDAxIDQuOTE5OThMNi4yMjAwMSA1Ljk5OTk4TDYuNDMwMDEgNi4xNjk5OEw2LjUzMDAxIDYuMTA5OThWNi4wNjk5OEw2LjQzMDAxIDUuOTE5OThMNS42NTAwMSA0LjQ4OTk4TDQuODEwMDEgMy4wMjk5OEw0LjQzMDAxIDIuNDI5OThMNC4zMzAwMSAyLjA2OTk4QzQuMjkwMDEgMS45Mzk5OCA0LjI3MDAxIDEuNzk5OTggNC4yNzAwMSAxLjY0OTk4TDQuNzAwMDEgMS4wNTk5OEw0Ljk0MDAxIDAuOTc5OThMNS41MzAwMSAxLjA1OTk4TDUuNzcwMDEgMS4yNjk5OEw2LjEzMDAxIDIuMDk5OThMNi43MDAwMSAzLjM5OTk4TDcuNjEwMDEgNS4xNTk5OEw3Ljg4MDAxIDUuNjg5OThMOC4wMjAwMSA2LjE2OTk4TDguMDgwMDEgNi4zMTk5OEg4LjE4MDAxVjYuMjM5OThMOC4yNTAwMSA1LjIyOTk4TDguMzkwMDEgNC4wMDk5OEw4LjUzMDAxIDIuNDM5OThMOC41NzAwMSAxLjk4OTk4TDguNzkwMDEgMS40NTk5OEw5LjIyMDAxIDEuMTc5OThMOS41NjAwMSAxLjMyOTk4TDkuODQwMDEgMS43Mzk5OEw5LjgwMDAxIDEuOTg5OThMOS42NTAwMSAzLjA2OTk4TDkuMzEwMDEgNC43NTk5OEw5LjEwMDAxIDUuOTA5OThIOS4yMzAwMUw5LjM3MDAxIDUuNzU5OThMOS45NDAwMSA0Ljk5OTk4TDEwLjkxIDMuNzk5OThMMTEuMzMgMy4zMTk5OEwxMS44MyAyLjc4OTk4TDEyLjE1IDIuNTM5OThIMTIuNzVMMTMuMTggMy4xOTk5OEwxMi45OCAzLjg4OTk4TDEyLjM2IDQuNjY5OThMMTEuODQgNS4zMjk5OEwxMS4xIDYuMzE5OThMMTAuNjUgNy4xMTk5OEwxMC42OSA3LjE3OTk4SDEwLjc5TDEyLjQ2IDYuODE5OThMMTMuMzcgNi42Njk5OEwxNC40MyA2LjQ4OTk4TDE0LjkyIDYuNzA5OThMMTQuOTggNi45Mjk5OEwxNC43OCA3LjQwOTk4TDEzLjYzIDcuNjg5OThMMTIuMjkgNy45NTk5OEwxMC4yOSA4LjQzOTk4SDEwLjI2TDEwLjI5IDguNDk5OThMMTEuMTkgOC41Nzk5OEwxMS41OCA4LjYwOTk4SDEyLjUzTDE0LjI5IDguNzM5OThMMTQuNzUgOS4wNDk5OEwxNS4wMiA5LjQwOTk4TDE0Ljk4IDkuNjk5OThMMTQuMjcgMTAuMDVMMTMuMzIgOS44Mjk5OEwxMS4wOCA5LjI5OTk4TDEwLjMyIDkuMTE5OThIMTAuMjFWOS4xNzk5OEwxMC44NSA5LjgwOTk4TDEyLjAxIDEwLjg2TDEzLjQ4IDEyLjIyTDEzLjU1IDEyLjU2TDEzLjM3IDEyLjg0TDEzLjE3IDEyLjgxTDExLjg4IDExLjgzTDExLjM4IDExLjRMMTAuMjYgMTAuNDZIMTAuMTlWMTAuNTZMMTAuNDQgMTAuOTRMMTEuODEgMTNMMTEuODggMTMuNjNMMTEuNzggMTMuODNMMTEuNDIgMTMuOTZMMTEuMDQgMTMuODlMMTAuMjMgMTIuNzdMOS40MDAwMSAxMS41TDguNzMwMDEgMTAuMzdMOC42NjAwMSAxMC40M0w4LjI1MDAxIDE0LjY2TDguMDcwMDEgMTQuODdMNy42NTAwMSAxNS4wNEw3LjMwMDAxIDE0Ljc3TDcuMTAwMDEgMTQuMzRMNy4wOTAwMSAxNC4zWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=claude)
   /// Codicon icon named "claude".
   static const IconData claude = IconData(
     0xEC82,
@@ -5172,7 +5172,7 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
-  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNCA2Ljc2NjAxTDE1IDUuNzY2MDFWMTJDMTUgMTMuNjU0IDEzLjY1NCAxNSAxMiAxNUg0QzIuMzQ2IDE1IDEgMTMuNjU0IDEgMTJWNC4wMDAwMUMxIDIuMzQ2MDEgMi4zNDYgMS4wMDAwMSA0IDEuMDAwMDFIMTAuMjMzTDkuMjMzIDIuMDAwMDFINEMyLjg5NyAyLjAwMDAxIDIgMi44OTcwMSAyIDQuMDAwMDFWMTJDMiAxMy4xMDMgMi44OTcgMTQgNCAxNEgxMkMxMy4xMDMgMTQgMTQgMTMuMTAzIDE0IDEyVjYuNzY2MDFaTTE1LjQ1MyAwLjU0NzAxMkgxNS40NTJDMTQuNzIyIC0wLjE4Mjk4OCAxMy41MzggLTAuMTgyOTg4IDEyLjgwNyAwLjU0NzAxMkw3Ljk3OCA1LjM3NjAxQzcuNjk2IDUuNjU4MDEgNy40OTcgNi4wMTAwMSA3LjQgNi4zOTcwMUw3LjAyNiA3Ljg5NTAxQzYuODYzIDguNTQ2MDEgNy40NTMgOS4xMzYwMSA4LjEwNSA4Ljk3NDAxTDkuNjAzIDguNTk5MDFDOS45ODkgOC41MDIwMSAxMC4zNDIgOC4zMDMwMSAxMC42MjQgOC4wMjEwMUwxNS40NTMgMy4xOTIwMUMxNi4xODMgMi40NjIwMSAxNi4xODMgMS4yNzgwMSAxNS40NTMgMC41NDcwMTJaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=new-session)
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNC40NTIgMS41NDhDMTQuMDg3IDEuMTgzIDEzLjYwOCAxIDEzLjEzIDFDMTIuNjUyIDEgMTIuMTczIDEuMTgzIDExLjgwOCAxLjU0OEw2Ljk3OSA2LjM3N0M2LjY5NyA2LjY1OSA2LjQ5OCA3LjAxMSA2LjQwMSA3LjM5OEw2LjAyNyA4Ljg5NkM1Ljg4MyA5LjQ3MyA2LjMyOSAxMC4wMDIgNi44ODYgMTAuMDAyQzYuOTU4IDEwLjAwMiA3LjAzMSA5Ljk5MyA3LjEwNiA5Ljk3NUw4LjYwNCA5LjYwMUM4Ljk5IDkuNTA0IDkuMzQzIDkuMzA1IDkuNjI1IDkuMDIzTDE0LjQ1NCA0LjE5NEMxNS4xODQgMy40NjQgMTUuMTg0IDIuMjggMTQuNDU0IDEuNTQ5TDE0LjQ1MiAxLjU0OFpNMTMuNzQ1IDMuNDg1TDguOTE2IDguMzE0QzguNzYzIDguNDY3IDguNTcgOC41NzYgOC4zNiA4LjYyOUw3LjA0IDguOTYyTDcuMzcxIDcuNjRDNy40MjQgNy40MyA3LjUzMiA3LjIzNyA3LjY4NiA3LjA4NEwxMi41MTYgMi4yNTVDMTIuNjggMi4wOTEgMTIuODk5IDIgMTMuMTMxIDJDMTMuMzYzIDIgMTMuNTgyIDIuMDkxIDEzLjc0NiAyLjI1NUMxNC4wODUgMi41OTQgMTQuMDg1IDMuMTQ2IDEzLjc0NiAzLjQ4NkwxMy43NDUgMy40ODVaTTEzIDcuNzY4TDE0IDYuNzY4VjExLjVDMTQgMTIuODc4IDEyLjg3OSAxNCAxMS41IDE0SDQuNUMzLjEyMSAxNCAyIDEyLjg3OCAyIDExLjVWNC41QzIgMy4xMjIgMy4xMjEgMiA0LjUgMkg5LjIzNkw4LjIzNiAzSDQuNUMzLjY3MyAzIDMgMy42NzMgMyA0LjVWMTEuNUMzIDEyLjMyNyAzLjY3MyAxMyA0LjUgMTNIMTEuNUMxMi4zMjcgMTMgMTMgMTIuMzI3IDEzIDExLjVWNy43NjhaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=new-session)
   /// Codicon icon named "new session".
   static const IconData newSession = IconData(
     0xEC84,
@@ -5180,10 +5180,442 @@ class Codicons {
     fontPackage: 'vscode_codicons',
   );
 
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNSAzSDE0LjVWMkMxNC41IDAuODk1IDEzLjYwNSAwIDEyLjUgMEMxMS4zOTUgMCAxMC41IDAuODk1IDEwLjUgMlYzSDEwQzkuNDQ4IDMgOSAzLjQ0OCA5IDRWOEM5IDguNTUyIDkuNDQ4IDkgMTAgOUgxNUMxNS41NTIgOSAxNiA4LjU1MiAxNiA4VjRDMTYgMy40NDggMTUuNTUyIDMgMTUgM1pNMTIuNSA2Ljc1QzEyLjA4NiA2Ljc1IDExLjc1IDYuNDE0IDExLjc1IDZDMTEuNzUgNS41ODYgMTIuMDg2IDUuMjUgMTIuNSA1LjI1QzEyLjkxNCA1LjI1IDEzLjI1IDUuNTg2IDEzLjI1IDZDMTMuMjUgNi40MTQgMTIuOTE0IDYuNzUgMTIuNSA2Ljc1Wk0xMy41IDNIMTEuNVYyQzExLjUgMS40NDggMTEuOTQ4IDEgMTIuNSAxQzEzLjA1MiAxIDEzLjUgMS40NDggMTMuNSAyVjNaTTE0IDEwSDE1VjEyLjVDMTUgMTMuODc5IDEzLjg3OSAxNSAxMi41IDE1SDMuNUMyLjEyMSAxNSAxIDEzLjg3OSAxIDEyLjVWMy41QzEgMi4xMjIgMi4xMjEgMSAzLjUgMUg5VjJIMy41QzIuNjczIDIgMiAyLjY3MyAyIDMuNVYxMi41QzIgMTMuMzI3IDIuNjczIDE0IDMuNSAxNEgxMi41QzEzLjMyNyAxNCAxNCAxMy4zMjcgMTQgMTIuNVYxMFpNNyAxMS41QzcgMTEuMjI0IDcuMjI0IDExIDcuNSAxMUgxMi41QzEyLjc3NiAxMSAxMyAxMS4yMjQgMTMgMTEuNUMxMyAxMS43NzYgMTIuNzc2IDEyIDEyLjUgMTJINy41QzcuMjI0IDEyIDcgMTEuNzc2IDcgMTEuNVpNMy4xNDYgMTEuMTQ3TDUuNzkyIDguNTAxTDMuMTQ2IDUuODU1QzIuOTUxIDUuNjYgMi45NTEgNS4zNDMgMy4xNDYgNS4xNDhDMy4zNDEgNC45NTMgMy42NTggNC45NTMgMy44NTMgNS4xNDhMNi44NTMgOC4xNDhDNy4wNDggOC4zNDMgNy4wNDggOC42NiA2Ljg1MyA4Ljg1NUwzLjg1NCAxMS44NTRDMy43NTYgMTEuOTUyIDMuNjI4IDEyIDMuNSAxMkMzLjM3MiAxMiAzLjI0NCAxMS45NTEgMy4xNDYgMTEuODU0QzIuOTUxIDExLjY1OSAyLjk1MSAxMS4zNDIgMy4xNDYgMTEuMTQ3WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=terminal-secure)
+  /// Codicon icon named "terminal secure".
+  static const IconData terminalSecure = IconData(
+    0xEC85,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02LjAzNyAxMi4xMTdDNi4wOCAxMi41MDEgNi4xNjQgMTIuODczIDYuMjgzIDEzLjIzTDQuNjI1IDE0LjY4MUMzLjk5MiAxNS4yMzYgMyAxNC43ODYgMyAxMy45NDRWMTIuMDAySDIuNUMxLjExOSAxMi4wMDIgMCAxMC44ODMgMCA5LjUwMTk1VjQuNTAxOTVDMCAzLjEyMDk1IDEuMTE5IDIuMDAxOTUgMi41IDIuMDAxOTVIMTEuNUMxMi44ODEgMi4wMDE5NSAxNCAzLjExOTk1IDE0IDQuNTAwOTVWNi42MDc5NUMxMy42ODMgNi40NDQ5NSAxMy4zNDkgNi4zMTI5NSAxMyA2LjIxMzk1VjQuNTAxOTVDMTMgMy42NzM5NSAxMi4zMjggMy4wMDA5NSAxMS41IDMuMDAwOTVIMi41QzEuNjcyIDMuMDAwOTUgMSAzLjY3Mzk1IDEgNC41MDE5NVY5LjUwMTk1QzEgMTAuMzMgMS42NzIgMTEuMDAyIDIuNSAxMS4wMDJINFYxMy45TDYuMDM3IDEyLjExOFYxMi4xMTdaTTE2IDExLjVDMTYgMTMuOTg1IDEzLjk4NSAxNiAxMS41IDE2QzkuMDE1IDE2IDcgMTMuOTg1IDcgMTEuNUM3IDkuMDE0OTUgOS4wMTUgNi45OTk5NSAxMS41IDYuOTk5OTVDMTMuOTg1IDYuOTk5OTUgMTYgOS4wMTQ5NSAxNiAxMS41Wk0xMy44NTQgMTEuMTQ3TDExLjg1NCA5LjE0Njk1TDExLjg1MSA5LjE0Mzk1QzExLjgwNCA5LjA5Njk1IDExLjc0OSA5LjA2MTk1IDExLjY5MSA5LjAzNzk1QzExLjYzMyA5LjAxMzk1IDExLjU2OSA4Ljk5OTk1IDExLjUwMyA4Ljk5OTk1SDExLjQ5N0MxMS40MyA4Ljk5OTk1IDExLjM2NyA5LjAxMzk1IDExLjMwOSA5LjAzNzk1QzExLjI1IDkuMDYxOTUgMTEuMTk1IDkuMDk4OTUgMTEuMTQ3IDkuMTQ1OTVMOS4xNDcgMTEuMTQ2QzguOTUyIDExLjM0MSA4Ljk1MiAxMS42NTggOS4xNDcgMTEuODUzQzkuMzQyIDEyLjA0OCA5LjY1OSAxMi4wNDggOS44NTQgMTEuODUzTDExIDEwLjcwN1YxMy41QzExIDEzLjc3NiAxMS4yMjQgMTQgMTEuNSAxNEMxMS43NzYgMTQgMTIgMTMuNzc2IDEyIDEzLjVWMTAuNzA3TDEzLjE0NiAxMS44NTNDMTMuMzQxIDEyLjA0OCAxMy42NTggMTIuMDQ4IDEzLjg1MyAxMS44NTNDMTQuMDQ4IDExLjY1OCAxNC4wNDggMTEuMzQxIDEzLjg1MyAxMS4xNDZMMTMuODU0IDExLjE0N1oiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=chat-import)
+  /// Codicon icon named "chat import".
+  static const IconData chatImport = IconData(
+    0xEC86,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02LjAzNyAxMi4xMTdDNi4wOCAxMi41MDEgNi4xNjQgMTIuODczIDYuMjgzIDEzLjIzTDQuNjI1IDE0LjY4MUMzLjk5MiAxNS4yMzYgMyAxNC43ODYgMyAxMy45NDRWMTIuMDAySDIuNUMxLjExOSAxMi4wMDIgMCAxMC44ODMgMCA5LjUwMTk1VjQuNTAxOTVDMCAzLjEyMDk1IDEuMTE5IDIuMDAxOTUgMi41IDIuMDAxOTVIMTEuNUMxMi44ODEgMi4wMDE5NSAxNCAzLjExOTk1IDE0IDQuNTAwOTVWNi42MDc5NUMxMy42ODMgNi40NDQ5NSAxMy4zNDkgNi4zMTI5NSAxMyA2LjIxMzk1VjQuNTAxOTVDMTMgMy42NzM5NSAxMi4zMjggMy4wMDA5NSAxMS41IDMuMDAwOTVIMi41QzEuNjcyIDMuMDAwOTUgMSAzLjY3Mzk1IDEgNC41MDE5NVY5LjUwMTk1QzEgMTAuMzMgMS42NzIgMTEuMDAyIDIuNSAxMS4wMDJINFYxMy45TDYuMDM3IDEyLjExOFYxMi4xMTdaTTE2IDExLjVDMTYgMTMuOTg1IDEzLjk4NSAxNiAxMS41IDE2QzkuMDE1IDE2IDcgMTMuOTg1IDcgMTEuNUM3IDkuMDE0OTUgOS4wMTUgNi45OTk5NSAxMS41IDYuOTk5OTVDMTMuOTg1IDYuOTk5OTUgMTYgOS4wMTQ5NSAxNiAxMS41Wk0xMy44NTQgMTEuMTQ3QzEzLjY1OSAxMC45NTIgMTMuMzQyIDEwLjk1MiAxMy4xNDcgMTEuMTQ3TDEyLjAwMSAxMi4yOTNWOS40OTk5NUMxMi4wMDEgOS4yMjM5NSAxMS43NzcgOC45OTk5NSAxMS41MDEgOC45OTk5NUMxMS4yMjUgOC45OTk5NSAxMS4wMDEgOS4yMjM5NSAxMS4wMDEgOS40OTk5NVYxMi4yOTNMOS44NTUgMTEuMTQ3QzkuNjYgMTAuOTUyIDkuMzQzIDEwLjk1MiA5LjE0OCAxMS4xNDdDOC45NTMgMTEuMzQyIDguOTUzIDExLjY1OSA5LjE0OCAxMS44NTRMMTEuMTQ4IDEzLjg1NEwxMS4xNTEgMTMuODU3QzExLjE5OCAxMy45MDQgMTEuMjUzIDEzLjkzOSAxMS4zMTEgMTMuOTYzQzExLjM2OSAxMy45ODcgMTEuNDMzIDE0LjAwMSAxMS40OTkgMTQuMDAxSDExLjUwNUMxMS41NzIgMTQuMDAxIDExLjYzNSAxMy45ODcgMTEuNjkzIDEzLjk2M0MxMS43NTIgMTMuOTM5IDExLjgwNyAxMy45MDIgMTEuODU1IDEzLjg1NUwxMy44NTUgMTEuODU1QzE0LjA1IDExLjY2IDE0LjA1IDExLjM0MyAxMy44NTUgMTEuMTQ4TDEzLjg1NCAxMS4xNDdaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=chat-export)
+  /// Codicon icon named "chat export".
+  static const IconData chatExport = IconData(
+    0xEC87,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNCAxSDZDNC45IDEgNCAxLjkgNCAzVjVIMkMwLjkgNSAwIDUuOSAwIDdWMTNDMCAxNC4xIDAuOSAxNSAyIDE1SDEwQzExLjEgMTUgMTIgMTQuMSAxMiAxM1YxMUgxNEMxNS4xIDExIDE2IDEwLjEgMTYgOVYzQzE2IDEuOSAxNS4xIDEgMTQgMVpNMTEgMTNDMTEgMTMuNTUgMTAuNTUgMTQgMTAgMTRIMkMxLjQ1IDE0IDEgMTMuNTUgMSAxM1Y3QzEgNi40NSAxLjQ1IDYgMiA2SDRWOUM0IDEwLjEgNC45IDExIDYgMTFIMTFWMTNaTTE1IDlDMTUgOS41NSAxNC41NSAxMCAxNCAxMEgxMlY3QzEyIDUuOSAxMS4xIDUgMTAgNUg1VjNDNSAyLjQ1IDUuNDUgMiA2IDJIMTRDMTQuNTUgMiAxNSAyLjQ1IDE1IDNWOVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=share-window)
+  /// Codicon icon named "share window".
+  static const IconData shareWindow = IconData(
+    0xEC88,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDBDMi42OTEgMCAwIDIuNjkxIDAgNkMwIDkuMzA5IDIuNjkxIDEyIDYgMTJDOS4zMDkgMTIgMTIgOS4zMDkgMTIgNkMxMiAyLjY5MSA5LjMwOSAwIDYgMFpNMSA2QzEgMy4yNDMgMy4yNDMgMSA2IDFDNy4xOTkgMSA4LjMgMS40MjQgOS4xNjMgMi4xM0wyLjEzMSA5LjE2MkMxLjQyNSA4LjMgMS4wMDEgNy4xOTggMS4wMDEgNS45OTlMMSA2Wk02IDExQzQuODAxIDExIDMuNyAxMC41NzYgMi44MzcgOS44N0w5Ljg2OSAyLjgzOEMxMC41NzUgMy43IDEwLjk5OSA0LjgwMiAxMC45OTkgNi4wMDFDMTAuOTk5IDguNzU4IDguNzU2IDExLjAwMSA1Ljk5OSAxMS4wMDFMNiAxMVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=circle-slash-compact)
+  /// Codicon icon named "circle slash compact".
+  static const IconData circleSlashCompact = IconData(
+    0xEC89,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik00LjUzNTE2IDYuNzI3MDhDNC44MzAwNyA2LjcyNzE4IDUuMDY5MzQgNi45NjYzMiA1LjA2OTM0IDcuMjYxMjZWOC4wMDA1MkM1LjA2OTE2IDguMjk1MzEgNC44Mjk5NyA4LjUzMzYyIDQuNTM1MTYgOC41MzM3MkM0LjI0MDI2IDguNTMzNzIgNC4wMDExNSA4LjI5NTM3IDQuMDAwOTggOC4wMDA1MlY3LjI2MTI2QzQuMDAwOTggNi45NjYyNiA0LjI0MDE2IDYuNzI3MDggNC41MzUxNiA2LjcyNzA4WiIvPjxwYXRoIGQ9Ik03LjQ2NTgyIDYuNzI2MUM3Ljc2MDgyIDYuNzI2MSA4IDYuOTY1MjggOCA3LjI2MDI4VjcuOTk5NTRDNy45OTk4MyA4LjI5NDM5IDcuNzYwNzEgOC41MzI3NCA3LjQ2NTgyIDguNTMyNzRDNy4xNzA5NiA4LjUzMjcxIDYuOTMxODIgOC4yOTQzNyA2LjkzMTY0IDcuOTk5NTRWNy4yNjAyOEM2LjkzMTY0IDYuOTY1MzEgNy4xNzA4NSA2LjcyNjE0IDcuNDY1ODIgNi43MjYxWiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNi4xMDU0NyAxLjM0MTM0QzYuNjE2NDggMC43OTM1MTMgNy40MDk1OSAwLjY2NzEwOCA4LjMxMzQ4IDAuNzY4MDk2QzkuMjM1MjUgMC44NzExNDEgOS45MjE1MiAxLjE2NDQ3IDEwLjM1NjQgMS43MTQzOEMxMC43ODAzIDIuMjUwMzQgMTAuODc2IDIuOTI1NzggMTAuODc2IDMuNTc3NjdDMTAuODc2IDQuMDA2NDcgMTAuODM1NCA0LjQzODA0IDEwLjY4NTUgNC44MTg4OEMxMC43MzQ1IDQuOTg5NzIgMTAuNzYwMyA1LjEzOTk3IDEwLjc4MTIgNS4yNzc4NkMxMC43OTAyIDUuMzM0NzEgMTAuNzk4NiA1LjM5MDA1IDEwLjgwODYgNS40NDE5MkMxMS41MDE2IDUuNzMwOTEgMTEuOTQ5OSA2LjU0NTIgMTIuMDAyIDcuMDEzMjFIMTJWOC40MTc1MUMxMS45OTk0IDguOTkyODcgOS40ODY1NiAxMS4yNjMyIDUuOTk5MDIgMTEuMjYzMkMyLjU3ODc0IDExLjI2MzIgMC4wOTQ5Nzg0IDkuMDc5MjEgMCA4LjQ1MTY5VjYuOTkwNzVDMC4wNjQgNi41MTk3NSAwLjUwODQwNiA1LjcyNTkyIDEuMTkxNDEgNS40NDE5MkMxLjIwMTM3IDUuMzkwMDQgMS4yMDg4IDUuMzMzNzEgMS4yMTc3NyA1LjI3Nzg2QzEuMjM5NzYgNS4xNDA5NiAxLjI2MzUyIDQuOTg5NzIgMS4zMTM0OCA0LjgxODg4QzEuMTYyNTggNC40MzgwNCAxLjEyMzA3IDQuMDA2NDcgMS4xMjMwNSAzLjU3NzY3QzEuMTIzMDUgMi45MjQ3NyAxLjIxODc2IDIuMjUwMzQgMS42NDI1OCAxLjcxNDM4QzIuMDc2NTEgMS4xNjQ0NyAyLjc2Mjc2IDAuODcxMTM4IDMuNjg1NTUgMC43NjgwOTZDNC41ODk0NCAwLjY2ODEwOCA1LjM4MjU1IDAuNzkzNTA0IDUuODkzNTUgMS4zNDEzNEM1LjkzMDU1IDEuMzgxMzQgNS45NjYwNSAxLjQyMjM2IDUuOTk4MDUgMS40NjUzNkM2LjAzMTA1IDEuNDIyMzYgNi4wNjg0NyAxLjM4MTM0IDYuMTA1NDcgMS4zNDEzNFpNNiA0LjcxNTM2QzUuODkxMDEgNC45MTkzMiA1Ljc1Mzc2IDUuMTA3MDMgNS41OTE4IDUuMjcyQzUuMTA0OCA1Ljc3IDQuNDE5NTcgNi4wMTUxNyAzLjU1OTU3IDYuMDE1MTdDMy4wNzA3NCA2LjAxNTEzIDIuNjMyNTYgNS45NTQzNSAyLjI2MzY3IDUuNzk3MzlMMi4yNDcwNyA1Ljg4NDMxVjkuMDc1NzFDMi41NjE3MyA5LjMxNzk2IDQuMjg5NSAxMC4xNDkgNS45OTgwNSAxMC4xNDlDNy43MDc2OCAxMC4xNDg5IDkuNDM1NTIgOS4zMTc5IDkuNzQ5MDIgOS4wNzU3MUw5Ljc1IDUuODg0MzFMOS43MzI0MiA1Ljc5NzM5QzkuMzY0NDIgNS45NTQzOSA4LjkyNTUyIDYuMDE1MTcgOC40MzY1MiA2LjAxNTE3QzcuNTc2NzUgNi4wMTUwOCA2Ljg5MzE4IDUuNzY5OTEgNi40MDUyNyA1LjI3MkM2LjI0NDI5IDUuMTA2MDIgNi4xMDc5OSA0LjkxOTMzIDYgNC43MTUzNlpNOC4xODY1MiAxLjg4NzI0QzcuNDA0MDIgMS44MDAzNyA3LjA3MDc4IDEuOTU0OTUgNi45MjY3NiAyLjEwOTg5QzYuNzczNzkgMi4yNzM4NiA2LjY1ODIyIDIuNjE5MTIgNi43NDUxMiAzLjMyMDgzQzYuODEzMSAzLjg2NDY2IDYuOTcyMSA0LjI0Mzg2IDcuMjA4OTggNC40ODU4N0M3LjQzMjkzIDQuNzE0ODEgNy43OTY4MiA0Ljg5MTA2IDguNDM2NTIgNC44OTExNEM5LjEyNzQ1IDQuODkxMTQgOS4zOTY1NCA0Ljc0Mjk1IDkuNTE4NTUgNC42MDY5NkM5LjY1MjUzIDQuNDU2OTkgOS43NDk5NiA0LjE3MzM5IDkuNzUgMy41Nzk2MlYzLjU3NzY3QzkuNzUgMy4wMDM3MSA5LjY1NzY1IDIuNjQ2NjMgOS40NzE2OCAyLjQxMjYzQzkuMjk2NjggMi4xOTA2MyA4Ljk1MTUyIDEuOTcyMjQgOC4xODY1MiAxLjg4NzI0Wk01LjA3MjI3IDIuMTA3OTRDNC45MjcyNCAxLjk1Mzk2IDQuNTkzNDYgMS43OTgyOSAzLjgxMDU1IDEuODg1MjhDMy4wNDY4NiAxLjk3MDMyIDIuNzAyMzMgMi4xODg3MiAyLjUyNjM3IDIuNDEwNjdDMi4zNDE0IDIuNjQ0NjggMi4yNDkwMiAzLjAwMjc2IDIuMjQ5MDIgMy41NzU3MVYzLjU3NzY3QzIuMjQ5MDYgNC4xNzI0MSAyLjM0NjUgNC40NTUwNCAyLjQ4MDQ3IDQuNjA1MDFDMi42MDE0NyA0Ljc0MDk2IDIuODcwMDEgNC44ODkxMiAzLjU2MTUyIDQuODg5MTlDNC4yMDE1MiA0Ljg4OTE5IDQuNTY2MDQgNC43MTI5MiA0Ljc5MDA0IDQuNDgzOTJDNS4wMjU5MyA0LjI0MTkxIDUuMTg0OTUgMy44NjM3MiA1LjI1MjkzIDMuMzE4ODhDNS4zNDA4NCAyLjYxODE0IDUuMjI1MjQgMi4yNzI5MSA1LjA3MjI3IDIuMTA3OTRaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=copilot-compact)
+  /// Codicon icon named "copilot compact".
+  static const IconData copilotCompact = IconData(
+    0xEC8A,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMSA0LjVDMTEgMy4xMiA5Ljg4IDIgOC41IDJINS4yMUw0Ljc5IDEuNTlDNC40MiAxLjIxIDMuOTEgMSAzLjM4IDFIMi41QzEuMTIgMSAwIDIuMTIgMCAzLjVWOC41QzAgOS44OCAxLjEyIDExIDIuNSAxMUg4QzguNzkgMTEgOS41NCAxMC42MiAxMCAxMEwxMC45OSA4LjY4TDExLjUgOEMxMS44MyA3LjU1IDEyIDcuMDQgMTIgNi41QzEyIDUuNjggMTEuNjEgNC45NiAxMSA0LjVaTTEgMy41QzEgMi42NyAxLjY3IDIgMi41IDJIMy4zOEMzLjY0IDIgMy45IDIuMTEgNC4wOSAyLjI5TDQuNzkgM0g4LjVDOS4xNyAzIDkuNzMgMy40NCA5LjkyIDQuMDRDOS43OCA0LjAxIDkuNjQgNCA5LjUgNEg0QzMuMjEgNCAyLjQ2IDQuMzggMiA1TDEgNi4zM1YzLjVaTTEwLjcgNy40TDEwIDguMzNMOS4yIDkuNEM4LjkyIDkuNzggOC40OCAxMCA4IDEwSDIuNUMxLjY3IDEwIDEgOS4zMyAxIDguNUMxIDguMTggMS4xIDcuODcgMS4zIDcuNkwyLjggNS42QzMuMDggNS4yMiAzLjUyIDUgNCA1SDkuNUM5LjY4IDUgOS44NCA1LjAzIDEwIDUuMDlDMTAuNTggNS4yOSAxMSA1Ljg1IDExIDYuNUMxMSA2LjgyIDEwLjkgNy4xMyAxMC43IDcuNFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=folder-opened-compact)
+  /// Codicon icon named "folder opened compact".
+  static const IconData folderOpenedCompact = IconData(
+    0xEC8B,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik05LjUgMkg1LjcwN0w1LjI5MyAxLjU4NkM0LjkyMSAxLjIxMyA0LjQwNSAxIDMuODc5IDFIMi41QzEuMTIyIDEgMCAyLjEyMiAwIDMuNVY4LjVDMCA5Ljg3OCAxLjEyMiAxMSAyLjUgMTFIOS41QzEwLjg3OCAxMSAxMiA5Ljg3OCAxMiA4LjVWNC41QzEyIDMuMTIyIDEwLjg3OCAyIDkuNSAyWk0yLjUgMkgzLjg3OUM0LjE0MiAyIDQuNCAyLjEwNyA0LjU4NiAyLjI5M0w1LjI5MyAzTDQuNTg2IDMuNzA3QzQuNCAzLjg5MyA0LjE0MiA0IDMuODc5IDRIMVYzLjVDMSAyLjY3MyAxLjY3MyAyIDIuNSAyWk0xMSA4LjVDMTEgOS4zMjcgMTAuMzI3IDEwIDkuNSAxMEgyLjVDMS42NzMgMTAgMSA5LjMyNyAxIDguNVY1SDMuODc5QzQuNDA1IDUgNC45MjEgNC43ODcgNS4yOTMgNC40MTRMNi43MDcgM0g5LjVDMTAuMzI3IDMgMTEgMy42NzMgMTEgNC41VjguNVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=folder-compact)
+  /// Codicon icon named "folder compact".
+  static const IconData folderCompact = IconData(
+    0xEC8C,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik01Ljk5OTk0IDMuOTk4OThDNC44OTY5NCAzLjk5ODk4IDMuOTk5OTQgNC44OTU5OCAzLjk5OTk0IDUuOTk4OThDMy45OTk5NCA3LjEwMTk4IDQuODk2OTQgNy45OTg5OCA1Ljk5OTk0IDcuOTk4OThDNy4xMDI5NCA3Ljk5ODk4IDcuOTk5OTQgNy4xMDE5OCA3Ljk5OTk0IDUuOTk4OThDNy45OTk5NCA0Ljg5NTk4IDcuMTAyOTQgMy45OTg5OCA1Ljk5OTk0IDMuOTk4OThaTTUuOTk5OTQgNi45OTg5OEM1LjQ0Nzk0IDYuOTk4OTggNC45OTk5NCA2LjU0OTk4IDQuOTk5OTQgNS45OTg5OEM0Ljk5OTk0IDUuNDQ3OTggNS40NDc5NCA0Ljk5ODk4IDUuOTk5OTQgNC45OTg5OEM2LjU1MTk0IDQuOTk4OTggNi45OTk5NCA1LjQ0Nzk4IDYuOTk5OTQgNS45OTg5OEM2Ljk5OTk0IDYuNTQ5OTggNi41NTE5NCA2Ljk5ODk4IDUuOTk5OTQgNi45OTg5OFpNMTEuNjI0OSA3LjQ2OTk4TDEwLjUyMjkgNi41Mzc5OEMxMC40OTM5IDYuNTEyOTggMTAuNDY1OSA2LjQ4NTk4IDEwLjQ0MTkgNi40NTY5OEMxMC4xODc5IDYuMTU5OTggMTAuMjI0OSA1LjcxNDk4IDEwLjUyMjkgNS40NjE5OEwxMS42MjQ5IDQuNTI5OThDMTEuNzM0OSA0LjQzNjk4IDExLjc3NjkgNC4yODc5OCAxMS43MzI5IDQuMTUxOThDMTEuNDcxOSAzLjM0NTk4IDExLjAzOTkgMi42MDU5OCAxMC40NzA5IDEuOTc4OThDMTAuNDAxOSAxLjkwMzk4IDEwLjMwNTkgMS44NjE5OCAxMC4yMDc5IDEuODYxOThDMTAuMTY3OSAxLjg2MTk4IDEwLjEyNjkgMS44Njg5OCAxMC4wODg5IDEuODgyOThMOC43Mjg5NCAyLjM2Njk4QzguNjkyOTQgMi4zNzk5OCA4LjY1NDk0IDIuMzg5OTggOC42MTc5NCAyLjM5Njk4QzguNTc0OTQgMi40MDQ5OCA4LjUzMTk0IDIuNDA4OTggOC40ODk5NCAyLjQwODk4QzguMTUzOTQgMi40MDg5OCA3Ljg1NTk0IDIuMTcwOTggNy43OTI5NCAxLjgyOTk4TDcuNTMyOTQgMC40MTM5NzdDNy41MDY5NCAwLjI3Mjk3NyA3LjM5Nzk0IDAuMTYxOTc3IDcuMjU3OTQgMC4xMzE5NzdDNi44NDY5NCAwLjA0NDk3NjYgNi40MjU5NCAwLjAwMDk3NjU2MiA1Ljk5ODk0IDAuMDAwOTc2NTYyQzUuNTcxOTQgMC4wMDA5NzY1NjIgNS4xNTA5NCAwLjA0NTk3NjYgNC43Mzg5NCAwLjEzMTk3N0M0LjU5Nzk0IDAuMTYxOTc3IDQuNDg5OTQgMC4yNzI5NzcgNC40NjM5NCAwLjQxMzk3N0w0LjIwNDk0IDEuODI5OThDNC4xOTc5NCAxLjg2Nzk4IDQuMTg3OTQgMS45MDQ5OCA0LjE3NDk0IDEuOTQwOThDNC4wNzA5NCAyLjIyOTk4IDMuNzk4OTUgMi40MDk5OCAzLjUwNjk1IDIuNDA5OThDMy40Mjc5NSAyLjQwOTk4IDMuMzQ3OTQgMi4zOTU5OCAzLjI2ODk0IDIuMzY4OThMMS45MDg5NCAxLjg4NDk4QzEuODY5OTQgMS44NzA5OCAxLjgyODk0IDEuODYzOTggMS43ODk5NCAxLjg2Mzk4QzEuNjkwOTQgMS44NjM5OCAxLjU5NDk0IDEuOTA0OTggMS41MjY5NCAxLjk4MDk4QzAuOTU3OTQyIDIuNjA3OTggMC41MjY5NDEgMy4zNDc5OCAwLjI2NDk0MSA0LjE1Mzk4QzAuMjE5OTQxIDQuMjg5OTggMC4yNjI5NDMgNC40Mzg5OCAwLjM3Mjk0MyA0LjUzMTk4TDEuNDc0OTQgNS40NjM5OEMxLjUwMzk0IDUuNDg4OTggMS41MzE5NCA1LjUxNTk4IDEuNTU1OTQgNS41NDQ5OEMxLjgwOTk0IDUuODQxOTggMS43NzI5NCA2LjI4Njk4IDEuNDc0OTQgNi41Mzk5OEwwLjM3Mjk0MyA3LjQ3MTk4QzAuMjYyOTQzIDcuNTY0OTggMC4yMjA5NDEgNy43MTM5OCAwLjI2NDk0MSA3Ljg0OTk4QzAuNTI1OTQxIDguNjU1OTggMC45NTc5NDIgOS4zOTU5OCAxLjUyNjk0IDEwLjAyM0MxLjU5NTk0IDEwLjA5OCAxLjY5MTk0IDEwLjE0IDEuNzg5OTQgMTAuMTRDMS44Mjk5NCAxMC4xNCAxLjg3MDk0IDEwLjEzMyAxLjkwODk0IDEwLjExOUwzLjI2ODk0IDkuNjM0OThDMy4zMDQ5NCA5LjYyMTk4IDMuMzQyOTQgOS42MTE5OCAzLjM3OTk0IDkuNjA0OThDMy40MjI5NCA5LjU5Njk4IDMuNDY1OTQgOS41OTM5OCAzLjUwNzk0IDkuNTkzOThDMy44NDM5NCA5LjU5Mzk4IDQuMTQxOTQgOS44MzE5OCA0LjIwNDk0IDEwLjE3M0w0LjQ2Mzk0IDExLjU4OUM0LjQ4OTk0IDExLjczIDQuNTk4OTQgMTEuODQxIDQuNzM4OTQgMTEuODcxQzUuMTQ5OTQgMTEuOTU4IDUuNTcxOTQgMTIuMDAyIDUuOTk4OTQgMTIuMDAyQzYuNDI1OTQgMTIuMDAyIDYuODQ2OTQgMTEuOTU3IDcuMjU3OTQgMTEuODcxQzcuMzk4OTQgMTEuODQxIDcuNTA2OTQgMTEuNzMgNy41MzI5NCAxMS41ODlMNy43OTI5NCAxMC4xNzNDNy43OTk5NCAxMC4xMzUgNy44MDk5NCAxMC4wOTggNy44MjI5NCAxMC4wNjJDNy45MjY5NCA5Ljc3Mjk4IDguMTk4OTQgOS41OTI5OCA4LjQ5MDk0IDkuNTkyOThDOC41Njk5NCA5LjU5Mjk4IDguNjQ5OTQgOS42MDY5OCA4LjcyODk0IDkuNjMzOThMMTAuMDg3OSAxMC4xMThDMTAuMTI2OSAxMC4xMzIgMTAuMTY3OSAxMC4xMzkgMTAuMjA2OSAxMC4xMzlDMTAuMzA1OSAxMC4xMzkgMTAuNDAxOSAxMC4wOTggMTAuNDY5OSAxMC4wMjJDMTEuMDM4OSA5LjM5NDk4IDExLjQ2OTkgOC42NTQ5OCAxMS43MzE5IDcuODQ4OThDMTEuNzc2OSA3LjcxMjk4IDExLjczMzkgNy41NjM5OCAxMS42MjM5IDcuNDcwOThMMTEuNjI0OSA3LjQ2OTk4Wk0xMC4wMDE5IDkuMDIzOThMOS4wNTg5NCA4LjY4Nzk4QzguODc0OTQgOC42MjM5OCA4LjY4Mzk0IDguNTkwOTggOC40OTE5NCA4LjU5MDk4QzcuNzcyOTQgOC41OTA5OCA3LjEyNTk0IDkuMDQ0OTggNi44ODI5NCA5LjcyMjk4QzYuODUxOTQgOS44MTA5OCA2LjgyNjk0IDkuODk5OTggNi44MTA5NCA5Ljk4OTk4TDYuNjMyOTQgMTAuOTZDNi40MjI5NCAxMC45ODYgNi4yMTE5NCAxMC45OTkgNi4wMDA5NCAxMC45OTlDNS43ODc5NCAxMC45OTkgNS41NzY5NCAxMC45ODYgNS4zNjc5NCAxMC45Nkw1LjE5MDk0IDkuOTg5OThDNS4wNDE5NCA5LjE3ODk4IDQuMzM1OTQgOC41OTA5OCAzLjUxMDk0IDguNTkwOThDMy40MTA5NCA4LjU5MDk4IDMuMzA3OTQgOC41OTk5OCAzLjIwNDk0IDguNjE3OThDMy4xMTM5NCA4LjYzNDk4IDMuMDIyOTQgOC42NTg5OCAyLjkzNjk0IDguNjg5OThMMS45OTk5NCA5LjAyMzk4QzEuNzQyOTQgOC42ODc5OCAxLjUzMDk0IDguMzI1OTggMS4zNjc5NCA3LjkzOTk4TDIuMTIzOTQgNy4zMDA5OEMyLjQ3Mjk0IDcuMDA0OTggMi42ODQ5NCA2LjU5MTk4IDIuNzIxOTQgNi4xMzY5OEMyLjc1ODk0IDUuNjgyOTggMi42MTU5NCA1LjI0MDk4IDIuMzE5OTQgNC44OTM5OEMyLjI2MDk0IDQuODI0OTggMi4xOTU5NCA0Ljc1OTk4IDIuMTIyOTQgNC42OTc5OEwxLjM2Nzk0IDQuMDU5OThDMS41MzE5NCAzLjY3Mjk4IDEuNzQyOTQgMy4zMDk5OCAxLjk5ODk0IDIuOTc1OThMMi45NDI5NCAzLjMxMTk4QzMuMTI2OTQgMy4zNzU5OCAzLjMxNzk0IDMuNDA4OTggMy41MDk5NCAzLjQwODk4QzQuMjI4OTQgMy40MDg5OCA0Ljg3NTk0IDIuOTU0OTggNS4xMTg5NCAyLjI3Njk4QzUuMTQ5OTQgMi4xODg5OCA1LjE3NDk0IDIuMDk5OTggNS4xOTA5NCAyLjAwODk4TDUuMzY3OTQgMS4wMzk5OEM1LjU3Nzk0IDEuMDEzOTggNS43ODk5NCAxLjAwMDk4IDYuMDAwOTQgMS4wMDA5OEM2LjIxMjk0IDEuMDAwOTggNi40MjQ5NCAxLjAxMzk4IDYuNjMyOTQgMS4wMzk5OEw2LjgxMDk0IDIuMDA5OThDNi45NTk5NCAyLjgyMDk4IDcuNjY1OTQgMy40MDg5OCA4LjQ5MDk0IDMuNDA4OThDOC41OTA5NCAzLjQwODk4IDguNjkzOTQgMy4zOTk5OCA4Ljc5Njk0IDMuMzgwOThDOC44ODc5NCAzLjM2Mzk4IDguOTc4OTQgMy4zMzk5OCA5LjA2NDk0IDMuMzA4OThMMTAuMDAxOSAyLjk3NDk4QzEwLjI1ODkgMy4zMTA5OCAxMC40Njk5IDMuNjczOTggMTAuNjMyOSA0LjA1ODk4TDkuODc2OTQgNC42OTc5OEM5LjUyNzk0IDQuOTkzOTggOS4zMTU5NCA1LjQwNjk4IDkuMjc4OTQgNS44NjE5OEM5LjI0MTk0IDYuMzE1OTggOS4zODQ5NCA2Ljc1Nzk4IDkuNjgwOTQgNy4xMDM5OEM5LjczOTk0IDcuMTcyOTggOS44MDQ5NCA3LjIzODk4IDkuODc3OTQgNy4zMDA5OEwxMC4xNTQ5IDcuNTM0OThMMTAuMTUyOSA3LjUzNjk4TDEwLjYzMTkgNy45NDA5OEMxMC40Njg5IDguMzI3OTggMTAuMjU3OSA4LjY4ODk4IDEwLjAwMTkgOS4wMjM5OFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=gear-compact)
+  /// Codicon icon named "gear compact".
+  static const IconData gearCompact = IconData(
+    0xEC8D,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik05IDJDNy44OTcgMiA3IDIuODk3IDcgNEM3IDQuNzM5IDcuNDAzIDUuMzg1IDggNS43MzFWNi41QzggNi43NzYgNy43NzUgNyA3LjUgN0g0LjVDNC4zMjUgNyA0LjE1NiA3LjAzMSA0IDcuMDg2VjMuNzMxQzQuNTk3IDMuMzg1IDUgMi43MzkgNSAyQzUgMC44OTcgNC4xMDMgMCAzIDBDMS44OTcgMCAxIDAuODk3IDEgMkMxIDMuMTAzIDEuODk3IDQgMyA0VjhDMS44OTcgOCAxIDguODk3IDEgMTBDMSAxMS4xMDMgMS44OTcgMTIgMyAxMkM0LjEwMyAxMiA1IDExLjEwMyA1IDEwQzUgOS4yOCA0LjYxNyA4LjY0NyA0LjA0NCA4LjI5NUM0LjEyMiA4LjEyMSA0LjI5NyA4IDQuNSA4SDcuNUM4LjMyNyA4IDkgNy4zMjcgOSA2LjVWNkMxMC4xMDMgNiAxMSA1LjEwMyAxMSA0QzExIDIuODk3IDEwLjEwMyAyIDkgMlpNMiAyQzIgMS40NDkgMi40NDggMSAzIDFDMy41NTIgMSA0IDEuNDQ5IDQgMkM0IDIuNTUxIDMuNTUyIDMgMyAzQzIuNDQ4IDMgMiAyLjU1MSAyIDJaTTMgMTFDMi40NDggMTEgMiAxMC41NTEgMiAxMEMyIDkuNDQ5IDIuNDQ4IDkgMyA5QzMuNTUyIDkgNCA5LjQ0OSA0IDEwQzQgMTAuNTUxIDMuNTUyIDExIDMgMTFaTTkgNUM4LjQ0OCA1IDggNC41NTEgOCA0QzggMy40NDkgOC40NDggMyA5IDNDOS41NTIgMyAxMCAzLjQ0OSAxMCA0QzEwIDQuNTUxIDkuNTUyIDUgOSA1WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=git-branch-compact)
+  /// Codicon icon named "git branch compact".
+  static const IconData gitBranchCompact = IconData(
+    0xEC8E,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xLjc0OSAwSDEuMjQ5QzAuNTU5IDAgMCAwLjU1OSAwIDEuMjQ5VjEwLjc0NUMwIDExLjQzNSAwLjU1OSAxMS45OTQgMS4yNDkgMTEuOTk0SDEuNzQ5QzIuNDM5IDExLjk5NCAyLjk5OCAxMS40MzUgMi45OTggMTAuNzQ1VjEuMjQ5QzIuOTk4IDAuNTU5IDIuNDM5IDAgMS43NDkgMFpNMS45OTggMTAuNzQ1QzEuOTk4IDEwLjg4MyAxLjg4NiAxMC45OTUgMS43NDggMTAuOTk1SDEuMjQ4QzEuMTEgMTAuOTk1IDAuOTk4IDEwLjg4MyAwLjk5OCAxMC43NDVWMS4yNDlDMC45OTggMS4xMTEgMS4xMSAwLjk5OSAxLjI0OCAwLjk5OUgxLjc0OEMxLjg4NiAwLjk5OSAxLjk5OCAxLjExMSAxLjk5OCAxLjI0OVYxMC43NDVaTTUuNzQ1IDBINS4yNDVDNC41NTUgMCAzLjk5NiAwLjU1OSAzLjk5NiAxLjI0OVYxMC43NDVDMy45OTYgMTEuNDM1IDQuNTU1IDExLjk5NCA1LjI0NSAxMS45OTRINS43NDVDNi40MzUgMTEuOTk0IDYuOTk0IDExLjQzNSA2Ljk5NCAxMC43NDVWMS4yNDlDNi45OTQgMC41NTkgNi40MzUgMCA1Ljc0NSAwWk01Ljk5NSAxMC43NDVDNS45OTUgMTAuODgzIDUuODgzIDEwLjk5NSA1Ljc0NSAxMC45OTVINS4yNDVDNS4xMDcgMTAuOTk1IDQuOTk1IDEwLjg4MyA0Ljk5NSAxMC43NDVWMS4yNDlDNC45OTUgMS4xMTEgNS4xMDcgMC45OTkgNS4yNDUgMC45OTlINS43NDVDNS44ODMgMC45OTkgNS45OTUgMS4xMTEgNS45OTUgMS4yNDlWMTAuNzQ1Wk0xMS45NTggMTAuMjk5TDEwLjAyOCAzLjA1MkM5Ljk0MiAyLjcyOSA5LjczNiAyLjQ1OSA5LjQ0NiAyLjI5MkM5LjE1NyAyLjEyNCA4LjgyIDIuMDggOC40OTcgMi4xNjZMOC4wMTUgMi4yOTRDNy42OTIgMi4zOCA3LjQyMiAyLjU4NiA3LjI1NSAyLjg3NkM3LjA4OCAzLjE2NSA3LjA0MyAzLjUwMSA3LjEyOSAzLjgyNEw5LjA1OSAxMS4wNzFDOS4xNDUgMTEuMzk0IDkuMzUxIDExLjY2NCA5LjY0MSAxMS44MzFDOS44MzQgMTEuOTQzIDEwLjA0OCAxMiAxMC4yNjYgMTJDMTAuMzc0IDEyIDEwLjQ4MiAxMS45ODYgMTAuNTkgMTEuOTU3TDExLjA3MyAxMS44MjhDMTEuMzk2IDExLjc0MyAxMS42NjUgMTEuNTM2IDExLjgzMyAxMS4yNDdDMTIgMTAuOTU4IDEyLjA0NSAxMC42MjIgMTEuOTU5IDEwLjI5OEwxMS45NTggMTAuMjk5Wk0xMC45NjYgMTAuNzQ3QzEwLjk0NiAxMC43OCAxMC45MDEgMTAuODQgMTAuODE0IDEwLjg2M0wxMC4zMzEgMTAuOTkyQzEwLjI0MyAxMS4wMTYgMTAuMTc1IDEwLjk4NyAxMC4xNDEgMTAuOTY3QzEwLjEwOCAxMC45NDcgMTAuMDQ4IDEwLjkwMiAxMC4wMjUgMTAuODE1TDguMDk1IDMuNTY4QzguMDcyIDMuNDgxIDguMTAxIDMuNDEyIDguMTIgMy4zNzhDOC4xNCAzLjM0NSA4LjE4NSAzLjI4NSA4LjI3MiAzLjI2Mkw4Ljc1NCAzLjEzNEM4Ljc3NyAzLjEyOCA4Ljc5OSAzLjEyNSA4LjgxOSAzLjEyNUM4Ljg3NiAzLjEyNSA4LjkyIDMuMTQ1IDguOTQ0IDMuMTU5QzguOTc3IDMuMTc5IDkuMDM3IDMuMjI0IDkuMDYgMy4zMTFMMTAuOTkgMTAuNTU4QzExLjAxMyAxMC42NDUgMTAuOTg0IDEwLjcxNCAxMC45NjUgMTAuNzQ4TDEwLjk2NiAxMC43NDdaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=library-compact)
+  /// Codicon icon named "library compact".
+  static const IconData libraryCompact = IconData(
+    0xEC8F,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMC41IDFIMS41QzAuNjczIDEgMCAxLjY3MyAwIDIuNVY4LjVDMCA5LjMyNyAwLjY3MyAxMCAxLjUgMTBIMTAuNUMxMS4zMjcgMTAgMTIgOS4zMjcgMTIgOC41VjIuNUMxMiAxLjY3MyAxMS4zMjcgMSAxMC41IDFaTTExIDguNUMxMSA4Ljc3NiAxMC43NzUgOSAxMC41IDlIMS41QzEuMjI1IDkgMSA4Ljc3NiAxIDguNVYyLjVDMSAyLjIyNCAxLjIyNSAyIDEuNSAySDEwLjVDMTAuNzc1IDIgMTEgMi4yMjQgMTEgMi41VjguNVpNMTAgNy41QzEwIDcuNzc2IDkuNzc2IDggOS41IDhIMi41QzIuMjI0IDggMiA3Ljc3NiAyIDcuNUMyIDcuMjI0IDIuMjI0IDcgMi41IDdIOS41QzkuNzc2IDcgMTAgNy4yMjQgMTAgNy41Wk00LjMgMy40QzQuMyAzLjA2OSA0LjU2OSAyLjggNC45IDIuOEM1LjIzMSAyLjggNS41IDMuMDY5IDUuNSAzLjRDNS41IDMuNzMxIDUuMjMxIDQgNC45IDRDNC41NjkgNCA0LjMgMy43MzEgNC4zIDMuNFpNMi4zIDMuNEMyLjMgMy4wNjkgMi41NjkgMi44IDIuOSAyLjhDMy4yMzEgMi44IDMuNSAzLjA2OSAzLjUgMy40QzMuNSAzLjczMSAzLjIzMSA0IDIuOSA0QzIuNTY5IDQgMi4zIDMuNzMxIDIuMyAzLjRaTTYuMyAzLjRDNi4zIDMuMDY5IDYuNTY5IDIuOCA2LjkgMi44QzcuMjMxIDIuOCA3LjUgMy4wNjkgNy41IDMuNEM3LjUgMy43MzEgNy4yMzEgNCA2LjkgNEM2LjU2OSA0IDYuMyAzLjczMSA2LjMgMy40Wk04LjMgMy40QzguMyAzLjA2OSA4LjU2OSAyLjggOC45IDIuOEM5LjIzMSAyLjggOS41IDMuMDY5IDkuNSAzLjRDOS41IDMuNzMxIDkuMjMxIDQgOC45IDRDOC41NjkgNCA4LjMgMy43MzEgOC4zIDMuNFpNMy45IDQuOEM0LjIzMSA0LjggNC41IDUuMDY5IDQuNSA1LjRDNC41IDUuNzMxIDQuMjMxIDYgMy45IDZDMy41NjkgNiAzLjMgNS43MzEgMy4zIDUuNEMzLjMgNS4wNjkgMy41NjkgNC44IDMuOSA0LjhaTTUuOSA0LjhDNi4yMzEgNC44IDYuNSA1LjA2OSA2LjUgNS40QzYuNSA1LjczMSA2LjIzMSA2IDUuOSA2QzUuNTY5IDYgNS4zIDUuNzMxIDUuMyA1LjRDNS4zIDUuMDY5IDUuNTY5IDQuOCA1LjkgNC44Wk03LjkgNC44QzguMjMxIDQuOCA4LjUgNS4wNjkgOC41IDUuNEM4LjUgNS43MzEgOC4yMzEgNiA3LjkgNkM3LjU2OSA2IDcuMyA1LjczMSA3LjMgNS40QzcuMyA1LjA2OSA3LjU2OSA0LjggNy45IDQuOFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=record-keys-compact)
+  /// Codicon icon named "record keys compact".
+  static const IconData recordKeysCompact = IconData(
+    0xEC90,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02LjM1NDAxIDcuNjQ2MjNDNi41NDkwMSA3Ljg0MTIzIDYuNTQ5MDEgOC4xNTgyMyA2LjM1NDAxIDguMzUzMjNMMi44NTQwMSAxMS44NTMyQzIuNzU2MDEgMTEuOTUxMiAyLjYyODAxIDExLjk5OTIgMi41MDAwMSAxMS45OTkyQzIuMzcyMDEgMTEuOTk5MiAyLjI0NDAxIDExLjk1MDIgMi4xNDYwMSAxMS44NTMyQzEuOTUxMDEgMTEuNjU4MiAxLjk1MTAxIDExLjM0MTIgMi4xNDYwMSAxMS4xNDYyTDUuMjkyMDEgOC4wMDAyM0wyLjE0NjAxIDQuODU0MjNDMS45NTEwMSA0LjY1OTIzIDEuOTUxMDEgNC4zNDIyMyAyLjE0NjAxIDQuMTQ3MjNDMi4zNDEwMSAzLjk1MjIzIDIuNjU4MDEgMy45NTIyMyAyLjg1MzAxIDQuMTQ3MjNMNi4zNTMwMSA3LjY0NzIzTDYuMzU0MDEgNy42NDYyM1pNNi43MDcwMSA0LjAwMDIzTDkuODUzMDEgMC44NTQyMjZDMTAuMDQ4IDAuNjU5MjI2IDEwLjA0OCAwLjM0MjIyNyA5Ljg1MzAxIDAuMTQ3MjI3QzkuNjU4MDEgLTAuMDQ3NzczNCA5LjM0MTAxIC0wLjA0Nzc3MzQgOS4xNDYwMSAwLjE0NzIyN0w1LjY0NjAxIDMuNjQ3MjNDNS40NTEwMSAzLjg0MjIzIDUuNDUxMDEgNC4xNTkyMyA1LjY0NjAxIDQuMzU0MjNMOS4xNDYwMSA3Ljg1NDIzQzkuMjQ0MDEgNy45NTIyMyA5LjM3MjAxIDguMDAwMjMgOS41MDAwMSA4LjAwMDIzQzkuNjI4MDEgOC4wMDAyMyA5Ljc1NjAxIDcuOTUxMjMgOS44NTQwMSA3Ljg1NDIzQzEwLjA0OSA3LjY1OTIzIDEwLjA0OSA3LjM0MjIzIDkuODU0MDEgNy4xNDcyM0w2LjcwODAxIDQuMDAxMjNMNi43MDcwMSA0LjAwMDIzWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=remote-compact)
+  /// Codicon icon named "remote compact".
+  static const IconData remoteCompact = IconData(
+    0xEC91,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik05IDBDNy44OTcgMCA3IDAuODk3IDcgMkM3IDIuNzM5IDcuNDAzIDMuMzg1IDggMy43MzFWNUM4IDUuNTUxIDcuNTUxIDYgNyA2SDVDNC40NDkgNiA0IDUuNTUxIDQgNVYzLjczMUM0LjU5NyAzLjM4NSA1IDIuNzM5IDUgMkM1IDAuODk3IDQuMTAzIDAgMyAwQzEuODk3IDAgMSAwLjg5NyAxIDJDMSAzLjEwMyAxLjg5NyA0IDMgNFY1QzMgNi4xMDMgMy44OTcgNyA1IDdINS41VjguMDYzQzQuNjM4IDguMjg2IDQgOS4wNjkgNCAxMEM0IDExLjEwMyA0Ljg5NyAxMiA2IDEyQzcuMTAzIDEyIDggMTEuMTAzIDggMTBDOCA5LjA3IDcuMzYyIDguMjg2IDYuNSA4LjA2M1Y3SDdDOC4xMDMgNyA5IDYuMTAzIDkgNVY0QzEwLjEwMyA0IDExIDMuMTAzIDExIDJDMTEgMC44OTcgMTAuMTAzIDAgOSAwWk0yIDJDMiAxLjQ0OSAyLjQ0OSAxIDMgMUMzLjU1MSAxIDQgMS40NDkgNCAyQzQgMi41NTEgMy41NTEgMyAzIDNDMi40NDkgMyAyIDIuNTUxIDIgMlpNNyAxMEM3IDEwLjU1MSA2LjU1MSAxMSA2IDExQzUuNDQ5IDExIDUgMTAuNTUxIDUgMTBDNSA5LjQ0OSA1LjQ0OSA5IDYgOUM2LjU1MSA5IDcgOS40NDkgNyAxMFpNOSAzQzguNDQ5IDMgOCAyLjU1MSA4IDJDOCAxLjQ0OSA4LjQ0OSAxIDkgMUM5LjU1MSAxIDEwIDEuNDQ5IDEwIDJDMTAgMi41NTEgOS41NTEgMyA5IDNaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=repo-forked-compact)
+  /// Codicon icon named "repo forked compact".
+  static const IconData repoForkedCompact = IconData(
+    0xEC92,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik05LjYgMTBIN0M3IDkuNzI0IDYuNzc2IDkuNSA2LjUgOS41SDQuNUM0LjIyNCA5LjUgNCA5LjcyNCA0IDEwSDMuNUMzLjIyNSAxMCAzIDkuNzc2IDMgOS41VjlIOS41QzkuNzc2IDkgMTAgOC43NzYgMTAgOC41VjEuNUMxMCAwLjY3MyA5LjMyNyAwIDguNSAwSDMuNUMyLjY3MyAwIDIgMC42NzMgMiAxLjVWOS41QzIgMTAuMzI3IDIuNjczIDExIDMuNSAxMUg0VjExLjVDNCAxMS42NzMgNC4wOSAxMS44MzQgNC4yMzcgMTEuOTI1QzQuMzgzIDEyLjAxNSA0LjU2NyAxMi4wMjQgNC43MjMgMTEuOTQ3TDUuNDk5IDExLjU1OUw2LjI3NSAxMS45NDdDNi4zNDUgMTEuOTgyIDYuNDIyIDEyIDYuNDk5IDEyQzYuNTkxIDEyIDYuNjgyIDExLjk3NSA2Ljc2MiAxMS45MjVDNi45MDkgMTEuODM0IDYuOTk5IDExLjY3MyA2Ljk5OSAxMS41VjExSDkuNTk5QzkuODc1IDExIDEwLjA5OSAxMC43NzYgMTAuMDk5IDEwLjVDMTAuMDk5IDEwLjIyNCA5Ljg3NSAxMCA5LjU5OSAxMEg5LjZaTTMgMS41QzMgMS4yMjQgMy4yMjUgMSAzLjUgMUg4LjVDOC43NzUgMSA5IDEuMjI0IDkgMS41VjhIM1YxLjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=repo-compact)
+  /// Codicon icon named "repo compact".
+  static const IconData repoCompact = IconData(
+    0xEC93,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMC41IDEuODMyOTlDOC45NjkgMS44MzI5OSA3LjU5NCAxLjU1NDk5IDYuMzU0IDAuMzEyOTkyQzYuMjU3IDAuMjE1OTkyIDYuMTI4IDAuMTY2OTkyIDYgMC4xNjY5OTJDNS44NzMgMC4xNjY5OTIgNS43NDUgMC4yMTU5OTIgNS42NDggMC4zMTI5OTJDNC40MDUgMS41NTQ5OSAzLjAyOSAxLjgzMjk5IDEuNSAxLjgzMjk5QzEuMjI0IDEuODMyOTkgMSAyLjA1Njk5IDEgMi4zMzI5OVY1LjMzNDk5QzEgOC41NTI5OSAyLjY0MiAxMC43NCA1Ljg0MSAxMS44MDhDNS44OTMgMTEuODI1IDUuOTQ2IDExLjgzNCA2IDExLjgzNEM2LjA1NCAxMS44MzQgNi4xMDcgMTEuODI1IDYuMTU5IDExLjgwOEM5LjM2IDEwLjc0MSAxMSA4LjU1Mjk5IDExIDUuMzM0OTlWMi4zMzI5OUMxMSAyLjA1Njk5IDEwLjc3NSAxLjgzMjk5IDEwLjUgMS44MzI5OVpNMTAgNS4zMzQ5OUMxMCA4LjA2NTk5IDguNjkyIDkuODU1OTkgNiAxMC44MDVDMy4zMDkgOS44NTY5OSAyIDguMDY1OTkgMiA1LjMzNDk5VjIuODIyOTlDMy4yMjIgMi43NzE5OSA0LjY2OSAyLjQ5NDk5IDYgMS4zNDg5OUM3LjMyOSAyLjQ5NTk5IDguNzc4IDIuNzcyOTkgMTAgMi44MjI5OVY1LjMzNDk5Wk02IDQuNDk5OTlDNi41NTIgNC40OTk5OSA3IDQuOTQ3OTkgNyA1LjQ5OTk5QzcgNS44Njk5OSA2Ljc5OSA2LjE5Mjk5IDYuNSA2LjM2NTk5VjYuOTk5OTlDNi41IDcuMjc1OTkgNi4yNzYgNy40OTk5OSA2IDcuNDk5OTlDNS43MjQgNy40OTk5OSA1LjUgNy4yNzU5OSA1LjUgNi45OTk5OVY2LjM2NTk5QzUuMjAxIDYuMTkyOTkgNSA1Ljg2OTk5IDUgNS40OTk5OUM1IDQuOTQ3OTkgNS40NDggNC40OTk5OSA2IDQuNDk5OTlaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=shield-compact)
+  /// Codicon icon named "shield compact".
+  static const IconData shieldCompact = IconData(
+    0xEC94,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjQ2OCA3LjgyOTg4QzMuNjI0IDcuOTQwODggMy44MTEgNy45OTk4OCA0LjAwMiA3Ljk5OTg4QzQuMTk0IDcuOTk5ODggNC4zODIgNy45NDA4OCA0LjUzOCA3LjgyOTg4QzQuNjk1IDcuNzEzODggNC44MTMgNy41NTM4OCA0Ljg3OSA3LjM3MDg4TDUuMjI2MDEgNi4zMDM4OEM1LjMxMDAxIDYuMDUxODggNS40NTIgNS44MjM4OCA1LjYzOSA1LjYzNTg4QzUuODI2IDUuNDQ4ODggNi4wNTMgNS4zMDc4OCA2LjMwNCA1LjIyNDg4TDcuMzkgNC44NzE4OEM3LjU2OSA0LjgwNzg4IDcuNzI0IDQuNjg5ODggNy44MzQgNC41MzQ4OEM3Ljk0NCA0LjM3OTg4IDguMDAzIDQuMTkzODggOC4wMDMgNC4wMDM4OEM4LjAwMyAzLjgxMzg4IDcuOTQ0IDMuNjI3ODggNy44MzQgMy40NzI4OEM3LjcxNSAzLjMwNzg4IDcuNTQ3IDMuMTg0ODggNy4zNTMgMy4xMjI4OEw2LjI4NCAyLjc3Njg4QzYuMDMyIDIuNjkzODggNS44MDQgMi41NTI4OCA1LjYxNiAyLjM2NTg4QzUuNDI4IDIuMTc4ODggNS4yODcgMS45NDk4OCA1LjIwNCAxLjY5ODg4TDQuODUxMDEgMC42MTQ4ODNDNC43ODggMC40MzU4ODMgNC42NyAwLjI4MDg4MyA0LjUxNSAwLjE3MDg4M0M0LjM1OCAwLjA2Mjg4MjggNC4xNzIgMC4wMDQ4ODI4MSAzLjk4MSAwLjAwNDg4MjgxQzMuNzkgMC4wMDQ4ODI4MSAzLjYwNCAwLjA2Mjg4MjggMy40NDcgMC4xNzA4ODNDMy4yODcgMC4yODI4ODMgMy4xNjcgMC40NDM4ODMgMy4xMDUgMC42Mjg4ODNMMi43NSAxLjcxODg4QzIuNjY2IDEuOTYyODggMi41MjggMi4xODQ4OCAyLjM0NyAyLjM2Nzg4QzIuMTY1IDIuNTUwODggMS45NDUgMi42OTA4OCAxLjcwMSAyLjc3Njg4TDAuNjE3MDA0IDMuMTI3ODhDMC40MzYwMDQgMy4xOTE4OCAwLjI3OTAwMiAzLjMxMDg4IDAuMTY5MDAyIDMuNDY3ODhDMC4wNTkwMDIyIDMuNjI0ODggMi4zNDk0OWUtMDYgMy44MTI4OCAwLjAwMjAwMjM1IDQuMDA0ODhDMC4wMDMwMDIzNSA0LjE5Njg4IDAuMDY1MDAxNiA0LjM4Mzg4IDAuMTc3MDAyIDQuNTM4ODhDMC4yOTAwMDIgNC42OTQ4OCAwLjQ0ODAwNSA0LjgxMDg4IDAuNjMwMDA1IDQuODcxODhMMS42OTcgNS4yMTg4OEMxLjk0OSA1LjMwMjg4IDIuMTc4IDUuNDQ1ODggMi4zNjYgNS42MzM4OEMyLjQxNyA1LjY4Mzg4IDIuNDY0IDUuNzM3ODggMi41MDggNS43OTM4OEMyLjYyNiA1Ljk0Njg4IDIuNzE4IDYuMTE3ODggMi43NzggNi4zMDE4OEwzLjEzIDcuMzgxODhDMy4xOTMgNy41NjI4OCAzLjMxMiA3LjcxODg4IDMuNDY4IDcuODI5ODhaTTIuMDEgNC4yNjQ4OEwxLjE1NSAzLjk5OTg4TDIuMDE5IDMuNzE4ODhDMi40MTMgMy41ODE4OCAyLjc3MSAzLjM1Njg4IDMuMDY0IDMuMDU5ODhDMy4zNTUgMi43NjA4OCAzLjU3NSAyLjM5OTg4IDMuNzA4IDIuMDAzODhMMy45NzMgMS4xNDQ4OEw0LjI1MyAyLjAwNjg4QzQuMzg2IDIuNDA2ODggNC42MTEgMi43Njk4OCA0LjkwOSAzLjA2Nzg4QzUuMjA3IDMuMzY1ODggNS41NzEgMy41ODk4OCA1Ljk3MSAzLjcyMTg4TDYuODUxMDEgMy45OTA4OEw1Ljk5MDAxIDQuMjcwODhDNS41OSA0LjQwMjg4IDUuMjI2IDQuNjI2ODggNC45MjggNC45MjU4OEM0LjYzIDUuMjIzODggNC40MDYgNS41ODc4OCA0LjI3MyA1Ljk4Nzg4TDQuMDA4IDYuODQ0ODhMMy43MjkgNS45ODU4OEMzLjYzMyA1LjY5Mzg4IDMuNDg3IDUuNDE5ODggMy4yOTkgNS4xNzY4OEMzLjIzIDUuMDg3ODggMy4xNTUgNS4wMDI4OCAzLjA3NiA0LjkyMjg4QzIuNzc2IDQuNjIzODggMi40MTEgNC4zOTg4OCAyLjAxIDQuMjY0ODhaTTguNTM3MDEgMTEuODUxOUM4LjY3MzAxIDExLjk0NzkgOC44MzUgMTEuOTk5OSA5LjAwMiAxMS45OTk5QzkuMTY3IDExLjk5ODkgOS4zMjcgMTEuOTQ1OSA5LjQ2MSAxMS44NDk5QzkuNjAxIDExLjc1MDkgOS43MDYwMSAxMS42MTE5IDkuNzYxMDEgMTEuNDQ5OUwxMC4wMDkgMTAuNjg3OUMxMC4wNjIgMTAuNTI5OSAxMC4xNTEgMTAuMzg0OSAxMC4yNjkgMTAuMjY2OUMxMC4zODYgMTAuMTQ4OSAxMC41MyAxMC4wNTk5IDEwLjY4OSAxMC4wMDc5TDExLjQ2MSA5Ljc1NTg4QzExLjYxOSA5LjcwMDg4IDExLjc1NSA5LjU5ODg4IDExLjg1MiA5LjQ2Mjg4QzExLjkyNSA5LjM1OTg4IDExLjk3MyA5LjI0MDg4IDExLjk5MiA5LjExNTg4QzEyLjAxIDguOTkwODggMTEuOTk5IDguODYyODggMTEuOTU5IDguNzQyODhDMTEuOTE5IDguNjIyODggMTEuODUgOC41MTQ4OCAxMS43NiA4LjQyNTg4QzExLjY3IDguMzM3ODggMTEuNTU5IDguMjcxODggMTEuNDM5IDguMjMzODhMMTAuNjc1IDcuOTg0ODhDMTAuNTE3IDcuOTMxODggMTAuMzczIDcuODQzODggMTAuMjU1IDcuNzI1ODhDMTAuMTM3IDcuNjA3ODggMTAuMDQ4IDcuNDY0ODggOS45OTUwMSA3LjMwNjg4TDkuNzQzIDYuNTMyODhDOS42ODkgNi4zNzU4OCA5LjU4NiA2LjIzOTg4IDkuNDUgNi4xNDM4OEM5LjM0OCA2LjA3MDg4IDkuMjMwMDEgNi4wMjI4OCA5LjEwNjAxIDYuMDAzODhDOC45ODIwMSA1Ljk4NDg4IDguODU1IDUuOTk0ODggOC43MzYgNi4wMzM4OEM4LjYxNyA2LjA3Mjg4IDguNTA4IDYuMTM4ODggOC40MiA2LjIyNzg4QzguMzMxIDYuMzE2ODggOC4yNjQgNi40MjQ4OCA4LjIyNSA2LjU0Mzg4TDcuOTc4IDcuMzA1ODhDNy45MjYgNy40NjM4OCA3LjgzOCA3LjYwNjg4IDcuNzIyIDcuNzI1ODhDNy42MDcgNy44NDE4OCA3LjQ2OCA3LjkzMDg4IDcuMzE0IDcuOTg0ODhMNi41MzggOC4yMzc4OEM2LjQyMSA4LjI3ODg4IDYuMzE0IDguMzQ2ODggNi4yMjcgOC40MzU4OEM2LjE0IDguNTI0ODggNi4wNzUgOC42MzI4OCA2LjAzOCA4Ljc1MTg4QzYgOC44NzA4OCA1Ljk5MSA4Ljk5NTg4IDYuMDEgOS4xMTg4OEM2LjAyOSA5LjI0MTg4IDYuMDc3IDkuMzU3ODggNi4xNDkgOS40NTk4OEM2LjI0NyA5LjU5OTg4IDYuMzg3IDkuNzA0ODggNi41NDkgOS43NTk4OEw3LjMxMiAxMC4wMDY5QzcuNDcxIDEwLjA1OTkgNy42MTUgMTAuMTQ5OSA3LjczNCAxMC4yNjc5QzcuODUyIDEwLjM4NTkgNy45NDEgMTAuNTMwOSA3Ljk5MiAxMC42ODk5TDguMjQ1MDEgMTEuNDYzOUM4LjMwMDAxIDExLjYxOTkgOC40MDIwMSAxMS43NTU5IDguNTM3MDEgMTEuODUxOVpNNy42MjMgOS4wNTg4OEw3LjQ0NSA4Ljk5OTg4TDcuNjI5IDguOTM1ODhDNy45MzEwMSA4LjgzMDg4IDguMjA0IDguNjU3ODggOC40MjkgOC40MzA4OEM4LjY1NSA4LjIwMTg4IDguODI2IDcuOTIzODggOC45MjkgNy42MTg4OEw4Ljk4NyA3LjQ0MDg4TDkuMDQ2IDcuNjIxODhDOS4xNDggNy45Mjg4OCA5LjMyMDAxIDguMjA2ODggOS41NDkwMSA4LjQzNTg4QzkuNzc4MDEgOC42NjM4OCAxMC4wNTcgOC44MzU4OCAxMC4zNjMgOC45Mzc4OEwxMC41NTggOS4wMDA4OEwxMC4zNzggOS4wNTk4OEMxMC4wNzEgOS4xNjE4OCA5Ljc5MTAxIDkuMzM0ODggOS41NjMwMSA5LjU2Mzg4QzkuMzM0MDEgOS43OTI4OCA5LjE2MyAxMC4wNzI5IDkuMDYxIDEwLjM4MDlMOS4wMDIgMTAuNTYxOUw4Ljk0NCAxMC4zODA5QzguODQzIDEwLjA3MjkgOC42NzAwMSA5Ljc5MTg4IDguNDQxMDEgOS41NjI4OEM4LjIxMjAxIDkuMzMzODggNy45MzEgOS4xNjA4OCA3LjYyMyA5LjA1ODg4WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=sparkle-compact)
+  /// Codicon icon named "sparkle compact".
+  static const IconData sparkleCompact = IconData(
+    0xEC95,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDBDMi42ODYgMCAwIDIuNCAwIDUuNzE1QzAgNi44MiAwLjg5NSA3LjcxNSAyIDcuNzE1QzMuMjE1IDcuNzE1IDMuMDQ2IDYuODU4IDQuMTQyIDYuODU4QzQuNjk0IDYuODU4IDQuOTk4OTkgNy4zNzcgNC45OTg5OSA3LjkyOVY5QzQuOTk4OTkgMTAuNjU3IDYuMzQxOTkgMTIgNy45OTg5OSAxMkMxMC45OTkgMTIgMTEuOTk4IDguNzU2IDExLjk5OCA2QzExLjk5OCAyLjY4NiA5LjMxMjk5IDAgNS45OTg5OSAwSDZaTTggMTFDNi44OTcgMTEgNiAxMC4xMDMgNiA5VjcuOTI5QzYgNi43NDggNS4yMDIwMSA1Ljg1OCA0LjE0MzAxIDUuODU4QzMuMjM1MDEgNS44NTggMi43NjIgNi4yNyAyLjQ3OSA2LjUxNkMyLjI4IDYuNjg5IDIuMjUwMDEgNi43MTYgMi4wMDEwMSA2LjcxNkMxLjQ1MDAxIDYuNzE2IDEuMDAxIDYuMjY4IDEuMDAxIDUuNzE2QzEuMDAxIDMuMDI4IDMuMTUwMDEgMS4wMDIgNi4wMDEwMSAxLjAwMUM4Ljc1NzAxIDEuMDAxIDExIDMuMjQ0IDExIDYuMDAxQzExIDYuODM2IDEwLjg1NSAxMS4wMDEgOC4wMDEwMSAxMS4wMDFMOCAxMVpNNC4yNSAzLjVDNC4yNSAzLjkxNCAzLjkxNCA0LjI1IDMuNSA0LjI1QzMuMDg2IDQuMjUgMi43NSAzLjkxNCAyLjc1IDMuNUMyLjc1IDMuMDg2IDMuMDg2IDIuNzUgMy41IDIuNzVDMy45MTQgMi43NSA0LjI1IDMuMDg2IDQuMjUgMy41Wk02Ljc1IDIuNUM2Ljc1IDIuOTE0IDYuNDE0IDMuMjUgNiAzLjI1QzUuNTg2IDMuMjUgNS4yNSAyLjkxNCA1LjI1IDIuNUM1LjI1IDIuMDg2IDUuNTg2IDEuNzUgNiAxLjc1QzYuNDE0IDEuNzUgNi43NSAyLjA4NiA2Ljc1IDIuNVpNNy43NSAzLjVDNy43NSAzLjA4NiA4LjA4NiAyLjc1IDguNSAyLjc1QzguOTE0IDIuNzUgOS4yNSAzLjA4NiA5LjI1IDMuNUM5LjI1IDMuOTE0IDguOTE0IDQuMjUgOC41IDQuMjVDOC4wODYgNC4yNSA3Ljc1IDMuOTE0IDcuNzUgMy41Wk0xMC4yNSA2QzEwLjI1IDYuNDE0IDkuOTE0IDYuNzUgOS41IDYuNzVDOS4wODYgNi43NSA4Ljc1IDYuNDE0IDguNzUgNkM4Ljc1IDUuNTg2IDkuMDg2IDUuMjUgOS41IDUuMjVDOS45MTQgNS4yNSAxMC4yNSA1LjU4NiAxMC4yNSA2Wk05LjI1IDguNUM5LjI1IDguOTE0IDguOTE0IDkuMjUgOC41IDkuMjVDOC4wODYgOS4yNSA3Ljc1IDguOTE0IDcuNzUgOC41QzcuNzUgOC4wODYgOC4wODYgNy43NSA4LjUgNy43NUM4LjkxNCA3Ljc1IDkuMjUgOC4wODYgOS4yNSA4LjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=symbol-color-compact)
+  /// Codicon icon named "symbol color compact".
+  static const IconData symbolColorCompact = IconData(
+    0xEC96,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik05LjUgMEgyLjVDMS4xMjEgMCAwIDEuMTIyIDAgMi41VjkuNUMwIDEwLjg3OCAxLjEyMSAxMiAyLjUgMTJIOS41QzEwLjg3OSAxMiAxMiAxMC44NzggMTIgOS41VjIuNUMxMiAxLjEyMiAxMC44NzkgMCA5LjUgMFpNMi41IDFIOS41QzEwLjMyNyAxIDExIDEuNjczIDExIDIuNVYzSDFWMi41QzEgMS42NzMgMS42NzMgMSAyLjUgMVpNOS41IDExSDIuNUMxLjY3MyAxMSAxIDEwLjMyNyAxIDkuNVY0SDExVjkuNUMxMSAxMC4zMjcgMTAuMzI3IDExIDkuNSAxMVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=window-compact)
+  /// Codicon icon named "window compact".
+  static const IconData windowCompact = IconData(
+    0xEC97,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDBDMi42OTEgMCAwIDIuNjkxIDAgNkMwIDkuMzA5IDIuNjkxIDEyIDYgMTJDOS4zMDkgMTIgMTIgOS4zMDkgMTIgNkMxMiAyLjY5MSA5LjMwOSAwIDYgMFpNNiAxMUMzLjI0MyAxMSAxIDguNzU3IDEgNkMxIDMuMjQzIDMuMjQzIDEgNiAxQzguNzU3IDEgMTEgMy4yNDMgMTEgNkMxMSA4Ljc1NyA4Ljc1NyAxMSA2IDExWk04LjM1NCA0LjM1NEw2LjcwOCA2TDguMzU0IDcuNjQ2QzguNTQ5IDcuODQxIDguNTQ5IDguMTU4IDguMzU0IDguMzUzQzguMjU2IDguNDUxIDguMTI4IDguNDk5IDggOC40OTlDNy44NzIgOC40OTkgNy43NDQgOC40NSA3LjY0NiA4LjM1M0w2IDYuNzA3TDQuMzU0IDguMzUzQzQuMjU2IDguNDUxIDQuMTI4IDguNDk5IDQgOC40OTlDMy44NzIgOC40OTkgMy43NDQgOC40NSAzLjY0NiA4LjM1M0MzLjQ1MSA4LjE1OCAzLjQ1MSA3Ljg0MSAzLjY0NiA3LjY0Nkw1LjI5MiA2TDMuNjQ2IDQuMzU0QzMuNDUxIDQuMTU5IDMuNDUxIDMuODQyIDMuNjQ2IDMuNjQ3QzMuODQxIDMuNDUyIDQuMTU4IDMuNDUyIDQuMzUzIDMuNjQ3TDUuOTk5IDUuMjkzTDcuNjQ1IDMuNjQ3QzcuODQgMy40NTIgOC4xNTcgMy40NTIgOC4zNTIgMy42NDdDOC41NDcgMy44NDIgOC41NDcgNC4xNTkgOC4zNTIgNC4zNTRIOC4zNTRaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=error-compact)
+  /// Codicon icon named "error compact".
+  static const IconData errorCompact = IconData(
+    0xEC98,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMC43OSA4LjExTDcuNzkgMi4xMUM3LjQ1IDEuNDMgNi43NiAxIDYgMUM1LjI0IDEgNC41NSAxLjQyIDQuMjEgMi4xMUwxLjIxIDguMTFDMS4wNyA4LjM5IDEgOC42OSAxIDlDMSAxMC4xIDEuOSAxMSAzIDExSDlDMTAuMSAxMSAxMSAxMC4xIDExIDlDMTEgOC42OSAxMC45MyA4LjM5IDEwLjc5IDguMTFaTTkgMTBIM0MyLjQ1IDEwIDIgOS41NSAyIDlDMiA4Ljg0IDIuMDQgOC42OSAyLjEgOC41NUw1LjEgMi41NUM1LjI3IDIuMjEgNS42MSAyIDYgMkM2LjM5IDIgNi43MiAyLjIxIDYuOSAyLjU1TDkuOSA4LjU1QzkuOTcgOC42OSAxMCA4Ljg0IDEwIDlDMTAgOS41NSA5LjU1IDEwIDkgMTBaTTYuNzUgOC41QzYuNzUgOC45MSA2LjQxIDkuMjUgNiA5LjI1QzUuNTkgOS4yNSA1LjI1IDguOTEgNS4yNSA4LjVDNS4yNSA4LjA5IDUuNTkgNy43NSA2IDcuNzVDNi40MSA3Ljc1IDYuNzUgOC4wOSA2Ljc1IDguNVpNNS41IDYuNVY0QzUuNSAzLjcyIDUuNzIgMy41IDYgMy41QzYuMjggMy41IDYuNSAzLjcyIDYuNSA0VjYuNUM2LjUgNi43OCA2LjI4IDcgNiA3QzUuNzIgNyA1LjUgNi43OCA1LjUgNi41WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=warning-compact)
+  /// Codicon icon named "warning compact".
+  static const IconData warningCompact = IconData(
+    0xEC99,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04LjM1MzU1IDUuMTAzNTVDOC41NDg4MiA0LjkwODI5IDguNTQ4ODIgNC41OTE3MSA4LjM1MzU1IDQuMzk2NDVDOC4xNTgyOSA0LjIwMTE4IDcuODQxNzEgNC4yMDExOCA3LjY0NjQ1IDQuMzk2NDVMNS41IDYuNTQyODlMNC4zNTM1NSA1LjM5NjQ1QzQuMTU4MjkgNS4yMDExOCAzLjg0MTcxIDUuMjAxMTggMy42NDY0NSA1LjM5NjQ1QzMuNDUxMTggNS41OTE3MSAzLjQ1MTE4IDUuOTA4MjkgMy42NDY0NSA2LjEwMzU1TDUuMTQ2NDUgNy42MDM1NUM1LjM0MTcxIDcuNzk4ODIgNS42NTgyOSA3Ljc5ODgyIDUuODUzNTUgNy42MDM1NUw4LjM1MzU1IDUuMTAzNTVaTTYgMUMzLjIzODU4IDEgMSAzLjIzODU4IDEgNkMxIDguNzYxNDIgMy4yMzg1OCAxMSA2IDExQzguNzYxNDIgMTEgMTEgOC43NjE0MiAxMSA2QzExIDMuMjM4NTggOC43NjE0MiAxIDYgMVpNMiA2QzIgMy43OTA4NiAzLjc5MDg2IDIgNiAyQzguMjA5MTQgMiAxMCAzLjc5MDg2IDEwIDZDMTAgOC4yMDkxNCA4LjIwOTE0IDEwIDYgMTBDMy43OTA4NiAxMCAyIDguMjA5MTQgMiA2WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=pass-compact)
+  /// Codicon icon named "pass compact".
+  static const IconData passCompact = IconData(
+    0xEC9A,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04LjIwMTQyIDguODMyODRDOC4xODMyNSA4LjkyOTc2IDguMDk4NjIgOSA4LjAwMDAxIDlDNy45MDEzOSA5IDcuODE2NzYgOC45Mjk3NiA3Ljc5ODU5IDguODMyODRMNi45NDM2IDQuMjcyODlDNi44MTk1OCAzLjYxMTQ0IDcuMzI3MDIgMyA4LjAwMDAxIDNDOC42NzI5OSAzIDkuMTgwNDQgMy42MTE0NCA5LjA1NjQxIDQuMjcyODlMOC4yMDE0MiA4LjgzMjg0Wk04LjAwMDAxIDJDNi43MDA4OSAyIDUuNzIxMzIgMy4xODAzMSA1Ljk2MDczIDQuNDU3MThMNi44MTU3MiA5LjAxNzEzQzYuOTIyNTcgOS41ODcwMyA3LjQyMDE4IDEwIDguMDAwMDEgMTBDOC41Nzk4NCAxMCA5LjA3NzQ0IDkuNTg3MDMgOS4xODQzIDkuMDE3MTNMMTAuMDM5MyA0LjQ1NzE4QzEwLjI3ODcgMy4xODAzMSA5LjI5OTEzIDIgOC4wMDAwMSAyWk04LjAwMDAxIDEzQzcuNzIzODYgMTMgNy41MDAwMSAxMi43NzYxIDcuNTAwMDEgMTIuNUM3LjUwMDAxIDEyLjIyMzkgNy43MjM4NiAxMiA4LjAwMDAxIDEyQzguMjc2MTUgMTIgOC41MDAwMSAxMi4yMjM5IDguNTAwMDEgMTIuNUM4LjUwMDAxIDEyLjc3NjEgOC4yNzYxNSAxMyA4LjAwMDAxIDEzWk04LjAwMDAxIDE0QzguODI4NDMgMTQgOS41MDAwMSAxMy4zMjg0IDkuNTAwMDEgMTIuNUM5LjUwMDAxIDExLjY3MTYgOC44Mjg0MyAxMSA4LjAwMDAxIDExQzcuMTcxNTggMTEgNi41MDAwMSAxMS42NzE2IDYuNTAwMDEgMTIuNUM2LjUwMDAxIDEzLjMyODQgNy4xNzE1OCAxNCA4LjAwMDAxIDE0WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=important)
+  /// Codicon icon named "important".
+  static const IconData important = IconData(
+    0xEC9B,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik00LjI4MjkgMi45Nzk5QzQuMTMzNjEgMS45MzQ5MiA0Ljk0NDQ3IDEgNi4wMDAwNSAxQzcuMDU1NjQgMSA3Ljg2NjQ5IDEuOTM0OTIgNy43MTcyMSAyLjk3OTlMNy4xNDE0NyA3LjAxMDA1QzcuMDYwMzMgNy41NzgwOCA2LjU3Mzg1IDggNi4wMDAwNSA4QzUuNDI2MjYgOCA0LjkzOTc4IDcuNTc4MDggNC44NTg2MyA3LjAxMDA1TDQuMjgyOSAyLjk3OTlaTTYuNzI3MjYgMi44Mzg0OEM2Ljc5MDQ4IDIuMzk1OTQgNi40NDcwOSAyIDYuMDAwMDUgMkM1LjU1MzAyIDIgNS4yMDk2MyAyLjM5NTk0IDUuMjcyODUgMi44Mzg0OEw1Ljg0ODU4IDYuODY4NjNDNS44NTkzNSA2Ljk0NDAxIDUuOTIzOTEgNyA2LjAwMDA1IDdDNi4wNzYyIDcgNi4xNDA3NiA2Ljk0NDAxIDYuMTUxNTMgNi44Njg2M0w2LjcyNzI2IDIuODM4NDhaTTYgMTFDNi41NTIyOCAxMSA3IDEwLjU1MjMgNyAxMEM3IDkuNDQ3NzEgNi41NTIyOCA5IDYgOUM1LjQ0NzcyIDkgNSA5LjQ0NzcxIDUgMTBDNSAxMC41NTIzIDUuNDQ3NzIgMTEgNiAxMVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=important-compact)
+  /// Codicon icon named "important compact".
+  static const IconData importantCompact = IconData(
+    0xEC9C,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03LjUgM0M2LjY3IDMgNiAzLjY3IDYgNC41QzYgNS4zMyA2LjY3IDYgNy41IDZDOC4zMyA2IDkgNS4zMyA5IDQuNUM5IDMuNjcgOC4zMyAzIDcuNSAzWk03LjUgNUM3LjIyIDUgNyA0Ljc4IDcgNC41QzcgNC4yMiA3LjIyIDQgNy41IDRDNy43OCA0IDggNC4yMiA4IDQuNUM4IDQuNzggNy43OCA1IDcuNSA1Wk0xMiAyLjcxVjIuMzNDMTIgMS4wNCAxMC45NSAwIDkuNjcgMEg5LjI5QzcuOTcgMCA2LjY5IDAuNTMgNS43NSAxLjQ2TDUuNDYgMS43NUM0Ljc5IDEuMDkgMy43IDEuMDkgMy4wMyAxLjc2TDEuOSAyLjg5QzEuNyAzLjA5IDEuNyAzLjQgMS45IDMuNkwyLjc3IDQuNDdDMi4zNyA1LjAzIDIuNDIgNS44MiAyLjkzIDYuMzNMMy4xIDYuNUwyLjQ4IDYuOTFDMi4yOSA3LjAzIDIuMTcgNy4yMyAyLjE1IDcuNDZDMi4xMyA3LjY4IDIuMjEgNy45MSAyLjM3IDguMDdMMy45NCA5LjY0QzQuMDggOS43OCA0LjI3IDkuODYgNC40NyA5Ljg2QzQuNSA5Ljg2IDQuNTIgOS44NiA0LjU1IDkuODZDNC43OCA5Ljg0IDQuOTggOS43MiA1LjEgOS41M0w1LjUxIDguOTFMNS42OCA5LjA4QzUuOTUgOS4zNSA2LjMyIDkuNSA2LjcgOS41QzcgOS41IDcuMyA5LjQxIDcuNTQgOS4yM0w4LjQxIDEwLjFDOC41MSAxMC4yIDguNjQgMTAuMjUgOC43NiAxMC4yNUM4Ljg4IDEwLjI1IDkuMDIgMTAuMiA5LjExIDEwLjFMMTAuMjQgOC45N0MxMC45MSA4LjMgMTAuOTEgNy4yMSAxMC4yNSA2LjU0TDEwLjU0IDYuMjVDMTEuNDcgNS4zMiAxMiA0LjAzIDEyIDIuNzFaTTMuNzMgMi40N0M0IDIuMiA0LjQ3IDIuMiA0Ljc1IDIuNDZMMy40NiAzLjc1TDIuOTYgMy4yNUwzLjc0IDIuNDdIMy43M1pNNC40MiA4LjcxTDMuMjggNy41N0wzLjgxIDcuMjJMNC43NyA4LjE4TDQuNDIgOC43MVpNNi4zNyA4LjM3TDMuNjMgNS42M0MzLjQ2IDUuNDYgMy40NiA1LjE3IDMuNjMgNUw2LjQ2IDIuMTdDNy4yMSAxLjQzIDguMjQgMSA5LjI5IDFIOS42N0MxMC40MSAxIDExIDEuNiAxMSAyLjMzVjIuNzFDMTEgMy43NiAxMC41NyA0Ljc5IDkuODMgNS41NEw3IDguMzdDNi44MyA4LjU0IDYuNTQgOC41NCA2LjM3IDguMzdaTTkuNzQgNy43NUM5Ljc0IDcuOTUgOS42NiA4LjEzIDkuNTMgOC4yN0w4Ljc1IDkuMDVMOC4yNSA4LjU1TDkuNTQgNy4yNkM5LjY3IDcuNCA5Ljc0IDcuNTcgOS43NCA3Ljc2VjcuNzVaTTIuNiAxMC4xTDAuODUgMTEuODVDMC43NSAxMS45NSAwLjYyIDEyIDAuNSAxMkMwLjM4IDEyIDAuMjQgMTEuOTUgMC4xNSAxMS44NUMtMC4wNSAxMS42NSAtMC4wNSAxMS4zNCAwLjE1IDExLjE0TDEuOSA5LjM5QzIuMSA5LjE5IDIuNDEgOS4xOSAyLjYxIDkuMzlDMi44MSA5LjU5IDIuODEgOS45IDIuNjEgMTAuMUgyLjZaTTAuMTUgOS4zNUMtMC4wNSA5LjE1IC0wLjA1IDguODQgMC4xNSA4LjY0TDAuNjUgOC4xNEMwLjg1IDcuOTQgMS4xNiA3Ljk0IDEuMzYgOC4xNEMxLjU2IDguMzQgMS41NiA4LjY1IDEuMzYgOC44NUwwLjg2IDkuMzVDMC43NiA5LjQ1IDAuNjMgOS41IDAuNTEgOS41QzAuMzkgOS41IDAuMjUgOS40NSAwLjE2IDkuMzVIMC4xNVpNMy44NSAxMC42NUM0LjA1IDEwLjg1IDQuMDUgMTEuMTYgMy44NSAxMS4zNkwzLjM1IDExLjg2QzMuMjUgMTEuOTYgMy4xMiAxMi4wMSAzIDEyLjAxQzIuODggMTIuMDEgMi43NCAxMS45NiAyLjY1IDExLjg2QzIuNDUgMTEuNjYgMi40NSAxMS4zNSAyLjY1IDExLjE1TDMuMTUgMTAuNjVDMy4zNSAxMC40NSAzLjY2IDEwLjQ1IDMuODYgMTAuNjVIMy44NVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=rocket-compact)
+  /// Codicon icon named "rocket compact".
+  static const IconData rocketCompact = IconData(
+    0xEC9D,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik05LjU2MDE2IDEwLjI2NzNMMTQuMTQ2NCAxNC44NTM2QzE0LjM0MTcgMTUuMDQ4OCAxNC42NTgzIDE1LjA0ODggMTQuODUzNiAxNC44NTM2QzE1LjA0ODggMTQuNjU4MyAxNS4wNDg4IDE0LjM0MTcgMTQuODUzNiAxNC4xNDY0TDEuODUzNTUgMS4xNDY0NUMxLjY1ODI5IDAuOTUxMTg0IDEuMzQxNzEgMC45NTExODQgMS4xNDY0NSAxLjE0NjQ1QzAuOTUxMTg0IDEuMzQxNzEgMC45NTExODQgMS42NTgyOSAxLjE0NjQ1IDEuODUzNTVMNS43MzIyMyA2LjQzOTM0TDUuNjUyNiA2LjU4ODc2TDIuODQxOSA3LjUyNTY2QzIuNjc3NSA3LjU4MDQ2IDIuNTUzMiA3LjcxNjQ4IDIuNTEzMzkgNy44ODUxM0MyLjQ3MzU3IDguMDUzNzggMi41MjM5MiA4LjIzMTAyIDIuNjQ2NDYgOC4zNTM1Nkw0Ljc5MjkxIDEwLjVMMi4xNDY0NSAxMy4xNDY1TDIgMTRMMi44NTM1NiAxMy44NTM2TDUuNTAwMDIgMTEuMjA3MUw3LjY0NjQ2IDEzLjM1MzZDNy43Njg5OSAxMy40NzYxIDcuOTQ2MjMgMTMuNTI2NCA4LjExNDg5IDEzLjQ4NjZDOC4yODM1NCAxMy40NDY4IDguNDE5NTUgMTMuMzIyNSA4LjQ3NDM1IDEzLjE1ODFMOS40MTE0MyAxMC4zNDY5TDkuNTYwMTYgMTAuMjY3M1pNOC44MjEzOCA5LjUyODQ5TDguNzY0MDMgOS41NTkyQzguNjUxMzcgOS42MTk1MSA4LjU2NjA4IDkuNzIwNjYgOC41MjU2NyA5Ljg0MTg5TDcuNzgxNSAxMi4wNzQ0TDMuOTI1NjIgOC4yMTg1MUw2LjE1ODEyIDcuNDc0MzVDNi4yNzk2NiA3LjQzMzgzIDYuMzgxMDEgNy4zNDgyMiA2LjQ0MTI2IDcuMjM1MTZMNi40NzE0MyA3LjE3ODU0TDguODIxMzggOS41Mjg0OVpNMTIuNzE3OCA3LjQ0MjZMMTAuNjYzNiA4LjU0MjI3TDExLjQwMjQgOS4yODEwNUwxMy4xODk3IDguMzI0MjJDMTQuMDc1OSA3Ljg0OTgxIDE0LjI1MzggNi42NTUwOSAxMy41NDQzIDUuOTQzMDRMMTAuMDU4OSAyLjQ0NTA5QzkuMzQ3MDEgMS43MzA2MiA4LjE0Njk3IDEuOTA4MjggNy42NzI2MSAyLjc5ODM4TDYuNzE1NTYgNC41OTQyMUw3LjQ1NDc2IDUuMzMzNDFMOC41NTUxMSAzLjI2ODY5QzguNzEzMjMgMi45NzE5OSA5LjExMzI0IDIuOTEyNzcgOS4zNTA1NSAzLjE1MDkzTDEyLjgzNiA2LjY0ODg4QzEzLjA3MjUgNi44ODYyMyAxMy4wMTMxIDcuMjg0NDYgMTIuNzE3OCA3LjQ0MjZaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=unpin)
+  /// Codicon icon named "unpin".
+  static const IconData unpin = IconData(
+    0xEC9E,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDAuNUM2IDAuMjI0IDUuNzc2IDAgNS41IDBDNS4yMjQgMCA1IDAuMjI0IDUgMC41VjVIMC41QzAuMjI0IDUgMCA1LjIyNCAwIDUuNUMwIDUuNzc2IDAuMjI0IDYgMC41IDZINVYxMC41QzUgMTAuNzc2IDUuMjI0IDExIDUuNSAxMUM1Ljc3NiAxMSA2IDEwLjc3NiA2IDEwLjVWNkgxMC41QzEwLjc3NiA2IDExIDUuNzc2IDExIDUuNUMxMSA1LjIyNCAxMC43NzYgNSAxMC41IDVINlYwLjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=add-compact)
+  /// Codicon icon named "add compact".
+  static const IconData addCompact = IconData(
+    0xEC9F,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjE1OTk5IDEySDIuOTE5OTlDMS44NTk5OSAxMiAxLjAwOTk5IDExLjE0IDEuMDA5OTkgMTAuMDlDMS4wMDk5OSA5LjU4IDEuMjA5OTkgOS4xIDEuNTY5OTkgOC43NEw3LjE0OTk5IDMuMTVDNy4zNDk5OSAyLjk1IDcuNjU5OTkgMi45NSA3Ljg1OTk5IDMuMTVDOC4wNTk5OSAzLjM1IDguMDU5OTkgMy42NiA3Ljg1OTk5IDMuODZMMi4yNjk5OSA5LjQ1QzIuMDk5OTkgOS42MiAxLjk5OTk5IDkuODYgMS45OTk5OSAxMC4xQzEuOTk5OTkgMTAuNiAyLjQwOTk5IDExLjAxIDIuOTA5OTkgMTEuMDFIMy4xNDk5OUMzLjM4OTk5IDExLjAxIDMuNjI5OTkgMTAuOTEgMy43OTk5OSAxMC43NEw5LjI1OTk5IDUuMjhDOS43Mjk5OSA0LjgxIDkuOTg5OTkgNC4xOCA5Ljk4OTk5IDMuNTFDOS45ODk5OSAyLjEzIDguODY5OTkgMS4wMSA3LjQ4OTk5IDEuMDFDNi44MTk5OSAxLjAxIDYuMTg5OTkgMS4yNyA1LjcxOTk5IDEuNzRMMS4zNDk5OSA2LjExQzEuMTQ5OTkgNi4zMSAwLjgzOTk5IDYuMzEgMC42Mzk5OSA2LjExQzAuNDM5OTkgNS45MSAwLjQzOTk5IDUuNiAwLjYzOTk5IDUuNEw1LjAyOTk5IDEuMDNDNS42ODk5OSAwLjM3IDYuNTY5OTkgMCA3LjQ5OTk5IDBDOS40Mjk5OSAwIDExIDEuNTcgMTEgMy41QzExIDQuNDQgMTAuNjQgNS4zMSA5Ljk2OTk5IDUuOTdMNC41MDk5OSAxMS40M0M0LjE0OTk5IDExLjc5IDMuNjY5OTkgMTEuOTkgMy4xNTk5OSAxMS45OVYxMloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=attach-compact)
+  /// Codicon icon named "attach compact".
+  static const IconData attachCompact = IconData(
+    0xECA0,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjQ5OTk5IDFIMy45OTk5OVY0LjY5QzMuOTk5OTkgNS4xMyAzLjg3OTk5IDUuNTcgMy42NTk5OSA1Ljk1TDEuNDQ5OTkgOS43NUMwLjg2OTk4NyAxMC43NSAxLjU4OTk5IDEyLjAxIDIuNzQ5OTkgMTIuMDFIOS4yNjk5OUMxMC40MyAxMi4wMSAxMS4xNSAxMC43NSAxMC41NyA5Ljc1TDguMzU5OTkgNS45NUM4LjEzOTk5IDUuNTcgOC4wMTk5OSA1LjEzIDguMDE5OTkgNC42OVYxSDguNTE5OTlDOC43OTk5OSAxIDkuMDE5OTkgMC43OCA5LjAxOTk5IDAuNUM5LjAxOTk5IDAuMjIgOC43Nzk5OSAwIDguNDk5OTkgMEgzLjQ5OTk5QzMuMjE5OTkgMCAyLjk5OTk5IDAuMjIgMi45OTk5OSAwLjVDMi45OTk5OSAwLjc4IDMuMjE5OTkgMSAzLjQ5OTk5IDFaTTQuOTk5OTkgNC42OVYxSDYuOTk5OTlWNC42OUM2Ljk5OTk5IDUuMzEgNy4xNTk5OSA1LjkyIDcuNDc5OTkgNi40NUw3Ljc5OTk5IDdINC4yMDk5OUw0LjUyOTk5IDYuNDVDNC44Mzk5OSA1LjkxIDUuMDA5OTkgNS4zMSA1LjAwOTk5IDQuNjlINC45OTk5OVpNMy42MTk5OSA4SDguMzc5OTlMOS42ODk5OSAxMC4yNUM5Ljg3OTk5IDEwLjU4IDkuNjM5OTkgMTEgOS4yNTk5OSAxMUgyLjczOTk5QzIuMzQ5OTkgMTEgMi4xMDk5OSAxMC41OCAyLjMwOTk5IDEwLjI1TDMuNjE5OTkgOFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=beaker-compact)
+  /// Codicon icon named "beaker compact".
+  static const IconData beakerCompact = IconData(
+    0xECA1,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik00LjUyIDguOTlDNC4zOSA4Ljk5IDQuMjcgOC45NCA0LjE3IDguODVMMS4xNSA1Ljg2QzAuOTUgNS42NyAwLjk1IDUuMzUgMS4xNSA1LjE1QzEuMzQgNC45NSAxLjY2IDQuOTUgMS44NiA1LjE1TDQuNTMgNy43OUwxMC4xNSAyLjE1QzEwLjM1IDEuOTUgMTAuNjYgMS45NSAxMC44NiAyLjE1QzExLjA2IDIuMzQgMTEuMDYgMi42NiAxMC44NiAyLjg2TDQuODkgOC44NUM0Ljc5IDguOTUgNC42NiA5IDQuNTQgOUw0LjUyIDguOTlaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=check-compact)
+  /// Codicon icon named "check compact".
+  static const IconData checkCompact = IconData(
+    0xECA2,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjE1OTQ3IDguMTQwMTNDMy4zNTkzNiA3Ljk0MDI0IDMuNjY5NDIgNy45NDA0NiAzLjg2OTQzIDguMTQwMTNDNC4wNjk0MyA4LjM0MDEzIDQuMDY5NDMgOC42NTAwOSAzLjg2OTQzIDguODUwMDlMMS44Njk0MyAxMC44NTAxQzEuNzY5NDQgMTAuOTUgMS42Mzk3NyAxMS4wMDA1IDEuNTE5ODIgMTEuMDAwNUgxLjUwMDI5QzEuMzcwMjkgMTEuMDAwNSAxLjIzOTcgMTAuOTUwMSAxLjE0OTcgMTAuODUwMUwwLjE0OTcwMiA5Ljg1MDA5Qy0wLjA1MDA4MzIgOS42NTAwOCAtMC4wNTAyMjY0IDkuMzQwMDYgMC4xNDk3MDIgOS4xNDAxM0MwLjM0OTYzIDguOTQwMiAwLjY1OTY1NiA4Ljk0MDM0IDAuODU5NjYzIDkuMTQwMTNMMS41MTAwNSA5Ljc5MDUyTDMuMTU5NDcgOC4xNDAxM1oiLz48cGF0aCBkPSJNMTEuNTAwMyA5LjAwMDQ4QzExLjc4MDEgOS4wMDA2OCAxMi4wMDAzIDkuMjIwNjEgMTIuMDAwMyA5LjUwMDQ4QzEyLjAwMDEgOS43ODAxNiAxMS43OCAxMC4wMDAzIDExLjUwMDMgMTAuMDAwNUg1LjUwMDI5QzUuMjIwNDIgMTAuMDAwNSA1LjAwMDQ5IDkuNzgwMjkgNS4wMDAyOSA5LjUwMDQ4QzUuMDAwMjkgOS4yMjA0OCA1LjIyMDI5IDkuMDAwNDggNS41MDAyOSA5LjAwMDQ4SDExLjUwMDNaIi8+PHBhdGggZD0iTTMuMTU5NDcgNC4xNDAxM0MzLjM1OTM2IDMuOTQwMjQgMy42Njk0MiAzLjk0MDQ2IDMuODY5NDMgNC4xNDAxM0M0LjA2OTQzIDQuMzQwMTMgNC4wNjk0MyA0LjY1MDA5IDMuODY5NDMgNC44NTAwOUwxLjg2OTQzIDYuODUwMDlDMS43Njk0NCA2Ljk1MDAxIDEuNjM5NzcgNy4wMDA0OCAxLjUxOTgyIDcuMDAwNDhIMS41MDAyOUMxLjM3MDI5IDcuMDAwNDggMS4yMzk3IDYuOTUwMDkgMS4xNDk3IDYuODUwMDlMMC4xNDk3MDIgNS44NTAwOUMtMC4wNTAwODMyIDUuNjUwMDggLTAuMDUwMjI2NCA1LjM0MDA2IDAuMTQ5NzAyIDUuMTQwMTNDMC4zNDk2MyA0Ljk0MDIgMC42NTk2NTYgNC45NDAzNCAwLjg1OTY2MyA1LjE0MDEzTDEuNTEwMDUgNS43OTA1MkwzLjE1OTQ3IDQuMTQwMTNaIi8+PHBhdGggZD0iTTExLjUwMDMgNS4wMDA0OEMxMS43ODAxIDUuMDAwNjggMTIuMDAwMyA1LjIyMDYxIDEyLjAwMDMgNS41MDA0OEMxMi4wMDAxIDUuNzgwMTYgMTEuNzggNi4wMDAyNyAxMS41MDAzIDYuMDAwNDhINS41MDAyOUM1LjIyMDQyIDYuMDAwNDggNS4wMDA0OSA1Ljc4MDI5IDUuMDAwMjkgNS41MDA0OEM1LjAwMDI5IDUuMjIwNDggNS4yMjAyOSA1LjAwMDQ4IDUuNTAwMjkgNS4wMDA0OEgxMS41MDAzWiIvPjxwYXRoIGQ9Ik0zLjE0OTcgMC4xNDk4OTNDMy4zNDk2MyAtMC4wNTAwMzU4IDMuNjU5NjYgLTAuMDQ5ODkyNiAzLjg1OTY2IDAuMTQ5ODkzQzQuMDU5NjYgMC4zNDk4OTMgNC4wNTk2NiAwLjY1OTg1NCAzLjg1OTY2IDAuODU5ODU0TDEuODQ5OSAyLjg1MDA5QzEuNzUwMDEgMi45NDk5OCAxLjYyMDE4IDMuMDAwMzcgMS41MDAyOSAzLjAwMDQ4QzEuMzcwMjkgMy4wMDA0OCAxLjIzOTcgMi45NTAwOSAxLjE0OTcgMi44NTAwOUwwLjE0OTcwMiAxLjg1MDA5Qy0wLjA1MDE5MzcgMS42NjAwOCAtMC4wNTAyNTg3IDEuMzM5ODYgMC4xNDk3MDIgMS4xNDk4OUMwLjM0OTYzIDAuOTU5OTYxIDAuNjU5NjU2IDAuOTUwMTE1IDAuODU5NjYzIDEuMTQ5ODlMMS41MTAwNSAxLjgwMDI4TDMuMTQ5NyAwLjE0OTg5M1oiLz48cGF0aCBkPSJNMTEuNTAwMyAxLjAwMDQ4QzExLjc4MDEgMS4wMDA2OCAxMi4wMDAzIDEuMjIwNjEgMTIuMDAwMyAxLjUwMDQ4QzEyLjAwMDEgMS43ODAxNiAxMS43OCAyLjAwMDI3IDExLjUwMDMgMi4wMDA0OEg1LjUwMDI5QzUuMjIwNDIgMi4wMDA0OCA1LjAwMDQ5IDEuNzgwMjkgNS4wMDAyOSAxLjUwMDQ4QzUuMDAwMjkgMS4yMjA0OCA1LjIyMDI5IDEuMDAwNDggNS41MDAyOSAxLjAwMDQ4SDExLjUwMDNaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=checklist-compact)
+  /// Codicon icon named "checklist compact".
+  static const IconData checklistCompact = IconData(
+    0xECA3,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDguNTAwMjNDNS44NyA4LjUwMDIzIDUuNzQgOC40NTAyMyA1LjY1IDguMzUwMjNMMi4xNSA0Ljg1MDIzQzEuOTUgNC42NTAyMyAxLjk1IDQuMzQwMjMgMi4xNSA0LjE0MDIzQzIuMzUgMy45NDAyMyAyLjY2IDMuOTQwMjMgMi44NiA0LjE0MDIzTDYuMDEgNy4yOTAyM0w5LjE2IDQuMTQwMjNDOS4zNiAzLjk0MDIzIDkuNjcgMy45NDAyMyA5Ljg3IDQuMTQwMjNDMTAuMDcgNC4zNDAyMyAxMC4wNyA0LjY1MDIzIDkuODcgNC44NTAyM0w2LjM3IDguMzUwMjNDNi4yNyA4LjQ1MDIzIDYuMTQgOC41MDAyMyA2LjAyIDguNTAwMjNINloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=chevron-down-compact)
+  /// Codicon icon named "chevron down compact".
+  static const IconData chevronDownCompact = IconData(
+    0xECA4,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03LjUgMTAuMDAwMkM3LjM3IDEwLjAwMDIgNy4yNCA5Ljk1MDIzIDcuMTUgOS44NTAyM0wzLjY1IDYuMzUwMjNDMy40NSA2LjE1MDIzIDMuNDUgNS44NDAyMyAzLjY1IDUuNjQwMjNMNy4xNSAyLjE0MDIzQzcuMzUgMS45NDAyMyA3LjY2IDEuOTQwMjMgNy44NiAyLjE0MDIzQzguMDYgMi4zNDAyMyA4LjA2IDIuNjUwMjMgNy44NiAyLjg1MDIzTDQuNzEgNi4wMDAyM0w3Ljg2IDkuMTUwMjNDOC4wNiA5LjM1MDIzIDguMDYgOS42NjAyMyA3Ljg2IDkuODYwMjNDNy43NiA5Ljk2MDIzIDcuNjMgMTAuMDEwMiA3LjUxIDEwLjAxMDJMNy41IDEwLjAwMDJaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=chevron-left-compact)
+  /// Codicon icon named "chevron left compact".
+  static const IconData chevronLeftCompact = IconData(
+    0xECA5,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik00LjUgOS45OTk5OEM0LjM3IDkuOTk5OTggNC4yNCA5Ljk0OTk4IDQuMTUgOS44NDk5OEMzLjk1IDkuNjQ5OTggMy45NSA5LjMzOTk4IDQuMTUgOS4xMzk5OEw3LjMgNS45ODk5OEw0LjE1IDIuODM5OThDMy45NSAyLjYzOTk4IDMuOTUgMi4zMjk5OCA0LjE1IDIuMTI5OThDNC4zNSAxLjkyOTk4IDQuNjYgMS45Mjk5OCA0Ljg2IDIuMTI5OThMOC4zNiA1LjYyOTk4QzguNTYgNS44Mjk5OCA4LjU2IDYuMTM5OTggOC4zNiA2LjMzOTk4TDQuODYgOS44Mzk5OEM0Ljc2IDkuOTM5OTggNC42MyA5Ljk4OTk4IDQuNTEgOS45ODk5OEw0LjUgOS45OTk5OFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=chevron-right-compact)
+  /// Codicon icon named "chevron right compact".
+  static const IconData chevronRightCompact = IconData(
+    0xECA6,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik05LjQ5OTk5IDguMDAwMjNDOS4zNjk5OSA4LjAwMDIzIDkuMjM5OTkgNy45NTAyMyA5LjE0OTk5IDcuODUwMjNMNS45OTk5OSA0LjcwMDIzTDIuODQ5OTkgNy44NTAyM0MyLjY0OTk5IDguMDUwMjMgMi4zMzk5OSA4LjA1MDIzIDIuMTM5OTkgNy44NTAyM0MxLjkzOTk5IDcuNjUwMjMgMS45Mzk5OSA3LjM0MDIzIDIuMTM5OTkgNy4xNDAyM0w1LjYzOTk5IDMuNjQwMjNDNS44Mzk5OSAzLjQ0MDIzIDYuMTQ5OTkgMy40NDAyMyA2LjM0OTk5IDMuNjQwMjNMOS44NDk5OSA3LjE0MDIzQzEwLjA1IDcuMzQwMjMgMTAuMDUgNy42NTAyMyA5Ljg0OTk5IDcuODUwMjNDOS43NDk5OSA3Ljk1MDIzIDkuNjE5OTkgOC4wMDAyMyA5LjQ5OTk5IDguMDAwMjNaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=chevron-up-compact)
+  /// Codicon icon named "chevron up compact".
+  static const IconData chevronUpCompact = IconData(
+    0xECA7,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDEwQzguMjA5MTQgMTAgMTAgOC4yMDkxNCAxMCA2QzEwIDMuNzkwODYgOC4yMDkxNCAyIDYgMkMzLjc5MDg2IDIgMiAzLjc5MDg2IDIgNkMyIDguMjA5MTQgMy43OTA4NiAxMCA2IDEwWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=circle-filled-compact)
+  /// Codicon icon named "circle filled compact".
+  static const IconData circleFilledCompact = IconData(
+    0xECA8,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04LjAwMDk3IDUuOTk4MDVDOC4wMDA5NyA2LjM5MzYxIDcuODgzNjkgNi43ODAyMyA3LjY2MzkzIDcuMTA5MTNDNy40NDQxNyA3LjQzODAzIDcuMTMxOCA3LjY5NDQ1IDYuNzY2MzUgNy44NDU4M0M2LjQwMDg5IDcuOTk3MiA1Ljk5ODc5IDguMDM2NzcgNS42MTA4MyA3Ljk1OTU5QzUuMjIyODcgNy44ODI0MiA0Ljg2NjQ5IDcuNjkxOTQgNC41ODY3OCA3LjQxMjIzQzQuMzA3MDggNy4xMzI1MyA0LjExNjU5IDYuNzc2MTUgNC4wMzk0MiA2LjM4ODE4QzMuOTYyMjUgNi4wMDAyMiA0LjAwMTgxIDUuNTk4MTIgNC4xNTMxOSA1LjIzMjY3QzQuMzA0NTYgNC44NjcyMSA0LjU2MDk4IDQuNTU0ODUgNC44ODk4OCA0LjMzNTA4QzUuMjE4NzggNC4xMTUzMiA1LjYwNTQgMy45OTgwNSA2LjAwMDk3IDMuOTk4MDVDNi41MzE0IDMuOTk4MDUgNy4wNDAwOCA0LjIwODc5IDcuNDE1MTUgNC41ODM4NkM3Ljc5MDIyIDQuOTU4OTQgOC4wMDA5NyA1LjQ2NzYxIDguMDAwOTcgNS45OTgwNVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=circle-small-filled-compact)
+  /// Codicon icon named "circle small filled compact".
+  static const IconData circleSmallFilledCompact = IconData(
+    0xECA9,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMC4xNDk5IDEuMTQwMTNDMTAuMzQ5OCAwLjk0MDE5OSAxMC42NTk4IDAuOTQwMzQyIDEwLjg1OTkgMS4xNDAxM0MxMS4wNTk5IDEuMzQwMTMgMTEuMDU5OSAxLjY1MDA5IDEwLjg1OTkgMS44NTAwOUw2LjcxMjM5IDUuOTkyNjdMMTAuODU5OSAxMC4xNDAxQzExLjA1OTkgMTAuMzQwMSAxMS4wNTk5IDEwLjY1MDEgMTAuODU5OSAxMC44NTAxQzEwLjc1OTkgMTAuOTUgMTAuNjMwMiAxMS4wMDA0IDEwLjUxMDIgMTEuMDAwNUgxMC41MDA1QzEwLjM3MDUgMTEuMDAwNSAxMC4yMzk5IDEwLjk1MDEgMTAuMTQ5OSAxMC44NTAxTDYuMDAxNDYgNi43MDE2NUwxLjg1MDA5IDEwLjg1MDFDMS43NTAyIDEwLjk1IDEuNjIwMzcgMTEuMDAwNCAxLjUwMDQ4IDExLjAwMDVDMS4zNzA0OCAxMS4wMDA1IDEuMjM5ODkgMTAuOTUwMSAxLjE0OTg5IDEwLjg1MDFDMC45NTAxMDcgMTAuNjUwMSAwLjk0OTk2NSAxMC4zNDAxIDEuMTQ5ODkgMTAuMTQwMUw1LjI5NDQyIDUuOTk0NjJMMS4xNDk4OSAxLjg1MDA5QzAuOTUwMTA3IDEuNjUwMDggMC45NDk5NjQgMS4zNDAwNiAxLjE0OTg5IDEuMTQwMTNDMS4zNDk4MiAwLjk0MDE5OSAxLjY1OTg1IDAuOTQwMzQyIDEuODU5ODUgMS4xNDAxM0w2LjAwNDM4IDUuMjg0NjZMMTAuMTQ5OSAxLjE0MDEzWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=close-compact)
+  /// Codicon icon named "close compact".
+  static const IconData closeCompact = IconData(
+    0xECAA,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMSAyLjA4OTg0QzExLjU4IDIuMjg5ODQgMTIgMi44NSAxMiAzLjVWOC41QzExLjk5OTkgMTAuNDI5OSAxMC40Mjk5IDEyIDguNSAxMkgzLjVDMi44NTAwNiAxMiAyLjI4OTg1IDExLjU3OTkgMi4wODk4NCAxMUg4LjVDOS44Nzk5NSAxMSAxMC45OTk5IDkuODc5OTMgMTEgOC41VjIuMDg5ODRaIi8+PHBhdGggZD0iTTcuNSA0LjVDNy43OCA0LjUgOCA0LjcyIDggNUM4IDUuMjggNy43OCA1LjUgNy41IDUuNUgyLjVDMi4yMiA1LjUgMiA1LjI4IDIgNUMyIDQuNzIgMi4yMiA0LjUgMi41IDQuNUg3LjVaIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjUgMEM5LjMzIDAgMTAgMC42NyAxMCAxLjVWOC41QzEwIDkuMzMgOS4zMyAxMCA4LjUgMTBIMS41QzAuNjcgMTAgMCA5LjMzIDAgOC41VjEuNUMwIDAuNjcgMC42NyAwIDEuNSAwSDguNVpNMS41IDFDMS4yMiAxIDEgMS4yMiAxIDEuNVY4LjVDMSA4Ljc4IDEuMjIgOSAxLjUgOUg4LjVDOC43OCA5IDkgOC43OCA5IDguNVYxLjVDOSAxLjIyIDguNzggMSA4LjUgMUgxLjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=collapse-all-compact)
+  /// Codicon icon named "collapse all compact".
+  static const IconData collapseAllCompact = IconData(
+    0xECAB,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjg2IDEyQzMuMzggMTIgMyAxMS42MSAzIDExLjE0VjlIMkMwLjkgOSAwIDguMSAwIDdWMkMwIDAuOSAwLjkgMCAyIDBIMTBDMTEuMSAwIDEyIDAuOSAxMiAyVjdDMTIgOC4xIDExLjEgOSAxMCA5SDcuNTdMNC40NCAxMS43OEM0LjI4IDExLjkyIDQuMDggMTIgMy44NyAxMkgzLjg2Wk0yIDFDMS40NSAxIDEgMS40NSAxIDJWN0MxIDcuNTUgMS40NSA4IDIgOEg0VjEwLjg4TDcuMTggOEgxMEMxMC41NSA4IDExIDcuNTUgMTEgN1YyQzExIDEuNDUgMTAuNTUgMSAxMCAxSDJaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=comment-compact)
+  /// Codicon icon named "comment compact".
+  static const IconData commentCompact = IconData(
+    0xECAC,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMCAwQzExLjEgMCAxMiAwLjkgMTIgMlY3LjA0OThDMTEuNzIgNi43NTk4NSAxMS4zNzk3IDYuNTI5NTkgMTEuMDA5OCA2LjM0OTYxVjJDMTEuMDA5OCAxLjQ1IDEwLjU1OTggMSAxMC4wMDk4IDFIMi4wMDk3N0MxLjQ1OTg3IDEuMDAwMTMgMS4wMDk3NyAxLjQ1MDA4IDEuMDA5NzcgMlY3QzEuMDA5NzcgNy41NDk5MiAxLjQ1OTg3IDcuOTk5ODcgMi4wMDk3NyA4SDQuMDA5NzdWMTAuODMwMUw2LjA1OTU3IDkuMDA5NzdDNi4wMzk1NyA5LjE2OTc3IDYuMDA5NzcgOS4zMyA2LjAwOTc3IDkuNUg2QzYgOS43Nzk5IDYuMDM5NjQgMTAuMDM5OSA2LjA5OTYxIDEwLjI5OThMNC40Mjk2OSAxMS43ODAzQzQuMjc5NzkgMTEuOTIgNC4wNzAwOSAxMS45OTk5IDMuODYwMzUgMTJDMy4zOTAzNSAxMiAzIDExLjYxOTYgMyAxMS4xMzk2VjlIMkMwLjkgOSAwIDguMSAwIDdWMkMwIDAuOSAwLjkgMCAyIDBIMTBaIi8+PHBhdGggZD0iTTkuNTA5NzcgN0MxMC44OTA1IDcgMTIuMDA5OCA4LjExOTI5IDEyLjAwOTggOS41QzEyLjAwOTggMTAuODgwNyAxMC44OTA1IDEyIDkuNTA5NzcgMTJDOC4xMjkxNyAxMS45OTk5IDcuMDA5NzcgMTAuODgwNiA3LjAwOTc3IDkuNUM3LjAwOTc3IDguMTE5MzcgOC4xMjkxNyA3LjAwMDEzIDkuNTA5NzcgN1oiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=comment-unresolved-compact)
+  /// Codicon icon named "comment unresolved compact".
+  static const IconData commentUnresolvedCompact = IconData(
+    0xECAD,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMy41MTk1MyA0LjYxMDM1QzMuNzU5NTIgNC42MTAzNSAzLjk4OTkzIDQuNjk5OSA0LjE2OTkyIDQuODc5ODhMNy4xMjAxMiA3LjgzMDA4QzcuMjk5OTEgOC4wMDk5NiA3LjM4OTU1IDguMjQ5NjggNy4zODk2NSA4LjQ3OTQ5TDcuMzc5ODggOC40Njk3M0M3LjM3OTg4IDkuMjk5NjYgNi4wNjAxOSA5Ljk5MDEzIDQuOTkwMjMgOS45OTAyM0M0LjM2MDIzIDkuOTkwMjMgMy43NSA5Ljc5OTQ1IDMuMjUgOS40Mzk0NUwxLjMzOTg0IDExLjM0OTZDMS4yNDk5IDExLjQ0OTUgMS4xMjAxNSAxMS40OTk5IDAuOTkwMjM0IDExLjVDMC43MTAyOCAxMS41IDAuNDkwMzA2IDExLjI3OTkgMC40OTAyMzQgMTFDMC40OTAyMzQgMTAuODggMC41Mzk2NDggMTAuNzQ5NCAwLjYzOTY0OCAxMC42NDk0TDIuNTQ5OCA4Ljc0MDIzQzIuMTk5ODMgOC4yNDAyNyAyLjAwMDAzIDcuNjE5OTUgMiA3QzIgNS45MzAxOSAyLjY3OTc0IDQuNjEwODMgMy41MTk1MyA0LjYxMDM1Wk0zLjUxOTUzIDUuNjQ5NDFDMy4xODk1MyA2LjAwOTQxIDMgNi41IDMgN0MzLjAwMDA0IDcuNTI5OTUgMy4yMTAxMSA4LjA0OTk1IDMuNTgwMDggOC40MTk5MkM0LjMwMDA5IDkuMTQ5ODQgNS41OTk2MyA5LjE2OTQ1IDYuMzQ5NjEgOC40Nzk0OUwzLjUxOTUzIDUuNjQ5NDFaIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMSAwLjVDMTEuMjggMC41IDExLjUgMC43MiAxMS41IDFIMTEuNTA5OEMxMS41MDk4IDEuMTE5ODcgMTEuNDYwMSAxLjI0OTY1IDExLjM2MDQgMS4zNDk2MUw5LjQ1MDIgMy4yNTk3N0M5LjgwMDIgMy43NTk3NyAxMCA0LjM4IDEwIDVDMTAgNi4wNjk4NSA5LjMxMDMxIDcuMzg5MjcgOC40ODA0NyA3LjM4OTY1QzguMjQwNDkgNy4zODk2NSA4LjAxMDA3IDcuMzAwMDkgNy44MzAwOCA3LjEyMDEyTDQuODc5ODggNC4xNjk5MkM0LjY5OTk4IDMuOTg5OTQgNC42MTAzNSAzLjc0OTQ3IDQuNjEwMzUgMy41MTk1M0M0LjYxMDgzIDIuNjc5NzkgNS44OTAyMyAyLjA0MDA4IDcgMi4wNDAwNEM3LjYxOTk1IDIuMDQwMDQgOC4yNDAyNSAyLjIxOTYyIDguNzQwMjMgMi41NTk1N0wxMC42NTA0IDAuNjUwMzkxQzEwLjc0MDQgMC41NTA0MTggMTAuODcgMC41MDAwMjcgMTEgMC41Wk03IDMuMDE5NTNDNi41MTAyMSAzLjAxOTU2IDYuMDEwMzQgMy4xODk3OSA1LjY1MDM5IDMuNTE5NTNMOC40ODA0NyA2LjM0OTYxQzguODEwMjUgNS45ODk2NSA5IDUuNDk5ODIgOSA1QzkgNC40NyA4Ljc4OTkyIDMuOTUwMDggOC40MTk5MiAzLjU4MDA4QzguMDQ5OTIgMy4yMTAxMSA3LjUxOTk4IDMuMDE5NTMgNyAzLjAxOTUzWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=debug-connected-compact)
+  /// Codicon icon named "debug connected compact".
+  static const IconData debugConnectedCompact = IconData(
+    0xECAE,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNC4xNTk2NiA1LjE0MDFDNC4zNTk1NSA0Ljk0MDIxIDQuNjY5NjEgNC45NDA0NCA0Ljg2OTYyIDUuMTQwMUM1LjA2OTYyIDUuMzQwMSA1LjA2OTYyIDUuNjUwMDYgNC44Njk2MiA1Ljg1MDA2TDQuMDA5MjcgNi43MDk0NEw1LjI5OTMxIDcuOTk5NDhMNi4xNTk2NiA3LjE0MDFDNi4zNTk1NSA2Ljk0MDIxIDYuNjY5NjEgNi45NDA0NCA2Ljg2OTYyIDcuMTQwMUM3LjA2OTYyIDcuMzQwMSA3LjA2OTYyIDcuNjUwMDYgNi44Njk2MiA3Ljg1MDA2TDYuMDA5MjcgOC43MDk0NEw2LjEzMDM2IDguODI5NTVINi4xMTk2MkM2LjQ3OTYyIDkuMTc5NTUgNi40Nzk2MiA5Ljc1OTU5IDYuMTE5NjIgMTAuMTE5NkM1LjU2OTcxIDEwLjY3OTUgNC43OTAzMSAxMC45OTk0IDQuMDAwNDggMTAuOTk5NUMzLjM3MDQ4IDEwLjk5OTUgMi43NjAyNCAxMC44MDk3IDIuMjYwMjQgMTAuNDQ5N0wwLjg1MDA4OCAxMS44NTk4QzAuNzYwMTg2IDExLjk1OTcgMC42MjAzOTEgMTIuMDEwMSAwLjUwMDQ3OCAxMi4wMTAyQzAuMzgwNDc4IDEyLjAxMDIgMC4yNDk4OTIgMTEuOTU5OCAwLjE0OTg5MiAxMS44NTk4Qy0wLjA0OTkzNzcgMTEuNjU5OCAtMC4wNDk5OTA1IDExLjM0OTggMC4xNDk4OTIgMTEuMTQ5OUwxLjU2MDA1IDkuNzM5NzFDMS4yMTAxMiA5LjIzOTc0IDEuMDEwMjQgOC42MTk0MSAxLjAxMDI0IDcuOTk5NDhDMS4wMTAzNyA3LjIwOTcyIDEuMzMwMzUgNi40MzAyMiAxLjg5MDEzIDUuODgwMzRDMi4yNDAxMyA1LjUyMDM0IDIuODIwMTcgNS41MjAzNCAzLjE4MDE3IDUuODgwMzRMMy4yOTkzMSA1Ljk5OTQ4TDQuMTU5NjYgNS4xNDAxWk0yLjUyOTc4IDYuNjQ5ODdDMi4xOTk5NCA3LjAwOTc1IDIuMDEwMzYgNy40OTk2OSAyLjAxMDI0IDcuOTk5NDhDMi4wMTAyNCA4LjUyOTQ4IDIuMjIwMzIgOS4wNTAzNyAyLjU5MDMyIDkuNDIwMzdDMy4zMTAzNSAxMC4xNSA0LjYwOTk1IDEwLjE2OTcgNS4zNTk4NSA5LjQ3OTk1TDIuNTI5NzggNi42NDk4N1oiLz48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTExLjE0OTkgMC4xNDk4NjdDMTEuMzQ5OCAtMC4wNTAwNDQ0IDExLjY1OTggLTAuMDQ5ODY2OCAxMS44NTk5IDAuMTQ5ODY3TDExLjg3MDYgMC4xNDAxMDFDMTIuMDcwMyAwLjM0MDA0MSAxMi4wNzAzIDAuNjUwMTI5IDExLjg3MDYgMC44NTAwNjJMMTAuNDYwNCAyLjI2MDIyQzEwLjgxMDMgMi43NjAxOCAxMS4wMTAyIDMuMzgwNTQgMTEuMDEwMiA0LjAwMDQ1QzExLjAxMDEgNC43OTAxNyAxMC42OTAxIDUuNTY5NyAxMC4xMzA0IDYuMTE5NTlDOS45NTAzNiA2LjI5OTU5IDkuNzE5OTcgNi4zOTAxIDkuNDc5OTcgNi4zOTAxQzkuMjQwMDUgNi4zOTAwNSA5LjAxMDUgNi4yOTk1NCA4LjgzMDU2IDYuMTE5NTlMNS44ODAzNiAzLjE3MDM3QzUuNTIwMzggMi44MjAzOSA1LjUyMDQxIDIuMjQwMzQgNS44ODAzNiAxLjg4MDM0QzYuODcwMjcgMC44OTA0MzEgOC41ODk3NCAwLjc4MDI3IDkuNzM5NzQgMS41NjAwMkwxMS4xNDk5IDAuMTQ5ODY3Wk05LjQzMDE3IDIuNTgwNTNDOC43MTAyNiAxLjg2MDYyIDcuNDEwNjggMS44MzAyNSA2LjY2MDYzIDIuNTE5OThMOS40ODk3NCA1LjM1MDA2QzkuODE5NjUgNC45OTAxNiAxMC4wMTAxIDQuNTAwMzIgMTAuMDEwMiA0LjAwMDQ1QzEwLjAxMDIgMy40NzA1NiA5LjgwMDAzIDIuOTUwNTIgOS40MzAxNyAyLjU4MDUzWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=debug-disconnect-compact)
+  /// Codicon icon named "debug disconnect compact".
+  static const IconData debugDisconnectCompact = IconData(
+    0xECAF,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOS42Mjk5OSAwQzEwLjkzOTkgOS43MzYxMWUtMDUgMTIuMDA5OCAxLjA3IDEyLjAwOTkgMi4zNzk4OEMxMi4wMDk5IDMuMDA5ODcgMTEuNzU5NCAzLjYwOTU3IDExLjMxOTQgNC4wNTk1N0wxMC42ODk2IDQuNjc5NjlMNC41MDk4OCAxMC44NjA0QzQuMjg5OSAxMS4wODAzIDMuOTk5NDggMTEuMjM5NiAzLjY4OTU2IDExLjMwOTZMMC42MjAyMjcgMTEuOTkwMkMwLjYyMDIyNyAxMS45OTAyIDAuNTQ5ODg4IDEyIDAuNTA5ODc2IDEySDAuNTAwMTFDMC4zNzAxMSAxMiAwLjIzOTUyNCAxMS45NDk2IDAuMTQ5NTI0IDExLjg0OTZDMC4wMjk3MzY4IDExLjcyOTYgLTAuMDIwMzI1OCAxMS41NTk1IDAuMDE5NjQxNSAxMS4zODk2TDAuNjk5MzI5IDguMzIwMzFDMC43NjkzMTEgOC4wMTAzOSAwLjkxOTYyNCA3LjcyOTk3IDEuMTQ5NTIgNy41TDcuOTQ5MzMgMC43MDAxOTVDOC4zOTkzMyAwLjI1MDE5NSA4Ljk5OTk5IDAgOS42Mjk5OSAwWk0xLjgzOTk1IDguMjA5OTZDMS43NDk5NSA4LjI5OTk2IDEuNjkwMjcgOC40MTAwNCAxLjY2MDI3IDguNTQwMDRMMS4xNDk1MiAxMC44Mzk4TDMuNDQ5MzMgMTAuMzMwMUMzLjU2OTE0IDEwLjMwMDEgMy42ODk0NiAxMC4yNDAyIDMuNzc5NDEgMTAuMTUwNEw5LjYwOTQ5IDQuMzIwMzFMNy42NzAwMyAyLjM3OTg4TDEuODM5OTUgOC4yMDk5NlpNOS42MjAyMyAxQzkuMjUwMjMgMSA4LjkwOTUyIDEuMTQwMzkgOC42NDk1MiAxLjQwMDM5TDguMzg0ODggMS42NjUwNEwxMC4zMzQxIDMuNjE0MjZMMTAuNTk5NyAzLjM0OTYxQzEwLjg1OTYgMy4wODk2MiAxMS4wMDAxIDIuNzM5ODEgMTEuMDAwMSAyLjM3OTg4QzExIDEuNjIwMDcgMTAuMzggMS4wMDAyMiA5LjYyMDIzIDFaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=edit-compact)
+  /// Codicon icon named "edit compact".
+  static const IconData editCompact = IconData(
+    0xECB0,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjMzMDA4IDkuMDcwMzFDMy40MzAwOCA4Ljk3MDMxIDMuNTc5NjkgOC45NzAzMSAzLjY3OTY5IDkuMDcwMzFMNi4yNjk1MyAxMS42NjAyQzUuOTc5NjEgMTEuODYgNS42Mjk4MyAxMS45OTAyIDUuMjUgMTEuOTkwMkgxLjc1QzEuMzcwMTcgMTEuOTkwMiAxLjAyMDM5IDExLjg3IDAuNzMwNDY5IDExLjY2MDJMMy4zMjAzMSA5LjA3MDMxSDMuMzMwMDhaIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik03LjMzOTg0IDBDNy43Mjk4NCAwIDguMTIwMzkgMC4xNjA0MyA4LjQwMDM5IDAuNDQwNDNMMTAuNTU5NiAyLjU5OTYxQzEwLjgzOTYgMi44Nzk2MSAxMSAzLjI3MDE2IDExIDMuNjYwMTZWOS41QzExIDEwLjMzIDEwLjMzIDExIDkuNSAxMUg3Ljg3OTg4QzcuOTQ5ODggMTAuNzYgOCAxMC41MSA4IDEwLjI1VjEwSDkuNUM5Ljc4IDEwIDEwIDkuNzggMTAgOS41VjRIOEM3LjQ1IDQgNyAzLjU1IDcgM1YxSDMuNUMzLjIyIDEgMyAxLjIyIDMgMS41VjRIMlYxLjVDMiAwLjY3IDIuNjcgMCAzLjUgMEg3LjMzOTg0Wk04IDNIOS41NDAwNEw4IDEuNDU5OTZWM1oiLz48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUuMjU5NzcgNUM2LjIyOTc3IDUgNy4wMDk3NyA1Ljc4IDcuMDA5NzcgNi43NVYxMC4yNUM3LjAwOTc3IDEwLjQ3IDYuOTU5NjUgMTAuNjgwMSA2Ljg4OTY1IDEwLjg3MDFMNC4zODk2NSA4LjM3MDEyQzMuOTA5NjMgNy44OTAyMyAzLjEwMDA4IDcuODkwMTYgMi42MjAxMiA4LjM3MDEyTDAuMTIwMTE3IDEwLjg3MDFDMC4wNDAxMTcyIDEwLjY3MDEgMCAxMC40NyAwIDEwLjI1VjYuNzVDMCA1Ljc4IDAuNzggNSAxLjc1IDVINS4yNTk3N1pNNS4yNSA2QzQuODQgNiA0LjUgNi4zNCA0LjUgNi43NUM0LjUgNy4xNiA0Ljg0IDcuNSA1LjI1IDcuNUM1LjY2IDcuNSA2IDcuMTYgNiA2Ljc1QzYgNi4zNCA1LjY2IDYgNS4yNSA2WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=file-media-compact)
+  /// Codicon icon named "file media compact".
+  static const IconData fileMediaCompact = IconData(
+    0xECB1,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
   /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMy44NTQgOC44NTRMOC44NTQwMSAxMy44NTRDOC43NTYwMSAxMy45NTIgOC42MjgwMSAxNCA4LjUwMDAxIDE0QzguMzcyMDEgMTQgOC4yNDQwMSAxMy45NTEgOC4xNDYwMSAxMy44NTRMMy4xNDYwMSA4Ljg1NEMyLjk1MTAxIDguNjU5IDIuOTUxMDEgOC4zNDIgMy4xNDYwMSA4LjE0N0MzLjM0MTAxIDcuOTUyIDMuNjU4MDEgNy45NTIgMy44NTMwMSA4LjE0N0w3Ljk5OTAxIDEyLjI5M1YxMC40MjdDNy45OTkwMSAxMC4xNTEgOC4yMjMwMSA5LjkyNyA4LjQ5OTAxIDkuOTI3QzguNzc1MDEgOS45MjcgOC45OTkwMSAxMC4xNTEgOC45OTkwMSAxMC40MjdWMTIuMjkzTDEzLjE0NSA4LjE0N0MxMy4zNCA3Ljk1MiAxMy42NTcgNy45NTIgMTMuODUyIDguMTQ3QzE0LjA0NyA4LjM0MiAxNC4wNDcgOC42NTkgMTMuODUyIDguODU0SDEzLjg1NFpNOC41MDAwMSA5QzguNzc2MDEgOSA5LjAwMDAxIDguNzc2IDkuMDAwMDEgOC41VjYuNUM5LjAwMDAxIDYuMjI0IDguNzc2MDEgNiA4LjUwMDAxIDZDOC4yMjQwMSA2IDguMDAwMDEgNi4yMjQgOC4wMDAwMSA2LjVWOC41QzguMDAwMDEgOC43NzYgOC4yMjQwMSA5IDguNTAwMDEgOVpNOC41MDAwMSA1QzguNzc2MDEgNSA5LjAwMDAxIDQuNzc2IDkuMDAwMDEgNC41VjIuNUM5LjAwMDAxIDIuMjI0IDguNzc2MDEgMiA4LjUwMDAxIDJDOC4yMjQwMSAyIDguMDAwMDEgMi4yMjQgOC4wMDAwMSAyLjVWNC41QzguMDAwMDEgNC43NzYgOC4yMjQwMSA1IDguNTAwMDEgNVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=git-fetch)
   /// Codicon icon named "git fetch".
   static const IconData gitFetch = IconData(
-    0xF101,
+    0xECB2,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0yLjUgNC41QzIuNSAyLjU3IDQuMDcgMSA2IDFDNy45MyAxIDkuNSAyLjU3IDkuNSA0LjVDOS41IDUuNDggOS4xIDYuMzYgOC40NSA3QzguMjYgNy4xOSA4LjA5IDcuNDQgOC4wMSA3Ljc0TDcuNjYgOS4wMUg0LjMzTDMuOTggNy43NEMzLjkgNy40NCAzLjczIDcuMTkgMy41NCA3QzIuODkgNi4zNiAyLjQ5IDUuNDggMi40OSA0LjVIMi41Wk00LjYxIDEwSDcuMzlMNy4yMiAxMC42M0M3LjE2IDEwLjg1IDYuOTYgMTEgNi43NCAxMUg1LjI3QzUuMDQgMTEgNC44NSAxMC44NSA0Ljc5IDEwLjYzTDQuNjIgMTBINC42MVpNNiAwQzMuNTEgMCAxLjUgMi4wMSAxLjUgNC41QzEuNSA1Ljc2IDIuMDIgNi44OSAyLjg0IDcuNzFDMi45NCA3LjgxIDMgNy45IDMuMDIgOEwzLjgxIDEwLjlDMy45OSAxMS41NSA0LjU4IDEyLjAxIDUuMjYgMTIuMDFINi43M0M3LjQxIDEyLjAxIDggMTEuNTYgOC4xOCAxMC45TDguOTcgOEM5IDcuOTEgOS4wNSA3LjgxIDkuMTUgNy43MUM5Ljk4IDYuODkgMTAuNDkgNS43NiAxMC40OSA0LjVDMTAuNDkgMi4wMSA4LjQ4IDAgNS45OSAwSDZaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=lightbulb-compact)
+  /// Codicon icon named "lightbulb compact".
+  static const IconData lightbulbCompact = IconData(
+    0xECB3,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS41IDYuNUMxMS4yMiA2LjUgMTEgNi4yOCAxMSA2QzExIDMuMjQgOC43NiAxIDYgMUMzLjI0IDEgMSAzLjI0IDEgNkMxIDYuMjggMC43OCA2LjUgMC41IDYuNUMwLjIyIDYuNSAwIDYuMjggMCA2QzAgMi42OSAyLjY5IDAgNiAwQzkuMzEgMCAxMiAyLjY5IDEyIDZDMTIgNi4yOCAxMS43OCA2LjUgMTEuNSA2LjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=loading-compact)
+  /// Codicon icon named "loading compact".
+  static const IconData loadingCompact = IconData(
+    0xECB4,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDBDMi42OSAwIDAgMi42OSAwIDZDMCA5LjMxIDIuNjkgMTIgNiAxMkM5LjMxIDEyIDEyIDkuMzEgMTIgNkMxMiAyLjY5IDkuMzEgMCA2IDBaTTguODUgNC44NUw1Ljg1IDcuODVDNS43NSA3Ljk1IDUuNjIgOCA1LjUgOEM1LjM4IDggNS4yNCA3Ljk1IDUuMTUgNy44NUwzLjQgNi4xQzMuMiA1LjkgMy4yIDUuNTkgMy40IDUuMzlDMy42IDUuMTkgMy45MSA1LjE5IDQuMTEgNS4zOUw1LjUxIDYuNzlMOC4xNiA0LjE0QzguMzYgMy45NCA4LjY3IDMuOTQgOC44NyA0LjE0QzkuMDcgNC4zNCA5LjA3IDQuNjUgOC44NyA0Ljg1SDguODVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=pass-filled-compact)
+  /// Codicon icon named "pass filled compact".
+  static const IconData passFilledCompact = IconData(
+    0xECB5,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0yLjUgMEMxLjExOTI5IDAgMCAxLjExOTI5IDAgMi41VjkuNUMwIDEwLjg4MDcgMS4xMTkyOSAxMiAyLjUgMTJIOS41QzEwLjg4MDcgMTIgMTIgMTAuODgwNyAxMiA5LjVWMi41QzEyIDEuMTE5MjkgMTAuODgwNyAwIDkuNSAwSDIuNVpNMTEgM0gxVjIuNUMxIDEuNjcxNTcgMS42NzE1NyAxIDIuNSAxSDkuNUMxMC4zMjg0IDEgMTEgMS42NzE1NyAxMSAyLjVWM1pNMSA0SDExVjkuNUMxMSAxMC4zMjg0IDEwLjMyODQgMTEgOS41IDExSDIuNUMxLjY3MTU3IDExIDEgMTAuMzI4NCAxIDkuNVY0WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=project-compact)
+  /// Codicon icon named "project compact".
+  static const IconData projectCompact = IconData(
+    0xECB6,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDEySDUuOTkwMjNMNS45OTUxMiAxMS45OTlMNiAxMloiLz48cGF0aCBkPSJNMTEgMEMxMS4yOCAwIDExLjUgMC4yMiAxMS41IDAuNVYzLjVDMTEuNSAzLjc4IDExLjI4IDQgMTEgNEg4QzcuNzIgNCA3LjUgMy43OCA3LjUgMy41QzcuNSAzLjIyIDcuNzIgMyA4IDNIMTAuMDA3OEM5LjA3MjUgMS43NDY2MyA3LjYwMjI3IDAuOTkwMjM0IDYgMC45OTAyMzRDMy4yNCAwLjk5MDIzNCAxIDMuMjMwMjMgMSA1Ljk5MDIzQzEuMDAwMTMgOC43NTAxMyAzLjI0MDA4IDEwLjk5MDIgNiAxMC45OTAyQzguNjA5OTUgMTAuOTkwMiAxMC43NTA0IDkuMDQwMTIgMTAuOTgwNSA2LjQ1MDJDMTEuMDAwNSA2LjE3MDM2IDExLjI0OTcgNS45ODAyNSAxMS41MTk1IDZDMTEuNzk5NSA2LjAyIDExLjk5OTcgNi4yNzAwNCAxMS45Njk3IDYuNTQwMDRDMTEuNjg5OSA5LjY0ODMxIDkuMTIyNzggMTEuOTk2NSA1Ljk5NTEyIDExLjk5OUMyLjY4NzM2IDExLjk5NjQgMCA5LjMwODM3IDAgNkMwIDIuNjkgMi42OSAwIDYgMEM3Ljc1NzczIDAgOS4zNzU1OCAwLjc1MTIyOCAxMC41IDIuMDI3MzRWMC41QzEwLjUgMC4yMiAxMC43MiAwIDExIDBaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=refresh-compact)
+  /// Codicon icon named "refresh compact".
+  static const IconData refreshCompact = IconData(
+    0xECB7,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSAwQzcuNzYgMCAxMCAyLjI0IDEwIDVDMTAgNi4xOTY3NSA5LjU3NzA4IDcuMjk0MjggOC44NzUgOC4xNTUyN0wxMS44NjA0IDExLjE0MDZDMTIuMDYgMTEuMzQwNiAxMi4wNjAyIDExLjY1MDcgMTEuODYwNCAxMS44NTA2QzExLjc2MDQgMTEuOTUwNiAxMS42Mjk4IDEyIDExLjUwOTggMTJIMTEuNUMxMS4zNzAyIDEyIDExLjI0MDQgMTEuOTUwMyAxMS4xNTA0IDExLjg1MDZMOC4xNjY5OSA4Ljg2NzE5QzcuMzA0MzkgOS41NzQ1OSA2LjIwMTc4IDEwIDUgMTBDMi4yNCAxMCAwIDcuNzYgMCA1QzAgMi4yNCAyLjI0IDAgNSAwWk01IDFDMi43OSAxIDEgMi43OSAxIDVDMSA3LjIxIDIuNzkgOSA1IDlDNy4yMSA5IDkgNy4yMSA5IDVDOSAyLjc5IDcuMjEgMSA1IDFaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=search-compact)
+  /// Codicon icon named "search compact".
+  static const IconData searchCompact = IconData(
+    0xECB8,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDBDNi40NTk5IDAgNi44ODk4OCAwLjA0OTY4NDIgNy4yOTk4IDAuMTM5NjQ4QzcuNTY5OCAwLjE5OTY0OCA3LjczOTY5IDAuNDcwMjM0IDcuNjc5NjkgMC43NDAyMzRDNy42MTk1NyAxLjAxMDA0IDcuMzU5OTQgMS4xODAwNCA3LjA4MDA4IDEuMTIwMTJDNi43NDAwOCAxLjA0MDEyIDYuMzggMSA2IDFDMy4yNCAxIDEgMy4yNCAxIDZDMSA4Ljc2IDMuMjQgMTEgNiAxMUM2LjM4IDExIDYuNzQwMDggMTAuOTU5OSA3LjA4MDA4IDEwLjg3OTlDNy4zNDk5NSAxMC44MiA3LjYxOTU3IDEwLjk5IDcuNjc5NjkgMTEuMjU5OEM3LjczOTY5IDExLjUyOTggNy41Njk4IDExLjgwMDQgNy4yOTk4IDExLjg2MDRDNi44Nzk4OSAxMS45NjAzIDYuNDU5OSAxMiA2IDEyQzIuNjkgMTIgMCA5LjMxIDAgNkMwIDIuNjkgMi42OSAwIDYgMFoiLz48cGF0aCBkPSJNMTAuMTI5OSA4LjgzMDA4QzEwLjI4OTkgOC42MDAwOCAxMC42MDAxIDguNTQ5OTYgMTAuODMwMSA4LjcwOTk2QzExLjA2MDEgOC44Njk5NyAxMS4xMTAyIDkuMTgwMTYgMTAuOTUwMiA5LjQxMDE2QzEwLjUwMDMgMTAuMDQ5OSA5Ljk1MDMgMTAuNTk5NiA5LjMxMDU1IDExLjAxOTVDOS4yMzA1OSAxMS4wNzk1IDkuMTMwMjIgMTEuMDk5NiA5LjAzMDI3IDExLjA5OTZWMTEuMDg5OEM4Ljg3MDM4IDExLjA4OTggOC43MTAzNyAxMS4wMDk5IDguNjEwMzUgMTAuODcwMUM4LjQ2MDM1IDEwLjY0MDEgOC41MiAxMC4zMjk3IDguNzUgMTAuMTc5N0M5LjI4OTkyIDkuODE5NzQgOS43NDk5MiA5LjM2OTk3IDEwLjEyOTkgOC44MzAwOFoiLz48cGF0aCBkPSJNMTEuMjk5OCA0LjM5OTQxQzExLjU2OTggNC4zNDk0MiAxMS44Mjk2IDQuNTE5ODQgMTEuODg5NiA0Ljc5OThDMTEuOTY5NiA1LjIwOTcxIDEyLjAwOTcgNS42MTk2MiAxMi4wMDk4IDYuMDE5NTNDMTIuMDA5OCA2LjQ5OTUzIDExLjk0OTggNi45Njk5MiAxMS44Mzk4IDcuNDE5OTJDMTEuNzc5OCA3LjY0OTg0IDExLjU3OTYgNy43OTk4IDExLjM0OTYgNy43OTk4VjcuNzgwMjdDMTEuMzQzNyA3Ljc4MDI2IDExLjI2OSA3Ljc3OTA0IDExLjIzMDUgNy43Njk1M0MxMC45NjA1IDcuNjk5NTMgMTAuODAwNCA3LjQyOTkxIDEwLjg2MDQgNy4xNjk5MkMxMC45NTA0IDYuNzk5OTIgMTEgNi40MDk3NyAxMSA2LjAwOTc3QzExIDUuNjY5OTQgMTAuOTcwMyA1LjMzMDA2IDEwLjkwMDQgNC45OTAyM0MxMC44NTA0IDQuNzIwMjYgMTEuMDE5OSA0LjQ1OTQ1IDExLjI5OTggNC4zOTk0MVoiLz48cGF0aCBkPSJNOC42MjAxMiAxLjEzOTY1QzguNzcwMTQgMC45MDk4MzcgOS4wNzk2NSAwLjg0MDEzMiA5LjMwOTU3IDFDOS45OTk0NyAxLjQ1OTkzIDEwLjYwOTYgMi4wNjk2NiAxMS4wNTk2IDIuNzY5NTNDMTEuMjA5NSAyLjk5OTUgMTEuMTQwMSAzLjMwOTkzIDEwLjkxMDIgMy40NTk5NkMxMC44MzAyIDMuNTA5OTYgMTAuNzI5NiAzLjU0MDA0IDEwLjYzOTYgMy41NDAwNEwxMC42Mjk5IDMuNTI5M0MxMC40Njk5IDMuNTI5MyAxMC4zIDMuNDQ5NzYgMTAuMjEgMy4yOTk4QzkuODM5OTggMi43MTk4MyA5LjMyOTc0IDIuMjEwMDcgOC43NTk3NyAxLjgzMDA4QzguNTI5NzcgMS42ODAwOCA4LjQ3MDEyIDEuMzY5NjUgOC42MjAxMiAxLjEzOTY1WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=session-in-progress-compact)
+  /// Codicon icon named "session in progress compact".
+  static const IconData sessionInProgressCompact = IconData(
+    0xECB9,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMi4wMDQ5IDEuNTAzNjNWNC41MDExNEMxMi4wMDQ5IDQuNzgwOSAxMS43ODUxIDUuMDAwNzIgMTEuNTA1MyA1LjAwMDcySDguNTA3OEM4LjIyODAzIDUuMDAwNzIgOC4wMDgyMSA0Ljc4MDkgOC4wMDgyMSA0LjUwMTE0QzguMDA4MjEgNC4yMjEzNyA4LjIyODAzIDQuMDAxNTUgOC41MDc4IDQuMDAxNTVIMTAuNTg2MUM5Ljc4NjczIDIuMTczMDggOC4wMTgyIDEuMDA0MDUgNi4wMDk4OCAxLjAwNDA1QzMuNzkxNzMgMS4wMDQwNSAxLjgxMzM4IDIuNTAyOCAxLjIwMzg4IDQuNjQxMDJDMS4xNDM5MyA0Ljg2MDg0IDAuOTQ0MSA1LjAwMDcyIDAuNzI0MjgzIDUuMDAwNzJDMC42NzQzMjUgNS4wMDA3MiAwLjYzNDM1OCA1LjAwMDcyIDAuNTg0NCA0Ljk4MDc0QzAuMzE0NjI1IDQuOTAwOCAwLjE2NDc1IDQuNjMxMDMgMC4yNDQ2ODMgNC4zNjEyNUMwLjk3NDA3NSAxLjc5MzM5IDMuMzQyMSAwLjAwNDg4MjgxIDYuMDA5ODggMC4wMDQ4ODI4MUM4LjA1ODE3IDAuMDA0ODgyODEgOS45MTY2MiAxLjAyNDAzIDExLjAwNTcgMi42OTI2NFYxLjUwMzYzQzExLjAwNTcgMS4yMjM4NyAxMS4yMjU1IDEuMDA0MDUgMTEuNTA1MyAxLjAwNDA1QzExLjc4NTEgMS4wMDQwNSAxMi4wMDQ5IDEuMjIzODcgMTIuMDA0OSAxLjUwMzYzWk0xMS40MjU0IDcuMDE5MDRDMTEuMTY1NiA2Ljk0OTEgMTAuODg1OCA3LjA5ODk3IDEwLjgwNTkgNy4zNjg3NUMxMC4xOTY0IDkuNTA2OTYgOC4yMjgwMyAxMS4wMDU3IDUuOTk5ODkgMTEuMDA1N0MzLjk5MTU2IDExLjAwNTcgMi4yMjMwMyA5LjgzNjY5IDEuNDIzNyA4LjAwODIxSDMuNTAxOTdDMy43ODE3MyA4LjAwODIxIDQuMDAxNTUgNy43ODg0IDQuMDAxNTUgNy41MDg2M0M0LjAwMTU1IDcuMjI4ODYgMy43ODE3MyA3LjAwOTA1IDMuNTAxOTcgNy4wMDkwNUgwLjUwNDQ2NkMwLjIyNDcgNy4wMDkwNSAwLjAwNDg4MjgxIDcuMjI4ODYgMC4wMDQ4ODI4MSA3LjUwODYzVjEwLjUwNjFDMC4wMDQ4ODI4MSAxMC43ODU5IDAuMjI0NyAxMS4wMDU3IDAuNTA0NDY2IDExLjAwNTdDMC43ODQyMzMgMTEuMDA1NyAxLjAwNDA1IDEwLjc4NTkgMS4wMDQwNSAxMC41MDYxVjkuMzE3MTJDMi4wOTMxNCAxMC45NzU3IDMuOTUxNTkgMTIuMDA0OSA1Ljk5OTg5IDEyLjAwNDlDOC42Njc2NiAxMi4wMDQ5IDExLjAzNTcgMTAuMjE2NCAxMS43NjUxIDcuNjQ4NTFDMTEuODQ1IDcuMzc4NzQgMTEuNjg1MSA3LjEwODk2IDExLjQxNTQgNy4wMjkwM0wxMS40MjU0IDcuMDE5MDRaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=sync-compact)
+  /// Codicon icon named "sync compact".
+  static const IconData syncCompact = IconData(
+    0xECBA,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0yLjE1MDM5IDMuMTI5ODhDMi4zNTA0IDIuOTMwMTMgMi42NjA0MyAyLjkyOTk2IDIuODYwMzUgMy4xMjk4OEw1LjM2MDM1IDUuNjI5ODhDNS41NjAxNCA1LjgyOTgxIDUuNTYwMDYgNi4xMzk4OCA1LjM2MDM1IDYuMzM5ODRMMi44NjAzNSA4LjgzOTg0QzIuNzYwMzUgOC45Mzk4NCAyLjYyOTc3IDguOTkwMjMgMi41MDk3NyA4Ljk5MDIzTDIuNSA5QzIuMzcgOSAyLjI0MDM5IDguOTQ5NjEgMi4xNTAzOSA4Ljg0OTYxQzEuOTUwMzkgOC42NDk2MSAxLjk1MDM5IDguMzM5NjUgMi4xNTAzOSA4LjEzOTY1TDQuMjk5OCA1Ljk5MDIzTDIuMTUwMzkgMy44Mzk4NEMxLjk1MDM5IDMuNjM5ODQgMS45NTAzOSAzLjMyOTg4IDIuMTUwMzkgMy4xMjk4OFoiLz48cGF0aCBkPSJNOS41IDhDOS43OCA4IDEwIDguMjIgMTAgOC41QzEwIDguNzggOS43OCA5IDkuNSA5SDUuNUM1LjIyIDkgNSA4Ljc4IDUgOC41QzUgOC4yMiA1LjIyIDggNS41IDhIOS41WiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOS41IDBDMTAuODggMCAxMiAxLjEyIDEyIDIuNVY5LjVDMTIgMTAuODggMTAuODggMTIgOS41IDEySDIuNUMxLjEyIDEyIDAgMTAuODggMCA5LjVWMi41QzAgMS4xMiAxLjEyIDAgMi41IDBIOS41Wk0yLjUgMUMxLjY3IDEgMSAxLjY3IDEgMi41VjkuNUMxIDEwLjMzIDEuNjcgMTEgMi41IDExSDkuNUMxMC4zMyAxMSAxMSAxMC4zMyAxMSA5LjVWMi41QzExIDEuNjcgMTAuMzMgMSA5LjUgMUgyLjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=terminal-compact)
+  /// Codicon icon named "terminal compact".
+  static const IconData terminalCompact = IconData(
+    0xECBB,
     fontFamily: 'Codicon',
     fontPackage: 'vscode_codicons',
   );
@@ -5191,7 +5623,351 @@ class Codicons {
   /// [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02LjYwNyAxNEM2Ljc5IDE0LjM1NyA3LjAwNyAxNC42OTMgNy4yNjEgMTVIMy41QzMuMjI0IDE1IDMgMTQuNzc2IDMgMTQuNUMzIDE0LjIyNCAzLjIyNCAxNCAzLjUgMTRINVYxMkgzQzEuODk1IDEyIDEgMTEuMTA1IDEgMTBWM0MxIDEuODk1IDEuODk1IDEgMyAxSDEzQzE0LjEwNSAxIDE1IDEuODk1IDE1IDNWNy4yNjFDMTQuNjkzIDcuMDA4IDE0LjM1NyA2Ljc5MSAxNCA2LjYwN1YzQzE0IDIuNDQ4IDEzLjU1MiAyIDEzIDJIM0MyLjQ0OCAyIDIgMi40NDggMiAzVjEwQzIgMTAuNTUyIDIuNDQ4IDExIDMgMTFINi4wMjVDNi4wMSAxMS4xNjUgNiAxMS4zMzEgNiAxMS41QzYgMTEuNjY5IDYuMDEgMTEuODM1IDYuMDI1IDEySDZWMTRINi42MDdaTTE2IDExLjVDMTYgMTMuOTg1IDEzLjk4NSAxNiAxMS41IDE2QzkuMDE1IDE2IDcgMTMuOTg1IDcgMTEuNUM3IDkuMDE1IDkuMDE1IDcgMTEuNSA3QzEzLjk4NSA3IDE2IDkuMDE1IDE2IDExLjVaTTE0IDExLjVDMTQgMTEuMjI0IDEzLjc3NiAxMSAxMy41IDExSDEyVjlDMTIgOC43MjQgMTEuNzc2IDguNSAxMS41IDguNUMxMS4yMjQgOC41IDExIDguNzI0IDExIDlWMTEuNUMxMSAxMS43NzYgMTEuMjI0IDEyIDExLjUgMTJIMTMuNUMxMy43NzYgMTIgMTQgMTEuNzc2IDE0IDExLjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=vm-pending)
   /// Codicon icon named "vm pending".
   static const IconData vmPending = IconData(
-    0xF102,
+    0xECBC,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik05LjY1MDM5IDAuNjMwNDY5QzkuODUwMzkgMC40MzA0NjkgMTAuMTYwNCAwLjQzMDQ2OSAxMC4zNjA0IDAuNjMwNDY5TDExLjg2MDQgMi4xMzA0N0MxMi4wNiAyLjMzMDQ4IDEyLjA2MDIgMi42NDA1NiAxMS44NjA0IDIuODQwNDNMMTAuMzYwNCA0LjM0MDQzQzEwLjI2MDQgNC40NDA0MiAxMC4xMjk4IDQuNDg5ODQgMTAuMDA5OCA0LjQ4OTg0TDEwIDQuNDk5NjFDOS44NzAxMiA0LjQ5OTYxIDkuNzQwMzggNC40NTAwMSA5LjY1MDM5IDQuMzUwMkM5LjQ1MDM5IDQuMTUwMiA5LjQ1MDM5IDMuODQwMjMgOS42NTAzOSAzLjY0MDIzTDEwLjI5IDIuOTk5NjFINi41QzYuMjIwMTUgMi45OTk2MSA2LjAwMDI0IDMuMjE5ODMgNiAzLjQ5OTYxVjguNDk5NjFDNiA4Ljc3OTYxIDYuMjIgOC45OTk2MSA2LjUgOC45OTk2MUgxMC4zMDk2TDkuNjUwMzkgOC4zNDA0M0M5LjQ1MDM5IDguMTQwNDMgOS40NTA0IDcuODMwNDcgOS42NTAzOSA3LjYzMDQ3QzkuODUwMzkgNy40MzA0NyAxMC4xNjA0IDcuNDMwNDcgMTAuMzYwNCA3LjYzMDQ3TDExLjg2MDQgOS4xMzA0N0MxMi4wNiA5LjMzMDQ4IDEyLjA2MDIgOS42NDA1NiAxMS44NjA0IDkuODQwNDNMMTAuMzYwNCAxMS4zNDA0QzEwLjI2MDQgMTEuNDQwNCAxMC4xMjk4IDExLjQ4OTggMTAuMDA5OCAxMS40ODk4TDEwIDExLjQ5OTZDOS44NzAxMiAxMS40OTk2IDkuNzQwMzggMTEuNDUgOS42NTAzOSAxMS4zNTAyQzkuNDUwMzkgMTEuMTUwMiA5LjQ1MDM5IDEwLjg0MDIgOS42NTAzOSAxMC42NDAyTDEwLjI5IDkuOTk5NjFINi41QzUuNjcgOS45OTk2MSA1IDkuMzI5NjEgNSA4LjQ5OTYxVjYuNDk5NjFIMC41QzAuMjIgNi40OTk2MSAwIDYuMjc5NjEgMCA1Ljk5OTYxQzAuMDAwMjQyODc0IDUuNzE5ODMgMC4yMjAxNTUgNS40OTk2MSAwLjUgNS40OTk2MUg1VjMuNDk5NjFDNS4wMDAyNSAyLjY2OTgyIDUuNjcwMTUgMS45OTk2MSA2LjUgMS45OTk2MUgxMC4zMDk2TDkuNjUwMzkgMS4zNDA0M0M5LjQ1MDM5IDEuMTQwNDMgOS40NTA0IDAuODMwNDY5IDkuNjUwMzkgMC42MzA0NjlaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=worktree-compact)
+  /// Codicon icon named "worktree compact".
+  static const IconData worktreeCompact = IconData(
+    0xECBD,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xIDMuNUMxIDIuMTIgMi4xMiAxIDMuNSAxSDEwLjVDMTEuODggMSAxMyAyLjEyIDEzIDMuNVY1LjAzQzEyLjY3IDQuOTkgMTIuMzMgNC45OSAxMiA1LjAzVjVIMlYxMC41QzIgMTEuMzMgMi42NyAxMiAzLjUgMTJINi40NUw1LjczIDEyLjcyQzUuNjQgMTIuODEgNS41NiAxMi45IDUuNDkgMTNIMy41QzIuMTIgMTMgMSAxMS44OCAxIDEwLjVWMy41Wk04LjkzIDYuNzJMOC4zNSA2LjE0QzguMTUgNS45NCA3Ljg0IDUuOTQgNy42NCA2LjE0QzcuNDQgNi4zNCA3LjQ0IDYuNjUgNy42NCA2Ljg1TDguMzggNy41OUM4LjUyIDcuMjggOC43IDYuOTkgOC45MiA2LjcySDguOTNaTTIgNEgxMlYzLjVDMTIgMi42NyAxMS4zMyAyIDEwLjUgMkgzLjVDMi42NyAyIDIgMi42NyAyIDMuNVY0Wk02LjM1IDYuODVDNi41NSA2LjY1IDYuNTUgNi4zNCA2LjM1IDYuMTRDNi4xNSA1Ljk0IDUuODQgNS45NCA1LjY0IDYuMTRMMy42NCA4LjE0QzMuNDQgOC4zNCAzLjQ0IDguNjUgMy42NCA4Ljg1TDUuNjQgMTAuODVDNS44NCAxMS4wNSA2LjE1IDExLjA1IDYuMzUgMTAuODVDNi41NSAxMC42NSA2LjU1IDEwLjM0IDYuMzUgMTAuMTRMNC43IDguNDlMNi4zNSA2Ljg0VjYuODVaTTEyLjg5IDYuMDJDMTMuMjYgNi4wNiAxMy4zNiA2LjUgMTMuMSA2Ljc2TDEyLjEyIDcuNzRDMTEuNTMgOC4zMyAxMS41MyA5LjI4IDEyLjEyIDkuODdDMTIuNzEgMTAuNDYgMTMuNjYgMTAuNDYgMTQuMjUgOS44N0wxNS4yMyA4Ljg5QzE1LjQ5IDguNjMgMTUuOTMgOC43MyAxNS45NyA5LjFDMTYuMDkgMTAuMTMgMTUuNzUgMTEuMjEgMTQuOTYgMTJDMTMuOTcgMTIuOTkgMTIuNTMgMTMuMjcgMTEuMjkgMTIuODNMOC41NiAxNS41NkM3Ljk3IDE2LjE1IDcuMDIgMTYuMTUgNi40MyAxNS41NkM1Ljg0IDE0Ljk3IDUuODQgMTQuMDIgNi40MyAxMy40M0w5LjE2IDEwLjdDOC43MiA5LjQ2IDguOTkgOC4wMiA5Ljk5IDcuMDNDMTAuNzggNi4yNCAxMS44NiA1LjkgMTIuODkgNi4wMloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=developer-tools)
+  /// Codicon icon named "developer tools".
+  static const IconData developerTools = IconData(
+    0xECBE,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik05IDEwSDNDMS4zNSAxMCAwIDguNjUgMCA3QzAgNS41MSAxLjEgNC4yNiAyLjUzIDQuMDRDMi43NiAyLjMzIDQuMjMgMSA2IDFDNy43NyAxIDkuMjQgMi4zMiA5LjQ3IDQuMDRDMTAuOSA0LjI3IDEyIDUuNTEgMTIgN0MxMiA4LjY1IDEwLjY1IDEwIDkgMTBaTTYgMkM0LjYyIDIgMy41IDMuMTIgMy41IDQuNUMzLjUgNC43OCAzLjI4IDUgMyA1QzEuOSA1IDEgNS45IDEgN0MxIDguMSAxLjkgOSAzIDlIOUMxMC4xIDkgMTEgOC4xIDExIDdDMTEgNS45IDEwLjEgNSA5IDVDOC43MiA1IDguNSA0Ljc4IDguNSA0LjVDOC41IDMuMTIgNy4zOCAyIDYgMloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=cloud-compact)
+  /// Codicon icon named "cloud compact".
+  static const IconData cloudCompact = IconData(
+    0xECBF,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04LjAyMDAyIDExSDcuMDAwMDJDNi43MjAwMiAxMSA2LjUwMDAyIDEwLjc4IDYuNTAwMDIgMTAuNUM2LjUwMDAyIDEwLjIyIDYuNzIwMDIgMTAgNy4wMDAwMiAxMEg4LjAyMDAyQzguMjAwMDIgMTAgOC4zNjAwMiA5LjkgOC40NTAwMiA5Ljc1TDEwLjQ3IDYuMjVDMTAuNTYgNi4xIDEwLjU2IDUuOSAxMC40NyA1Ljc1TDguNDUwMDIgMi4yNUM4LjI0MDAyIDEuODkgNy42MTAwMiAxLjk5IDcuNTAwMDIgMi40TDUuNDYwMDIgOS44N0M1LjI4MDAyIDEwLjU0IDQuNjcwMDIgMTEgMy45ODAwMiAxMUMzLjQ1MDAyIDExIDIuOTUwMDIgMTAuNzEgMi42ODAwMiAxMC4yNUwwLjY2MDAyIDYuNzVDMC4zOTAwMiA2LjI5IDAuMzkwMDIgNS43MSAwLjY2MDAyIDUuMjVMMi42ODAwMiAxLjc1QzIuOTUwMDIgMS4yOSAzLjQ0MDAyIDEgMy45ODAwMiAxSDUuMDAwMDJDNS4yODAwMiAxIDUuNTAwMDIgMS4yMiA1LjUwMDAyIDEuNUM1LjUwMDAyIDEuNzggNS4yODAwMiAyIDUuMDAwMDIgMkgzLjk4MDAyQzMuODAwMDIgMiAzLjY0MDAyIDIuMSAzLjU1MDAyIDIuMjVMMS41MzAwMiA1Ljc1QzEuNDQwMDIgNS45IDEuNDQwMDIgNi4xIDEuNTMwMDIgNi4yNUwzLjU1MDAyIDkuNzVDMy43NjAwMiAxMC4xMSA0LjM5MDAyIDEwLjAxIDQuNTAwMDIgOS42TDYuNTQwMDIgMi4xM0M2LjcyMDAyIDEuNDYgNy4zMzAwMiAxIDguMDIwMDIgMUM4LjU1MDAyIDEgOS4wNTAwMiAxLjI5IDkuMzIwMDIgMS43NUwxMS4zNCA1LjI1QzExLjYxIDUuNzEgMTEuNjEgNi4yOSAxMS4zNCA2Ljc1TDkuMzIwMDIgMTAuMjVDOS4wNTAwMiAxMC43MSA4LjU2MDAyIDExIDguMDIwMDIgMTFaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=agent-compact)
+  /// Codicon icon named "agent compact".
+  static const IconData agentCompact = IconData(
+    0xECC0,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDFDMy4yNCAxIDEgMy4yNCAxIDZDMSA2Ljg3IDEuMjIgNy42OSAxLjYxIDguNEwxLjAyIDEwLjM1QzAuOTcgMTAuNTMgMS4wMiAxMC43MiAxLjE0IDEwLjg1QzEuMjcgMTAuOTggMS40NiAxMS4wMyAxLjY0IDEwLjk3TDMuNTkgMTAuMzhDNC4zIDEwLjc3IDUuMTMgMTEgNiAxMUM4Ljc2IDExIDExIDguNzYgMTEgNkMxMSAzLjI0IDguNzYgMSA2IDFaTTYgMTBDNS4yMyAxMCA0LjUyIDkuNzkgMy45MSA5LjQxQzMuNzkgOS4zNCAzLjY0IDkuMzIgMy41IDkuMzZMMi4yNCA5Ljc0TDIuNjIgOC40OEMyLjY2IDguMzQgMi42NCA4LjIgMi41NyA4LjA3QzIuMiA3LjQ2IDEuOTkgNi43NSAxLjk5IDUuOTlDMS45OSAzLjc4IDMuNzggMS45OSA1Ljk5IDEuOTlDOC4yIDEuOTkgOS45OSAzLjc4IDkuOTkgNS45OUM5Ljk5IDguMiA4LjIgOS45OSA1Ljk5IDkuOTlMNiAxMFpNNi42MiA4LjVDNi42MiA4Ljg0IDYuMzQgOS4xMiA2IDkuMTJDNS42NiA5LjEyIDUuMzggOC44NCA1LjM4IDguNUM1LjM4IDguMTYgNS42NiA3Ljg4IDYgNy44OEM2LjM0IDcuODggNi42MiA4LjE2IDYuNjIgOC41Wk03Ljg1IDQuOTVDNy44NSA1LjU0IDcuNjQgNS44NiA3LjEyIDYuMjdMNi44NCA2LjQ4QzYuNTkgNi42NyA2LjUxIDYuNzggNi40OSA2LjkzVjcuMDlDNi40NCA3LjMyIDYuMjMgNy41IDUuOTkgNy41QzUuNzEgNy41IDUuNDkgNy4yOCA1LjQ5IDdDNS40OSA2LjQzIDUuNyA2LjEyIDYuMjEgNS43MUw2LjQ5IDUuNDlDNi43OCA1LjI2IDYuODUgNS4xNSA2Ljg1IDQuOTVDNi44NSA0LjM5IDYuNDcgNCA2IDRDNS41MyA0IDUuMTQgNC4zNyA1LjE1IDQuOTRDNS4xNSA1LjIyIDQuOTMgNS40NCA0LjY1IDUuNDRDNC4zNyA1LjQ0IDQuMTUgNS4yMiA0LjE1IDQuOTRDNC4xNCAzLjggNC45NiAyLjk5IDYgMi45OUM3LjA0IDIuOTkgNy44NSAzLjg0IDcuODUgNC45NFY0Ljk1WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=ask-compact)
+  /// Codicon icon named "ask compact".
+  static const IconData askCompact = IconData(
+    0xECC1,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xLjUgNEg2LjA5QzYuMyA0LjU4IDYuODUgNSA3LjUgNUM4LjE1IDUgOC43MSA0LjU4IDguOTEgNEgxMC41QzEwLjc4IDQgMTEgMy43OCAxMSAzLjVDMTEgMy4yMiAxMC43OCAzIDEwLjUgM0g4LjkxQzguNyAyLjQyIDguMTUgMiA3LjUgMkM2Ljg1IDIgNi4yOSAyLjQyIDYuMDkgM0gxLjVDMS4yMiAzIDEgMy4yMiAxIDMuNUMxIDMuNzggMS4yMiA0IDEuNSA0Wk03LjUgM0M3Ljc4IDMgOCAzLjIyIDggMy41QzggMy43OCA3Ljc4IDQgNy41IDRDNy4yMiA0IDcgMy43OCA3IDMuNUM3IDMuMjIgNy4yMiAzIDcuNSAzWk0xMC41IDhINS45MUM1LjcgNy40MiA1LjE1IDcgNC41IDdDMy44NSA3IDMuMjkgNy40MiAzLjA5IDhIMS41QzEuMjIgOCAxIDguMjIgMSA4LjVDMSA4Ljc4IDEuMjIgOSAxLjUgOUgzLjA5QzMuMyA5LjU4IDMuODUgMTAgNC41IDEwQzUuMTUgMTAgNS43MSA5LjU4IDUuOTEgOUgxMC41QzEwLjc4IDkgMTEgOC43OCAxMSA4LjVDMTEgOC4yMiAxMC43OCA4IDEwLjUgOFpNNC41IDlDNC4yMiA5IDQgOC43OCA0IDguNUM0IDguMjIgNC4yMiA4IDQuNSA4QzQuNzggOCA1IDguMjIgNSA4LjVDNSA4Ljc4IDQuNzggOSA0LjUgOVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=settings-compact)
+  /// Codicon icon named "settings compact".
+  static const IconData settingsCompact = IconData(
+    0xECC2,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMCAwSDJDMC45IDAgMCAwLjkgMCAyVjhDMCA5LjEgMC45IDEwIDIgMTBINFYxMUgyLjVDMi4yMiAxMSAyIDExLjIyIDIgMTEuNUMyIDExLjc4IDIuMjIgMTIgMi41IDEySDkuNUM5Ljc4IDEyIDEwIDExLjc4IDEwIDExLjVDMTAgMTEuMjIgOS43OCAxMSA5LjUgMTFIOFYxMEgxMEMxMS4xIDEwIDEyIDkuMSAxMiA4VjJDMTIgMC45IDExLjEgMCAxMCAwWk03IDExSDVWMTBIN1YxMVpNMTEgOEMxMSA4LjU1IDEwLjU1IDkgMTAgOUgyQzEuNDUgOSAxIDguNTUgMSA4VjJDMSAxLjQ1IDEuNDUgMSAyIDFIMTBDMTAuNTUgMSAxMSAxLjQ1IDExIDJWOFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=vm-compact)
+  /// Codicon icon named "vm compact".
+  static const IconData vmCompact = IconData(
+    0xECC3,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjUgMTAuNUMyLjY3IDEwLjUgMiA5LjgzIDIgOVYzQzIgMi4xNyAyLjY3IDEuNSAzLjUgMS41QzMuNzYgMS41IDQuMDIgMS41NyA0LjI0IDEuN0w5Ljg3IDQuOTJDMTAuMjYgNS4xNCAxMC41IDUuNTYgMTAuNSA2LjAxQzEwLjUgNi40NiAxMC4yNiA2Ljg3IDkuODcgNy4xTDQuMjQgMTAuMzJDNC4wMSAxMC40NSAzLjc2IDEwLjUyIDMuNSAxMC41MlYxMC41Wk0zLjUgMi41QzMuMjIgMi41IDMgMi43MiAzIDNWOUMzIDkuMzYgMy40MyA5LjYxIDMuNzUgOS40M0w5LjM3IDYuMjFDOS40MyA2LjE3IDkuNSA2LjEgOS41IDUuOTlDOS41IDUuODggOS40MyA1LjgxIDkuMzcgNS43N0wzLjc1IDIuNTZDMy42NyAyLjUyIDMuNTkgMi41IDMuNSAyLjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=run-compact)
+  /// Codicon icon named "run compact".
+  static const IconData runCompact = IconData(
+    0xECC4,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTQuNDkwMiA3QzE1LjMyMDEgNy4wMDAxMyAxNS45OTAyIDcuNjcwMDggMTUuOTkwMiA4LjVWMTIuNUMxNS45OTAyIDEzLjMyOTkgMTUuMzIwMSAxMy45OTk5IDE0LjQ5MDIgMTRIMTMuOTkwMlYxNS41QzEzLjk5MDIgMTUuNyAxMy44Njk3IDE1Ljg4IDEzLjY3OTcgMTUuOTZDMTMuNjE5OCAxNS45ODk4IDEzLjU1MDEgMTYgMTMuNDkwMiAxNkMxMy4zNjAyIDE2IDEzLjIzOTYgMTUuOTQ5NiAxMy4xMzk2IDE1Ljg0OTZMMTEuMjkgMTRIOC41QzcuNjcgMTQgNyAxMy4zMyA3IDEyLjVWOC41QzcgNy42NyA3LjY3IDcgOC41IDdIMTQuNDkwMlpNOS41IDExQzkuMjIgMTEgOSAxMS4yMiA5IDExLjVDOSAxMS43OCA5LjIyIDEyIDkuNSAxMkgxMy41QzEzLjc4IDEyIDE0IDExLjc4IDE0IDExLjVDMTQgMTEuMjIgMTMuNzggMTEgMTMuNSAxMUg5LjVaTTkuNSA5QzkuMjIgOSA5IDkuMjIgOSA5LjVDOSA5Ljc4IDkuMjIgMTAgOS41IDEwSDEzLjVDMTMuNzggMTAgMTQgOS43OCAxNCA5LjVDMTQgOS4yMiAxMy43OCA5IDEzLjUgOUg5LjVaIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zLjUgMUM0Ljg4IDEgNiAyLjEyIDYgMy41QzYgNC43MSA1LjE0IDUuNzIwMiA0IDUuOTUwMlYxMC4wNDk4QzUuMTQgMTAuMjc5OCA2IDExLjI5IDYgMTIuNUM2IDEzLjg4IDQuODggMTUgMy41IDE1QzIuMTIgMTUgMSAxMy44OCAxIDEyLjVDMSAxMS4yOSAxLjg2IDEwLjI3OTggMyAxMC4wNDk4VjUuOTUwMkMxLjg2IDUuNzIwMiAxIDQuNzEgMSAzLjVDMSAyLjEyIDIuMTIgMSAzLjUgMVpNMy41IDExQzIuNjcgMTEgMiAxMS42NyAyIDEyLjVDMiAxMy4zMyAyLjY3IDE0IDMuNSAxNEM0LjMzIDE0IDUgMTMuMzMgNSAxMi41QzUgMTEuNjcgNC4zMyAxMSAzLjUgMTFaTTMuNSAyQzIuNjcgMiAyIDIuNjcgMiAzLjVDMiA0LjMzIDIuNjcgNSAzLjUgNUM0LjMzIDUgNSA0LjMzIDUgMy41QzUgMi42NyA0LjMzIDIgMy41IDJaIi8+PHBhdGggZD0iTTkuMTUwMzkgMS4xNTAzOUM5LjM0MDM5IDAuOTUwMzkxIDkuNjU5NjEgMC45NTAzOTEgOS44NDk2MSAxLjE1MDM5QzEwLjA0OTYgMS4zNDAzOSAxMC4wNDk2IDEuNjU5NjEgOS44NDk2MSAxLjg0OTYxTDguNzA5OTYgM0gxMC41QzExLjg4IDMgMTMgNC4xMiAxMyA1LjVWNkgxMlY1LjVDMTIgNC42NyAxMS4zMyA0IDEwLjUgNEg4LjcwOTk2TDkuODQ5NjEgNS4xNTAzOUMxMC4wNDk2IDUuMzQwMzkgMTAuMDQ5NiA1LjY1OTYxIDkuODQ5NjEgNS44NDk2MUM5LjY1OTYxIDYuMDQ5NjEgOS4zNDAzOSA2LjA0OTYxIDkuMTUwMzkgNS44NDk2MUw3LjE1MDM5IDMuODQ5NjFDNi45NTAzOSAzLjY1OTYxIDYuOTUwMzkgMy4zNDAzOSA3LjE1MDM5IDMuMTUwMzlMOS4xNTAzOSAxLjE1MDM5WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-comment)
+  /// Codicon icon named "git pull request comment".
+  static const IconData gitPullRequestComment = IconData(
+    0xECC5,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDMuNUM2IDIuMTIgNC44OCAxIDMuNSAxQzIuMTIgMSAxIDIuMTIgMSAzLjVDMSA0LjcxIDEuODYgNS43MiAzIDUuOTVWMTAuMDVDMS44NiAxMC4yOCAxIDExLjI5IDEgMTIuNUMxIDEzLjg4IDIuMTIgMTUgMy41IDE1QzQuODggMTUgNiAxMy44OCA2IDEyLjVDNiAxMS4yOSA1LjE0IDEwLjI4IDQgMTAuMDVWNS45NUM1LjE0IDUuNzIgNiA0LjcxIDYgMy41Wk01IDEyLjVDNSAxMy4zMyA0LjMzIDE0IDMuNSAxNEMyLjY3IDE0IDIgMTMuMzMgMiAxMi41QzIgMTEuNjcgMi42NyAxMSAzLjUgMTFDNC4zMyAxMSA1IDExLjY3IDUgMTIuNVpNMy41IDVDMi42NyA1IDIgNC4zMyAyIDMuNUMyIDIuNjcgMi42NyAyIDMuNSAyQzQuMzMgMiA1IDIuNjcgNSAzLjVDNSA0LjMzIDQuMzMgNSAzLjUgNVpNNy4xNSAzLjg1QzYuOTUgMy42NiA2Ljk1IDMuMzQgNy4xNSAzLjE1TDkuMTUgMS4xNUM5LjM0IDAuOTUgOS42NiAwLjk1IDkuODUgMS4xNUMxMC4wNSAxLjM0IDEwLjA1IDEuNjYgOS44NSAxLjg1TDguNzEgM0gxMC41QzExLjg4IDMgMTMgNC4xMiAxMyA1LjVWNi4yMUMxMi42OCA2LjEyIDEyLjM0IDYuMDUgMTIgNi4wMlY1LjQ5QzEyIDQuNjYgMTEuMzMgMy45OSAxMC41IDMuOTlIOC43MUw5Ljg1IDUuMTRDMTAuMDUgNS4zMyAxMC4wNSA1LjY1IDkuODUgNS44NEM5LjY2IDYuMDQgOS4zNCA2LjA0IDkuMTUgNS44NEw3LjE1IDMuODRWMy44NVpNMTEuNSA3QzkuMDIgNyA3IDkuMDIgNyAxMS41QzcgMTMuOTggOS4wMiAxNiAxMS41IDE2QzEzLjk4IDE2IDE2IDEzLjk4IDE2IDExLjVDMTYgOS4wMiAxMy45OCA3IDExLjUgN1pNMTMuNSAxMy41QzEzLjMgMTMuNyAxMi45OSAxMy43IDEyLjc5IDEzLjVMMTEuNSAxMi4yMUwxMC4yMSAxMy41QzEwLjAxIDEzLjcgOS43IDEzLjcgOS41IDEzLjVDOS4zIDEzLjMgOS4zIDEyLjk5IDkuNSAxMi43OUwxMC43OSAxMS41TDkuNSAxMC4yMUM5LjMgMTAuMDIgOS4zIDkuNyA5LjUgOS41QzkuNyA5LjMgMTAuMDEgOS4zIDEwLjIxIDkuNUwxMS41IDEwLjc5TDEyLjczIDkuNUMxMi45MyA5LjMgMTMuMjQgOS4zIDEzLjQ0IDkuNUMxMy42NCA5LjcgMTMuNjQgMTAuMDEgMTMuNDQgMTAuMjFMMTIuMjEgMTEuNUwxMy41IDEyLjc5QzEzLjcgMTIuOTkgMTMuNyAxMy4zIDEzLjUgMTMuNVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=git-pull-request-error)
+  /// Codicon icon named "git pull request error".
+  static const IconData gitPullRequestError = IconData(
+    0xECC6,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMi41IDFIMy41QzIuMTIgMSAxIDIuMTIgMSAzLjVWMTIuNUMxIDEzLjg4IDIuMTIgMTUgMy41IDE1SDEyLjVDMTMuODggMTUgMTUgMTMuODggMTUgMTIuNVYzLjVDMTUgMi4xMiAxMy44OCAxIDEyLjUgMVpNNiAxNEgzLjVDMi42NyAxNCAyIDEzLjMzIDIgMTIuNVYzLjVDMiAyLjY3IDIuNjcgMiAzLjUgMkg2VjE0Wk0xMi4zNSA4LjM1TDkuMzUgMTEuMzVDOS4yNSAxMS40NSA5LjEyIDExLjUgOSAxMS41QzguODggMTEuNSA4Ljc0IDExLjQ1IDguNjUgMTEuMzVDOC40NSAxMS4xNSA4LjQ1IDEwLjg0IDguNjUgMTAuNjRMMTEuMyA3Ljk5TDguNjUgNS4zNEM4LjQ1IDUuMTQgOC40NSA0LjgzIDguNjUgNC42M0M4Ljg1IDQuNDMgOS4xNiA0LjQzIDkuMzYgNC42M0wxMi4zNiA3LjYzQzEyLjU2IDcuODMgMTIuNTYgOC4xNCAxMi4zNiA4LjM0TDEyLjM1IDguMzVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=right-panel-hide)
+  /// Codicon icon named "right panel hide".
+  static const IconData rightPanelHide = IconData(
+    0xECC7,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMi41IDFIMy41QzIuMTIgMSAxIDIuMTIgMSAzLjVWMTIuNUMxIDEzLjg4IDIuMTIgMTUgMy41IDE1SDEyLjVDMTMuODggMTUgMTUgMTMuODggMTUgMTIuNVYzLjVDMTUgMi4xMiAxMy44OCAxIDEyLjUgMVpNNiAxNEgzLjVDMi42NyAxNCAyIDEzLjMzIDIgMTIuNVYzLjVDMiAyLjY3IDIuNjcgMiAzLjUgMkg2VjE0Wk0xNCAxMi41QzE0IDEzLjMzIDEzLjMzIDE0IDEyLjUgMTRIN1YySDEyLjVDMTMuMzMgMiAxNCAyLjY3IDE0IDMuNVYxMi41Wk0xMi4zNSA1LjM1TDkuNyA4TDEyLjM1IDEwLjY1QzEyLjU1IDEwLjg1IDEyLjU1IDExLjE2IDEyLjM1IDExLjM2QzEyLjI1IDExLjQ2IDEyLjEyIDExLjUxIDEyIDExLjUxQzExLjg4IDExLjUxIDExLjc0IDExLjQ2IDExLjY1IDExLjM2TDguNjUgOC4zNkM4LjQ1IDguMTYgOC40NSA3Ljg1IDguNjUgNy42NUwxMS42NSA0LjY1QzExLjg1IDQuNDUgMTIuMTYgNC40NSAxMi4zNiA0LjY1QzEyLjU2IDQuODUgMTIuNTYgNS4xNiAxMi4zNiA1LjM2TDEyLjM1IDUuMzVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=right-panel-show)
+  /// Codicon icon named "right panel show".
+  static const IconData rightPanelShow = IconData(
+    0xECC8,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik01LjkyOTk5IDUuNzY5OEw3LjczOTk5IDcuMTQ5OEM3LjgyOTk5IDcuMjE5OCA3LjkzOTk5IDcuMjQ5OCA4LjAzOTk5IDcuMjQ5OEM4LjEzOTk5IDcuMjQ5OCA4LjI0OTk5IDcuMjE5OCA4LjMzOTk5IDcuMTQ5OEwxMC44IDUuMjg5OEMxMC45MiA1LjE5OTggMTEgNS4wNDk4IDExIDQuODg5OFYxLjQ3OThDMTEgMS4yNzk4IDEwLjg4IDEuMDk5OCAxMC43IDEuMDE5OEMxMC41MiAwLjkzOTc5OCAxMC4zMSAwLjk2OTc5OCAxMC4xNiAxLjEwOThMNS44ODk5OSA0Ljk5OThDNS43Nzk5OSA1LjA5OTggNS43MTk5OSA1LjIzOTggNS43Mjk5OSA1LjM4OThDNS43Mzk5OSA1LjUzOTggNS44MDk5OSA1LjY3OTggNS45Mjk5OSA1Ljc2OThaTTkuOTk5OTkgMi42MDk4VjQuNjM5OEw4LjAzOTk5IDYuMTE5OEw3LjAwOTk5IDUuMzM5OEw5Ljk5OTk5IDIuNjA5OFpNMTAuOCAxMC43Mjk4TDEuOTM5OTkgMy45OTk4QzEuNjg5OTkgMy44MTk4IDEuMzI5OTkgMy44Mjk4IDEuMDg5OTkgNC4wMzk4TDAuMjA5OTkgNC44Mzk4QzAuMDY5OTkwMiA0Ljk2OTggLTAuMDEwMDA5OCA1LjE0OTggLTAuMDEwMDA5OCA1LjMyOThDLTAuMDEwMDA5OCA1LjUwOTggMC4wNjk5OTAyIDUuNjk5OCAwLjIwOTk5IDUuODE5OEwxMC4xNiAxNC44ODk4QzEwLjI1IDE0Ljk3OTggMTAuMzcgMTUuMDE5OCAxMC41IDE1LjAxOThDMTAuNTcgMTUuMDE5OCAxMC42NCAxNS4wMDk4IDEwLjcgMTQuOTc5OEMxMC44OCAxNC44OTk4IDExIDE0LjcxOTggMTEgMTQuNTE5OFYxMS4xMDk4QzExIDEwLjk0OTggMTAuOTMgMTAuODA5OCAxMC44IDEwLjcwOThWMTAuNzI5OFpNOS45OTk5OSAxMy4zOTk4TDEuMTU5OTkgNS4zMzk4TDEuNTY5OTkgNC45Njk4TDkuOTk5OTkgMTEuMzY5OFYxMy4zOTk4Wk0xNS40MyAxLjcyOThMMTIuNzIgMC40Mjk3OThDMTIuNTYgMC4zNDk3OTggMTIuMzggMC4zNTk3OTggMTIuMjQgMC40NTk3OThDMTIuMDkgMC41NDk3OTggMTIuMDEgMC43MDk3OTggMTIuMDEgMC44Nzk3OThWMTUuMTI5OEMxMi4wMSAxNS4yOTk4IDEyLjEgMTUuNDU5OCAxMi4yNCAxNS41NDk4QzEyLjMyIDE1LjU5OTggMTIuNDEgMTUuNjI5OCAxMi41MSAxNS42Mjk4QzEyLjU4IDE1LjYyOTggMTIuNjYgMTUuNjA5OCAxMi43MyAxNS41Nzk4TDE1LjQ1IDE0LjI2OThDMTUuNzkgMTQuMDk5OCAxNi4wMSAxMy43NDk4IDE2LjAxIDEzLjM2OThWMi42Mjk4QzE2LjAxIDIuMjQ5OCAxNS43OSAxLjg4OTggMTUuNDQgMS43Mjk4SDE1LjQzWk0xMyAxNC4zMzk4VjEuNjY5OEwxNSAyLjYyOThWMTMuMzY5OEwxMyAxNC4zMjk4VjE0LjMzOThaTTIuMTg5OTkgOC45ODk4QzEuOTk5OTkgOC44MTk4IDEuNzA5OTkgOC44MTk4IDEuNTE5OTkgOC45ODk4TDAuMjA5OTkgMTAuMTc5OEMwLjA2OTk5MDIgMTAuMzA5OCAtOS43NjU4NWUtMDYgMTAuNDc5OCAtOS43NjU4NWUtMDYgMTAuNjY5OEMtOS43NjU4NWUtMDYgMTAuODU5OCAwLjA3OTk5MDIgMTEuMDM5OCAwLjIxOTk5IDExLjE1OThMMS4wOTk5OSAxMS45NTk4QzEuMjE5OTkgMTIuMDY5OCAxLjM3OTk5IDEyLjEyOTggMS41NDk5OSAxMi4xMjk4QzEuNjk5OTkgMTIuMTI5OCAxLjgzOTk5IDEyLjA3OTggMS45NDk5OSAxMS45OTk4TDMuNDA5OTkgMTAuODg5OEMzLjUyOTk5IDEwLjc5OTggMy41OTk5OSAxMC42NTk4IDMuNjA5OTkgMTAuNTA5OEMzLjYxOTk5IDEwLjM1OTggMy41NTk5OSAxMC4yMTk4IDMuNDQ5OTkgMTAuMTE5OEwyLjE5OTk5IDguOTc5OEwyLjE4OTk5IDguOTg5OFpNMS41Njk5OSAxMS4wMzk4TDEuMTU5OTkgMTAuNjY5OEwxLjg1OTk5IDEwLjAzOThMMi4zMjk5OSAxMC40Njk4TDEuNTY5OTkgMTEuMDQ5OFYxMS4wMzk4WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=vscode-insiders-outline)
+  /// Codicon icon named "vscode insiders outline".
+  static const IconData vscodeInsidersOutline = IconData(
+    0xECC9,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTIuMjAwMiAyLjk3MDY3QzEyLjM0MDIgMi44NTA3IDEyLjU0OTcgMi44MzA4OCAxMi43MTk3IDIuOTIwODdDMTIuODg5NiAzLjAxMDgyIDEyLjk5OTkgMy4xODAyNCAxMyAzLjM3MDA5VjEyLjYzMDhDMTIuOTk5OCAxMi44MjA3IDEyLjg4OTYgMTMuMDAwMSAxMi43MTk3IDEzLjA4QzEyLjY0OTggMTMuMTEgMTIuNTggMTMuMTMwOCAxMi41IDEzLjEzMDhDMTIuMzkgMTMuMTMwOCAxMi4yOTAyIDEzLjEwMDIgMTIuMjAwMiAxMy4wMzAyTDYuMDg5ODQgOC40MDAzNkM1Ljk1OTg4IDguMzAwMzYgNS44ODk2NSA4LjE1OTk1IDUuODg5NjUgNy45OTk5N0M1Ljg4OTc5IDcuODQwMTggNS45NzAwMSA3LjY5MDQ4IDYuMDg5ODQgNy42MDA1NUwxMi4yMDAyIDIuOTcwNjdaTTcuMjE5NzMgNy45OTk5N0wxMiAxMS42MjAxVjQuMzgwODNMNy4yMTk3MyA3Ljk5OTk3WiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMC4zNTA1NTRDMTEuMzIgMC4wMzA1NTM3IDExLjg4MDIgLTAuMDI5NjAyNiAxMi4yMDAyIDAuMTkwMzk3TDEyLjYyMDEgMC4zOTA1OTNDMTIuNjU4NCAwLjM5MDY0OSAxMi43MTQ5IDAuNDE3NTAyIDEyLjcxOTcgMC40MTk4OUwxNC43MzA1IDEuMzkwNTlDMTQuNzQwMyAxLjQwMDE1IDE0Ljc1IDEuNDAwMzYgMTQuNzUgMS40MDAzNkwxNS40Mjk3IDEuNzMwNDRIMTUuNDQwNEMxNS43OTAxIDEuODkwNDkgMTYuMDA5NiAyLjI0MDE1IDE2LjAwOTggMi42Mjk4NVYxMy4zNzAxQzE2LjAwOTggMTMuNzUgMTUuNzkwMyAxNC4xMTA0IDE1LjQ0MDQgMTQuMjcwNUwxMi4xNTA0IDE1Ljg2MDNDMTIuMDAwNCAxNS45MzAzIDExLjgyOTcgMTUuOTUwMiAxMS43MTk3IDE1Ljk1MDJDMTEuNDU5OCAxNS45NTAxIDExLjE5OTUgMTUuODQwMSAxMS4wMTk1IDE1LjY2MDFMNC43MDk5NiA5LjkxOTg5TDEuOTU5OTYgMTJDMS42OTk5NyAxMi4xOSAxLjMwOTg1IDEyLjE2MDQgMS4wODk4NCAxMS45NDA0TDAuMjE5NzI3IDExLjE2MDFDMC4wNTk4MzIgMTAuOTcwMiAwIDEwLjgyMDEgMCAxMC42NjAxQzEuMjI0NjRlLTA1IDEwLjYgMC4wMjAyNjEyIDEwLjM3MDMgMC4yMDAxOTUgMTAuMTkwNEwyLjU4OTg0IDcuOTk5OTdMMC4yMDk5NjEgNS44MzAwNUMwLjAxMDA0NDIgNS42MzAwNyAwIDUuMzk5OCAwIDUuMzM5ODFDOS44MDA0ZS0wNSA1LjE4OTkzIDAuMDYwMjU1MSA1LjAzMDI1IDAuMTYwMTU2IDQuOTAwMzZMMS4xMTAzNSA0LjA0MDAxQzEuMjkwNDggMy44NTAyNCAxLjcwMDMxIDMuODEwMDYgMS45NTAyIDMuOTk5OTdMNC43MDAyIDYuMDg5ODFMMTEgMC4zNTA1NTRaTTUuMDU5NTcgNy4wODk4MUM0Ljg3OTU3IDcuMjQ5NzYgNC42MDk5IDcuMjYwMDcgNC40MTk5MiA3LjEyMDA4TDEuNTU5NTcgNC45NTk5M0wxLjE1MDM5IDUuMzMwMDVMMy42Njk5MiA3LjYyMDA4QzMuNzY5OTIgNy43MjAwOCAzLjgzMDA4IDcuODUwMiAzLjgzMDA4IDcuOTkwMkMzLjgzMDA3IDguMTMwMTkgMy43Njk5MiA4LjI3MDMyIDMuNjY5OTIgOC4zNjAzMkwxLjE1MDM5IDEwLjY2MDFMMS41NzAzMSAxMS4wMzAyTDQuNDI5NjkgOC44NzAwOEM0LjUxOTY5IDguODAwMDkgNC42MjA0NyA4Ljc3MDQ4IDQuNzMwNDcgOC43NzA0OEM0Ljg1MDMxIDguNzcwNTggNC45NzA0NCA4LjgxMDQ4IDUuMDcwMzEgOC45MDAzNkwxMS43MDAyIDE0Ljk0MDRMMTIuMjgwMyAxNC42ODA2TDE1IDEzLjM3MDFWMi42Mjk4NUwxMi4yODAzIDEuMzMwMDVDMTIuMjcwOSAxLjMzMDA1IDEyLjI0MzUgMS4zMTI2NSAxMi4yNDAyIDEuMzEwNTFMMTEuNzAwMiAxLjA0OTc3TDUuMDU5NTcgNy4wODk4MVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=vscode-outline)
+  /// Codicon icon named "vscode outline".
+  static const IconData vscodeOutline = IconData(
+    0xECCA,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03IDIuNVYxMy41QzcgMTMuNzggNi43OCAxNCA2LjUgMTRDNi4yMiAxNCA2IDEzLjc4IDYgMTMuNVYyLjVDNiAyLjIyIDYuMjIgMiA2LjUgMkM2Ljc4IDIgNyAyLjIyIDcgMi41Wk05LjUgNEM5LjIyIDQgOSA0LjIyIDkgNC41VjExLjVDOSAxMS43OCA5LjIyIDEyIDkuNSAxMkM5Ljc4IDEyIDEwIDExLjc4IDEwIDExLjVWNC41QzEwIDQuMjIgOS43OCA0IDkuNSA0Wk0xMi41IDZDMTIuMjIgNiAxMiA2LjIyIDEyIDYuNVY5LjVDMTIgOS43OCAxMi4yMiAxMCAxMi41IDEwQzEyLjc4IDEwIDEzIDkuNzggMTMgOS41VjYuNUMxMyA2LjIyIDEyLjc4IDYgMTIuNSA2Wk0zLjUgNUMzLjIyIDUgMyA1LjIyIDMgNS41VjEwLjVDMyAxMC43OCAzLjIyIDExIDMuNSAxMUMzLjc4IDExIDQgMTAuNzggNCAxMC41VjUuNUM0IDUuMjIgMy43OCA1IDMuNSA1WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=voice-mode)
+  /// Codicon icon named "voice mode".
+  static const IconData voiceMode = IconData(
+    0xECCB,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik01IDAuNVYxMS41QzUgMTEuNzggNC43OCAxMiA0LjUgMTJDNC4yMiAxMiA0IDExLjc4IDQgMTEuNVYwLjVDNCAwLjIyIDQuMjIgMCA0LjUgMEM0Ljc4IDAgNSAwLjIyIDUgMC41Wk03LjUgMkM3LjIyIDIgNyAyLjIyIDcgMi41VjkuNUM3IDkuNzggNy4yMiAxMCA3LjUgMTBDNy43OCAxMCA4IDkuNzggOCA5LjVWMi41QzggMi4yMiA3Ljc4IDIgNy41IDJaTTEwLjUgNEMxMC4yMiA0IDEwIDQuMjIgMTAgNC41VjcuNUMxMCA3Ljc4IDEwLjIyIDggMTAuNSA4QzEwLjc4IDggMTEgNy43OCAxMSA3LjVWNC41QzExIDQuMjIgMTAuNzggNCAxMC41IDRaTTEuNSAzQzEuMjIgMyAxIDMuMjIgMSAzLjVWOC41QzEgOC43OCAxLjIyIDkgMS41IDlDMS43OCA5IDIgOC43OCAyIDguNVYzLjVDMiAzLjIyIDEuNzggMyAxLjUgM1oiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=voice-mode-compact)
+  /// Codicon icon named "voice mode compact".
+  static const IconData voiceModeCompact = IconData(
+    0xECCC,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS41IDdDOS4wMTUgNyA3IDkuMDE1IDcgMTEuNUM3IDEzLjk4NSA5LjAxNSAxNiAxMS41IDE2QzEzLjk4NSAxNiAxNiAxMy45ODUgMTYgMTEuNUMxNiA5LjAxNSAxMy45ODUgNyAxMS41IDdaTTEzLjg1NCAxMS44NTRMMTEuODU0IDEzLjg1NEMxMS44MDYgMTMuOTAyIDExLjc1MSAxMy45MzggMTEuNjkyIDEzLjk2M0MxMS42MzQgMTMuOTg3IDExLjU3IDE0IDExLjUwNCAxNC4wMDFIMTEuNDk4QzExLjQzMSAxNC4wMDEgMTEuMzY4IDEzLjk4NyAxMS4zMSAxMy45NjNDMTEuMjUyIDEzLjkzOSAxMS4xOTcgMTMuOTAzIDExLjE1IDEzLjg1N0w5LjE0NyAxMS44NTRDOC45NTIgMTEuNjU5IDguOTUyIDExLjM0MiA5LjE0NyAxMS4xNDdDOS4zNDIgMTAuOTUyIDkuNjU5IDEwLjk1MiA5Ljg1NCAxMS4xNDdMMTEgMTIuMjk0VjkuMDAxQzExIDguNzI1IDExLjIyNCA4LjUwMSAxMS41IDguNTAxQzExLjc3NiA4LjUwMSAxMiA4LjcyNSAxMiA5LjAwMVYxMi4yOTRMMTMuMTQ2IDExLjE0N0MxMy4zNDEgMTAuOTUyIDEzLjY1OCAxMC45NTIgMTMuODUzIDExLjE0N0MxNC4wNDggMTEuMzQyIDE0LjA0OCAxMS42NTkgMTMuODUzIDExLjg1NEgxMy44NTRaIi8+PHBhdGggZD0iTTIuNSA3QzIuNzc2IDcgMyA3LjIyNCAzIDcuNVY4QzMuMDAwMjIgOS44NjU0NyA0LjI4MzQ2IDExLjQzNTcgNi4wMTM2NyAxMS44NzZDNi4wMzc1IDEyLjIyODkgNi4wOTMzOCAxMi41NzI4IDYuMTgwNjYgMTIuOTA0M0MzLjgxNTAxIDEyLjUxMTEgMi4wMDAyNCAxMC40NzQ1IDIgOFY3LjVDMiA3LjIyNCAyLjIyNCA3IDIuNSA3WiIvPjxwYXRoIGQ9Ik03IDAuOTk5MDIzQzguNjU0IDAuOTk5MDIzIDEwIDIuMzQ2IDEwIDRWNi4yMDgwMUM5LjY1MTMyIDYuMzA2NjQgOS4zMTY4MiA2LjQzODYgOSA2LjYwMDU5VjRDOSAyLjg5NyA4LjEwMyAyIDcgMkM1Ljg5NyAyIDUgMi44OTcgNSA0VjhDNS4wMDAyIDguODM3NzMgNS41MTg3IDkuNTU0NDIgNi4yNTA5OCA5Ljg1MTU2QzYuMTUxMzMgMTAuMTY5MiA2LjA4MDcyIDEwLjQ5OTQgNi4wNDAwNCAxMC44Mzg5QzQuODU1OSAxMC40Mzc0IDQuMDAwMjEgOS4zMTc4OCA0IDhWNEM0IDIuMzQ2IDUuMzQ2IDAuOTk5MDIzIDcgMC45OTkwMjNaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=mic-download)
+  /// Codicon icon named "mic download".
+  static const IconData micDownload = IconData(
+    0xECCD,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xLjUgNS41QzEuNzc2MTQgNS41IDIgNS43MjM4NiAyIDZDMiA3LjQxNjIzIDIuODQxNzkgOC42MzQ1OCA0LjA1MTc2IDkuMTg1NTVDNC4xMTUxNCA5LjYwMDIxIDQuMjM1ODUgOS45OTU5NSA0LjQwNDMgMTAuMzY1MkMyLjQ0ODYyIDkuODc1OTEgMSA4LjEwNzMyIDEgNkMxIDUuNzIzODYgMS4yMjM4NiA1LjUgMS41IDUuNVoiLz48cGF0aCBkPSJNNS41IDBDNi44ODA3MSAwIDggMS4xMTkyOSA4IDIuNVY0LjAyODMyQzcuNjUzMjEgNC4wNjY2NiA3LjMxODQ1IDQuMTQ0MjYgNyA0LjI1Njg0VjIuNUM3IDEuNjcxNTcgNi4zMjg0MyAxIDUuNSAxQzQuNjcxNTcgMSA0IDEuNjcxNTcgNCAyLjVWNkM0IDYuMzM0NjkgNC4xMTA2MSA2LjY0MzAzIDQuMjk1OSA2Ljg5MjU4QzQuMTYwMSA3LjI0NzU0IDQuMDY4MjggNy42MjQwNSA0LjAyNjM3IDguMDE1NjJDMy40MDUyOCA3LjU2MDc3IDMgNi44Mjg4MiAzIDZWMi41QzMgMS4xMTkyOSA0LjExOTI5IDAgNS41IDBaIi8+PHBhdGggZD0iTTguNSAxMkM2LjU2NyAxMiA1IDEwLjQzMyA1IDguNUM1IDYuNTY3IDYuNTY3IDUgOC41IDVDMTAuNDMzIDUgMTIgNi41NjcgMTIgOC41QzEyIDEwLjQzMyAxMC40MzMgMTIgOC41IDEyWk05IDYuNUM5IDYuMjIzODYgOC43NzYxNCA2IDguNSA2QzguMjIzODYgNiA4IDYuMjIzODYgOCA2LjVMOCA5LjI5Mjg5TDcuMzUzNTUgOC42NDY0NUM3LjE1ODI5IDguNDUxMTggNi44NDE3MSA4LjQ1MTE4IDYuNjQ2NDUgOC42NDY0NUM2LjQ1MTE4IDguODQxNzEgNi40NTExOCA5LjE1ODI5IDYuNjQ2NDUgOS4zNTM1NUw4LjE0NjQ1IDEwLjg1MzZDOC4xOTQzOCAxMC45MDE1IDguMjQ5NjQgMTAuOTM3NyA4LjMwODYxIDEwLjk2MjFDOC4zNjY2OSAxMC45ODYxIDguNDMwMyAxMC45OTk2IDguNDk3IDExTDguNSAxMUw4LjUwMyAxMUM4LjU2OTcgMTAuOTk5NiA4LjYzMzMxIDEwLjk4NjEgOC42OTEzOSAxMC45NjIxQzguNzUwMzYgMTAuOTM3NyA4LjgwNTYxIDEwLjkwMTUgOC44NTM1NSAxMC44NTM2TDEwLjM1MzYgOS4zNTM1NUMxMC41NDg4IDkuMTU4MjkgMTAuNTQ4OCA4Ljg0MTcxIDEwLjM1MzYgOC42NDY0NUMxMC4xNTgzIDguNDUxMTggOS44NDE3MSA4LjQ1MTE4IDkuNjQ2NDUgOC42NDY0NUw5IDkuMjkyODlWNi41WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=mic-download-compact)
+  /// Codicon icon named "mic download compact".
+  static const IconData micDownloadCompact = IconData(
+    0xECCE,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS41IDdDOS4wMTUgNyA3IDkuMDE1IDcgMTEuNUM3IDEzLjk4NSA5LjAxNSAxNiAxMS41IDE2QzEzLjk4NSAxNiAxNiAxMy45ODUgMTYgMTEuNUMxNiA5LjAxNSAxMy45ODUgNyAxMS41IDdaTTEzLjg1NCAxMS44NTRMMTEuODU0IDEzLjg1NEMxMS44MDYgMTMuOTAyIDExLjc1MSAxMy45MzggMTEuNjkyIDEzLjk2M0MxMS42MzQgMTMuOTg3IDExLjU3IDE0IDExLjUwNCAxNC4wMDFIMTEuNDk4QzExLjQzMSAxNC4wMDEgMTEuMzY4IDEzLjk4NyAxMS4zMSAxMy45NjNDMTEuMjUyIDEzLjkzOSAxMS4xOTcgMTMuOTAzIDExLjE1IDEzLjg1N0w5LjE0NyAxMS44NTRDOC45NTIgMTEuNjU5IDguOTUyIDExLjM0MiA5LjE0NyAxMS4xNDdDOS4zNDIgMTAuOTUyIDkuNjU5IDEwLjk1MiA5Ljg1NCAxMS4xNDdMMTEgMTIuMjk0VjkuMDAxQzExIDguNzI1IDExLjIyNCA4LjUwMSAxMS41IDguNTAxQzExLjc3NiA4LjUwMSAxMiA4LjcyNSAxMiA5LjAwMVYxMi4yOTRMMTMuMTQ2IDExLjE0N0MxMy4zNDEgMTAuOTUyIDEzLjY1OCAxMC45NTIgMTMuODUzIDExLjE0N0MxNC4wNDggMTEuMzQyIDE0LjA0OCAxMS42NTkgMTMuODUzIDExLjg1NEgxMy44NTRaIi8+PHBhdGggZD0iTTUuNSAyQzUuNzggMiA2IDIuMjIgNiAyLjVWMTMuNUM2IDEzLjc4IDUuNzggMTQgNS41IDE0QzUuMjIgMTQgNSAxMy43OCA1IDEzLjVWMi41QzUgMi4yMiA1LjIyIDIgNS41IDJaIi8+PHBhdGggZD0iTTIuNSA1QzIuNzggNSAzIDUuMjIgMyA1LjVWMTAuNUMzIDEwLjc4IDIuNzggMTEgMi41IDExQzIuMjIgMTEgMiAxMC43OCAyIDEwLjVWNS41QzIgNS4yMiAyLjIyIDUgMi41IDVaIi8+PHBhdGggZD0iTTguNSA0QzguNzggNCA5IDQuMjIgOSA0LjVWNi42MDA1OUM4LjY0MjQxIDYuNzgzNDEgOC4zMDY5NiA3LjAwMzM1IDggNy4yNTY4NFY0LjVDOCA0LjIyIDguMjIgNCA4LjUgNFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=voice-mode-download)
+  /// Codicon icon named "voice mode download".
+  static const IconData voiceModeDownload = IconData(
+    0xECCF,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik04LjUgMTJDNi41NjcgMTIgNSAxMC40MzMgNSA4LjVDNSA2LjU2NyA2LjU2NyA1IDguNSA1QzEwLjQzMyA1IDEyIDYuNTY3IDEyIDguNUMxMiAxMC40MzMgMTAuNDMzIDEyIDguNSAxMlpNOSA2LjVDOSA2LjIyMzg2IDguNzc2MTQgNiA4LjUgNkM4LjIyMzg2IDYgOCA2LjIyMzg2IDggNi41VjkuMjkyODlMNy4zNTM1NSA4LjY0NjQ1QzcuMTU4MjkgOC40NTExOCA2Ljg0MTcxIDguNDUxMTggNi42NDY0NSA4LjY0NjQ1QzYuNDUxMTggOC44NDE3MSA2LjQ1MTE4IDkuMTU4MjkgNi42NDY0NSA5LjM1MzU1TDguMTQ2NDUgMTAuODUzNkM4LjE5NDM4IDEwLjkwMTUgOC4yNDk2NCAxMC45Mzc3IDguMzA4NjEgMTAuOTYyMUM4LjM2NjY5IDEwLjk4NjEgOC40MzAzIDEwLjk5OTYgOC40OTcgMTFMOC41IDExTDguNTAzIDExQzguNTY5NyAxMC45OTk2IDguNjMzMzEgMTAuOTg2MSA4LjY5MTM5IDEwLjk2MjFDOC43NTAzNiAxMC45Mzc3IDguODA1NjEgMTAuOTAxNSA4Ljg1MzU1IDEwLjg1MzZMMTAuMzUzNiA5LjM1MzU1QzEwLjU0ODggOS4xNTgyOSAxMC41NDg4IDguODQxNzEgMTAuMzUzNiA4LjY0NjQ1QzEwLjE1ODMgOC40NTExOCA5Ljg0MTcxIDguNDUxMTggOS42NDY0NSA4LjY0NjQ1TDkgOS4yOTI4OVY2LjVaIi8+PHBhdGggZD0iTTMuNSAwQzMuNzggMCA0IDAuMjIgNCAwLjVWMTEuNUM0IDExLjc4IDMuNzggMTIgMy41IDEyQzMuMjIgMTIgMyAxMS43OCAzIDExLjVWMC41QzMgMC4yMiAzLjIyIDAgMy41IDBaIi8+PHBhdGggZD0iTTAuNSAzQzAuNzggMyAxIDMuMjIgMSAzLjVWOC41QzEgOC43OCAwLjc4IDkgMC41IDlDMC4yMiA5IDAgOC43OCAwIDguNVYzLjVDMCAzLjIyIDAuMjIgMyAwLjUgM1oiLz48cGF0aCBkPSJNNi41IDJDNi43OCAyIDcgMi4yMiA3IDIuNVY0LjI1Njg0QzYuNjQ0MDUgNC4zODI2NyA2LjMwODQ0IDQuNTUxMzUgNiA0Ljc1NzgxVjIuNUM2IDIuMjIgNi4yMiAyIDYuNSAyWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=voice-mode-download-compact)
+  /// Codicon icon named "voice mode download compact".
+  static const IconData voiceModeDownloadCompact = IconData(
+    0xECD0,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03Ljk4Njk1IDBDOC4xNTQzNCAwIDguMzAwMzEgMC4xMTQ0NjIgOC4zNDExNyAwLjI3NjkyM0M4LjQ2NjA0IDAuNzczODE5IDguNjMwNTkgMS4yNTk4OSA4LjgzMzIzIDEuNzMwNDZDOS4zNjI5NSAyLjk2MTIzIDEwLjA4OTggNC4wMzg0IDExLjAxMjcgNC45NjEyM0MxMS45MzYgNS44ODQzMSAxMy4wMTI5IDYuNjExMiAxNC4yNDM0IDcuMTQwOTJDMTQuNzE0MSA3LjM0MzUgMTUuMjAwMyA3LjUwODA1IDE1LjY5NzIgNy42MzI5OEMxNS44NTk3IDcuNjczODUgMTUuOTczOSA3LjgxOTU3IDE1Ljk3MzkgNy45ODY5NUMxNS45NzM5IDguMTU0MzQgMTUuODU5NyA4LjMwMDMxIDE1LjY5NyA4LjM0MTE3QzE1LjIwMDEgOC40NjYwNCAxNC43MTQgOC42MzA1OSAxNC4yNDM0IDguODMzMjNDMTMuMDEyNyA5LjM2Mjk1IDExLjkzNTggMTAuMDg5OCAxMS4wMTI3IDExLjAxMjdDMTAuMDg5OCAxMS45MzYgOS4zNjI5NSAxMy4wMTI5IDguODMzMjMgMTQuMjQzNEM4LjYzMDU2IDE0LjcxNDEgOC40NjU5MyAxNS4yMDAzIDguMzQwOTIgMTUuNjk3MkM4LjMyMTE0IDE1Ljc3NjIgOC4yNzU1OCAxNS44NDYzIDguMjExNDYgMTUuODk2NEM4LjE0NzM0IDE1Ljk0NjUgOC4wNjgzMyAxNS45NzM4IDcuOTg2OTUgMTUuOTczOUM3LjgxOTU3IDE1Ljk3MzkgNy42NzM4NSAxNS44NTk3IDcuNjMyOTggMTUuNjk3QzcuNTA4MDIgMTUuMjAwMSA3LjM0MzM5IDE0LjcxNCA3LjE0MDY4IDE0LjI0MzRDNi42MTEyIDEzLjAxMjcgNS44ODQ1NSAxMS45MzU4IDQuOTYxMjMgMTEuMDEyN0M0LjAzODE1IDEwLjA4OTggMi45NjEyMyA5LjM2Mjk1IDEuNzMwNDYgOC44MzMyM0MxLjI1OTg3IDguNjMwNTggMC43NzM4MDUgOC40NjU5NSAwLjI3NjkyMyA4LjM0MDkyQzAuMTk3OTc5IDguMzIxMiAwLjEyNzg3MyA4LjI3NTY5IDAuMDc3NzEyIDguMjExNjJDMC4wMjc1NTExIDguMTQ3NTUgMC4wMDAyMDI5NyA4LjA2ODU3IDAgNy45ODcyQzAgNy44MTk4MiAwLjExNDQ2MiA3LjY3NDA5IDAuMjc2OTIzIDcuNjMzMjNDMC43NzM4MjYgNy41MDgyOCAxLjI1OTkgNy4zNDM2NSAxLjczMDQ2IDcuMTQwOTJDMi45NjEyMyA2LjYxMTQ1IDQuMDM4NCA1Ljg4NDU1IDQuOTYxMjMgNC45NjE0OEM1Ljg4NDMxIDQuMDM4NjUgNi42MTEyIDIuOTYxNDggNy4xNDA5MiAxLjczMDcxQzcuMzQzNSAxLjI2MDExIDcuNTA4MDQgMC43NzQwNDUgNy42MzI5OCAwLjI3NzE2OUM3LjY1MjY3IDAuMTk4MTM4IDcuNjk4MTkgMC4xMjc5NDcgNy43NjIzMiAwLjA3NzczMzVDNy44MjY0NSAwLjAyNzUyMDMgNy45MDU1MSAwLjAwMDE2MTk3MiA3Ljk4Njk1IDBaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=google-gemini)
+  /// Codicon icon named "google gemini".
+  static const IconData googleGemini = IconData(
+    0xECD1,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNS41IDguNUMxNS43OCA4LjUgMTYgOC4yOCAxNiA4QzE2IDcuNzIgMTUuNzggNy41IDE1LjUgNy41SDE0VjZIMTUuNUMxNS43OCA2IDE2IDUuNzggMTYgNS41QzE2IDUuMjIgMTUuNzggNSAxNS41IDVIMTRWNEMxNCAyLjkgMTMuMSAyIDEyIDJIMTFWMC41QzExIDAuMjIgMTAuNzggMCAxMC41IDBDMTAuMjIgMCAxMCAwLjIyIDEwIDAuNVYySDguNVYwLjVDOC41IDAuMjIgOC4yOCAwIDggMEM3LjcyIDAgNy41IDAuMjIgNy41IDAuNVYySDZWMC41QzYgMC4yMiA1Ljc4IDAgNS41IDBDNS4yMiAwIDUgMC4yMiA1IDAuNVYySDRDMi45IDIgMiAyLjkgMiA0VjVIMC41QzAuMjIgNSAwIDUuMjIgMCA1LjVDMCA1Ljc4IDAuMjIgNiAwLjUgNkgyVjcuNUgwLjVDMC4yMiA3LjUgMCA3LjcyIDAgOEMwIDguMjggMC4yMiA4LjUgMC41IDguNUgyVjEwSDAuNUMwLjIyIDEwIDAgMTAuMjIgMCAxMC41QzAgMTAuNzggMC4yMiAxMSAwLjUgMTFIMlYxMkMyIDEzLjEgMi45IDE0IDQgMTRINVYxNS41QzUgMTUuNzggNS4yMiAxNiA1LjUgMTZDNS43OCAxNiA2IDE1Ljc4IDYgMTUuNVYxNEg3LjVWMTUuNUM3LjUgMTUuNzggNy43MiAxNiA4IDE2QzguMjggMTYgOC41IDE1Ljc4IDguNSAxNS41VjE0SDEwVjE1LjVDMTAgMTUuNzggMTAuMjIgMTYgMTAuNSAxNkMxMC43OCAxNiAxMSAxNS43OCAxMSAxNS41VjE0SDEyQzEzLjEgMTQgMTQgMTMuMSAxNCAxMlYxMUgxNS41QzE1Ljc4IDExIDE2IDEwLjc4IDE2IDEwLjVDMTYgMTAuMjIgMTUuNzggMTAgMTUuNSAxMEgxNFY4LjVIMTUuNVpNMTMgMTJDMTMgMTIuNTUgMTIuNTUgMTMgMTIgMTNINEMzLjQ1IDEzIDMgMTIuNTUgMyAxMlY0QzMgMy40NSAzLjQ1IDMgNCAzSDEyQzEyLjU1IDMgMTMgMy40NSAxMyA0VjEyWk0xMSA0SDVDNC40NSA0IDQgNC40NSA0IDVWMTFDNCAxMS41NSA0LjQ1IDEyIDUgMTJIMTFDMTEuNTUgMTIgMTIgMTEuNTUgMTIgMTFWNUMxMiA0LjQ1IDExLjU1IDQgMTEgNFpNMTEgMTFINVY1SDExVjExWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=kimi)
+  /// Codicon icon named "kimi".
+  static const IconData kimi = IconData(
+    0xECD2,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03LjUgMS41SDEuNVY3LjVINy41VjEuNVoiLz48cGF0aCBkPSJNMTQuNSAxLjVIOC41VjcuNUgxNC41VjEuNVoiLz48cGF0aCBkPSJNMTQuNSA4LjVIOC41VjE0LjVIMTQuNVY4LjVaIi8+PHBhdGggZD0iTTcuNSA4LjVIMS41VjE0LjVINy41VjguNVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=microsoft)
+  /// Codicon icon named "microsoft".
+  static const IconData microsoft = IconData(
+    0xECD3,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS45OTk5IDEuNjRDMTEuOTk5OSAxLjI5IDExLjcwOTkgMSAxMS4zNTk5IDFIOS41Njk4OEM4Ljg3OTg4IDEgOC4yMDk4OCAxLjI1IDcuNjg5ODggMS43TDcuMjg5ODggMi4wNUM5LjA0OTg4IDIuMTYgMTAuNjg5OSAyLjgyIDEyLjAwOTkgMy44OFYxLjY0SDExLjk5OTlaTTE0LjI5OTkgOEMxNC41Njk5IDcuODUgMTQuODE5OSA3LjY4IDE1LjA1OTkgNy40NUMxNS44Mzk5IDYuNjcgMTYuMTM5OSA1LjYyIDE1Ljk0OTkgNC43QzE1Ljg3OTkgNC4zNyAxNS42Mzk5IDQuMTMgMTUuMzA5OSA0LjA2QzE0LjM4OTkgMy44NyAxMy4zMzk5IDQuMTcgMTIuNTU5OSA0Ljk1QzEyLjQxOTkgNS4wOSAxMi4zMDk5IDUuMjUgMTIuMTk5OSA1LjQxQzEwLjg2OTkgMy45NCA4LjkyOTg4IDMgNi43NTk4OCAzQzYuMDE5ODggMyA1LjMwOTg4IDMuMTEgNC42Mjk4OCAzLjMxQzUuNDg5ODggNC42IDYuMDA5ODggNi4yMiA2LjAwOTg4IDhDNi4wMDk4OCA4LjY3IDUuOTE5ODggOS4zMSA1Ljc3OTg4IDkuOTNDNi40ODk4OCA5Ljc0IDcuMDA5ODggOS4xOCA3LjAwOTg4IDguNUM3LjAwOTg4IDguMjIgNy4yMjk4OCA4IDcuNTA5ODggOEM3Ljc4OTg4IDggOC4wMDk4OCA4LjIyIDguMDA5ODggOC41QzguMDA5ODggOS44MSA2Ljg4OTg4IDEwLjg4IDUuNDY5ODggMTAuOThDNS4yNDk4OCAxMS41OSA0Ljk3OTg4IDEyLjE3IDQuNjI5ODggMTIuNjlDNS4yOTk4OCAxMi44OSA2LjAxOTg4IDEzIDYuNzU5ODggMTNDOC45Mjk4OCAxMyAxMC44Njk5IDEyLjA2IDEyLjE5OTkgMTAuNTlDMTIuMzA5OSAxMC43NSAxMi40MTk5IDEwLjkxIDEyLjU1OTkgMTEuMDVDMTMuMzM5OSAxMS44MyAxNC4zODk5IDEyLjEzIDE1LjMwOTkgMTEuOTRDMTUuNjM5OSAxMS44NyAxNS44Nzk5IDExLjYzIDE1Ljk0OTkgMTEuM0MxNi4xMzk5IDEwLjM4IDE1LjgzOTkgOS4zMyAxNS4wNTk5IDguNTVDMTQuODI5OSA4LjMyIDE0LjU2OTkgOC4xNCAxNC4yOTk5IDhaTTcuNjg5ODggMTQuM0M4LjIwOTg4IDE0Ljc1IDguODc5ODggMTUgOS41Njk4OCAxNUgxMS4zNTk5QzExLjcwOTkgMTUgMTEuOTk5OSAxNC43MSAxMS45OTk5IDE0LjM2VjEyLjEzQzEwLjY3OTkgMTMuMTkgOS4wNDk4OCAxMy44NCA3LjI3OTg4IDEzLjk2TDcuNjc5ODggMTQuMzFMNy42ODk4OCAxNC4zWk0zLjY1OTg4IDMuNjhDMi4yMDk4OCA0LjM1IDEuMDA5ODggNS40NiAwLjI4OTg4MyA2Ljg0Qy0wLjA5MDExNzIgNy41NiAtMC4wOTAxMTcyIDguNDUgMC4yODk4ODMgOS4xN0MwLjMwOTg4MyA5LjIgMC4zMjk4ODMgOS4yMyAwLjM0OTg4MyA5LjI2QzEuMDc5ODggOS40NyAxLjY0OTg4IDkuMTQgMS43Mjk4OCA5LjA5QzEuOTU5ODggOC45NCAyLjI2OTg4IDkuMDEgMi40MTk4OCA5LjI0QzIuNTY5ODggOS40NyAyLjUwOTg4IDkuNzggMi4yNzk4OCA5LjkzQzIuMDA5ODggMTAuMTEgMS41Nzk4OCAxMC4yOCAxLjA1OTg4IDEwLjMyQzEuNzQ5ODggMTEuMTcgMi42Mzk4OCAxMS44NyAzLjY1OTg4IDEyLjM0QzQuNDg5ODggMTEuMTkgNC45OTk4OCA5LjY4IDQuOTk5ODggOC4wMkM0Ljk5OTg4IDYuMzYgNC40ODk4OCA0Ljg1IDMuNjU5ODggMy43VjMuNjhaTTIuOTk5ODggOC4yNUMyLjU4OTg4IDguMjUgMi4yNDk4OCA3LjkxIDIuMjQ5ODggNy41QzIuMjQ5ODggNy4wOSAyLjU4OTg4IDYuNzUgMi45OTk4OCA2Ljc1QzMuNDA5ODggNi43NSAzLjc0OTg4IDcuMDkgMy43NDk4OCA3LjVDMy43NDk4OCA3LjkxIDMuNDA5ODggOC4yNSAyLjk5OTg4IDguMjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=fish1-happy)
+  /// Codicon icon named "fish1 happy".
+  static const IconData fish1Happy = IconData(
+    0xECD4,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS45OTk5IDEuNjRDMTEuOTk5OSAxLjI5IDExLjcwOTkgMSAxMS4zNTk5IDFIOS41Njk4OEM4Ljg3OTg4IDEgOC4yMDk4OCAxLjI1IDcuNjg5ODggMS43TDcuMjg5ODggMi4wNUM5LjA0OTg4IDIuMTYgMTAuNjg5OSAyLjgyIDEyLjAwOTkgMy44OFYxLjY0SDExLjk5OTlaTTE0LjI5OTkgOEMxNC41Njk5IDcuODUgMTQuODE5OSA3LjY4IDE1LjA1OTkgNy40NUMxNS44Mzk5IDYuNjcgMTYuMTM5OSA1LjYyIDE1Ljk0OTkgNC43QzE1Ljg3OTkgNC4zNyAxNS42Mzk5IDQuMTMgMTUuMzA5OSA0LjA2QzE0LjM4OTkgMy44NyAxMy4zMzk5IDQuMTcgMTIuNTU5OSA0Ljk1QzEyLjQxOTkgNS4wOSAxMi4zMDk5IDUuMjUgMTIuMTk5OSA1LjQxQzEwLjg2OTkgMy45NCA4LjkyOTg4IDMgNi43NTk4OCAzQzYuMDE5ODggMyA1LjMwOTg4IDMuMTEgNC42Mjk4OCAzLjMxQzUuNDg5ODggNC42IDYuMDA5ODggNi4yMiA2LjAwOTg4IDhDNi4wMDk4OCA4LjY3IDUuOTE5ODggOS4zMSA1Ljc3OTg4IDkuOTNDNi40ODk4OCA5Ljc0IDcuMDA5ODggOS4xOCA3LjAwOTg4IDguNUM3LjAwOTg4IDguMjIgNy4yMjk4OCA4IDcuNTA5ODggOEM3Ljc4OTg4IDggOC4wMDk4OCA4LjIyIDguMDA5ODggOC41QzguMDA5ODggOS44MSA2Ljg4OTg4IDEwLjg4IDUuNDY5ODggMTAuOThDNS4yNDk4OCAxMS41OSA0Ljk3OTg4IDEyLjE3IDQuNjI5ODggMTIuNjlDNS4yOTk4OCAxMi44OSA2LjAxOTg4IDEzIDYuNzU5ODggMTNDOC45Mjk4OCAxMyAxMC44Njk5IDEyLjA2IDEyLjE5OTkgMTAuNTlDMTIuMzA5OSAxMC43NSAxMi40MTk5IDEwLjkxIDEyLjU1OTkgMTEuMDVDMTMuMzM5OSAxMS44MyAxNC4zODk5IDEyLjEzIDE1LjMwOTkgMTEuOTRDMTUuNjM5OSAxMS44NyAxNS44Nzk5IDExLjYzIDE1Ljk0OTkgMTEuM0MxNi4xMzk5IDEwLjM4IDE1LjgzOTkgOS4zMyAxNS4wNTk5IDguNTVDMTQuODI5OSA4LjMyIDE0LjU2OTkgOC4xNCAxNC4yOTk5IDhaTTMuNjU5ODggMy42OEMyLjIwOTg4IDQuMzUgMS4wMDk4OCA1LjQ2IDAuMjg5ODgzIDYuODRDLTAuMDkwMTE3MiA3LjU2IC0wLjA5MDExNzIgOC40NSAwLjI4OTg4MyA5LjE3QzEuMDA5ODggMTAuNTUgMi4yMDk4OCAxMS42NyAzLjY1OTg4IDEyLjMzQzQuNDg5ODggMTEuMTggNC45OTk4OCA5LjY3IDQuOTk5ODggOC4wMUM0Ljk5OTg4IDYuMzUgNC40ODk4OCA0Ljg0IDMuNjU5ODggMy42OVYzLjY4Wk0yLjk5OTg4IDguMjVDMi41ODk4OCA4LjI1IDIuMjQ5ODggNy45MSAyLjI0OTg4IDcuNUMyLjI0OTg4IDcuMDkgMi41ODk4OCA2Ljc1IDIuOTk5ODggNi43NUMzLjQwOTg4IDYuNzUgMy43NDk4OCA3LjA5IDMuNzQ5ODggNy41QzMuNzQ5ODggNy45MSAzLjQwOTg4IDguMjUgMi45OTk4OCA4LjI1Wk03LjY4OTg4IDE0LjNDOC4yMDk4OCAxNC43NSA4Ljg3OTg4IDE1IDkuNTY5ODggMTVIMTEuMzU5OUMxMS43MDk5IDE1IDExLjk5OTkgMTQuNzEgMTEuOTk5OSAxNC4zNlYxMi4xM0MxMC42Nzk5IDEzLjE5IDkuMDQ5ODggMTMuODQgNy4yNzk4OCAxMy45Nkw3LjY3OTg4IDE0LjMxTDcuNjg5ODggMTQuM1oiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=fish1-neutral)
+  /// Codicon icon named "fish1 neutral".
+  static const IconData fish1Neutral = IconData(
+    0xECD5,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjY1OTg4IDMuNjhDMi4yMDk4OCA0LjM1IDEuMDA5ODggNS40NiAwLjI4OTg4MyA2Ljg0Qy0wLjA5MDExNzIgNy41NiAtMC4wOTAxMTcyIDguNDUgMC4yODk4ODMgOS4xN0MwLjQ0OTg4MyA5LjQ4IDAuNjQ5ODgzIDkuNzcgMC44NDk4ODMgMTAuMDVDMC44NTk4ODMgMTAuMDQgMC44Njk4ODMgMTAuMDMgMC44Nzk4ODMgMTAuMDJDMS41Mzk4OCA5LjM2IDIuNjg5ODggOS4zNiAzLjM0OTg4IDEwLjAyQzMuNTQ5ODggMTAuMjIgMy41NDk4OCAxMC41MyAzLjM0OTg4IDEwLjczQzMuMTQ5ODggMTAuOTMgMi44Mzk4OCAxMC45MyAyLjYzOTg4IDEwLjczQzIuMzU5ODggMTAuNDUgMS44NTk4OCAxMC40NSAxLjU3OTg4IDEwLjczQzEuNTQ5ODggMTAuNzYgMS41Mzk4OCAxMC44IDEuNTA5ODggMTAuODNDMi4xMTk4OCAxMS40NSAyLjgzOTg4IDExLjk3IDMuNjQ5ODggMTIuMzRDNC40Nzk4OCAxMS4xOSA0Ljk4OTg4IDkuNjggNC45ODk4OCA4LjAyQzQuOTg5ODggNi4zNiA0LjQ3OTg4IDQuODUgMy42NDk4OCAzLjdMMy42NTk4OCAzLjY4Wk0yLjk5OTg4IDguMjVDMi41ODk4OCA4LjI1IDIuMjQ5ODggNy45MSAyLjI0OTg4IDcuNUMyLjI0OTg4IDcuMDkgMi41ODk4OCA2Ljc1IDIuOTk5ODggNi43NUMzLjQwOTg4IDYuNzUgMy43NDk4OCA3LjA5IDMuNzQ5ODggNy41QzMuNzQ5ODggNy45MSAzLjQwOTg4IDguMjUgMi45OTk4OCA4LjI1Wk0xMS45OTk5IDEuNjRDMTEuOTk5OSAxLjI5IDExLjcwOTkgMSAxMS4zNTk5IDFIOS41Njk4OEM4Ljg3OTg4IDEgOC4yMDk4OCAxLjI1IDcuNjg5ODggMS43TDcuMjg5ODggMi4wNUM5LjA0OTg4IDIuMTYgMTAuNjg5OSAyLjgyIDEyLjAwOTkgMy44OFYxLjY0SDExLjk5OTlaTTcuNjg5ODggMTQuM0M4LjIwOTg4IDE0Ljc1IDguODc5ODggMTUgOS41Njk4OCAxNUgxMS4zNTk5QzExLjcwOTkgMTUgMTEuOTk5OSAxNC43MSAxMS45OTk5IDE0LjM2VjEyLjEzQzEwLjY3OTkgMTMuMTkgOS4wNDk4OCAxMy44NCA3LjI3OTg4IDEzLjk2TDcuNjc5ODggMTQuMzFMNy42ODk4OCAxNC4zWk0xNC4yOTk5IDhDMTQuNTY5OSA3Ljg1IDE0LjgxOTkgNy42OCAxNS4wNTk5IDcuNDVDMTUuODM5OSA2LjY3IDE2LjEzOTkgNS42MiAxNS45NDk5IDQuN0MxNS44Nzk5IDQuMzcgMTUuNjM5OSA0LjEzIDE1LjMwOTkgNC4wNkMxNC4zODk5IDMuODcgMTMuMzM5OSA0LjE3IDEyLjU1OTkgNC45NUMxMi40MTk5IDUuMDkgMTIuMzA5OSA1LjI1IDEyLjE5OTkgNS40MUMxMC44Njk5IDMuOTQgOC45Mjk4OCAzIDYuNzU5ODggM0M2LjAxOTg4IDMgNS4zMDk4OCAzLjExIDQuNjI5ODggMy4zMUM1LjQ4OTg4IDQuNiA2LjAwOTg4IDYuMjIgNi4wMDk4OCA4QzYuMDA5ODggOC42NyA1LjkxOTg4IDkuMzEgNS43Nzk4OCA5LjkzQzYuNDg5ODggOS43NCA3LjAwOTg4IDkuMTggNy4wMDk4OCA4LjVDNy4wMDk4OCA4LjIyIDcuMjI5ODggOCA3LjUwOTg4IDhDNy43ODk4OCA4IDguMDA5ODggOC4yMiA4LjAwOTg4IDguNUM4LjAwOTg4IDkuODEgNi44ODk4OCAxMC44OCA1LjQ2OTg4IDEwLjk4QzUuMjQ5ODggMTEuNTkgNC45Nzk4OCAxMi4xNyA0LjYyOTg4IDEyLjY5QzUuMjk5ODggMTIuODkgNi4wMTk4OCAxMyA2Ljc1OTg4IDEzQzguOTI5ODggMTMgMTAuODY5OSAxMi4wNiAxMi4xOTk5IDEwLjU5QzEyLjMwOTkgMTAuNzUgMTIuNDE5OSAxMC45MSAxMi41NTk5IDExLjA1QzEzLjMzOTkgMTEuODMgMTQuMzg5OSAxMi4xMyAxNS4zMDk5IDExLjk0QzE1LjYzOTkgMTEuODcgMTUuODc5OSAxMS42MyAxNS45NDk5IDExLjNDMTYuMTM5OSAxMC4zOCAxNS44Mzk5IDkuMzMgMTUuMDU5OSA4LjU1QzE0LjgyOTkgOC4zMiAxNC41Njk5IDguMTQgMTQuMjk5OSA4WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=fish1-sad)
+  /// Codicon icon named "fish1 sad".
+  static const IconData fish1Sad = IconData(
+    0xECD6,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03LjI4NSAxMy45NkM5LjA0NSAxMy44NSAxMC42ODUgMTMuMTkgMTIuMDA1IDEyLjEzVjE0LjM2QzEyLjAwNSAxNC43MSAxMS43MTUgMTUgMTEuMzY1IDE1SDkuNTc1QzguODg1IDE1IDguMjE1IDE0Ljc1IDcuNjk1IDE0LjNMNy4yOTUgMTMuOTVMNy4yODUgMTMuOTZaTTEyLjAwNSAxLjY0QzEyLjAwNSAxLjI5IDExLjcxNSAxIDExLjM2NSAxSDkuNTc1QzguODg1IDEgOC4yMTUgMS4yNSA3LjY5NSAxLjdMNy4yOTUgMi4wNUM5LjA1NSAyLjE2IDEwLjY5NSAyLjgyIDEyLjAxNSAzLjg4VjEuNjRIMTIuMDA1Wk0xNS4wNTUgOC41NUMxNS44MzUgOS4zMyAxNi4xMzUgMTAuMzggMTUuOTQ1IDExLjNDMTUuODc1IDExLjYzIDE1LjYzNSAxMS44NyAxNS4zMDUgMTEuOTRDMTQuMzg1IDEyLjEzIDEzLjMzNSAxMS44MyAxMi41NTUgMTEuMDVDMTIuNDE1IDEwLjkxIDEyLjMxNSAxMC43NiAxMi4yMDUgMTAuNjFDMTIuMDE1IDEwLjgxIDExLjgyNSAxMS4wMSAxMS42MTUgMTEuMTlDMTEuODI1IDEwLjMyIDExLjk1NSA5LjQyIDExLjk5NSA4LjVIMTAuOTk1QzEwLjk0NSA5Ljc1IDEwLjcwNSAxMC45NiAxMC4yOTUgMTIuMDlDOS44NzUgMTIuMzIgOS40NDUgMTIuNTEgOC45ODUgMTIuNjZDOS41NzUgMTEuNCA5LjkyNSA5Ljk4IDkuOTk1IDguNTFIOC45OTVDOC45MTUgMTAuMTIgOC40NzUgMTEuNjUgNy43MTUgMTIuOTRDNy4zOTUgMTIuOTggNy4wODUgMTMuMDEgNi43NTUgMTMuMDFDNi42NjUgMTMuMDEgNi41NzUgMTIuOTkgNi40ODUgMTIuOTlDNy4zNjUgMTEuNzQgNy44OTUgMTAuMTggNy45ODUgOC41MUg2Ljk4NUM2Ljg4NSAxMC4yNCA2LjI1NSAxMS43NyA1LjMxNSAxMi44NkM0Ljk3NSAxMi43OSA0LjY0NSAxMi43MiA0LjMyNSAxMi42MUM0LjM3NSAxMi41MiA0LjQyNSAxMi40MiA0LjQ3NSAxMi4zM0M1LjMxNSAxMS40MiA1Ljg4NSAxMC4wNiA1Ljk4NSA4LjUxSDQuOTg1QzQuODk1IDkuOTcgNC40MDUgMTEuMyAzLjY1NSAxMi4zM0MyLjIwNSAxMS42NiAxLjAwNSAxMC41NSAwLjI4NSA5LjE3Qy0wLjA5NSA4LjQ1IC0wLjA5NSA3LjU2IDAuMjg1IDYuODRDMS4wMDUgNS40NiAyLjIwNSA0LjM0IDMuNjU1IDMuNjhDNC40MDUgNC43MSA0Ljg4NSA2LjA0IDQuOTg1IDcuNUg1Ljk4NUM1Ljg3NSA1LjgxIDUuMjA1IDQuMzQgNC4yMzUgMy40NEM0LjU4NSAzLjMyIDQuOTM1IDMuMjEgNS4zMDUgMy4xNEM2LjI0NSA0LjIzIDYuODc1IDUuNzcgNi45ODUgNy41SDcuOTg1QzcuODk1IDUuODMgNy4zNjUgNC4yNiA2LjQ3NSAzLjAxQzYuNTY1IDMuMDEgNi42NTUgMyA2Ljc0NSAzQzcuMDc1IDMgNy4zOTUgMy4wMyA3LjcwNSAzLjA3QzguNDU1IDQuMzcgOC45MDUgNS44OSA4Ljk4NSA3LjVIOS45ODVDOS45MjUgNi4wMyA5LjU3NSA0LjYxIDguOTc1IDMuMzVDOS40MzUgMy40OSA5Ljg3NSAzLjY5IDEwLjI4NSAzLjkyQzEwLjY4NSA1LjA1IDEwLjkyNSA2LjI2IDEwLjk4NSA3LjUxSDExLjk4NUMxMS45NTUgNi41OSAxMS44MjUgNS42OSAxMS42MDUgNC44MkMxMS44MTUgNSAxMi4wMTUgNS4yIDEyLjE5NSA1LjRDMTIuMzA1IDUuMjUgMTIuNDA1IDUuMDkgMTIuNTQ1IDQuOTZDMTMuMzI1IDQuMTggMTQuMzc1IDMuODggMTUuMjk1IDQuMDdDMTUuNjI1IDQuMTQgMTUuODY1IDQuMzggMTUuOTM1IDQuNzFDMTYuMTI1IDUuNjMgMTUuODI1IDYuNjggMTUuMDQ1IDcuNDZDMTQuODE1IDcuNjkgMTQuNTU1IDcuODcgMTQuMjg1IDguMDFDMTQuNTU1IDguMTYgMTQuODA1IDguMzMgMTUuMDQ1IDguNTZMMTUuMDU1IDguNTVaTTMuNzU1IDcuNUMzLjc1NSA3LjA5IDMuNDE1IDYuNzUgMy4wMDUgNi43NUMyLjU5NSA2Ljc1IDIuMjU1IDcuMDkgMi4yNTUgNy41QzIuMjU1IDcuOTEgMi41OTUgOC4yNSAzLjAwNSA4LjI1QzMuNDE1IDguMjUgMy43NTUgNy45MSAzLjc1NSA3LjVaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=fish1-very-sad)
+  /// Codicon icon named "fish1 very sad".
+  static const IconData fish1VerySad = IconData(
+    0xECD7,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02LjQyMDAxIDIuM0M0LjMxMDAxIDMuMyAyLjc4MDAxIDQuODEgMi4yMzAwMSA2LjU2QzIuMDEwMDEgNy4yNSAxLjU1MDAxIDcuODQgMC44OTAwMSA4LjEzTDAuNDYwMDEgOC4zMUMwLjE4MDAxIDguNDMgMC4wMTAwMDk4IDguNyAwLjAxMDAwOTggOVY5LjQ4QzAuMDEwMDA5OCA5Ljc5IDAuMjAwMDEgMTAuMDcgMC41MDAwMSAxMC4xOEwxLjY2MDAxIDEwLjYyQzEuNzgwMDEgMTAuNjYgMS44OTAwMSAxMC43MiAyLjAwMDAxIDEwLjc4QzIuNDcwMDEgMTAuNjQgMi44ODAwMSAxMC40MiAzLjE2MDAxIDEwLjE1QzMuMzYwMDEgOS45NSAzLjY3MDAxIDkuOTUgMy44NzAwMSAxMC4xNUM0LjA3MDAxIDEwLjM1IDQuMDcwMDEgMTAuNjYgMy44NzAwMSAxMC44NkMzLjYyMDAxIDExLjExIDMuMjcwMDEgMTEuMzMgMi44OTAwMSAxMS41MUMyLjk0MDAxIDExLjU4IDMuMDAwMDEgMTEuNjQgMy4wNTAwMSAxMS43MUMzLjg2MDAxIDEyLjg5IDUuMTMwMDEgMTMuNzIgNi43ODAwMSAxNC4yNkM1LjY5MDAxIDEyLjY0IDUuMDIwMDEgMTAuNDQgNS4wMjAwMSA4LjAxQzUuMDIwMDEgNS44NSA1LjU1MDAxIDMuODYgNi40NDAwMSAyLjMxTDYuNDIwMDEgMi4zWk0zLjUwMDAxIDguMTNDMy4xNTAwMSA4LjEzIDIuODcwMDEgNy44NSAyLjg3MDAxIDcuNUMyLjg3MDAxIDcuMTUgMy4xNTAwMSA2Ljg3IDMuNTAwMDEgNi44N0MzLjg1MDAxIDYuODcgNC4xMzAwMSA3LjE1IDQuMTMwMDEgNy41QzQuMTMwMDEgNy44NSAzLjg1MDAxIDguMTMgMy41MDAwMSA4LjEzWk0xMS41IDhDMTEuNSA1LjcxIDEyLjExIDMuNjQgMTMuMTEgMi4xMkMxMy4yNSAxLjkgMTMuMjcgMS42MSAxMy4xNCAxLjM4QzEzLjAxIDEuMTUgMTIuNzcgMSAxMi41IDFDMTIuMjMgMSAxMS45NiAxLjAxIDExLjY5IDEuMDJDMTAuMDkgMi4zOSA5LjAwMDAxIDUgOS4wMDAwMSA4QzkuMDAwMDEgMTEgMTAuMDkgMTMuNjEgMTEuNjkgMTQuOThDMTEuOTYgMTQuOTggMTIuMjIgMTUgMTIuNSAxNUMxMi43NyAxNSAxMy4wMSAxNC44NSAxMy4xNCAxNC42MkMxMy4yNyAxNC4zOSAxMy4yNSAxNC4xIDEzLjExIDEzLjg4QzEyLjEyIDEyLjM1IDExLjUgMTAuMjggMTEuNSA4Wk0xMC4xOSAxLjE4QzkuNDUwMDEgMS4yOSA4Ljc0MDAxIDEuNDUgOC4wNzAwMSAxLjY2QzYuODIwMDEgMy4xMiA2LjAwMDAxIDUuNDIgNi4wMDAwMSA4LjAxQzYuMDAwMDEgMTAuNzcgNi45MjAwMSAxMy4yMSA4LjMyMDAxIDE0LjY1QzguOTIwMDEgMTQuNzcgOS41NjAwMSAxNC44NSAxMC4yNCAxNC45MUM4Ljg3MDAxIDEzLjI2IDguMDAwMDEgMTAuNzggOC4wMDAwMSA4LjAxQzguMDAwMDEgNS4yNCA4Ljg1MDAxIDIuODQgMTAuMTkgMS4xOVYxLjE4Wk0xNS4xMyA1LjAyQzE0Ljk2IDQuNzYgMTQuNTkgNC42OSAxNC4zNiA0LjkxQzEzLjg4IDUuMzggMTMuMzEgNS43NiAxMi42OSA2LjAzQzEyLjU4IDYuNjcgMTIuNSA3LjMyIDEyLjUgNy45OUMxMi41IDguNjYgMTIuNTggOS4zMiAxMi42OSA5Ljk1QzEzLjMxIDEwLjIyIDEzLjg4IDEwLjYgMTQuMzYgMTEuMDdDMTQuNTggMTEuMjkgMTQuOTYgMTEuMjMgMTUuMTMgMTAuOTZDMTUuNjggMTAuMSAxNiA5LjA4IDE2IDcuOThDMTYgNi44OCAxNS42OCA1Ljg2IDE1LjEzIDVWNS4wMloiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=fish2-happy)
+  /// Codicon icon named "fish2 happy".
+  static const IconData fish2Happy = IconData(
+    0xECD8,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02LjQyMDAxIDIuM0M0LjMxMDAxIDMuMyAyLjc4MDAxIDQuODEgMi4yMzAwMSA2LjU2QzIuMDEwMDEgNy4yNSAxLjU1MDAxIDcuODQgMC44OTAwMSA4LjEzTDAuNDYwMDEgOC4zMUMwLjE4MDAxIDguNDMgMC4wMTAwMDk4IDguNyAwLjAxMDAwOTggOVY5LjQ4QzAuMDEwMDA5OCA5Ljc5IDAuMjAwMDEgMTAuMDcgMC41MDAwMSAxMC4xOEwxLjY2MDAxIDEwLjYyQzIuMjIwMDEgMTAuODMgMi43MDAwMSAxMS4yMSAzLjA0MDAxIDExLjdDMy44NTAwMSAxMi44OCA1LjEyMDAxIDEzLjcxIDYuNzcwMDEgMTQuMjVDNS42ODAwMSAxMi42MyA1LjAxMDAxIDEwLjQzIDUuMDEwMDEgOEM1LjAxMDAxIDUuODQgNS41NDAwMSAzLjg1IDYuNDMwMDEgMi4zSDYuNDIwMDFaTTMuNTAwMDEgOC4xM0MzLjE1MDAxIDguMTMgMi44NzAwMSA3Ljg1IDIuODcwMDEgNy41QzIuODcwMDEgNy4xNSAzLjE1MDAxIDYuODcgMy41MDAwMSA2Ljg3QzMuODUwMDEgNi44NyA0LjEzMDAxIDcuMTUgNC4xMzAwMSA3LjVDNC4xMzAwMSA3Ljg1IDMuODUwMDEgOC4xMyAzLjUwMDAxIDguMTNaTTguMDAwMDEgOEM4LjAwMDAxIDEwLjc3IDguODcwMDEgMTMuMjQgMTAuMjQgMTQuOUM5LjU2MDAxIDE0Ljg0IDguOTIwMDEgMTQuNzYgOC4zMjAwMSAxNC42NEM2LjkyMDAxIDEzLjIgNi4wMDAwMSAxMC43NiA2LjAwMDAxIDhDNi4wMDAwMSA1LjQxIDYuODEwMDEgMy4xMiA4LjA3MDAxIDEuNjVDOC43NDAwMSAxLjQ0IDkuNDUwMDEgMS4yOSAxMC4xOSAxLjE3QzguODUwMDEgMi44MiA4LjAwMDAxIDUuMjcgOC4wMDAwMSA3Ljk5VjhaTTEzLjExIDEzLjg4QzEzLjI1IDE0LjEgMTMuMjcgMTQuMzkgMTMuMTQgMTQuNjJDMTMuMDEgMTQuODUgMTIuNzcgMTUgMTIuNSAxNUMxMi4yMiAxNSAxMS45NiAxNC45OCAxMS42OSAxNC45OEMxMC4wOSAxMy42MSA5LjAwMDAxIDExIDkuMDAwMDEgOEM5LjAwMDAxIDUgMTAuMDkgMi40IDExLjY5IDEuMDJDMTEuOTYgMS4wMSAxMi4yMyAxIDEyLjUgMUMxMi43NyAxIDEzLjAxIDEuMTUgMTMuMTQgMS4zOEMxMy4yNyAxLjYxIDEzLjI1IDEuOSAxMy4xMSAyLjEyQzEyLjEyIDMuNjUgMTEuNSA1LjcyIDExLjUgOEMxMS41IDEwLjI4IDEyLjExIDEyLjM2IDEzLjExIDEzLjg4Wk0xNiA4QzE2IDkuMSAxNS42OCAxMC4xMiAxNS4xMyAxMC45OEMxNC45NiAxMS4yNCAxNC41OSAxMS4zMSAxNC4zNiAxMS4wOUMxMy44OCAxMC42MiAxMy4zMSAxMC4yNCAxMi42OSA5Ljk3QzEyLjU4IDkuMzMgMTIuNSA4LjY4IDEyLjUgOC4wMUMxMi41IDcuMzQgMTIuNTggNi42OCAxMi42OSA2LjA1QzEzLjMxIDUuNzggMTMuODggNS40IDE0LjM2IDQuOTNDMTQuNTggNC43MSAxNC45NiA0Ljc3IDE1LjEzIDUuMDRDMTUuNjggNS45IDE2IDYuOTIgMTYgOC4wMlY4WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=fish2-neutral)
+  /// Codicon icon named "fish2 neutral".
+  static const IconData fish2Neutral = IconData(
+    0xECD9,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMS41IDhDMTEuNSA1LjcxIDEyLjExIDMuNjQgMTMuMTEgMi4xMkMxMy4yNSAxLjkgMTMuMjcgMS42MSAxMy4xNCAxLjM4QzEzLjAxIDEuMTUgMTIuNzcgMSAxMi41IDFDMTIuMjMgMSAxMS45NiAxLjAxIDExLjY5IDEuMDJDMTAuMDkgMi4zOSA5LjAwMDAxIDUgOS4wMDAwMSA4QzkuMDAwMDEgMTEgMTAuMDkgMTMuNjEgMTEuNjkgMTQuOThDMTEuOTYgMTQuOTggMTIuMjIgMTUgMTIuNSAxNUMxMi43NyAxNSAxMy4wMSAxNC44NSAxMy4xNCAxNC42MkMxMy4yNyAxNC4zOSAxMy4yNSAxNC4xIDEzLjExIDEzLjg4QzEyLjEyIDEyLjM1IDExLjUgMTAuMjggMTEuNSA4Wk0xNS4xMyA1LjAyQzE0Ljk2IDQuNzYgMTQuNTkgNC42OSAxNC4zNiA0LjkxQzEzLjg4IDUuMzggMTMuMzEgNS43NiAxMi42OSA2LjAzQzEyLjU4IDYuNjcgMTIuNSA3LjMyIDEyLjUgNy45OUMxMi41IDguNjYgMTIuNTggOS4zMiAxMi42OSA5Ljk1QzEzLjMxIDEwLjIyIDEzLjg4IDEwLjYgMTQuMzYgMTEuMDdDMTQuNTggMTEuMjkgMTQuOTYgMTEuMjMgMTUuMTMgMTAuOTZDMTUuNjggMTAuMSAxNiA5LjA4IDE2IDcuOThDMTYgNi44OCAxNS42OCA1Ljg2IDE1LjEzIDVWNS4wMlpNNi40MjAwMSAyLjNDNC4zMTAwMSAzLjMgMi43ODAwMSA0LjgxIDIuMjMwMDEgNi41NkMyLjAxMDAxIDcuMjUgMS41NTAwMSA3Ljg0IDAuODkwMDEgOC4xM0wwLjQ2MDAxIDguMzFDMC4xODAwMSA4LjQzIDAuMDEwMDA5OCA4LjcgMC4wMTAwMDk4IDlWOS40OEMwLjAxMDAwOTggOS43OSAwLjIwMDAxIDEwLjA3IDAuNTAwMDEgMTAuMThMMS4zOTAwMSAxMC41MUMyLjA1MDAxIDkuODUgMy4yMDAwMSA5Ljg1IDMuODYwMDEgMTAuNTFDNC4wNjAwMSAxMC43MSA0LjA2MDAxIDExLjAyIDMuODYwMDEgMTEuMjJDMy42NjAwMSAxMS40MiAzLjM1MDAxIDExLjQyIDMuMTUwMDEgMTEuMjJDMi45NTAwMSAxMS4wMiAyLjY3MDAxIDEwLjk4IDIuNDIwMDEgMTEuMDVDMi42NjAwMSAxMS4yMyAyLjg3MDAxIDExLjQ2IDMuMDQwMDEgMTEuNzFDMy44NTAwMSAxMi44OSA1LjEyMDAxIDEzLjcyIDYuNzcwMDEgMTQuMjZDNS42ODAwMSAxMi42NCA1LjAxMDAxIDEwLjQ0IDUuMDEwMDEgOC4wMUM1LjAxMDAxIDUuODUgNS41NDAwMSAzLjg2IDYuNDMwMDEgMi4zMUw2LjQyMDAxIDIuM1pNMy41MDAwMSA4LjEzQzMuMTUwMDEgOC4xMyAyLjg3MDAxIDcuODUgMi44NzAwMSA3LjVDMi44NzAwMSA3LjE1IDMuMTUwMDEgNi44NyAzLjUwMDAxIDYuODdDMy44NTAwMSA2Ljg3IDQuMTMwMDEgNy4xNSA0LjEzMDAxIDcuNUM0LjEzMDAxIDcuODUgMy44NTAwMSA4LjEzIDMuNTAwMDEgOC4xM1pNMTAuMTkgMS4xOEM5LjQ1MDAxIDEuMjkgOC43NDAwMSAxLjQ1IDguMDcwMDEgMS42NkM2LjgyMDAxIDMuMTIgNi4wMDAwMSA1LjQyIDYuMDAwMDEgOC4wMUM2LjAwMDAxIDEwLjc3IDYuOTIwMDEgMTMuMjEgOC4zMjAwMSAxNC42NUM4LjkyMDAxIDE0Ljc3IDkuNTYwMDEgMTQuODUgMTAuMjQgMTQuOTFDOC44NzAwMSAxMy4yNiA4LjAwMDAxIDEwLjc4IDguMDAwMDEgOC4wMUM4LjAwMDAxIDUuMjQgOC44NTAwMSAyLjg0IDEwLjE5IDEuMTlWMS4xOFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=fish2-sad)
+  /// Codicon icon named "fish2 sad".
+  static const IconData fish2Sad = IconData(
+    0xECDA,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNS4xMyA1LjAxOTk4QzE0Ljk2IDQuNzU5OTggMTQuNTkgNC42ODk5OCAxNC4zNiA0LjkwOTk4QzEzLjg4IDUuMzc5OTggMTMuMzEgNS43NTk5OCAxMi42OSA2LjAyOTk4QzEyLjYxIDYuNTA5OTggMTIuNTQgNi45ODk5OCAxMi41MSA3LjQ4OTk4SDExLjAyQzExLjEgNi41NDk5OCAxMS40MSA1LjY1OTk4IDExLjkgNC44NTk5OEMxMi4xOCAzLjgyOTk4IDEyLjU5IDIuODg5OTggMTMuMSAyLjA5OTk4QzEzLjEgMi4wOTk5OCAxMy4xIDIuMDc5OTggMTMuMTEgMi4wNjk5OEMxMS4zNCAzLjQyOTk4IDEwLjE3IDUuMzM5OTggMTAuMDEgNy40Nzk5OEg5LjAxMDAxQzkuMTgwMDEgNC44Mzk5OCAxMC43MyAyLjUzOTk4IDEyLjk5IDEuMjA5OThDMTIuODYgMS4wNzk5OCAxMi42OSAwLjk3OTk4IDEyLjUgMC45Nzk5OEMxMi4yMyAwLjk3OTk4IDExLjk2IDAuOTg5OTgxIDExLjY5IDAuOTk5OTgxTDExLjQ5IDEuMDE5OThDOS40OTAwMSAyLjU2OTk4IDguMTYwMDEgNC44Nzk5OCA4LjAxMDAxIDcuNDc5OThINy4wMTAwMUM3LjE0MDAxIDQuOTc5OTggOC4yNDAwMSAyLjc1OTk4IDkuOTIwMDEgMS4yMDk5OEM5LjMyMDAxIDEuMzA5OTggOC43NDAwMSAxLjQzOTk4IDguMTkwMDEgMS41OTk5OEM2LjkyMDAxIDMuMjA5OTggNi4xMjAwMSA1LjI0OTk4IDYuMDEwMDEgNy40Nzk5OEg1LjAxMDAxQzUuMDkwMDEgNS41MDk5OCA1LjYwMDAxIDMuNzA5OTggNi40MjAwMSAyLjI3OTk4QzQuMzEwMDEgMy4yNzk5OCAyLjc4MDAxIDQuNzg5OTggMi4yMzAwMSA2LjUzOTk4QzIuMDEwMDEgNy4yMjk5OCAxLjU1MDAxIDcuODE5OTggMC44OTAwMDkgOC4xMDk5OEwwLjQ2MDAwOSA4LjI4OTk4QzAuMTgwMDA5IDguNDA5OTggMC4wMTAwMDk4IDguNjc5OTggMC4wMTAwMDk4IDguOTc5OThWOS40NTk5OEMwLjAxMDAwOTggOS43Njk5OCAwLjIwMDAxIDEwLjA1IDAuNTAwMDEgMTAuMTZMMS42NjAwMSAxMC42QzIuMjIwMDEgMTAuODEgMi43MDAwMSAxMS4xOSAzLjA0MDAxIDExLjY4QzMuODUwMDEgMTIuODYgNS4xMjAwMSAxMy42OSA2Ljc3MDAxIDE0LjIzQzUuNzYwMDEgMTIuNzIgNS4xMDAwMSAxMC43MSA1LjAyMDAxIDguNDc5OThINi4wMjAwMUM2LjEzMDAxIDEwLjg0IDcuMDMwMDEgMTIuOTggOC40NDAwMSAxNC42M0M4Ljk1MDAxIDE0LjcyIDkuNDgwMDEgMTQuNzkgMTAuMDQgMTQuODVDOC4zMTAwMSAxMy4zIDcuMTYwMDEgMTEuMDMgNy4wMzAwMSA4LjQ3OTk4SDguMDMwMDFDOC4xODAwMSAxMS4wOCA5LjUxMDAxIDEzLjM5IDExLjUyIDE0Ljk1SDExLjdDMTEuOTcgMTQuOTcgMTIuMjMgMTQuOTggMTIuNTEgMTQuOThDMTIuNyAxNC45OCAxMi44NyAxNC44OCAxMyAxNC43NUMxMC43NSAxMy40MiA5LjIwMDAxIDExLjEyIDkuMDIwMDEgOC40Nzk5OEgxMC4wMkMxMC4xOCAxMC42MiAxMS4zNCAxMi41NCAxMy4xMiAxMy44OUMxMy4xMiAxMy44OSAxMy4xMiAxMy44NyAxMy4xMSAxMy44NkMxMi42IDEzLjA3IDEyLjE5IDEyLjE0IDExLjkxIDExLjFDMTEuNDIgMTAuMyAxMS4xMSA5LjQwOTk4IDExLjAzIDguNDY5OThIMTIuNTJDMTIuNTUgOC45Njk5OCAxMi42MSA5LjQ0OTk4IDEyLjcgOS45Mjk5OEMxMy4zMiAxMC4yIDEzLjg5IDEwLjU4IDE0LjM3IDExLjA1QzE0LjU5IDExLjI3IDE0Ljk3IDExLjIxIDE1LjE0IDEwLjk0QzE1LjY5IDEwLjA4IDE2LjAxIDkuMDU5OTggMTYuMDEgNy45NTk5OEMxNi4wMSA2Ljg1OTk4IDE1LjY5IDUuODM5OTggMTUuMTQgNC45Nzk5OEwxNS4xMyA1LjAxOTk4Wk0zLjUwMDAxIDguMTI5OThDMy4xNTAwMSA4LjEyOTk4IDIuODcwMDEgNy44NDk5OCAyLjg3MDAxIDcuNDk5OThDMi44NzAwMSA3LjE0OTk4IDMuMTUwMDEgNi44Njk5OCAzLjUwMDAxIDYuODY5OThDMy44NTAwMSA2Ljg2OTk4IDQuMTMwMDEgNy4xNDk5OCA0LjEzMDAxIDcuNDk5OThDNC4xMzAwMSA3Ljg0OTk4IDMuODUwMDEgOC4xMjk5OCAzLjUwMDAxIDguMTI5OThaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=fish2-very-sad)
+  /// Codicon icon named "fish2 very sad".
+  static const IconData fish2VerySad = IconData(
+    0xECDB,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik02IDhDNiA1Ljc2IDQuNjUgMy44MyAyLjczIDIuOThDMS4wOSA0LjA1IDAgNS45IDAgOEMwIDguNjcgMC4xMiA5LjMxIDAuMzIgOS45MUMxLjA2IDkuODMgMS43NCA5LjU0IDIuMTQgOS4xNEMyLjM0IDguOTQgMi42NSA4Ljk0IDIuODUgOS4xNEMzLjA1IDkuMzQgMy4wNSA5LjY1IDIuODUgOS44NUMyLjM2IDEwLjM0IDEuNTkgMTAuNzIgMC43MyAxMC44N0MxLjIxIDExLjc0IDEuODkgMTIuNDggMi43MiAxMy4wMkM0LjY1IDEyLjE2IDUuOTkgMTAuMjQgNS45OSA4SDZaTTMgOEMyLjQ1IDggMiA3LjU1IDIgN0MyIDYuNDUgMi40NSA2IDMgNkMzLjU1IDYgNCA2LjQ1IDQgN0M0IDcuNTUgMy41NSA4IDMgOFpNMTEgMS41QzExIDAuNjcgMTAuMzMgMCA5LjUgMEM5LjE4IDAgOC44NiAwLjEwOTk5OSA4LjYgMC4yOTk5OTlMNy40NiAxLjE2QzguODMgMS40NSAxMC4wNSAyLjE1IDExIDMuMTJWMS41MVYxLjVaTTguNiAxNS43QzguODYgMTUuODkgOS4xOCAxNiA5LjUgMTZDMTAuMzMgMTYgMTEgMTUuMzMgMTEgMTQuNVYxMi44OUMxMC4wNSAxMy44NiA4LjgzIDE0LjU1IDcuNDYgMTQuODVMOC42IDE1LjcxVjE1LjdaTTYgMkM1LjIzIDIgNC40OSAyLjE1IDMuODEgMi40MkM1LjcxIDMuNTUgNyA1LjYzIDcgOEM3IDEwLjM3IDUuNzIgMTIuNDUgMy44MSAxMy41OEM0LjQ5IDEzLjg1IDUuMjIgMTQgNiAxNEM5LjMxIDE0IDEyIDExLjMxIDEyIDhDMTIgNC42OSA5LjMxIDIgNiAyWk0xNC43NSA1QzE0LjY0IDUgMTQuNTMgNS4wMiAxNC40MiA1LjA0TDEyLjU1IDUuNTVDMTIuODQgNi4zMSAxMyA3LjEzIDEzIDhDMTMgOC44NyAxMi44NCA5LjY4IDEyLjU1IDEwLjQ1TDE0LjQyIDEwLjk2QzE0LjUzIDEwLjk5IDE0LjY0IDExIDE0Ljc1IDExQzE1LjQ0IDExIDE2IDEwLjQ0IDE2IDkuNzVWNi4yNUMxNiA1LjU2IDE1LjQ0IDUgMTQuNzUgNVoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=fish3-happy)
+  /// Codicon icon named "fish3 happy".
+  static const IconData fish3Happy = IconData(
+    0xECDC,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMSAxMi44OVYxNC41QzExIDE1LjMzIDEwLjMzIDE2IDkuNSAxNkM5LjE4IDE2IDguODYgMTUuODkgOC42IDE1LjdMNy40NiAxNC44NEM4LjgzIDE0LjU1IDEwLjA1IDEzLjg1IDExIDEyLjg4VjEyLjg5Wk0xMSAzLjExVjEuNUMxMSAwLjY3IDEwLjMzIDAgOS41IDBDOS4xOCAwIDguODYgMC4xMDk5OTkgOC42IDAuMjk5OTk5TDcuNDYgMS4xNkM4LjgzIDEuNDUgMTAuMDUgMi4xNSAxMSAzLjEyVjMuMTFaTTYgMkM1LjIzIDIgNC40OSAyLjE1IDMuODEgMi40MkM1LjcxIDMuNTUgNyA1LjYzIDcgOEM3IDEwLjM3IDUuNzIgMTIuNDUgMy44MSAxMy41OEM0LjQ5IDEzLjg1IDUuMjIgMTQgNiAxNEM5LjMxIDE0IDEyIDExLjMxIDEyIDhDMTIgNC42OSA5LjMxIDIgNiAyWk0yLjczIDEzLjAyQzEuMDkgMTEuOTUgMCAxMC4xIDAgOEMwIDUuOSAxLjA5IDQuMDUgMi43MyAyLjk4QzQuNjYgMy44NCA2IDUuNzYgNiA4QzYgMTAuMjQgNC42NSAxMi4xNyAyLjczIDEzLjAyWk00IDdDNCA2LjQ1IDMuNTUgNiAzIDZDMi40NSA2IDIgNi40NSAyIDdDMiA3LjU1IDIuNDUgOCAzIDhDMy41NSA4IDQgNy41NSA0IDdaTTE0Ljc1IDVDMTQuNjQgNSAxNC41MyA1LjAyIDE0LjQyIDUuMDRMMTIuNTUgNS41NUMxMi44NCA2LjMxIDEzIDcuMTMgMTMgOEMxMyA4Ljg3IDEyLjg0IDkuNjggMTIuNTUgMTAuNDVMMTQuNDIgMTAuOTZDMTQuNTMgMTAuOTkgMTQuNjQgMTEgMTQuNzUgMTFDMTUuNDQgMTEgMTYgMTAuNDQgMTYgOS43NVY2LjI1QzE2IDUuNTYgMTUuNDQgNSAxNC43NSA1WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=fish3-neutral)
+  /// Codicon icon named "fish3 neutral".
+  static const IconData fish3Neutral = IconData(
+    0xECDD,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMSAxLjVDMTEgMC42NyAxMC4zMyAwIDkuNSAwQzkuMTggMCA4Ljg2IDAuMTA5OTk5IDguNiAwLjI5OTk5OUw3LjQ2IDEuMTZDOC44MyAxLjQ1IDEwLjA1IDIuMTUgMTEgMy4xMlYxLjUxVjEuNVpNMTQuNzUgNUMxNC42NCA1IDE0LjUzIDUuMDIgMTQuNDIgNS4wNEwxMi41NSA1LjU1QzEyLjg0IDYuMzEgMTMgNy4xMyAxMyA4QzEzIDguODcgMTIuODQgOS42OCAxMi41NSAxMC40NUwxNC40MiAxMC45NkMxNC41MyAxMC45OSAxNC42NCAxMSAxNC43NSAxMUMxNS40NCAxMSAxNiAxMC40NCAxNiA5Ljc1VjYuMjVDMTYgNS41NiAxNS40NCA1IDE0Ljc1IDVaTTYgOEM2IDUuNzYgNC42NSAzLjgzIDIuNzMgMi45OEMxLjA5IDQuMDUgMCA1LjkgMCA4QzAgOC44NiAwLjE5IDkuNjcgMC41MSAxMC40MUMxLjE4IDkuODcgMi4yMyA5LjkgMi44NSAxMC41MkMzLjA1IDEwLjcyIDMuMDUgMTEuMDMgMi44NSAxMS4yM0MyLjY1IDExLjQzIDIuMzQgMTEuNDMgMi4xNCAxMS4yM0MxLjg2IDEwLjk1IDEuMzYgMTAuOTUgMS4wOCAxMS4yM0MxLjA1IDExLjI2IDEuMDMgMTEuMyAxLjAxIDExLjMzQzEuNDYgMTIgMi4wNCAxMi41OSAyLjcyIDEzLjAzQzQuNjUgMTIuMTcgNS45OSAxMC4yNSA1Ljk5IDguMDFMNiA4Wk0zIDhDMi40NSA4IDIgNy41NSAyIDdDMiA2LjQ1IDIuNDUgNiAzIDZDMy41NSA2IDQgNi40NSA0IDdDNCA3LjU1IDMuNTUgOCAzIDhaTTguNiAxNS43QzguODYgMTUuODkgOS4xOCAxNiA5LjUgMTZDMTAuMzMgMTYgMTEgMTUuMzMgMTEgMTQuNVYxMi44OUMxMC4wNSAxMy44NiA4LjgzIDE0LjU1IDcuNDYgMTQuODVMOC42IDE1LjcxVjE1LjdaTTYgMkM1LjIzIDIgNC40OSAyLjE1IDMuODEgMi40MkM1LjcxIDMuNTUgNyA1LjYzIDcgOEM3IDEwLjM3IDUuNzIgMTIuNDUgMy44MSAxMy41OEM0LjQ5IDEzLjg1IDUuMjIgMTQgNiAxNEM5LjMxIDE0IDEyIDExLjMxIDEyIDhDMTIgNC42OSA5LjMxIDIgNiAyWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=fish3-sad)
+  /// Codicon icon named "fish3 sad".
+  static const IconData fish3Sad = IconData(
+    0xECDE,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMSAxMi44OVYxNC41QzExIDE1LjMzIDEwLjMzIDE2IDkuNTAwMDEgMTZDOS4xODAwMSAxNiA4Ljg2MDAxIDE1Ljg5IDguNjAwMDEgMTUuN0w3LjQ2MDAxIDE0Ljg0QzguODMwMDEgMTQuNTUgMTAuMDUgMTMuODUgMTEgMTIuODhWMTIuODlaTTExIDMuMTFWMS41QzExIDAuNjcgMTAuMzMgMCA5LjUwMDAxIDBDOS4xODAwMSAwIDguODYwMDEgMC4xMDk5OTkgOC42MDAwMSAwLjI5OTk5OUw3LjQ2MDAxIDEuMTZDOC44MzAwMSAxLjQ1IDEwLjA1IDIuMTUgMTEgMy4xMlYzLjExWk0xNiA2LjI1VjkuNzVDMTYgMTAuNDQgMTUuNDQgMTEgMTQuNzUgMTFDMTQuNjQgMTEgMTQuNTMgMTAuOTggMTQuNDIgMTAuOTZMMTIuNTUgMTAuNDVDMTIuNzggOS44NCAxMi45MyA5LjE4IDEyLjk4IDguNUgxMS45N0MxMS45NyA4LjUgMTEuOTcgOC41OCAxMS45NyA4LjYxQzExLjgxIDEwLjE0IDExLjA4IDExLjUgOS45ODAwMSAxMi40N0MxMC41NiAxMS4yNSAxMC45MiA5LjkxIDEwLjk5IDguNDlIOS45OTAwMUM5Ljg5MDAxIDEwLjM5IDkuMjIwMDEgMTIuMTQgOC4xNzAwMSAxMy41OEM3LjY2MDAxIDEzLjc4IDcuMTEwMDEgMTMuOTEgNi41NTAwMSAxMy45NkM3Ljk2MDAxIDEyLjUzIDguODcwMDEgMTAuNjIgOS4wMDAwMSA4LjQ5SDguMDAwMDFDNy44NTAwMSAxMC42OSA2Ljc1MDAxIDEyLjYzIDUuMTEwMDEgMTMuOUM0LjY3MDAxIDEzLjgzIDQuMjMwMDEgMTMuNzMgMy44MjAwMSAxMy41N0M0LjUzMDAxIDEzLjE1IDUuMTQwMDEgMTIuNiA1LjY1MDAxIDExLjk1QzUuNjcwMDEgMTEuOTMgNS42ODAwMSAxMS45MSA1LjcwMDAxIDExLjg5QzUuODQwMDEgMTEuNyA1Ljk4MDAxIDExLjUgNi4xMDAwMSAxMS4zQzYuMTIwMDEgMTEuMjcgNi4xNDAwMSAxMS4yNCA2LjE1MDAxIDExLjIxQzYuNDEwMDEgMTAuNzYgNi42MTAwMSAxMC4yOCA2Ljc2MDAxIDkuNzhDNi43ODAwMSA5LjcxIDYuNzkwMDEgOS42NSA2LjgxMDAxIDkuNThDNi44NjAwMSA5LjM5IDYuOTAwMDEgOS4yIDYuOTMwMDEgOUM2Ljk0MDAxIDguOTMgNi45NTAwMSA4Ljg1IDYuOTYwMDEgOC43OEM2Ljk3MDAxIDguNjggNi45ODAwMSA4LjU5IDYuOTkwMDEgOC40OUg1Ljk5MDAxQzUuODEwMDEgMTAuNTEgNC41MjAwMSAxMi4yMiAyLjc0MDAxIDEzLjAxQzEuMTAwMDEgMTEuOTQgMC4wMTAwMDk4IDEwLjA5IDAuMDEwMDA5OCA3Ljk5QzAuMDEwMDA5OCA1Ljg5IDEuMTAwMDEgNC4wNCAyLjc0MDAxIDIuOTdDNC41MjAwMSAzLjc2IDUuODEwMDEgNS40NyA1Ljk5MDAxIDcuNDlINi45OTAwMUM2Ljk5MDAxIDcuMzkgNi45NzAwMSA3LjI5IDYuOTYwMDEgNy4yQzYuOTYwMDEgNy4xMyA2Ljk0MDAxIDcuMDUgNi45MzAwMSA2Ljk4QzYuOTAwMDEgNi43OSA2Ljg2MDAxIDYuNTkgNi44MTAwMSA2LjRDNi43OTAwMSA2LjMzIDYuNzgwMDEgNi4yNyA2Ljc2MDAxIDYuMkM2LjYxMDAxIDUuNjkgNi40MTAwMSA1LjIxIDYuMTUwMDEgNC43N0M2LjEzMDAxIDQuNzQgNi4xMTAwMSA0LjcxIDYuMTAwMDEgNC42OEM1Ljk4MDAxIDQuNDcgNS44NDAwMSA0LjI4IDUuNzAwMDEgNC4wOUM1LjY4MDAxIDQuMDcgNS42NzAwMSA0LjA1IDUuNjUwMDEgNC4wM0M1LjE1MDAxIDMuMzggNC41MzAwMSAyLjgzIDMuODIwMDEgMi40MUM0LjIzMDAxIDIuMjUgNC42NjAwMSAyLjE1IDUuMTEwMDEgMi4wOEM2Ljc1MDAxIDMuMzYgNy44NTAwMSA1LjMgOC4wMDAwMSA3LjQ5SDkuMDAwMDFDOC44ODAwMSA1LjM2IDcuOTYwMDEgMy40NCA2LjU1MDAxIDIuMDJDNy4xMjAwMSAyLjA3IDcuNjYwMDEgMi4yIDguMTcwMDEgMi40QzkuMjMwMDEgMy44NCA5Ljg5MDAxIDUuNTkgOS45OTAwMSA3LjQ5SDEwLjk5QzEwLjkyIDYuMDcgMTAuNTYgNC43MyA5Ljk4MDAxIDMuNTFDMTEuMDcgNC40OCAxMS44MSA1Ljg0IDExLjk3IDcuMzdDMTEuOTcgNy40MSAxMS45NyA3LjQ1IDExLjk3IDcuNDhIMTIuOThDMTIuOTMgNi44IDEyLjc4IDYuMTUgMTIuNTUgNS41M0wxNC40MiA1LjAyQzE0LjUzIDQuOTkgMTQuNjQgNC45OCAxNC43NSA0Ljk4QzE1LjQ0IDQuOTggMTYgNS41NCAxNiA2LjIzVjYuMjVaTTQuMDAwMDEgN0M0LjAwMDAxIDYuNDUgMy41NTAwMSA2IDMuMDAwMDEgNkMyLjQ1MDAxIDYgMi4wMDAwMSA2LjQ1IDIuMDAwMDEgN0MyLjAwMDAxIDcuNTUgMi40NTAwMSA4IDMuMDAwMDEgOEMzLjU1MDAxIDggNC4wMDAwMSA3LjU1IDQuMDAwMDEgN1oiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=fish3-very-sad)
+  /// Codicon icon named "fish3 very sad".
+  static const IconData fish3VerySad = IconData(
+    0xECDF,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik01LjY5OTkyIDAuNDk5NzY3QzQuMjU5OTIgMS4wODk3NyAzLjE1OTkyIDIuMTU5NzcgMi43MTk5MiAzLjQ2OTc3QzMuMjM5OTIgMy4xNTk3NyAzLjc5OTkyIDIuOTE5NzcgNC4zODk5MiAyLjc0OTc3QzQuNjc5OTIgMS45MTk3NyA1LjEyOTkyIDEuMTU5NzcgNS42OTk5MiAwLjQ5OTc2N1pNNi4yNDk5MiAyLjQ5OTc3QzYuNjQ5OTIgMi40OTk3NyA3LjAzOTkyIDIuNTM5NzcgNy40MTk5MiAyLjYwOTc3QzcuOTg5OTIgMS42Mjk3NyA4Ljc4OTkyIDAuNzk5NzY4IDkuNzQ5OTIgMC4xNzk3NjhDOS4yNjk5MiAwLjA2OTc2NzYgOC43Njk5MiAwLjAwOTc2NTYyIDguMjQ5OTIgMC4wMDk3NjU2MkM4LjA3OTkyIDAuMDA5NzY1NjIgNy45MDk5MiAwLjAyOTc2ODIgNy43NDk5MiAwLjAzOTc2ODJDNi43OTk5MiAwLjY1OTc2OCA2LjAyOTkyIDEuNTI5NzcgNS41NTk5MiAyLjU0OTc3QzUuNzg5OTIgMi41Mjk3NyA2LjAxOTkyIDIuNDk5NzcgNi4yNTk5MiAyLjQ5OTc3SDYuMjQ5OTJaTTguNDM5OTIgMi44NDk3N0M5LjYwOTkyIDMuMjM5NzcgMTAuNjM5OSAzLjkyOTc3IDExLjQxOTkgNC44MTk3N0MxMS43ODk5IDQuMTg5NzcgMTEuOTk5OSAzLjQ4OTc3IDExLjk5OTkgMi43Mzk3N0MxMS45OTk5IDIuMDU5NzcgMTEuODI5OSAxLjQwOTc3IDExLjUxOTkgMC44Mjk3NjlDMTEuMzY5OSAwLjczOTc2OSAxMS4xOTk5IDAuNjY5NzY3IDExLjAzOTkgMC41ODk3NjdDOS45Njk5MiAxLjA4OTc3IDkuMDY5OTIgMS44Njk3NyA4LjQ0OTkyIDIuODM5NzdMOC40Mzk5MiAyLjg0OTc3Wk0xMi40OTk5IDExLjQxOThDMTIuODI5OSAxMS40Njk4IDEzLjE1OTkgMTEuNDk5OCAxMy40OTk5IDExLjQ5OThDMTQuMDQ5OSAxMS40OTk4IDE0LjU3OTkgMTEuNDE5OCAxNS4wODk5IDExLjI4OThDMTUuMjU5OSAxMC45NTk4IDE1LjQwOTkgMTAuNjE5OCAxNS41Mjk5IDEwLjI1OThDMTQuNzY5OSA5LjczOTc3IDEzLjkwOTkgOS4zNTk3NyAxMi45ODk5IDkuMTU5NzdDMTIuOTY5OSA5Ljk1OTc3IDEyLjc4OTkgMTAuNzA5OCAxMi40OTk5IDExLjQxOThaTTE1LjEyOTkgMy43Njk3N0MxNS4xMjk5IDMuNzY5NzcgMTUuMDg5OSAzLjY3OTc3IDE1LjA0OTkgMy42Mjk3N0MxMy44Mjk5IDQuMjM5NzcgMTIuODQ5OSA1LjA1OTc3IDEyLjIzOTkgNi4wMDk3N0MxMi40NDk5IDYuMzk5NzcgMTIuNjE5OSA2LjgxOTc3IDEyLjc0OTkgNy4yNDk3N0MxMy42NDk5IDcuNzk5NzcgMTQuNzE5OSA4LjIxOTc3IDE1Ljg5OTkgOC40Njk3N0MxNS45NDk5IDguMTE5NzcgMTUuOTg5OSA3Ljc1OTc3IDE1Ljk4OTkgNy4zNzk3N0MxNS45OTk5IDcuMzM5NzcgMTUuOTk5OSA3LjI4OTc3IDE1Ljk5OTkgNy4yNDk3N0MxNS45OTk5IDUuOTM5NzcgMTUuNjY5OSA0LjczOTc3IDE1LjEyOTkgMy43Njk3N1pNMTEuOTk5OSA4Ljk5OTc3QzExLjk5OTkgNS45NTk3NyA5LjQyOTkyIDMuNDk5NzcgNi4yNDk5MiAzLjQ5OTc3QzMuMDY5OTIgMy40OTk3NyAwLjQ5OTkyNSA1Ljk1OTc3IDAuNDk5OTI1IDguOTk5NzdDMC40OTk5MjUgOS4zODk3NyAwLjE4OTkyNSAxMS4wMDk4IDAuMDU5OTI0NiAxMS42ODk4QzAuMDE5OTI0NiAxMS44Nzk4IDAuMDg5OTI0NiAxMi4wNjk4IDAuMjM5OTI1IDEyLjE5OThMMC40Nzk5MjUgMTIuMzk5OEMwLjY1OTkyNSAxMi41NDk4IDAuODM5OTI1IDEyLjY4OTggMS4wMjk5MiAxMi44MTk4QzEuNDc5OTIgMTIuNjc5OCAxLjg3OTkyIDEyLjQ2OTggMi4xNDk5MiAxMi4xOTk4QzIuMzQ5OTIgMTEuOTk5OCAyLjY1OTkyIDExLjk5OTggMi44NTk5MiAxMi4xOTk4QzMuMDU5OTIgMTIuMzk5OCAzLjA1OTkyIDEyLjcwOTggMi44NTk5MiAxMi45MDk4QzIuNjQ5OTIgMTMuMTE5OCAyLjM3OTkyIDEzLjI5OTggMi4wNzk5MiAxMy40NTk4QzMuMzE5OTIgMTQuMTA5OCA0LjY4OTkyIDE0LjQ2OTggNi4wOTk5MiAxNC40OTk4QzYuMTQ5OTIgMTQuNDk5OCA2LjIwOTkyIDE0LjQ5OTggNi4yNTk5MiAxNC40OTk4QzYuMjU5OTIgMTQuNDk5OCA2LjI2OTkyIDE0LjQ5OTggNi4yNzk5MiAxNC40OTk4QzYuMjc5OTIgMTQuNDk5OCA2LjI4OTkyIDE0LjQ5OTggNi4yOTk5MiAxNC40OTk4SDYuNTE5OTJDOS41Nzk5MiAxNC4zNjk4IDEyLjAxOTkgMTEuOTU5OCAxMi4wMTk5IDguOTk5NzdIMTEuOTk5OVpNMS45OTk5MiAxMC43NDk4QzEuNTg5OTIgMTAuNzQ5OCAxLjI0OTkyIDEwLjQwOTggMS4yNDk5MiA5Ljk5OTc3QzEuMjQ5OTIgOS41ODk3NyAxLjU4OTkyIDkuMjQ5NzcgMS45OTk5MiA5LjI0OTc3QzIuNDA5OTIgOS4yNDk3NyAyLjc0OTkyIDkuNTg5NzcgMi43NDk5MiA5Ljk5OTc3QzIuNzQ5OTIgMTAuNDA5OCAyLjQwOTkyIDEwLjc0OTggMS45OTk5MiAxMC43NDk4Wk00LjQ5OTkyIDExLjk5OThDNC4yMTk5MiAxMS45OTk4IDMuOTk5OTIgMTEuNzc5OCAzLjk5OTkyIDExLjQ5OThDMy45OTk5MiAxMS4yMTk4IDQuMjE5OTIgMTAuOTk5OCA0LjQ5OTkyIDEwLjk5OThDNS40NTk5MiAxMC45OTk4IDYuMjQ5OTIgMTAuMjA5OCA2LjI0OTkyIDkuMjQ5NzdDNi4yNDk5MiA4Ljk2OTc3IDYuNDY5OTIgOC43NDk3NyA2Ljc0OTkyIDguNzQ5NzdDNy4wMjk5MiA4Ljc0OTc3IDcuMjQ5OTIgOC45Njk3NyA3LjI0OTkyIDkuMjQ5NzdDNy4yNDk5MiAxMC43Njk4IDYuMDE5OTIgMTEuOTk5OCA0LjQ5OTkyIDExLjk5OThaTTEyLjAxOTkgMTIuMzM5OEMxMS44MTk5IDEyLjY2OTggMTEuNTg5OSAxMi45Nzk4IDExLjMyOTkgMTMuMjU5OEMxMS44NTk5IDEzLjM5OTggMTIuNDE5OSAxMy40OTk4IDEyLjk5OTkgMTMuNDk5OEMxMy4xNTk5IDEzLjQ5OTggMTMuMzE5OSAxMy40Nzk4IDEzLjQ3OTkgMTMuNDY5OEMxMy44MDk5IDEzLjE1OTggMTQuMDk5OSAxMi44MDk4IDE0LjM2OTkgMTIuNDM5OEMxNC4wNzk5IDEyLjQ2OTggMTMuNzg5OSAxMi40OTk4IDEzLjQ5OTkgMTIuNDk5OEMxMi45ODk5IDEyLjQ5OTggMTIuNDk5OSAxMi40Mjk4IDEyLjAxOTkgMTIuMzM5OFpNOC44Njk5MiAxNC45ODk4QzkuMjI5OTIgMTUuMTM5OCA5LjYwOTkyIDE1LjI1OTggOS45OTk5MiAxNS4zMzk4QzEwLjc3OTkgMTUuMTY5OCAxMS41MDk5IDE0Ljg1OTggMTIuMTc5OSAxNC40NDk4QzExLjU4OTkgMTQuMzg5OCAxMS4wMTk5IDE0LjI0OTggMTAuNDc5OSAxNC4wNDk4QzkuOTg5OTIgMTQuNDI5OCA5LjQ0OTkyIDE0LjczOTggOC44Njk5MiAxNC45Nzk4VjE0Ljk4OThaIi8+PC9zdmc+)](https://github.com/microsoft/vscode-codicons/search?q=fish4-happy)
+  /// Codicon icon named "fish4 happy".
+  static const IconData fish4Happy = IconData(
+    0xECE0,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNS45OTk5IDcuMjQ5NzdDMTUuOTk5OSA3LjI0OTc3IDE1Ljk5OTkgNy4zMzk3NyAxNS45ODk5IDcuMzc5NzdDMTUuOTg5OSA3Ljc1OTc3IDE1Ljk0OTkgOC4xMTk3NyAxNS44OTk5IDguNDY5NzdDMTQuNzE5OSA4LjIxOTc3IDEzLjY0OTkgNy43OTk3NyAxMi43NDk5IDcuMjQ5NzdDMTIuNjE5OSA2LjgxOTc3IDEyLjQ0OTkgNi4zOTk3NyAxMi4yMzk5IDYuMDA5NzdDMTIuODQ5OSA1LjA1OTc3IDEzLjgyOTkgNC4yMzk3NyAxNS4wNDk5IDMuNjI5NzdDMTUuMDg5OSAzLjY3OTc3IDE1LjEwOTkgMy43MTk3NyAxNS4xMjk5IDMuNzY5NzdDMTUuNjY5OSA0LjczOTc3IDE1Ljk5OTkgNS45Mzk3NyAxNS45OTk5IDcuMjQ5NzdaTTguNDM5OTEgMi44NDk3N0M5LjYwOTkxIDMuMjM5NzcgMTAuNjM5OSAzLjkyOTc3IDExLjQxOTkgNC44MTk3N0MxMS43ODk5IDQuMTg5NzcgMTEuOTk5OSAzLjQ4OTc3IDExLjk5OTkgMi43Mzk3N0MxMS45OTk5IDIuMDU5NzcgMTEuODI5OSAxLjQwOTc3IDExLjUxOTkgMC44Mjk3NjlDMTEuMzY5OSAwLjczOTc2OSAxMS4xOTk5IDAuNjY5NzY3IDExLjAzOTkgMC41ODk3NjdDOS45Njk5MiAxLjA4OTc3IDkuMDY5OTEgMS44Njk3NyA4LjQ0OTkxIDIuODM5NzdMOC40Mzk5MSAyLjg0OTc3Wk02LjI0OTkxIDIuNDk5NzdDNi42NDk5MSAyLjQ5OTc3IDcuMDM5OTEgMi41Mzk3NyA3LjQxOTkxIDIuNjA5NzdDNy45ODk5MSAxLjYyOTc3IDguNzg5OTIgMC43OTk3NjggOS43NDk5MiAwLjE3OTc2OEM5LjI2OTkyIDAuMDY5NzY3NiA4Ljc2OTkyIDAuMDA5NzY1NjIgOC4yNDk5MiAwLjAwOTc2NTYyQzguMDc5OTIgMC4wMDk3NjU2MiA3LjkwOTkxIDAuMDI5NzY4MiA3Ljc0OTkxIDAuMDM5NzY4MkM2Ljc5OTkxIDAuNjU5NzY4IDYuMDI5OTEgMS41Mjk3NyA1LjU1OTkxIDIuNTQ5NzdDNS43ODk5MSAyLjUyOTc3IDYuMDE5OTEgMi40OTk3NyA2LjI1OTkxIDIuNDk5NzdINi4yNDk5MVpNNS42OTk5MSAwLjQ5OTc2N0M0LjI1OTkxIDEuMDg5NzcgMy4xNTk5MSAyLjE1OTc3IDIuNzE5OTEgMy40Njk3N0MzLjIzOTkxIDMuMTU5NzcgMy43OTk5MSAyLjkxOTc3IDQuMzg5OTEgMi43NDk3N0M0LjY3OTkxIDEuOTE5NzcgNS4xMjk5MSAxLjE1OTc3IDUuNjk5OTEgMC40OTk3NjdaTTEyLjAxOTkgMTIuMzM5OEMxMS44MTk5IDEyLjY2OTggMTEuNTg5OSAxMi45Nzk4IDExLjMyOTkgMTMuMjU5OEMxMS44NTk5IDEzLjM5OTggMTIuNDE5OSAxMy40OTk4IDEyLjk5OTkgMTMuNDk5OEMxMy4xNTk5IDEzLjQ5OTggMTMuMzE5OSAxMy40Nzk4IDEzLjQ3OTkgMTMuNDY5OEMxMy44MDk5IDEzLjE1OTggMTQuMDk5OSAxMi44MDk4IDE0LjM2OTkgMTIuNDM5OEMxNC4wNzk5IDEyLjQ2OTggMTMuNzg5OSAxMi40OTk4IDEzLjQ5OTkgMTIuNDk5OEMxMi45ODk5IDEyLjQ5OTggMTIuNDk5OSAxMi40Mjk4IDEyLjAxOTkgMTIuMzM5OFpNMTIuNDk5OSAxMS40MTk4QzEyLjgyOTkgMTEuNDY5OCAxMy4xNTk5IDExLjQ5OTggMTMuNDk5OSAxMS40OTk4QzE0LjA0OTkgMTEuNDk5OCAxNC41Nzk5IDExLjQxOTggMTUuMDg5OSAxMS4yODk4QzE1LjI1OTkgMTAuOTU5OCAxNS40MDk5IDEwLjYxOTggMTUuNTI5OSAxMC4yNTk4QzE0Ljc2OTkgOS43Mzk3NyAxMy45MDk5IDkuMzU5NzcgMTIuOTg5OSA5LjE1OTc3QzEyLjk2OTkgOS45NTk3NyAxMi43ODk5IDEwLjcwOTggMTIuNDk5OSAxMS40MTk4Wk04Ljg2OTkyIDE0Ljk4OThDOS4yMjk5MiAxNS4xMzk4IDkuNjA5OTIgMTUuMjU5OCA5Ljk5OTkyIDE1LjMzOThDMTAuNzc5OSAxNS4xNjk4IDExLjUwOTkgMTQuODU5OCAxMi4xNzk5IDE0LjQ0OThDMTEuNTg5OSAxNC4zODk4IDExLjAxOTkgMTQuMjQ5OCAxMC40Nzk5IDE0LjA0OThDOS45ODk5MSAxNC40Mjk4IDkuNDQ5OTEgMTQuNzM5OCA4Ljg2OTkyIDE0Ljk3OThWMTQuOTg5OFpNNi40OTk5MSAxNC40ODk4SDYuMjc5OTFDNi4yNzk5MSAxNC40ODk4IDYuMjY5OTEgMTQuNDg5OCA2LjI1OTkxIDE0LjQ4OThDNi4yNTk5MSAxNC40ODk4IDYuMjQ5OTEgMTQuNDg5OCA2LjIzOTkxIDE0LjQ4OThDNi4xODk5MSAxNC40ODk4IDYuMTI5OTEgMTQuNDg5OCA2LjA3OTkxIDE0LjQ4OThDNC4wMjk5MSAxNC40NDk4IDIuMDQ5OTEgMTMuNzA5OCAwLjQ2OTkxNSAxMi4zODk4TDAuMjI5OTE1IDEyLjE4OThDMC4wNzk5MTQ4IDEyLjA2OTggMC4wMDk5MTQ4MyAxMS44Njk4IDAuMDQ5OTE0OCAxMS42Nzk4QzAuMTc5OTE1IDEwLjk5OTggMC40ODk5MTUgOS4zNzk3NyAwLjQ4OTkxNSA4Ljk4OTc3QzAuNDg5OTE1IDUuOTQ5NzcgMy4wNTk5MSAzLjQ4OTc3IDYuMjM5OTEgMy40ODk3N0M5LjQxOTkxIDMuNDg5NzcgMTEuOTg5OSA1Ljk0OTc3IDExLjk4OTkgOC45ODk3N0MxMS45ODk5IDEyLjAyOTggOS41NDk5MSAxNC4zNTk4IDYuNDg5OTEgMTQuNDc5OEw2LjQ5OTkxIDE0LjQ4OThaTTIuNzQ5OTEgOS45OTk3N0MyLjc0OTkxIDkuNTg5NzcgMi40MDk5MSA5LjI0OTc3IDEuOTk5OTEgOS4yNDk3N0MxLjU4OTkxIDkuMjQ5NzcgMS4yNDk5MSA5LjU4OTc3IDEuMjQ5OTEgOS45OTk3N0MxLjI0OTkxIDEwLjQwOTggMS41ODk5MSAxMC43NDk4IDEuOTk5OTEgMTAuNzQ5OEMyLjQwOTkxIDEwLjc0OTggMi43NDk5MSAxMC40MDk4IDIuNzQ5OTEgOS45OTk3N1pNNy4yNDk5MSA5LjI0OTc3QzcuMjQ5OTEgOC45Njk3NyA3LjAyOTkxIDguNzQ5NzcgNi43NDk5MSA4Ljc0OTc3QzYuNDY5OTEgOC43NDk3NyA2LjI0OTkxIDguOTY5NzcgNi4yNDk5MSA5LjI0OTc3QzYuMjQ5OTEgMTAuMjA5OCA1LjQ1OTkxIDEwLjk5OTggNC40OTk5MSAxMC45OTk4QzQuMjE5OTEgMTAuOTk5OCAzLjk5OTkxIDExLjIxOTggMy45OTk5MSAxMS40OTk4QzMuOTk5OTEgMTEuNzc5OCA0LjIxOTkxIDExLjk5OTggNC40OTk5MSAxMS45OTk4QzYuMDE5OTEgMTEuOTk5OCA3LjI0OTkxIDEwLjc2OTggNy4yNDk5MSA5LjI0OTc3WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=fish4-neutral)
+  /// Codicon icon named "fish4 neutral".
+  static const IconData fish4Neutral = IconData(
+    0xECE1,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik01LjY5OTkyIDAuNDk5NzY3QzQuMjU5OTIgMS4wODk3NyAzLjE1OTkyIDIuMTU5NzcgMi43MTk5MiAzLjQ2OTc3QzMuMjM5OTIgMy4xNTk3NyAzLjc5OTkyIDIuOTE5NzcgNC4zODk5MiAyLjc0OTc3QzQuNjc5OTIgMS45MTk3NyA1LjEyOTkyIDEuMTU5NzcgNS42OTk5MiAwLjQ5OTc2N1pNOC40Mzk5MiAyLjg0OTc3QzkuNjA5OTIgMy4yMzk3NyAxMC42Mzk5IDMuOTI5NzcgMTEuNDE5OSA0LjgxOTc3QzExLjc4OTkgNC4xODk3NyAxMS45OTk5IDMuNDg5NzcgMTEuOTk5OSAyLjczOTc3QzExLjk5OTkgMi4wNTk3NyAxMS44Mjk5IDEuNDA5NzcgMTEuNTE5OSAwLjgyOTc2OUMxMS4zNjk5IDAuNzM5NzY5IDExLjE5OTkgMC42Njk3NjcgMTEuMDM5OSAwLjU4OTc2N0M5Ljk2OTkyIDEuMDg5NzcgOS4wNjk5MiAxLjg2OTc3IDguNDQ5OTIgMi44Mzk3N0w4LjQzOTkyIDIuODQ5NzdaTTYuMjQ5OTIgMi40OTk3N0M2LjY0OTkyIDIuNDk5NzcgNy4wMzk5MiAyLjUzOTc3IDcuNDE5OTIgMi42MDk3N0M3Ljk4OTkyIDEuNjI5NzcgOC43ODk5MiAwLjc5OTc2OCA5Ljc0OTkyIDAuMTc5NzY4QzkuMjY5OTIgMC4wNjk3Njc2IDguNzY5OTIgMC4wMDk3NjU2MiA4LjI0OTkyIDAuMDA5NzY1NjJDOC4wNzk5MiAwLjAwOTc2NTYyIDcuOTA5OTIgMC4wMjk3NjgyIDcuNzQ5OTIgMC4wMzk3NjgyQzYuNzk5OTIgMC42NTk3NjggNi4wMjk5MiAxLjUyOTc3IDUuNTU5OTIgMi41NDk3N0M1Ljc4OTkyIDIuNTI5NzcgNi4wMTk5MiAyLjQ5OTc3IDYuMjU5OTIgMi40OTk3N0g2LjI0OTkyWk0xMi4wMTk5IDEyLjMzOThDMTEuODE5OSAxMi42Njk4IDExLjU4OTkgMTIuOTc5OCAxMS4zMjk5IDEzLjI1OThDMTEuODU5OSAxMy4zOTk4IDEyLjQxOTkgMTMuNDk5OCAxMi45OTk5IDEzLjQ5OThDMTMuMTU5OSAxMy40OTk4IDEzLjMxOTkgMTMuNDc5OCAxMy40Nzk5IDEzLjQ2OThDMTMuODA5OSAxMy4xNTk4IDE0LjA5OTkgMTIuODA5OCAxNC4zNjk5IDEyLjQzOThDMTQuMDc5OSAxMi40Njk4IDEzLjc4OTkgMTIuNDk5OCAxMy40OTk5IDEyLjQ5OThDMTIuOTg5OSAxMi40OTk4IDEyLjQ5OTkgMTIuNDI5OCAxMi4wMTk5IDEyLjMzOThaTTE1LjEyOTkgMy43Njk3N0MxNS4xMjk5IDMuNzY5NzcgMTUuMDg5OSAzLjY3OTc3IDE1LjA0OTkgMy42Mjk3N0MxMy44Mjk5IDQuMjM5NzcgMTIuODQ5OSA1LjA1OTc3IDEyLjIzOTkgNi4wMDk3N0MxMi40NDk5IDYuMzk5NzcgMTIuNjE5OSA2LjgxOTc3IDEyLjc0OTkgNy4yNDk3N0MxMy42NDk5IDcuNzk5NzcgMTQuNzE5OSA4LjIxOTc3IDE1Ljg5OTkgOC40Njk3N0MxNS45NDk5IDguMTE5NzcgMTUuOTg5OSA3Ljc1OTc3IDE1Ljk4OTkgNy4zNzk3N0MxNS45OTk5IDcuMzM5NzcgMTUuOTk5OSA3LjI4OTc3IDE1Ljk5OTkgNy4yNDk3N0MxNS45OTk5IDUuOTM5NzcgMTUuNjY5OSA0LjczOTc3IDE1LjEyOTkgMy43Njk3N1pNMTEuOTk5OSA4Ljk5OTc3QzExLjk5OTkgNS45NTk3NyA5LjQyOTkyIDMuNDk5NzcgNi4yNDk5MiAzLjQ5OTc3QzMuMDY5OTIgMy40OTk3NyAwLjQ5OTkyNSA1Ljk1OTc3IDAuNDk5OTI1IDguOTk5NzdDMC40OTk5MjUgOS4zODk3NyAwLjE4OTkyNSAxMS4wMDk4IDAuMDU5OTI0NiAxMS42ODk4QzAuMDE5OTI0NiAxMS44Nzk4IDAuMDg5OTI0NiAxMi4wNjk4IDAuMjM5OTI1IDEyLjE5OThMMC40Nzk5MjUgMTIuMzk5OEMwLjQ3OTkyNSAxMi4zOTk4IDAuNTM5OTI1IDEyLjQzOTggMC41NTk5MjUgMTIuNDU5OEMwLjYzOTkyNSAxMi4yOTk4IDAuNzM5OTI1IDEyLjEzOTggMC44Nzk5MjUgMTIuMDA5OEMxLjUzOTkyIDExLjM0OTggMi42ODk5MiAxMS4zNDk4IDMuMzQ5OTIgMTIuMDA5OEMzLjU0OTkyIDEyLjIwOTggMy41NDk5MiAxMi41MTk4IDMuMzQ5OTIgMTIuNzE5OEMzLjE0OTkyIDEyLjkxOTggMi44Mzk5MiAxMi45MTk4IDIuNjM5OTIgMTIuNzE5OEMyLjM1OTkyIDEyLjQzOTggMS44NTk5MiAxMi40Mzk4IDEuNTc5OTIgMTIuNzE5OEMxLjQ3OTkyIDEyLjgxOTggMS40Mjk5MiAxMi45Mzk4IDEuMzk5OTIgMTMuMDY5OEMyLjc5OTkyIDEzLjk1OTggNC40MTk5MiAxNC40Njk4IDYuMDg5OTIgMTQuNDk5OEM2LjEzOTkyIDE0LjQ5OTggNi4xOTk5MiAxNC40OTk4IDYuMjQ5OTIgMTQuNDk5OEM2LjI0OTkyIDE0LjQ5OTggNi4yNTk5MiAxNC40OTk4IDYuMjY5OTIgMTQuNDk5OEM2LjI2OTkyIDE0LjQ5OTggNi4yNzk5MiAxNC40OTk4IDYuMjg5OTIgMTQuNDk5OEg2LjUwOTkyQzkuNTY5OTIgMTQuMzY5OCAxMi4wMDk5IDExLjk1OTggMTIuMDA5OSA4Ljk5OTc3SDExLjk5OTlaTTEuOTk5OTIgMTAuNzQ5OEMxLjU4OTkyIDEwLjc0OTggMS4yNDk5MiAxMC40MDk4IDEuMjQ5OTIgOS45OTk3N0MxLjI0OTkyIDkuNTg5NzcgMS41ODk5MiA5LjI0OTc3IDEuOTk5OTIgOS4yNDk3N0MyLjQwOTkyIDkuMjQ5NzcgMi43NDk5MiA5LjU4OTc3IDIuNzQ5OTIgOS45OTk3N0MyLjc0OTkyIDEwLjQwOTggMi40MDk5MiAxMC43NDk4IDEuOTk5OTIgMTAuNzQ5OFpNNC40OTk5MiAxMS45OTk4QzQuMjE5OTIgMTEuOTk5OCAzLjk5OTkyIDExLjc3OTggMy45OTk5MiAxMS40OTk4QzMuOTk5OTIgMTEuMjE5OCA0LjIxOTkyIDEwLjk5OTggNC40OTk5MiAxMC45OTk4QzUuNDU5OTIgMTAuOTk5OCA2LjI0OTkyIDEwLjIwOTggNi4yNDk5MiA5LjI0OTc3QzYuMjQ5OTIgOC45Njk3NyA2LjQ2OTkyIDguNzQ5NzcgNi43NDk5MiA4Ljc0OTc3QzcuMDI5OTIgOC43NDk3NyA3LjI0OTkyIDguOTY5NzcgNy4yNDk5MiA5LjI0OTc3QzcuMjQ5OTIgMTAuNzY5OCA2LjAxOTkyIDExLjk5OTggNC40OTk5MiAxMS45OTk4Wk0xMi40OTk5IDExLjQxOThDMTIuODI5OSAxMS40Njk4IDEzLjE1OTkgMTEuNDk5OCAxMy40OTk5IDExLjQ5OThDMTQuMDQ5OSAxMS40OTk4IDE0LjU3OTkgMTEuNDE5OCAxNS4wODk5IDExLjI4OThDMTUuMjU5OSAxMC45NTk4IDE1LjQwOTkgMTAuNjE5OCAxNS41Mjk5IDEwLjI1OThDMTQuNzY5OSA5LjczOTc3IDEzLjkwOTkgOS4zNTk3NyAxMi45ODk5IDkuMTU5NzdDMTIuOTY5OSA5Ljk1OTc3IDEyLjc4OTkgMTAuNzA5OCAxMi40OTk5IDExLjQxOThaTTguODY5OTIgMTQuOTg5OEM5LjIyOTkyIDE1LjEzOTggOS42MDk5MiAxNS4yNTk4IDkuOTk5OTIgMTUuMzM5OEMxMC43Nzk5IDE1LjE2OTggMTEuNTA5OSAxNC44NTk4IDEyLjE3OTkgMTQuNDQ5OEMxMS41ODk5IDE0LjM4OTggMTEuMDE5OSAxNC4yNDk4IDEwLjQ3OTkgMTQuMDQ5OEM5Ljk4OTkyIDE0LjQyOTggOS40NDk5MiAxNC43Mzk4IDguODY5OTIgMTQuOTc5OFYxNC45ODk4WiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=fish4-sad)
+  /// Codicon icon named "fish4 sad".
+  static const IconData fish4Sad = IconData(
+    0xECE2,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zLjkyOTk0IDIuOUMzLjQ5OTk0IDMuMDUgMy4wOTk5NCAzLjI0IDIuNzE5OTQgMy40N0MzLjE0OTk0IDIuMiA0LjIxOTk1IDEuMTQgNS42MTk5NSAwLjU0MDAwMUM1LjYzOTk1IDAuNTIwMDAxIDUuNjY5OTQgMC41MSA1LjY5OTk0IDAuNUM1LjEyOTk0IDEuMTYgNC42Nzk5NCAxLjkyIDQuMzg5OTQgMi43NkM0LjIyOTk0IDIuOCA0LjA3OTk0IDIuODUgMy45Mjk5NCAyLjlaTTYuMjQ5OTQgMi41QzYuNjQ5OTQgMi41IDcuMDM5OTQgMi41NCA3LjQxOTk0IDIuNjFDNy45Nzk5NCAxLjYzIDguNzc5OTQgMC43ODk5OTggOS43NDk5NCAwLjE2OTk5OEM5LjI2OTk0IDAuMDY5OTk4MiA4Ljc2OTk0IDAgOC4yNDk5NCAwQzguMDc5OTQgMCA3LjkwOTk0IDAuMDE5OTk4OCA3Ljc0OTk0IDAuMDI5OTk4OEM2Ljc4OTk0IDAuNjU5OTk5IDYuMDI5OTQgMS41MyA1LjU0OTk0IDIuNTVDNS43Nzk5NCAyLjUyIDYuMDA5OTQgMi41IDYuMjQ5OTQgMi41Wk04Ljg2OTk0IDE0Ljk5QzkuMjI5OTQgMTUuMTQgOS42MDk5NCAxNS4yNSA5Ljk5OTk0IDE1LjM0QzEwLjc3OTkgMTUuMTcgMTEuNTA5OSAxNC44NiAxMi4xNzk5IDE0LjQ1QzExLjU4OTkgMTQuMzkgMTEuMDE5OSAxNC4yNSAxMC40Nzk5IDE0LjA2QzkuOTk5OTQgMTQuNDMgOS40NTk5NCAxNC43NSA4Ljg2OTk0IDE0Ljk5Wk04LjQzOTk0IDIuODVDOS42MDk5NCAzLjI0IDEwLjYzOTkgMy45MyAxMS40MTk5IDQuODNDMTEuNzg5OSA0LjIgMTEuOTk5OSAzLjUgMTEuOTk5OSAyLjc1QzExLjk5OTkgMi4wNyAxMS44Mjk5IDEuNDIgMTEuNTE5OSAwLjg0QzExLjM1OTkgMC43NSAxMS4xOTk5IDAuNjgwMDAxIDExLjAyOTkgMC42MTAwMDFDOS45NTk5NCAxLjEgOS4wNTk5NCAxLjg5IDguNDM5OTQgMi44NVpNMTIuMDE5OSAxMi4zNEMxMS44MTk5IDEyLjY2IDExLjU4OTkgMTIuOTcgMTEuMzI5OSAxMy4yNkMxMS44Njk5IDEzLjQgMTIuNDE5OSAxMy41IDEyLjk5OTkgMTMuNUMxMy4xNTk5IDEzLjUgMTMuMzE5OSAxMy40OCAxMy40Nzk5IDEzLjQ3QzEzLjgwOTkgMTMuMTYgMTQuMDk5OSAxMi44MSAxNC4zNjk5IDEyLjQ0QzE0LjA4OTkgMTIuNDggMTMuNzk5OSAxMi41IDEzLjQ5OTkgMTIuNUMxMi45ODk5IDEyLjUgMTIuNDk5OSAxMi40MyAxMi4wMTk5IDEyLjM0Wk0xMi40OTk5IDExLjQyQzEyLjgxOTkgMTEuNDcgMTMuMTU5OSAxMS41IDEzLjQ5OTkgMTEuNUMxNC4wNDk5IDExLjUgMTQuNTc5OSAxMS40MiAxNS4wODk5IDExLjI5QzE1LjI1OTkgMTAuOTYgMTUuNDA5OSAxMC42MiAxNS41Mjk5IDEwLjI2QzE0Ljc2OTkgOS43NCAxMy45MDk5IDkuMzYgMTIuOTg5OSA5LjE2QzEyLjk2OTkgOS45NiAxMi43ODk5IDEwLjcxIDEyLjQ5OTkgMTEuNDJaTTE1Ljk5OTkgNy4yNUMxNS45OTk5IDcuMjUgMTUuOTk5OSA3LjM0IDE1Ljk4OTkgNy4zOEMxNS45ODk5IDcuNzYgMTUuOTQ5OSA4LjEyIDE1Ljg5OTkgOC40N0MxNC44MTk5IDguMjQgMTMuODI5OSA3Ljg3IDEyLjk3OTkgNy4zOUMxMi43NDk5IDcuNjcgMTIuNDA5OSA4LjAyIDExLjk1OTkgOC4zOEMxMS45Nzk5IDguNTggMTEuOTk5OSA4Ljc5IDExLjk5OTkgOUMxMS45OTk5IDkuMDUgMTEuOTk5OSA5LjA5IDExLjk5OTkgOS4xNEMxMS44Mzk5IDkgMTEuNjg5OSA4Ljg1IDExLjU0OTkgOC43QzExLjMwOTkgOC44NyAxMS4wMzk5IDkuMDUgMTAuNzM5OSA5LjIyQzExLjA3OTkgOS41OSAxMS40NDk5IDkuOTQgMTEuODQ5OSAxMC4yNkMxMS43Njk5IDEwLjYgMTEuNjQ5OSAxMC45MyAxMS40OTk5IDExLjI1QzEwLjg3OTkgMTAuNzkgMTAuMzA5OSAxMC4yNiA5LjgyOTk0IDkuNjlDOS42Mjk5NCA5Ljc4IDkuNDE5OTQgOS44NyA5LjE5OTk0IDkuOTZDOS4wMzk5NCAxMC4wMiA4Ljg3OTk0IDEwLjA4IDguNzE5OTQgMTAuMTRDOS4zMzk5NCAxMC45MSAxMC4xMDk5IDExLjU4IDEwLjk4OTkgMTIuMTNDMTAuNzg5OSAxMi40IDEwLjU2OTkgMTIuNjYgMTAuMzE5OSAxMi44OUM5LjI2OTk0IDEyLjIxIDguMzY5OTQgMTEuMzcgNy42NTk5NCAxMC40MUM3LjI0OTk0IDEwLjQ5IDYuODQ5OTQgMTAuNTQgNi40Njk5NCAxMC41OEM3LjI5OTk0IDExLjcxIDguNDM5OTQgMTIuNjYgOS43ODk5NCAxMy4zNEM5LjQ3OTk0IDEzLjU3IDkuMTQ5OTQgMTMuNzcgOC43OTk5NCAxMy45NEM3LjM0OTk0IDEzLjEgNi4xMzk5NCAxMS45NiA1LjMwOTk0IDEwLjYzQzQuODM5OTQgMTAuNjMgNC40Mjk5NCAxMC42IDQuMTA5OTQgMTAuNThDNC4xNzk5NCAxMC43NCA0LjI1OTk0IDEwLjg5IDQuMzI5OTQgMTEuMDVDNC40ODk5NCAxMS4zOCA0LjY2OTk1IDExLjY5IDQuODY5OTUgMTEuOTlDNS41MDk5NSAxMi45OCA2LjI5OTk0IDEzLjgxIDcuMTc5OTQgMTQuNDNDNi45NTk5NCAxNC40NyA2LjczOTk0IDE0LjQ5IDYuNTE5OTQgMTQuNUw2LjI4OTk1IDE0LjUxSDYuMTA5OTRDNC4wNTk5NCAxNC40NiAyLjA3OTk0IDEzLjcyIDAuNDk5OTQ0IDEyLjQxTDAuMjU5OTQ0IDEyLjIxQzAuMTA5OTQ0IDEyLjA5IDAuMDM5OTQ0MSAxMS44OSAwLjA3OTk0NDEgMTEuN0MwLjIwOTk0NCAxMS4wMiAwLjUxOTk0NSA5LjQgMC41MTk5NDUgOS4wMUMwLjUxOTk0NSA2LjkzIDEuNzI5OTQgNS4xMiAzLjUwOTk0IDQuMTlDMy4wODk5NCA1LjgxIDMuMTE5OTQgNy42NSAzLjY4OTk0IDkuNDhDMy42ODk5NCA5LjUgMy42OTk5NCA5LjUxIDMuNzA5OTQgOS41M0MzLjg3OTk0IDkuNTUgNC4yNTk5NCA5LjYgNC43NTk5NCA5LjYyQzQuMjg5OTQgOC41OCA0LjAxOTk0IDcuNDQgNC4wMTk5NCA2LjI2QzQuMDE5OTQgNS40MSA0LjE1OTk0IDQuNTkgNC40MDk5NCAzLjgxQzQuNzc5OTQgMy42OSA1LjE2OTk0IDMuNiA1LjU2OTk0IDMuNTZDNS4yMTk5NCA0LjQxIDUuMDE5OTQgNS4zMiA1LjAxOTk0IDYuMjdDNS4wMTk5NCA3LjQ3IDUuMzE5OTUgOC42MSA1Ljg2OTk1IDkuNjNDNi4yNDk5NSA5LjYxIDYuNjU5OTQgOS41OCA3LjA3OTk0IDkuNTJDNi4zOTk5NCA4LjMxIDYuMDE5OTQgNi45NSA2LjAxOTk0IDUuNTJDNi4wMTk5NCA0LjgzIDYuMTI5OTQgNC4xNyA2LjI5OTk0IDMuNTJDNi42Mzk5NCAzLjUyIDYuOTY5OTQgMy41NiA3LjI5OTk0IDMuNjFDNy4xMjk5NCA0LjIyIDcuMDE5OTQgNC44NiA3LjAxOTk0IDUuNTJDNy4wMTk5NCA2Ljg4IDcuNDA5OTQgOC4xNyA4LjEwOTk0IDkuM0M4LjM0OTk0IDkuMjMgOC41OTk5NCA5LjE1IDguODI5OTQgOS4wNkM4Ljk1OTk0IDkuMDEgOS4wODk5NCA4Ljk1IDkuMjA5OTQgOC45QzguMjg5OTQgNy41NCA3Ljc1OTk0IDUuOTYgNy43NTk5NCA0LjI4QzcuNzU5OTQgNC4xIDcuNzY5OTQgMy45MSA3Ljc3OTk0IDMuNzNDOC4xMTk5NCAzLjgyIDguNDQ5OTQgMy45NCA4Ljc2OTk0IDQuMDlDOC43Njk5NCA0LjE1IDguNzU5OTQgNC4yMiA4Ljc1OTk0IDQuMjhDOC43NTk5NCA1LjggOS4yNDk5NCA3LjIzIDEwLjEwOTkgOC40NkMxMC4zOTk5IDguMyAxMC42NDk5IDguMTQgMTAuODc5OSA3Ljk4QzEwLjAxOTkgNi44OSA5LjQxOTk0IDUuNjQgOS4xNTk5NCA0LjI5QzkuNjQ5OTQgNC41NyAxMC4wODk5IDQuOTEgMTAuNDY5OSA1LjNDMTAuNzQ5OSA2LjA0IDExLjE0OTkgNi43MiAxMS42NDk5IDcuMzVDMTIuMDY5OSA2Ljk3IDEyLjMxOTkgNi42NSAxMi40NDk5IDYuNDZDMTIuMzg5OSA2LjMxIDEyLjMxOTkgNi4xNyAxMi4yMzk5IDYuMDNDMTIuODQ5OSA1LjA4IDEzLjgyOTkgNC4yNiAxNS4wNDk5IDMuNjVDMTUuMDg5OSAzLjcgMTUuMTA5OSAzLjc0IDE1LjEyOTkgMy43OUMxNS42Njk5IDQuNzYgMTUuOTk5OSA1Ljk2IDE1Ljk5OTkgNy4yN1Y3LjI1Wk0yLjc0OTk0IDEwQzIuNzQ5OTQgOS41OSAyLjQwOTk0IDkuMjUgMS45OTk5NCA5LjI1QzEuNTg5OTQgOS4yNSAxLjI0OTk0IDkuNTkgMS4yNDk5NCAxMEMxLjI0OTk0IDEwLjQxIDEuNTg5OTQgMTAuNzUgMS45OTk5NCAxMC43NUMyLjQwOTk0IDEwLjc1IDIuNzQ5OTQgMTAuNDEgMi43NDk5NCAxMFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=fish4-very-sad)
+  /// Codicon icon named "fish4 very sad".
+  static const IconData fish4VerySad = IconData(
+    0xECE3,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMy40MDExIDEuMDU4MDZDMTMuNjQ1MiAwLjkyOTAwOSAxMy45NDc4IDEuMDIyMyAxNC4wNzY4IDEuMjY2NDRDMTQuNjY2MyAyLjM4MTU2IDE0Ljk5OTggMy42NTI2MiAxNC45OTk4IDUuMDAwMUMxNC45OTk4IDYuMzQ3NTkgMTQuNjY2MyA3LjYxODY0IDE0LjA3NjggOC43MzM3NkMxMy45NDc4IDguOTc3OSAxMy42NDUyIDkuMDcxMTkgMTMuNDAxMSA4Ljk0MjE0QzEzLjE1NyA4LjgxMzA5IDEzLjA2MzcgOC41MTA1NyAxMy4xOTI3IDguMjY2NDRDMTMuNzA3OSA3LjI5MTg0IDEzLjk5OTggNi4xODA4IDEzLjk5OTggNS4wMDAxQzEzLjk5OTggMy44MTk0IDEzLjcwNzkgMi43MDgzNiAxMy4xOTI3IDEuNzMzNzZDMTMuMDYzNyAxLjQ4OTYzIDEzLjE1NyAxLjE4NzExIDEzLjQwMTEgMS4wNTgwNlpNNSA1LjAwMDFDNSAzLjg5NTUzIDUuODk1NDMgMy4wMDAxIDcgMy4wMDAxQzguMTA0NTcgMy4wMDAxIDkgMy44OTU1MyA5IDUuMDAwMUM5IDYuMTA0NjcgOC4xMDQ1NyA3LjAwMDEgNyA3LjAwMDFDNS44OTU0MyA3LjAwMDEgNSA2LjEwNDY3IDUgNS4wMDAxWk03IDIuMDAwMUM1LjM0MzE1IDIuMDAwMSA0IDMuMzQzMjUgNCA1LjAwMDFDNCA2LjY1Njk1IDUuMzQzMTUgOC4wMDAxIDcgOC4wMDAxQzguNjU2ODUgOC4wMDAxIDEwIDYuNjU2OTUgMTAgNS4wMDAxQzEwIDMuMzQzMjUgOC42NTY4NSAyLjAwMDEgNyAyLjAwMDFaTTEyIDEwLjUwMDFDMTIgOS42NzE2NyAxMS4zMjg0IDkuMDAwMSAxMC41IDkuMDAwMUgzLjVDMi42NzE1NyA5LjAwMDEgMiA5LjY3MTY3IDIgMTAuNTAwMVYxMS4wMDAxQzIgMTIuOTcxNSAzLjg1OTUxIDE1LjAwMDEgNyAxNS4wMDAxQzEwLjE0MDUgMTUuMDAwMSAxMiAxMi45NzE1IDEyIDExLjAwMDFWMTAuNTAwMVpNMyAxMC41MDAxQzMgMTAuMjI0IDMuMjIzODYgMTAuMDAwMSAzLjUgMTAuMDAwMUgxMC41QzEwLjc3NjEgMTAuMDAwMSAxMSAxMC4yMjQgMTEgMTAuNTAwMVYxMS4wMDAxQzExIDEyLjQzNzcgOS41Njc4NCAxNC4wMDAxIDcgMTQuMDAwMUM0LjQzMjE2IDE0LjAwMDEgMyAxMi40Mzc3IDMgMTEuMDAwMVYxMC41MDAxWk0xMS45NDk2IDIuNTk3MzRDMTEuODI4OSAyLjM0OTAxIDExLjUyOTcgMi4yNDU2IDExLjI4MTMgMi4zNjYzN0MxMS4wMzMgMi40ODcxNSAxMC45Mjk2IDIuNzg2MzcgMTEuMDUwNCAzLjAzNDdDMTEuMzM4OSAzLjYyNzkxIDExLjUwMDkgNC4yOTQzMyAxMS41MDA5IDUuMDAwMDJDMTEuNTAwOSA1LjcwNTcxIDExLjMzODkgNi4zNzIxMiAxMS4wNTA0IDYuOTY1MzRDMTAuOTI5NiA3LjIxMzY3IDExLjAzMyA3LjUxMjg5IDExLjI4MTMgNy42MzM2NkMxMS41Mjk3IDcuNzU0NDQgMTEuODI4OSA3LjY1MTAzIDExLjk0OTYgNy40MDI3QzEyLjMwMyA2LjY3NjE4IDEyLjUwMDkgNS44NjA1MSAxMi41MDA5IDUuMDAwMDJDMTIuNTAwOSA0LjEzOTUzIDEyLjMwMyAzLjMyMzg2IDExLjk0OTYgMi41OTczNFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=person-voice)
+  /// Codicon icon named "person voice".
+  static const IconData personVoice = IconData(
+    0xECE4,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik03LjUgNS45OTk3N0gyLjVDMS42NyA1Ljk5OTc3IDEgNi42Njk3NyAxIDcuNDk5NzdDMSA4LjYxOTc3IDEuNDYgOS41MDk3NyAyLjIxIDEwLjEwOThDMi45NSAxMC42OTk4IDMuOTQgMTAuOTk5OCA1IDEwLjk5OThDNi4wNiAxMC45OTk4IDcuMDUgMTAuNzA5OCA3Ljc5IDEwLjEwOThDOC41NCA5LjUwOTc3IDkgOC42MDk3NyA5IDcuNDk5NzdDOSA2LjY2OTc3IDguMzMgNS45OTk3NyA3LjUgNS45OTk3N1pNNy4xNiA5LjMyOTc3QzYuNjMgOS43NDk3NyA1Ljg4IDkuOTk5NzcgNSA5Ljk5OTc3QzQuMTIgOS45OTk3NyAzLjM2IDkuNzU5NzcgMi44NCA5LjMyOTc3QzIuMzMgOC45MTk3NyAyIDguMzA5NzcgMiA3LjQ5OTc3QzIgNy4yMTk3NyAyLjIyIDYuOTk5NzcgMi41IDYuOTk5NzdINy41QzcuNzggNi45OTk3NyA4IDcuMjE5NzcgOCA3LjQ5OTc3QzggOC4zMTk3NyA3LjY4IDguOTE5NzcgNy4xNiA5LjMyOTc3Wk01IDQuOTk5NzdDNi4xIDQuOTk5NzcgNyA0LjA5OTc3IDcgMi45OTk3N0M3IDEuODk5NzcgNi4xIDAuOTk5NzcxIDUgMC45OTk3NzFDMy45IDAuOTk5NzcxIDMgMS44OTk3NyAzIDIuOTk5NzdDMyA0LjA5OTc3IDMuOSA0Ljk5OTc3IDUgNC45OTk3N1pNNSAxLjk5OTc3QzUuNTUgMS45OTk3NyA2IDIuNDQ5NzcgNiAyLjk5OTc3QzYgMy41NDk3NyA1LjU1IDMuOTk5NzcgNSAzLjk5OTc3QzQuNDUgMy45OTk3NyA0IDMuNTQ5NzcgNCAyLjk5OTc3QzQgMi40NDk3NyA0LjQ1IDEuOTk5NzcgNSAxLjk5OTc3Wk0xMSAyLjk5OTc3QzExIDMuOTU5NzcgMTAuNzggNC44Nzk3NyAxMC4zMyA1LjcyOTc3QzEwLjI0IDUuODk5NzcgMTAuMDcgNS45OTk3NyA5Ljg5IDUuOTk5NzdDOS44MSA1Ljk5OTc3IDkuNzMgNS45Nzk3NyA5LjY2IDUuOTM5NzdDOS40MiA1LjgwOTc3IDkuMzIgNS41MDk3NyA5LjQ1IDUuMjY5NzdDOS44MiA0LjU1OTc3IDEwIDMuNzk5NzcgMTAgMi45OTk3N0MxMCAyLjE5OTc3IDkuODEgMS40Mzk3NyA5LjQ1IDAuNzI5NzcxQzkuMzIgMC40Nzk3NzEgOS40MiAwLjE3OTc3MSA5LjY2IDAuMDU5NzcxNEM5LjkxIC0wLjA3MDIyODYgMTAuMjEgMC4wMjk3NzE1IDEwLjMzIDAuMjY5NzcxQzEwLjc3IDEuMTE5NzcgMTEgMi4wMzk3NyAxMSAyLjk5OTc3Wk04LjYgMS4yNjk3N0M4Ljg3IDEuNzk5NzcgOSAyLjM3OTc3IDkgMi45OTk3N0M5IDMuNjE5NzcgOC44NiA0LjE5OTc3IDguNiA0LjcyOTc3QzguNTEgNC44OTk3NyA4LjM0IDQuOTk5NzcgOC4xNSA0Ljk5OTc3QzguMDcgNC45OTk3NyA4IDQuOTc5NzcgNy45MiA0Ljk0OTc3QzcuNjcgNC44Mjk3NyA3LjU4IDQuNTE5NzcgNy43IDQuMjc5NzdDNy45IDMuODk5NzcgNy45OSAzLjQ2OTc3IDcuOTkgMy4wMDk3N0M3Ljk5IDIuNTQ5NzcgNy44OSAyLjExOTc3IDcuNyAxLjczOTc3QzcuNTcgMS40ODk3NyA3LjY3IDEuMTg5NzcgNy45MiAxLjA2OTc3QzguMTcgMC45NDk3NzIgOC40NyAxLjAzOTc3IDguNTkgMS4yODk3N0w4LjYgMS4yNjk3N1oiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=person-voice-compact)
+  /// Codicon icon named "person voice compact".
+  static const IconData personVoiceCompact = IconData(
+    0xECE5,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNC4wNzY4IDEuMjY2NDRDMTMuOTQ3OCAxLjAyMjMgMTMuNjQ1MiAwLjkyOTAwOSAxMy40MDExIDEuMDU4MDZDMTMuMTU3IDEuMTg3MTEgMTMuMDYzNyAxLjQ4OTYzIDEzLjE5MjcgMS43MzM3NkMxMy43MDc5IDIuNzA4MzYgMTMuOTk5OCAzLjgxOTQgMTMuOTk5OCA1LjAwMDFDMTMuOTk5OCA2LjE4MDggMTMuNzA3OSA3LjI5MTg0IDEzLjE5MjcgOC4yNjY0NEMxMy4wNjM3IDguNTEwNTcgMTMuMTU3IDguODEzMDkgMTMuNDAxMSA4Ljk0MjE0QzEzLjY0NTIgOS4wNzExOSAxMy45NDc4IDguOTc3OSAxNC4wNzY4IDguNzMzNzZDMTQuNjY2MyA3LjYxODY0IDE0Ljk5OTggNi4zNDc1OSAxNC45OTk4IDUuMDAwMUMxNC45OTk4IDMuNjUyNjIgMTQuNjY2MyAyLjM4MTU2IDE0LjA3NjggMS4yNjY0NFpNNyAyLjAwMDFDNS4zNDMxNSAyLjAwMDEgNCAzLjM0MzI1IDQgNS4wMDAxQzQgNi42NTY5NSA1LjM0MzE1IDguMDAwMSA3IDguMDAwMUM4LjY1Njg1IDguMDAwMSAxMCA2LjY1Njk1IDEwIDUuMDAwMUMxMCAzLjM0MzI1IDguNjU2ODUgMi4wMDAxIDcgMi4wMDAxWk0xMS4yODEzIDIuMzY2MzdDMTEuNTI5NyAyLjI0NTYgMTEuODI4OSAyLjM0OTAxIDExLjk0OTYgMi41OTczNEMxMi4zMDMgMy4zMjM4NiAxMi41MDA5IDQuMTM5NTMgMTIuNTAwOSA1LjAwMDAyQzEyLjUwMDkgNS44NjA1MSAxMi4zMDMgNi42NzYxOCAxMS45NDk2IDcuNDAyN0MxMS44Mjg5IDcuNjUxMDMgMTEuNTI5NyA3Ljc1NDQ0IDExLjI4MTMgNy42MzM2NkMxMS4wMzMgNy41MTI4OSAxMC45Mjk2IDcuMjEzNjcgMTEuMDUwNCA2Ljk2NTM0QzExLjMzODkgNi4zNzIxMiAxMS41MDA5IDUuNzA1NzEgMTEuNTAwOSA1LjAwMDAyQzExLjUwMDkgNC4yOTQzMyAxMS4zMzg5IDMuNjI3OTEgMTEuMDUwNCAzLjAzNDdDMTAuOTI5NiAyLjc4NjM3IDExLjAzMyAyLjQ4NzE1IDExLjI4MTMgMi4zNjYzN1pNMTIgMTAuNTAwMUMxMiA5LjY3MTY3IDExLjMyODQgOS4wMDAxIDEwLjUgOS4wMDAxSDMuNUMyLjY3MTU3IDkuMDAwMSAyIDkuNjcxNjcgMiAxMC41MDAxVjExLjAwMDFDMiAxMi45NzE1IDMuODU5NTEgMTUuMDAwMSA3IDE1LjAwMDFDMTAuMTQwNSAxNS4wMDAxIDEyIDEyLjk3MTUgMTIgMTEuMDAwMVYxMC41MDAxWiIvPjwvc3ZnPg==)](https://github.com/microsoft/vscode-codicons/search?q=person-voice-filled)
+  /// Codicon icon named "person voice filled".
+  static const IconData personVoiceFilled = IconData(
+    0xECE6,
+    fontFamily: 'Codicon',
+    fontPackage: 'vscode_codicons',
+  );
+
+  /// [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0zIDMuMDAwMjRDMyAxLjkwMDI0IDMuOSAxLjAwMDI0IDUgMS4wMDAyNEM2LjEgMS4wMDAyNCA3IDEuOTAwMjQgNyAzLjAwMDI0QzcgNC4xMDAyNCA2LjEgNS4wMDAyNCA1IDUuMDAwMjRDMy45IDUuMDAwMjQgMyA0LjEwMDI0IDMgMy4wMDAyNFpNNy41IDYuMDAwMjRIMi41QzEuNjcgNi4wMDAyNCAxIDYuNjcwMjQgMSA3LjUwMDI0QzEgOC42MjAyNCAxLjQ2IDkuNTEwMjQgMi4yMSAxMC4xMTAyQzIuOTUgMTAuNzAwMiAzLjk0IDExLjAwMDIgNSAxMS4wMDAyQzYuMDYgMTEuMDAwMiA3LjA1IDEwLjcxMDIgNy43OSAxMC4xMTAyQzguNTQgOS41MTAyNCA5IDguNjEwMjQgOSA3LjUwMDI0QzkgNi42NzAyNCA4LjMzIDYuMDAwMjQgNy41IDYuMDAwMjRaTTEwLjMzIDAuMjcwMjRDMTAuMiAwLjAyMDIzOTUgOS45IC0wLjA2OTc2MDUgOS42NiAwLjA2MDIzOTVDOS40MiAwLjE5MDI0IDkuMzIgMC40OTAyNCA5LjQ1IDAuNzMwMjRDOS44MiAxLjQ0MDI0IDEwIDIuMjAwMjQgMTAgMy4wMDAyNEMxMCAzLjgwMDI0IDkuODEgNC41NjAyNCA5LjQ1IDUuMjcwMjRDOS4zMiA1LjUyMDI0IDkuNDIgNS44MjAyNCA5LjY2IDUuOTQwMjRDOS43MyA1Ljk4MDI0IDkuODEgNi4wMDAyNCA5Ljg5IDYuMDAwMjRDMTAuMDcgNi4wMDAyNCAxMC4yNCA1LjkwMDI0IDEwLjMzIDUuNzMwMjRDMTAuNzcgNC44ODAyNCAxMSAzLjk2MDI0IDExIDMuMDAwMjRDMTEgMi4wNDAyNCAxMC43OCAxLjEyMDI0IDEwLjMzIDAuMjcwMjRaTTcuOTIgMS4wNTAyNEM3LjY3IDEuMTcwMjQgNy41OCAxLjQ4MDI0IDcuNyAxLjcyMDI0QzcuOSAyLjEwMDI0IDcuOTkgMi41MzAyNCA3Ljk5IDIuOTkwMjRDNy45OSAzLjQ1MDI0IDcuODkgMy44ODAyNCA3LjcgNC4yNjAyNEM3LjU3IDQuNTEwMjQgNy42NyA0LjgxMDI0IDcuOTIgNC45MzAyNEM3Ljk5IDQuOTcwMjQgOC4wNyA0Ljk4MDI0IDguMTUgNC45ODAyNEM4LjMzIDQuOTgwMjQgOC41MSA0Ljg4MDI0IDguNiA0LjcxMDI0QzguODcgNC4xODAyNCA5IDMuNjAwMjQgOSAyLjk4MDI0QzkgMi4zNjAyNCA4Ljg2IDEuNzgwMjQgOC42IDEuMjUwMjRDOC40OCAxLjAwMDI0IDguMTcgMC45MTAyMzkgNy45MyAxLjAzMDI0TDcuOTIgMS4wNTAyNFoiLz48L3N2Zz4=)](https://github.com/microsoft/vscode-codicons/search?q=person-voice-filled-compact)
+  /// Codicon icon named "person voice filled compact".
+  static const IconData personVoiceFilledCompact = IconData(
+    0xECE7,
     fontFamily: 'Codicon',
     fontPackage: 'vscode_codicons',
   );
